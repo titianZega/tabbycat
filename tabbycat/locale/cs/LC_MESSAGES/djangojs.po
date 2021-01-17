@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-14 04:50+1100\n"
-"PO-Revision-Date: 2021-01-17 21:01\n"
+"PO-Revision-Date: 2021-01-17 21:16\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -289,7 +289,7 @@ msgstr ""
 
 #: printing/templates/PrintableFeedback.vue: printing/templates/PrintableFeedbackQuestion.vue:
 msgid "Yes"
-msgstr ""
+msgstr "Ano"
 
 #: printing/templates/PrintableFeedback.vue:
 msgid "No, I am submitting feedback on:"
@@ -301,7 +301,7 @@ msgstr ""
 
 #: printing/templates/PrintableFeedbackQuestion.vue:
 msgid "No"
-msgstr ""
+msgstr "Ne"
 
 #: printing/templates/PrintableScoresheet.vue:
 msgid "Which team won the debate:"
