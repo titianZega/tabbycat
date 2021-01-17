@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-30 01:01-0400\n"
-"PO-Revision-Date: 2021-01-17 20:56\n"
+"PO-Revision-Date: 2021-01-17 21:01\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -390,7 +390,7 @@ msgstr ""
 
 #: notifications/views.py:251
 msgid "Adjudicator"
-msgstr ""
+msgstr "Rozhodčí"
 
 #: notifications/views.py:251
 msgid "Speaker"
@@ -402,5 +402,5 @@ msgstr ""
 
 #: notifications/views.py:260
 msgid "Adjudicators"
-msgstr ""
+msgstr "Rozhodčí"
 
