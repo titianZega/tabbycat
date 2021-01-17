@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-14 04:50+1100\n"
-"PO-Revision-Date: 2021-01-17 20:56\n"
+"PO-Revision-Date: 2021-01-17 21:01\n"
 "Last-Translator: \n"
 "Language-Team: Czech\n"
 "Language: cs_CZ\n"
@@ -225,7 +225,7 @@ msgstr ""
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "Debated"
-msgstr ""
+msgstr "Debatováno"
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "Circle %1"
