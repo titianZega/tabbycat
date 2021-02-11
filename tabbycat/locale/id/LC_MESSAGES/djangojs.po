@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-14 04:50+1100\n"
-"PO-Revision-Date: 2020-10-26 04:59\n"
+"PO-Revision-Date: 2021-02-11 04:15\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -19,41 +19,41 @@ msgstr ""
 
 #: checkins/templates/CheckInScanContainer.vue:
 msgid "Scan Using Camera"
-msgstr ""
+msgstr "Pindai Menggunakan Kamera"
 
 #: checkins/templates/CheckInScanContainer.vue:
 msgid "Stop Camera Scan"
-msgstr ""
+msgstr "Hentikan Pindaian Kamera"
 
 #: checkins/templates/CheckInScanContainer.vue:
 msgid "Turn On Sounds"
-msgstr ""
+msgstr "Nyalakan Suara"
 
 #. Translators: %1: Time of checkin, %2: Barcode number, %3: Name of "owner"
 #: checkins/templates/CheckInScanContainer.vue:
 msgid "%1 checked in %2: %3"
-msgstr ""
+msgstr "%1 men-cek in %2: %3"
 
 #: checkins/templates/CheckInStatusContainer.vue:
 msgid "All"
-msgstr ""
+msgstr "Semua"
 
 #. Translators: %1: Option name
 #: checkins/templates/CheckInStatusContainer.vue:
 msgid "By %1"
-msgstr ""
+msgstr "Oleh %1"
 
 #: checkins/templates/CheckInStatusContainer.vue:
 msgid "No matching rooms found."
-msgstr ""
+msgstr "Ruangan yang cocok tidak ditemukan."
 
 #: checkins/templates/CheckInStatusContainer.vue:
 msgid "No matching people found."
-msgstr ""
+msgstr "Orang yang cocok tidak ditemukan."
 
 #: checkins/templates/CheckInStatusContainer.vue:
 msgid "This page will live-update with new check-ins as they occur although the initial list may be up to a minute old."
-msgstr ""
+msgstr "Laman ini akan terbarui secara live dengan cek-in baru saat terjadi walaupun daftar inisial akan berumur satu menit."
 
 #: checkins/templates/CheckInStatusContainer.vue:
 msgid "<strong>✓</strong> All"
