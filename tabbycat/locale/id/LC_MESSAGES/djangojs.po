@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-14 04:50+1100\n"
-"PO-Revision-Date: 2021-02-11 04:15\n"
+"PO-Revision-Date: 2021-02-16 03:58\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -57,75 +57,75 @@ msgstr "Laman ini akan terbarui secara live dengan cek-in baru saat terjadi wala
 
 #: checkins/templates/CheckInStatusContainer.vue:
 msgid "<strong>✓</strong> All"
-msgstr ""
+msgstr "<strong>✓</strong> Semua"
 
 #: checkins/templates/CheckInStatusContainer.vue:
 msgid "<strong>☓</strong> All"
-msgstr ""
+msgstr "<strong>☓</strong> Semua"
 
 #: checkins/templates/CheckInStatusContainer.vue:
 msgid "Click to check-in manually"
-msgstr ""
+msgstr "Klik untuk cek-in secara manual"
 
 #: checkins/templates/CheckInStatusContainer.vue:
 msgid "saving..."
-msgstr ""
+msgstr "menyimpan..."
 
 #: checkins/templates/CheckInStatusContainer.vue:
 msgid "This person does not have a check-in identifier so they can't be checked in"
-msgstr ""
+msgstr "Orang ini tidak memiliki pengidentifikasi cek-in sehingga ybs tidak dapat di cek-in"
 
 #: checkins/templates/CheckInStatusContainer.vue:
 msgid "If you want to view this page without the sidebar (i.e. for displaying to an auditorium) you can use the assistant version."
-msgstr ""
+msgstr "Jika Anda ingin melihat laman ini tanpa papantepi (misalkan, untuk menampilkan di auditorium), Anda bisa menggunakan versi asisten."
 
 #: checkins/templates/CheckInStatusContainer.vue:
 msgid "Open the assistant version."
-msgstr ""
+msgstr "Buka versi asisten."
 
 #: checkins/templates/CheckInStatusContainer.vue:
 msgid "Click to undo a check-in"
-msgstr ""
+msgstr "Klik untuk membatalkan sebuah cek-in"
 
 #: checkins/templates/PeopleStatusMixin.vue:
 msgid "%1, a %2 of no institutional affiliation with identifier of %3"
-msgstr ""
+msgstr "%1, sebuah %2 dari tanpa afiliasi institusional dengan pengidentifikasi %3"
 
 #: checkins/templates/PeopleStatusMixin.vue:
 msgid "%1, a %2 of no institutional affiliation with no assigned identifier"
-msgstr ""
+msgstr "%1, sebuah %2 dari tanpa afiliasi institusional dengan tanpa pengidentifikasi yang ditentukan"
 
 #: checkins/templates/PeopleStatusMixin.vue:
 msgid "%1, a %2 from %3 with identifier of %4"
-msgstr ""
+msgstr "%1, sebuah %2 dari %3 dengan pengidentifikasi dari %4"
 
 #: checkins/templates/PeopleStatusMixin.vue:
 msgid "%1, a %2 from %3 with no assigned identifier"
-msgstr ""
+msgstr "%1, sebuah %2 dari %3 dengan tanpa pengidentifikasi ditentukan"
 
 #: checkins/templates/PeopleStatusMixin.vue:
 msgid "%1 (Present; id=%2)"
-msgstr ""
+msgstr "%1 (Hadir; id=%2)"
 
 #: checkins/templates/PeopleStatusMixin.vue:
 msgid "%1 (Absent; id=%2)"
-msgstr ""
+msgstr "%1 (Absen; id=%2)"
 
 #: checkins/templates/PeopleStatusMixin.vue:
 msgid "%1, a team with speakers %2"
-msgstr ""
+msgstr "%1, sebuah tim dengan pembicara %2"
 
 #: checkins/templates/PeopleStatusMixin.vue:
 msgid "%1, a %2"
-msgstr ""
+msgstr "%1, sebuah %2"
 
 #: checkins/templates/PeopleStatusMixin.vue:
 msgid "Anonymous (due to team codes)"
-msgstr ""
+msgstr "Anonim (karena kode tim)"
 
 #: checkins/templates/PeopleStatusMixin.vue:
 msgid "Anon"
-msgstr ""
+msgstr "Anon"
 
 #: checkins/templates/PeopleStatusMixin.vue:
 msgid "Independent"
