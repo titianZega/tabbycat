@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-30 01:01-0400\n"
-"PO-Revision-Date: 2021-01-06 06:58\n"
+"PO-Revision-Date: 2021-02-27 15:46\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -91,7 +91,7 @@ msgstr "lembar penjurian terkonfirmasi"
 
 #: notifications/models.py:60
 msgid "feedback URL"
-msgstr ""
+msgstr "URL umpan balik"
 
 #: notifications/models.py:61
 msgid "ballot URL"
@@ -99,23 +99,23 @@ msgstr "URL lembar penjurian"
 
 #: notifications/models.py:62
 msgid "landing page URL"
-msgstr ""
+msgstr "URL halaman utama"
 
 #: notifications/models.py:63
 msgid "adjudicator draw released"
-msgstr ""
+msgstr "draw juri dirilis"
 
 #: notifications/models.py:64
 msgid "team registration"
-msgstr ""
+msgstr "registrasi tim"
 
 #: notifications/models.py:65
 msgid "adjudicator registration"
-msgstr ""
+msgstr "registrasi juri"
 
 #: notifications/models.py:66
 msgid "motion(s) released"
-msgstr ""
+msgstr "mosi dirilis"
 
 #: notifications/models.py:67
 msgid "team draw released"
@@ -357,33 +357,33 @@ msgstr "Status"
 
 #: notifications/views.py:136
 msgid "Time"
-msgstr ""
+msgstr "Waktu"
 
 #: notifications/views.py:175
 msgid "Email Participants"
-msgstr ""
+msgstr "Email Partisipan"
 
 #: notifications/views.py:204
 #, python-format
 msgid "%(email_count)s email has been queued for sending."
 msgid_plural "%(email_count)s emails have been queued for sending."
-msgstr[0] ""
+msgstr[0] "%(email_count)s email telah disiapkan untuk dikirim."
 
 #: notifications/views.py:210
 msgid "No emails were sent — likely because no recipients were selected."
-msgstr ""
+msgstr "Tidak ada email yang dikirim -- mungkin karena tidak ada penerima yang dipilih."
 
 #: notifications/views.py:221
 msgid "Send Email"
-msgstr ""
+msgstr "Kirim Email"
 
 #: notifications/views.py:237
 msgid "Not Provided"
-msgstr ""
+msgstr "Tidak Tersedia"
 
 #: notifications/views.py:250
 msgid "Role"
-msgstr ""
+msgstr "Peran"
 
 #: notifications/views.py:251
 msgid "Adjudicator"
@@ -391,7 +391,7 @@ msgstr "Juri"
 
 #: notifications/views.py:251
 msgid "Speaker"
-msgstr ""
+msgstr "Pendebat"
 
 #: notifications/views.py:259
 msgid "Speakers"
