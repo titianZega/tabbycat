@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-30 01:01-0400\n"
-"PO-Revision-Date: 2021-02-28 10:05\n"
+"PO-Revision-Date: 2021-02-28 10:16\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -332,63 +332,63 @@ msgstr "Entropi Rényi"
 
 #: options/preferences.py:275
 msgid "Population variance"
-msgstr ""
+msgstr "Varians Populasi"
 
 #: options/preferences.py:282
 msgid "Rényi order α, if BP position cost uses Rényi entropy. Shannon is α = 1, Hartley is α = 0, collision is α = 2. See documentation for details."
-msgstr ""
+msgstr "Orde Rényi α, apabila BP position cost menggunakan entropi Rényi. Shannon: α = 1, Hartley: α = 0, collision: α = 2. Lihat dokumentasi untuk detail."
 
 #: options/preferences.py:285
 msgid "Rényi order (BP)"
-msgstr ""
+msgstr "Orde Rényi (BP)"
 
 #: options/preferences.py:294
 msgid "The BP position cost is raised to this power; higher exponents bias towards resolving fewer large position imbalances over more small ones. See documentation for details."
-msgstr ""
+msgstr "Orde (pangkat / eksponen) untuk BP position cost. Eksponen yang lebih tinggi berimplikasi pada menyelesaikan sedikit ketidakseimbangan posisi yang lebih besar dibandingkan banyak ketidakseimbangan yang lebih kecil. Lihat dokumentasi untuk detail."
 
 #: options/preferences.py:297
 msgid "BP position cost exponent"
-msgstr ""
+msgstr "Eksponen BP position cost"
 
 #: options/preferences.py:306
 msgid "In BP, which method to use to solve the assignment problem. Only Hungarian with preshuffling is WUDC-compliant."
-msgstr ""
+msgstr "Metode yang digunakan untuk menyelesaikan permasalahan alokasi posisi dalam BP. Hanya Hungarian with preshuffling yang mengikuti standar WUDC."
 
 #: options/preferences.py:308
 msgid "BP assignment method"
-msgstr ""
+msgstr "Metode alokasi BP"
 
 #: options/preferences.py:312
 msgid "Hungarian algorithm (not WUDC-compliant)"
-msgstr ""
+msgstr "Algoritma Hungarian (tidak mengikuti standar WUDC)"
 
 #: options/preferences.py:313
 msgid "Hungarian algorithm with preshuffling"
-msgstr ""
+msgstr "Hungarian algorithm with preshuffling"
 
 #: options/preferences.py:320
 msgid "Automatically make all adjudicators available for all rounds"
-msgstr ""
+msgstr "Buat seluruh juri tersedia untuk seluruh ronde secara otomatis"
 
 #: options/preferences.py:321
 msgid "Skip adjudicator check-ins"
-msgstr ""
+msgstr "Lompati check-in juri"
 
 #: options/preferences.py:329
 msgid "Hide panellist positions in the UI (and don't allocate them)"
-msgstr ""
+msgstr "Sembunyikan posisi panelis dalam tampilan antarmuka (dan jangan alokasikan panelis)"
 
 #: options/preferences.py:330
 msgid "No panellist adjudicators"
-msgstr ""
+msgstr "Tidak ada juri panelis"
 
 #: options/preferences.py:338
 msgid "Hide trainee positions in the UI (and don't allocate them)"
-msgstr ""
+msgstr "Sembunyikan posisi trainee dalam tampilan antarmuka (dan jangan alokasikan trainee)"
 
 #: options/preferences.py:339
 msgid "No trainee adjudicators"
-msgstr ""
+msgstr "Tidak ada juri trainee"
 
 #: options/preferences.py:346 options/templates/preferences_index.html:73
 msgid "Feedback"
@@ -396,59 +396,59 @@ msgstr "Penilaian Juri"
 
 #: options/preferences.py:352
 msgid "Minimum possible adjudicator score that can be given"
-msgstr ""
+msgstr "Skor minimum yang dapat diberikan untuk juri"
 
 #: options/preferences.py:353
 msgid "Minimum adjudicator score"
-msgstr ""
+msgstr "Skor juri minimum"
 
 #: options/preferences.py:361
 msgid "Maximum possible adjudicator score that can be given"
-msgstr ""
+msgstr "Skor maksimum yang dapat diberikan untuk juri"
 
 #: options/preferences.py:362
 msgid "Maximum adjudicator score"
-msgstr ""
+msgstr "Skor juri maksimum"
 
 #: options/preferences.py:370
 msgid "Used to inform available choices in the feedback forms for adjudicators (both online and printed) and feedback progress"
-msgstr ""
+msgstr "Digunakan untuk menginformasikan pilihan yang tersedia dalam form umpan balik untuk juri (daring dan luring) serta perkembangan umpan balik"
 
 #: options/preferences.py:371
 msgid "Allow and expect feedback to be submitted by"
-msgstr ""
+msgstr "Ijinkan umpan balik untuk diberikan oleh"
 
 #: options/preferences.py:375
 msgid "Chairs on panellists and trainees"
-msgstr ""
+msgstr "Ketua juri untuk panelis dan trainee"
 
 #: options/preferences.py:376
 msgid "Panellists on chairs, chairs on panellists and trainees"
-msgstr ""
+msgstr "Panelis kepada ketua juri, ketua juri kepada panelis dan trainee"
 
 #: options/preferences.py:377
 msgid "All adjudicators (including trainees) on each other"
-msgstr ""
+msgstr "Seluruh juri (termasuk trainee) kepada satu sama lain"
 
 #: options/preferences.py:384
 msgid "Expect feedback to be submitted by teams on"
-msgstr ""
+msgstr "Ijinkan umpan balik diberikan oleh tim kepada"
 
 #: options/preferences.py:385
 msgid "Used to inform available choices in the feedback forms for teams (both online and printed) and feedback progress; this option is used by, e.g., UADC"
-msgstr ""
+msgstr "Digunakan untuk menginformasikan pilihan yang tersedia dalam form umpan balik untuk tim (daring dan luring) serta perkembangan umpan balik; opsi ini digunakan oleh turnamen seperti UADC"
 
 #: options/preferences.py:389
 msgid "Orallist only (voting panellists permitted, with prompts to select orallist)"
-msgstr ""
+msgstr "Hanya juri yang memberikan penjurian verbal (diijinkan juga untuk panelis, dengan opsi untuk memilih siapa yang memberikan penjurian verbal di dalam ruangan)"
 
 #: options/preferences.py:390
 msgid "All adjudicators in their panels (including trainees)"
-msgstr ""
+msgstr "Seluruh juri (termasuk trainee)"
 
 #: options/preferences.py:397
 msgid "Show unexpected feedback submissions in participants pages"
-msgstr ""
+msgstr "Tampilkan pengisian umpan balik yang tidak seharusnya dalam laman partisipan"
 
 #: options/preferences.py:398
 msgid "Displays unexpected feedback with a question mark symbol; only relevant if public participants and feedback progress are both enabled"
