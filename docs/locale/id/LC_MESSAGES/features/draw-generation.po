@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2020-07-23 04:46\n"
+"PO-Revision-Date: 2021-02-28 10:05\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -148,11 +148,11 @@ msgstr ""
 
 #: ../../features/draw-generation.rst:55
 msgid "Off"
-msgstr ""
+msgstr "Nonaktif"
 
 #: ../../features/draw-generation.rst:56
 msgid "One-up-one-down"
-msgstr ""
+msgstr "Satu-atas-satu-bawah"
 
 #: ../../features/draw-generation.rst:58
 msgid ":ref:`Pullup restriction <draw-pullup-restriction>`"
@@ -164,15 +164,15 @@ msgstr ""
 
 #: ../../features/draw-generation.rst:60
 msgid "No restriction"
-msgstr ""
+msgstr "Tidak ada batasan"
 
 #: ../../features/draw-generation.rst:61
 msgid "Choose from teams who have been pulled up the fewest times so far"
-msgstr ""
+msgstr "Pilih tim yang paling sedikit ditarik ke atas sejauh ini"
 
 #: ../../features/draw-generation.rst:62
 msgid "Choose from teams with the lowest draw strength by speaks so far"
-msgstr ""
+msgstr "Pilih tim dengan draw strength terendah berdasarkan skor sejauh ini"
 
 #: ../../features/draw-generation.rst:64
 msgid "The valid options for intermediate brackets change depending on whether sides are pre-allocated, but these are **not** checked for validity. If you choose an invalid combination, Tabbycat will just crash. This won't corrupt the database, but it might be momentarily annoying."
@@ -364,7 +364,7 @@ msgstr ""
 
 #: ../../features/draw-generation.rst:166
 msgid "Conflict avoidance method"
-msgstr ""
+msgstr "Metode pencegahan konflik"
 
 #: ../../features/draw-generation.rst:167
 msgid "A **conflict** is when two teams would face each other that have seen each other before, or are from the same institutions. Some tournaments have a preference against allowing this if it's avoidable within certain limits. The **draw avoid conflicts** option allows you to specify how."
@@ -404,7 +404,7 @@ msgstr ""
 
 #: ../../features/draw-generation.rst:187
 msgid "Pullup restriction"
-msgstr ""
+msgstr "Pembatasan Pullup"
 
 #: ../../features/draw-generation.rst:188
 msgid "You can restrict which teams can be pulled up by configuring the draw generator to choose a pullup team from among only those teams who are the \"best off\" according to a given metric. If several teams are equally \"best off\" within the lower bracket, the draw generator chooses among them using the same **pull-up method** already specified (*e.g.*, \"pull up from top\")"
