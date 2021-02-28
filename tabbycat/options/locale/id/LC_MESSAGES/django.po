@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-30 01:01-0400\n"
-"PO-Revision-Date: 2021-02-27 15:46\n"
+"PO-Revision-Date: 2021-02-28 10:05\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -260,75 +260,75 @@ msgstr ""
 
 #: options/preferences.py:225
 msgid "Method used to try to avoid teams facing each other multiple times or their own institution (see documentation for further details)"
-msgstr ""
+msgstr "Metode yang digunakan untuk menghindarkan tim untuk bertemu dengan tim lain lebih dari satu kali atau bertemu dengan tim dari institusi sendiri (lihat dokumentasi untuk detail lebih lanjut)"
 
 #: options/preferences.py:227
 msgid "Conflict avoidance method"
-msgstr ""
+msgstr "Metode pencegahan konflik"
 
 #: options/preferences.py:231
 msgid "Off"
-msgstr ""
+msgstr "Nonaktif"
 
 #: options/preferences.py:232
 msgid "One-up-one-down"
-msgstr ""
+msgstr "Satu-atas-satu-bawah"
 
 #: options/preferences.py:239
 msgid "If using pull-ups, restrict which teams can be pulled up. Two-team formats only. Has no effect on BP or intermediate brackets."
-msgstr ""
+msgstr "Apabila menggunakan pull-up, batasi tim mana yang dapat ditarik ke atas. Hanya mendukung format dengan dua tim, dan tidak akan berpengaruh pada format BP ataupun pada intermediate bracket."
 
 #: options/preferences.py:241
 msgid "Pullup restriction"
-msgstr ""
+msgstr "Pembatasan Pullup"
 
 #: options/preferences.py:245
 msgid "No restriction"
-msgstr ""
+msgstr "Tidak ada batasan"
 
 #: options/preferences.py:246
 msgid "Choose from teams who have been pulled up the fewest times so far"
-msgstr ""
+msgstr "Pilih tim yang paling sedikit ditarik ke atas sejauh ini"
 
 #: options/preferences.py:247
 msgid "Choose from teams with the lowest draw strength by wins so far"
-msgstr ""
+msgstr "Pilih tim dengan draw strength terendah berdasarkan kemenangan sejauh ini"
 
 #: options/preferences.py:248
 msgid "Choose from teams with the lowest draw strength by speaks so far"
-msgstr ""
+msgstr "Pilih tim dengan draw strength terendah berdasarkan skor sejauh ini"
 
 #: options/preferences.py:255
 msgid "In BP, how pullups are distributed. Only \"Anywhere\" is WUDC-compliant."
-msgstr ""
+msgstr "Bagaimana tim yang ditarik didistribusikan dalam BP. Hanya \"Dimana saja\" yang mengikuti standar WUDC."
 
 #: options/preferences.py:256
 msgid "BP pullup distribution"
-msgstr ""
+msgstr "Distribusi pullup BP"
 
 #: options/preferences.py:260
 msgid "Anywhere in bracket"
-msgstr ""
+msgstr "Dimana saja dalam bracket"
 
 #: options/preferences.py:261
 msgid "All in the same room (not WUDC-compliant)"
-msgstr ""
+msgstr "Dimana saja dalam satu ruangan (tidak mengikuti standar WUDC)"
 
 #: options/preferences.py:268
 msgid "In BP, which position cost function to use (see documentation for details)"
-msgstr ""
+msgstr "Position cost function mana yang akan digunakan dalam BP (lihat dokumentasi untuk detail)"
 
 #: options/preferences.py:269
 msgid "BP position cost"
-msgstr ""
+msgstr "BP position cost"
 
 #: options/preferences.py:273
 msgid "Simple"
-msgstr ""
+msgstr "Sederhana"
 
 #: options/preferences.py:274
 msgid "Rényi entropy"
-msgstr ""
+msgstr "Entropi Rényi"
 
 #: options/preferences.py:275
 msgid "Population variance"
