@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-16 14:12-0400\n"
-"PO-Revision-Date: 2021-01-12 08:19\n"
+"PO-Revision-Date: 2021-02-28 09:55\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -424,7 +424,7 @@ msgstr ""
 #: participants/templates/team_registration_card.html:86
 #: participants/templates/team_registration_card.html:96
 msgid ", "
-msgstr ""
+msgstr ", "
 
 #: participants/templates/adjudicator_registration_card.html:61
 #: participants/templates/team_registration_card.html:84
