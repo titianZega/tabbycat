@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-02-28 10:05\n"
+"PO-Revision-Date: 2021-03-01 05:05\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -56,19 +56,19 @@ msgstr ""
 
 #: ../../features/draw-generation.rst:24
 msgid "Pull up from top"
-msgstr ""
+msgstr "Pull-up dari atas"
 
 #: ../../features/draw-generation.rst:25
 msgid "Pull up from bottom"
-msgstr ""
+msgstr "Pull-up dari bawah"
 
 #: ../../features/draw-generation.rst:26
 msgid "Pull up from middle"
-msgstr ""
+msgstr "Pull-up dari tengah"
 
 #: ../../features/draw-generation.rst:27
 msgid "Pull up at random"
-msgstr ""
+msgstr "Pull-up secara acak"
 
 #: ../../features/draw-generation.rst:29
 msgid "If sides are `Random` or `Balance`:"
@@ -104,15 +104,15 @@ msgstr ""
 
 #: ../../features/draw-generation.rst:41 ../../features/draw-generation.rst:51
 msgid "Random"
-msgstr ""
+msgstr "Acak"
 
 #: ../../features/draw-generation.rst:42
 msgid "Balance"
-msgstr ""
+msgstr "Seimbang"
 
 #: ../../features/draw-generation.rst:43
 msgid "Pre-allocated"
-msgstr ""
+msgstr "Dialokasikan mula-mula"
 
 #: ../../features/draw-generation.rst:44
 msgid "Manual ballot"
@@ -128,15 +128,15 @@ msgstr ""
 
 #: ../../features/draw-generation.rst:48
 msgid "Slide"
-msgstr ""
+msgstr "Slide"
 
 #: ../../features/draw-generation.rst:49
 msgid "Fold"
-msgstr ""
+msgstr "Fold"
 
 #: ../../features/draw-generation.rst:50
 msgid "Adjacent"
-msgstr ""
+msgstr "Adjacent"
 
 #: ../../features/draw-generation.rst:53
 msgid ":ref:`Conflict avoidance method <draw-conflict-avoidance>`"
@@ -336,7 +336,7 @@ msgstr ""
 
 #: ../../features/draw-generation.rst:153
 msgid "Pairing method"
-msgstr ""
+msgstr "Metode matchup tim"
 
 #: ../../features/draw-generation.rst:154
 msgid "It's easiest to describe these by example, using a ten-team bracket:"
