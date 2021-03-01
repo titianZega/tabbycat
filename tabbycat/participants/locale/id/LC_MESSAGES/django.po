@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-16 14:12-0400\n"
-"PO-Revision-Date: 2021-03-01 04:55\n"
+"PO-Revision-Date: 2021-03-01 05:05\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -316,7 +316,7 @@ msgstr ""
 
 #: participants/models.py:372
 msgid "If checked, this adjudicator will never be auto-allocated a voting position, regardless of their score"
-msgstr ""
+msgstr "Apabila ditandai, draw tidak akan mengalokasikan juri ini untuk mendapatkan hak suara, berapapun nilai yang didapat"
 
 #: participants/models.py:374
 msgid "breaking"
