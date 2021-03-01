@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-30 01:01-0400\n"
-"PO-Revision-Date: 2021-03-01 05:15\n"
+"PO-Revision-Date: 2021-03-01 05:25\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -809,11 +809,11 @@ msgstr ""
 
 #: options/preferences.py:818
 msgid "Requires scores of draft ballots to be re-entered as part of the confirmation stage (to create more stringent check). Only applies to BP formats."
-msgstr ""
+msgstr "Wajibkan skor untuk dimasukkan ulang sebagai bagian dari tahap konfirmasi (sebagai sistem pengecekan yang lebih ketat). Hanya berlaku untuk format BP."
 
 #: options/preferences.py:819
 msgid "Enforce blind confirmations"
-msgstr ""
+msgstr "Wajibkan konfirmasi buta"
 
 #: options/preferences.py:827
 msgid "Whether assistants can access pages that can reveal matchups and motions ahead of public release (these pages are useful for displaying draws/motions to the public and for printing ballots)."
