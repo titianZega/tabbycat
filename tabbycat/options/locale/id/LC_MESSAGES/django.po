@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-30 01:01-0400\n"
-"PO-Revision-Date: 2021-03-01 04:55\n"
+"PO-Revision-Date: 2021-03-01 05:05\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -160,7 +160,7 @@ msgstr "Apabila ditandai, draw akan sebisa mungkin menghindari tim untuk bertemu
 
 #: options/preferences.py:158
 msgid "Avoid same institution"
-msgstr ""
+msgstr "Hindari Institusi yang Sama"
 
 #: options/preferences.py:166
 msgid "If checked, the draw will try to avoid having teams see each other twice"
@@ -168,95 +168,95 @@ msgstr "Apabila ditandai, draw akan sebisa mungkin menghindari tim untuk bertemu
 
 #: options/preferences.py:167
 msgid "Avoid team history"
-msgstr ""
+msgstr "Hindari Riwayat Tim"
 
 #: options/preferences.py:175
 msgid "How odd brackets are resolved (see documentation for further details)"
-msgstr ""
+msgstr "Bagaimana bracket yang ganjil diselesaikan (lihat dokumentasi untuk detail lebih lanjut)"
 
 #: options/preferences.py:176
 msgid "Odd bracket resolution method"
-msgstr ""
+msgstr "Metode resolusi bracket ganjil"
 
 #: options/preferences.py:180
 msgid "Pull up from top"
-msgstr ""
+msgstr "Pull-up dari atas"
 
 #: options/preferences.py:181
 msgid "Pull up from bottom"
-msgstr ""
+msgstr "Pull-up dari bawah"
 
 #: options/preferences.py:182
 msgid "Pull up from middle"
-msgstr ""
+msgstr "Pull-up dari tengah"
 
 #: options/preferences.py:183
 msgid "Pull up at random"
-msgstr ""
+msgstr "Pull-up secara acak"
 
 #: options/preferences.py:184
 msgid "Intermediate brackets"
-msgstr ""
+msgstr "Intermediate bracket"
 
 #: options/preferences.py:185
 msgid "Intermediate brackets with bubble-up-bubble-down"
-msgstr ""
+msgstr "Intermediate brackets with bubble-up-bubble-down"
 
 #: options/preferences.py:186
 msgid "Intermediate 1 (pre-allocated sides)"
-msgstr ""
+msgstr "Intermediate 1 (pre-allocated sides)"
 
 #: options/preferences.py:187
 msgid "Intermediate 2 (pre-allocated sides)"
-msgstr ""
+msgstr "Intermediate 2 (pre-allocated sides)"
 
 #: options/preferences.py:194
 msgid "How affirmative/negative positions are assigned (see documentation for further details)"
-msgstr ""
+msgstr "Bagaimana posisi afirmatif / negatif dialokasikan (lihat dokumentasi untuk detail lebih lanjut)"
 
 #: options/preferences.py:195
 msgid "Side allocations method"
-msgstr ""
+msgstr "Metode alokasi sisi"
 
 #: options/preferences.py:199 options/preferences.py:216
 msgid "Random"
-msgstr ""
+msgstr "Acak"
 
 #: options/preferences.py:200
 msgid "Balance"
-msgstr ""
+msgstr "Seimbang"
 
 #: options/preferences.py:201
 msgid "Pre-allocated"
-msgstr ""
+msgstr "Dialokasikan mula-mula"
 
 #: options/preferences.py:202
 msgid "Manually enter from ballot"
-msgstr ""
+msgstr "Diinput secara manual pada balot"
 
 #: options/preferences.py:209
 msgid "Slide: 1 vs 6, 2 vs 7, …. Fold: 1 vs 10, 2 vs 9, …. Adjacent: 1 vs 2, 3 vs 4, …."
-msgstr ""
+msgstr "Slide (Break and Slide): 1 vs 6, 2 vs 7, …. Fold: 1 vs 10, 2 vs 9, …. Adjacent (Power pair): 1 vs 2, 3 vs 4, …."
 
 #: options/preferences.py:210
 msgid "Pairing method"
-msgstr ""
+msgstr "Metode matchup tim"
 
 #: options/preferences.py:214
 msgid "Slide"
-msgstr ""
+msgstr "Slide"
 
 #: options/preferences.py:215
 msgid "Fold"
-msgstr ""
+msgstr "Fold"
 
 #: options/preferences.py:217
 msgid "Adjacent"
-msgstr ""
+msgstr "Adjacent"
 
 #: options/preferences.py:218
 msgid "Fold top, adjacent rest"
-msgstr ""
+msgstr "Fold untuk atas, adjacent untuk yang lain"
 
 #: options/preferences.py:225
 msgid "Method used to try to avoid teams facing each other multiple times or their own institution (see documentation for further details)"
@@ -464,51 +464,51 @@ msgstr "Tunjukkan juri tanpa akreditasi"
 
 #: options/preferences.py:415
 msgid "Any explanatory text needed to introduce the feedback form"
-msgstr ""
+msgstr "Letakkan detail yang diperlukan untuk menjelaskan form umpan balik / penilaian juri"
 
 #: options/preferences.py:416
 msgid "Feedback introduction/explanation"
-msgstr ""
+msgstr "Penjelasan Umpan Balik"
 
 #: options/preferences.py:425 options/templates/preferences_index.html:63
 msgid "Debate Rules"
-msgstr ""
+msgstr "Aturan Debat"
 
 #: options/preferences.py:431
 msgid "Two-team format (e.g. Australs, WSDC) or British Parliamentary"
-msgstr ""
+msgstr "Format dengan dua tim (seperti Australs, WSDC) atau British Parliamentary"
 
 #: options/preferences.py:432
 msgid "Teams in debate"
-msgstr ""
+msgstr "Tim dalam debat"
 
 #: options/preferences.py:436
 msgid "Two-team format"
-msgstr ""
+msgstr "Format dua tim"
 
 #: options/preferences.py:437
 msgid "British Parliamentary (four teams)"
-msgstr ""
+msgstr "Parlementer Inggris (BP) (4 tim)"
 
 #: options/preferences.py:444
 msgid "Whether panels submit a ballot each or a single ballot for a debate during the preliminary rounds. Note: BP must use one per debate."
-msgstr ""
+msgstr "Apakah setiap juri dengan hak suara mengisi satu balot untuk tiap debat (voting ballot) atau seluruh juri mengisi satu balot secara konsensus (consensus ballot). Format BP wajib menggunakan balot konsensus."
 
 #: options/preferences.py:445
 msgid "Ballots per debate, preliminary rounds"
-msgstr ""
+msgstr "Balot per debat untuk babak penyisihan"
 
 #: options/preferences.py:449 options/preferences.py:462
 msgid "One ballot per voting adjudicator"
-msgstr ""
+msgstr "Satu balot tiap juri dengan hak suara"
 
 #: options/preferences.py:450 options/preferences.py:463
 msgid "Consensus ballot (one ballot per debate)"
-msgstr ""
+msgstr "Balot Konsensus (satu balot per debat)"
 
 #: options/preferences.py:457
 msgid "Whether panels submit a ballot each or a single ballot for a debate during the elimination rounds. Note: BP must use one per debate."
-msgstr ""
+msgstr "Apakah pada babak eliminasi, setiap juri dengan hak suara mengisi satu balot untuk tiap debat (voting ballot) atau seluruh juri mengisi satu balot secara konsensus (consensus ballot). Format BP wajib menggunakan balot konsensus."
 
 #: options/preferences.py:458
 msgid "Ballots per debate, elimination rounds"
