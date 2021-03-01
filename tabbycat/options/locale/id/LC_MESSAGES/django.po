@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-30 01:01-0400\n"
-"PO-Revision-Date: 2021-03-01 01:15\n"
+"PO-Revision-Date: 2021-03-01 04:55\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -140,23 +140,23 @@ msgstr "Penalti ketidak cocokan kepentingan"
 
 #: options/preferences.py:139
 msgid "Penalty applied by conflict avoidance method for teams seeing their own institution"
-msgstr ""
+msgstr "Penalti untuk metode penghindaran konflik antara tim dari institusi yang sama"
 
 #: options/preferences.py:140
 msgid "Team institution penalty"
-msgstr ""
+msgstr "Penalti institusi tim"
 
 #: options/preferences.py:148
 msgid "Penalty applied by conflict avoidance method for teams seeing each other twice or more"
-msgstr ""
+msgstr "Penalti untuk metode penghindaran konflik antara tim yang memiliki riwayat bertemu pada ronde sebelumnya"
 
 #: options/preferences.py:149
 msgid "Team history penalty"
-msgstr ""
+msgstr "Penalti riwayat tim"
 
 #: options/preferences.py:157
 msgid "If checked, the draw will try to avoid pairing teams against their own institution"
-msgstr ""
+msgstr "Apabila ditandai, draw akan sebisa mungkin menghindari tim untuk bertemu tim lain yang satu institusi"
 
 #: options/preferences.py:158
 msgid "Avoid same institution"
@@ -164,7 +164,7 @@ msgstr ""
 
 #: options/preferences.py:166
 msgid "If checked, the draw will try to avoid having teams see each other twice"
-msgstr ""
+msgstr "Apabila ditandai, draw akan sebisa mungkin menghindari tim untuk bertemu tim yang telah bertemu tim tersebut di ronde sebelumnya"
 
 #: options/preferences.py:167
 msgid "Avoid team history"
@@ -785,7 +785,7 @@ msgstr ""
 
 #: options/preferences.py:791
 msgid "If checked, users must enter a password when submitting public feedback and ballots"
-msgstr ""
+msgstr "Apabila ditandai, pengguna harus memasukkan kata sandi saat memasukkan penilaian juri / umpan balik dan balot melalui laman publik"
 
 #: options/preferences.py:792
 msgid "Require password for submission"
@@ -1253,7 +1253,7 @@ msgstr "Mosi"
 
 #: options/preferences.py:1321
 msgid "If checked, ballots require a motion to be entered"
-msgstr ""
+msgstr "Apabila ditandai, sistem mewajibkan adanya mosi pada balot"
 
 #: options/preferences.py:1322
 msgid "Enable motions"
