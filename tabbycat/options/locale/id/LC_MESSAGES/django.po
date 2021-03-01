@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-30 01:01-0400\n"
-"PO-Revision-Date: 2021-03-01 05:05\n"
+"PO-Revision-Date: 2021-03-01 05:15\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -492,7 +492,7 @@ msgstr "Parlementer Inggris (BP) (4 tim)"
 
 #: options/preferences.py:444
 msgid "Whether panels submit a ballot each or a single ballot for a debate during the preliminary rounds. Note: BP must use one per debate."
-msgstr "Apakah setiap juri dengan hak suara mengisi satu balot untuk tiap debat (voting ballot) atau seluruh juri mengisi satu balot secara konsensus (consensus ballot). Format BP wajib menggunakan balot konsensus."
+msgstr "Apakah pada babak penyisihan, setiap juri dengan hak suara mengisi satu balot untuk tiap debat (voting ballot) atau seluruh juri mengisi satu balot secara konsensus (consensus ballot). Format BP wajib menggunakan balot konsensus."
 
 #: options/preferences.py:445
 msgid "Ballots per debate, preliminary rounds"
@@ -512,59 +512,59 @@ msgstr "Apakah pada babak eliminasi, setiap juri dengan hak suara mengisi satu b
 
 #: options/preferences.py:458
 msgid "Ballots per debate, elimination rounds"
-msgstr ""
+msgstr "Balot per debat untuk babak eliminasi"
 
 #: options/preferences.py:470
 msgid "Whether adjudicator(s) must select the winning team in their ballot, and how it should be treated. Note: Not supported in BP."
-msgstr ""
+msgstr "Apakah juri wajib memilih tim yang memenangkan debat pada balot mereka, dan bagaimana implementasi berikutnya. Tidak berpengaruh untuk format BP."
 
 #: options/preferences.py:471
 msgid "Winner Declaration in ballot(s)"
-msgstr ""
+msgstr "Deklarasi Kemenangan pada Balot"
 
 #: options/preferences.py:475
 msgid "Do not require separate winner selection"
-msgstr ""
+msgstr "Tidak perlu mendeklarasikan pemenang secara terpisah"
 
 #: options/preferences.py:476
 msgid "Require separate winner selection as a check on correct scores"
-msgstr ""
+msgstr "Minta juri untuk mengisi pemenang secara terpisah sebagai cek data"
 
 #: options/preferences.py:477
 msgid "Require winner selection to break tied-point debates"
-msgstr ""
+msgstr "Minta juri untuk mengisi pemenang secara terpisah sebagai pemenang dalam debat dengan skor seri"
 
 #: options/preferences.py:478
 msgid "Require winner selection, overriding scores"
-msgstr ""
+msgstr "Minta juri untuk mengisi pemenang secara terpisah sebagai pemenang dalam debat dan mengesampingkan skor yang diisi"
 
 #: options/preferences.py:485
 msgid "When ballots should ask for speaker scores."
-msgstr ""
+msgstr "Kapan balot mewajibkan skor pembicara."
 
 #: options/preferences.py:486
 msgid "Require speaker scores"
-msgstr ""
+msgstr "Kewajiban mengisi skor pembicara"
 
 #: options/preferences.py:490
 msgid "Always require speaker scores"
-msgstr ""
+msgstr "Selalu wajibkan skor pembicara"
 
 #: options/preferences.py:491
 msgid "Only require speaker scores in preliminary rounds"
-msgstr ""
+msgstr "Hanya wajibkan skor pembicara pada babak penyisihan"
 
 #: options/preferences.py:492
 msgid "Never require speaker scores"
-msgstr ""
+msgstr "Tidak pernah minta skor pembicara"
 
 #: options/preferences.py:499
 msgid "How many substantive speakers on a team"
-msgstr ""
+msgstr "Berapa banyak pembicara substantif dalam tim"
 
 #: options/preferences.py:500
 msgid "Substantive speakers"
-msgstr ""
+msgstr "Pembicara substantif"
 
 #: options/preferences.py:508
 msgid "What to call the teams"
