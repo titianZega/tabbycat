@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2021-01-11 01:57\n"
+"PO-Revision-Date: 2021-03-29 04:35\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -20,21 +20,21 @@ msgstr ""
 
 #: standings/base.py:297
 msgid "The same metric would be added twice:"
-msgstr ""
+msgstr "Metrik yang sama akan ditambahkan dua kali:"
 
 #: standings/base.py:298
 msgid "The same ranking would be added twice:"
-msgstr ""
+msgstr "Rangking yang sama akan ditambahkan dua kali:"
 
 #: standings/base.py:414
 #, python-format
 msgid "Unrecognized metric code: \"%(code)s\""
-msgstr ""
+msgstr "Metrik kode tidak dikenal:%(code)s"
 
 #: standings/diversity.py:136 standings/diversity.py:166
 #: standings/diversity.py:187
 msgid "All"
-msgstr ""
+msgstr "Semua"
 
 #: standings/diversity.py:140 standings/diversity.py:155
 #: standings/diversity.py:173 standings/diversity.py:191
@@ -44,7 +44,7 @@ msgstr "Breaking"
 #: standings/diversity.py:147
 #, python-format
 msgid "Not %(category)s"
-msgstr ""
+msgstr "Bukan %(category)s"
 
 #: standings/diversity.py:151
 msgid "All Speakers"
@@ -479,7 +479,7 @@ msgstr "Tim"
 #: standings/templates/standings_menu.html:17
 msgctxt "All [Teams]"
 msgid "All"
-msgstr ""
+msgstr "Semua"
 
 #: standings/templates/standings_menu.html:32
 msgid "Speakers"
@@ -493,7 +493,7 @@ msgstr ""
 #: standings/templates/standings_menu.html:39
 msgctxt "All [Speakers]"
 msgid "All"
-msgstr ""
+msgstr "Semua"
 
 #: standings/templates/standings_menu.html:41
 msgid "Speakers "
