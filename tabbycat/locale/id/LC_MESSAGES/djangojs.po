@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-14 04:50+1100\n"
-"PO-Revision-Date: 2021-03-29 04:25\n"
+"PO-Revision-Date: 2021-03-29 04:35\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -137,15 +137,15 @@ msgstr "%1 (%2) dengan penanda %3"
 
 #: checkins/templates/VenuesStatusMixin.vue:
 msgid "%1 (no category) with identifier of %2"
-msgstr ""
+msgstr "%1 (tidak ada kategori) dengan pengenal dari %2"
 
 #: checkins/templates/VenuesStatusMixin.vue:
 msgid "%1 (%2) with no assigned identifier"
-msgstr ""
+msgstr "%1 (%2) tanpa pengenal yang ditetapkan"
 
 #: checkins/templates/VenuesStatusMixin.vue:
 msgid "%1 (no category) with no assigned identifier"
-msgstr ""
+msgstr "%1 (tanpa kategori) tanpa pengenal yang ditetapkan"
 
 #: checkins/templates/VenuesStatusMixin.vue:
 msgid "Uncategorised"
@@ -157,15 +157,15 @@ msgstr "Tanpa Kategori"
 
 #: checkins/templates/VenuesStatusMixin.vue:
 msgid "Priority %1"
-msgstr ""
+msgstr "Prioritas %1"
 
 #: printing/templates/PrintableBallotHeader.vue:
 msgid "%1 %2 from %3"
-msgstr ""
+msgstr "%1 %2 dari %3"
 
 #: printing/templates/PrintableBallotHeader.vue:
 msgid "%1 %2 from %3 %4"
-msgstr ""
+msgstr "%1 %2 dari %3 %4"
 
 #: printing/templates/PrintableBallotHeader.vue:
 msgid "%1 %2 from %3 on %4 (Chair)"
