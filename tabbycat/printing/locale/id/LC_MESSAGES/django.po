@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-18 17:59-0400\n"
-"PO-Revision-Date: 2021-03-29 04:55\n"
+"PO-Revision-Date: 2021-03-29 05:06\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -29,7 +29,7 @@ msgstr "Form Penilaian Dapat Di Cetak %(round)s"
 
 #: printing/templates/feedback_list.html:14
 msgid "No feedback questions have been added for either teams or adjudicators to answer."
-msgstr ""
+msgstr "Tidak ada pertanyaan balik yang ditambahkan baik untuk tim atau juri untuk dijawab."
 
 #: printing/templates/feedback_list.html:16
 msgid "No feedback questions have been added for teams to answer."
@@ -65,11 +65,11 @@ msgstr ""
 #: printing/templates/randomised_url_sheets.html:31
 #, python-format
 msgid "Private URL for %(name)s (%(group)s)"
-msgstr ""
+msgstr "Private URL for %(name)s (%(group)s)"
 
 #: printing/templates/randomised_url_sheets.html:38
 msgid "Please bookmark the following URL, you will use it to submit forms throughout the tournament:"
-msgstr ""
+msgstr "Mohon tandai URL, yang anda akan gunakan untuk menyerahkan form ke seluruh tournament:"
 
 #: printing/templates/scoresheet_list.html:7
 msgid "Printable Scoresheets"
