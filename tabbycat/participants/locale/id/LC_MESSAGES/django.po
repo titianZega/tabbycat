@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-16 14:12-0400\n"
-"PO-Revision-Date: 2021-03-29 08:10\n"
+"PO-Revision-Date: 2021-03-29 08:21\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -344,7 +344,7 @@ msgstr "Poin sesudah debat ini"
 
 #: participants/tables.py:30
 msgid "Wins after this debate"
-msgstr ""
+msgstr "Jumlah menang sesudah debat ini"
 
 #: participants/tables.py:39
 msgid "Speaker scores<br>(in speaking order)"
@@ -385,7 +385,7 @@ msgstr "Wilayah:"
 
 #: participants/templates/adjudicator_registration_card.html:40
 msgid "The institutional affiliations of adjudicators are not public at this tournament."
-msgstr ""
+msgstr "Afiliasi untuk institusi para juri tidak bersifat publik pada turnamen ini."
 
 #: participants/templates/adjudicator_registration_card.html:47
 #: participants/templates/team_registration_card.html:77
@@ -628,7 +628,7 @@ msgstr ""
 #: participants/templates/current_round/round_adj.html:133
 #, python-format
 msgid "%(adjudicator)s is adjudicating in <strong>%(room)s</strong>."
-msgstr ""
+msgstr "%(adjudicator)s sedang menjadi juri di ruang <strong>%(room)s</strong>."
 
 #: participants/templates/current_round/round_adj.html:139
 #, python-format
@@ -922,7 +922,7 @@ msgstr "Ronde sebelumnya"
 #, python-format
 msgid "Saved category: %(list)s"
 msgid_plural "Saved categories: %(list)s"
-msgstr[0] ""
+msgstr[0] "Kategori yang tersimpan: %(list)s"
 
 #: participants/views.py:338
 msgid "No changes were made to the categories."
