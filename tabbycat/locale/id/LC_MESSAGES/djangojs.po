@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-14 04:50+1100\n"
-"PO-Revision-Date: 2021-03-29 04:45\n"
+"PO-Revision-Date: 2021-03-29 05:06\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -225,135 +225,135 @@ msgstr "Pergerakannya adalah <em>%1</em>"
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "Debated"
-msgstr ""
+msgstr "Diperdebatkan"
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "Circle %1"
-msgstr ""
+msgstr "Lingkaran %1"
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "<strong>%1</strong>: %2"
-msgstr ""
+msgstr "<strong>%1</strong>:%2"
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "Aff Veto"
-msgstr ""
+msgstr "Aff Veto"
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "Neg Veto"
-msgstr ""
+msgstr "Neg Veto"
 
 #: printing/templates/PrintableDebateInfo.vue: printing/templates/PrintableTeamScores.vue:
 msgid "%1:"
-msgstr ""
+msgstr "%1:"
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "tab entry"
-msgstr ""
+msgstr "Tab entri"
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "tab check"
-msgstr ""
+msgstr "Tab cek"
 
 #: printing/templates/PrintableDebateInfo.vue: checkins/templates/PeopleStatusMixin.vue:
 msgid "Unaffiliated"
-msgstr ""
+msgstr "Tidak terafiliasi"
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "no ½ marks"
-msgstr ""
+msgstr "Tidak ada ½ tanda"
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "½ marks are allowed"
-msgstr ""
+msgstr " ½ tanda diperbolehkan"
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "decimal marks are allowed"
-msgstr ""
+msgstr "Tanda desimal diperbolehkan"
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "%1 (%2, %3)"
-msgstr ""
+msgstr "%1 (%2, %3)"
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "Adjudicating with %1."
-msgstr ""
+msgstr "Mengadili dengan %1."
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "; "
-msgstr ""
+msgstr ";"
 
 #: printing/templates/PrintableFeedback.vue:
 msgid "Did %1 deliver the adjudication?"
-msgstr ""
+msgstr "Apakah %1 menyampaikan putusan tersebut?"
 
 #: printing/templates/PrintableFeedback.vue: printing/templates/PrintableFeedbackQuestion.vue:
 msgid "Yes"
-msgstr ""
+msgstr "Ya"
 
 #: printing/templates/PrintableFeedback.vue:
 msgid "No, I am submitting feedback on:"
-msgstr ""
+msgstr "Tidak, saya menyerahkah umpan balik pada:"
 
 #: printing/templates/PrintableFeedbackQuestion.vue:
 msgid "Unsure"
-msgstr ""
+msgstr "Tidak yakin"
 
 #: printing/templates/PrintableFeedbackQuestion.vue:
 msgid "No"
-msgstr ""
+msgstr "Tidak"
 
 #: printing/templates/PrintableScoresheet.vue:
 msgid "Which team won the debate:"
-msgstr ""
+msgstr "Regu mana yang memenangkan perdebatan:"
 
 #: printing/templates/PrintableScoresheet.vue:
 msgid "By how many points did they win:"
-msgstr ""
+msgstr "Dengan berapa nilai mereka menang:"
 
 #: printing/templates/PrintableTeamScores.vue:
 msgid "%1, %2"
-msgstr ""
+msgstr "%1, %2"
 
 #: printing/templates/PrintableTeamScores.vue:
 msgid "IMPORTANT: Check and explicitly note if a speaker gives multiple speeches"
-msgstr ""
+msgstr "PENTING : Periksa dan catat secara eksplisit jika seorang pembicara memberikan banyak pidato"
 
 #: printing/templates/PrintableTeamScores.vue:
 msgid "Score:"
-msgstr ""
+msgstr "Nilai:"
 
 #: printing/templates/PrintableTeamScores.vue:
 msgid "Circle the last digit of the %1's score:"
-msgstr ""
+msgstr "Lingkari angka terakhir dari nilai %1:"
 
 #: printing/templates/PrintableTeamScores.vue:
 msgid "Circle Rank:"
-msgstr ""
+msgstr "Peringkat Lingkaran:"
 
 #: printing/templates/PrintableTeamScores.vue:
 msgid "Total:"
-msgstr ""
+msgstr "Total:"
 
 #: printing/templates/PrintableTeamScores.vue:
 msgid "Circle the last digit of the team's total:"
-msgstr ""
+msgstr "Lingkarin angka terakhir dari total regu:"
 
 #: templates/tables/TablesContainer.vue:8
 msgid "Find in Table"
-msgstr ""
+msgstr "Temukan di Tabel"
 
 #: templates/tables/CheckboxTables.vue:30
 msgid "Set All Breaking as Available"
-msgstr ""
+msgstr "Tetapkan Semua Kerusakan yang Tersedia"
 
 #: templates/tables/CheckboxTables.vue:36
 msgid "Set all the availabilities to exactly match what they were in the previous round."
-msgstr ""
+msgstr "Tetapkan semua ketersediaan agar sama persis dengan keadaan mereka di babak sebelumnya."
 
 #: templates/tables/CheckboxTables.vue:37
 msgid "Match"
-msgstr ""
+msgstr "Cocok"
 
 #: templates/tables/CheckboxTables.vue:41
 msgid "Set all availabilities to exactly match check-ins."
