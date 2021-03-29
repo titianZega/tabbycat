@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-05 15:26-0300\n"
-"PO-Revision-Date: 2021-03-29 06:37\n"
+"PO-Revision-Date: 2021-03-29 06:50\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -150,12 +150,12 @@ msgstr ""
 
 #: venues/templates/venue_categories_edit.html:20
 msgid "Save Room Categories"
-msgstr ""
+msgstr "Simpan Kategori-kategori Ruangan"
 
 #: venues/templates/venue_constraints_edit.html:4
 #: venues/templates/venue_constraints_edit.html:5
 msgid "Room Constraints"
-msgstr ""
+msgstr "Batasan-batasan Ruangan"
 
 #: venues/templates/venue_constraints_edit.html:9
 msgid "Room constraints tell the room allocator to try to keep the specified team or adjudicator, or all teams (but not adjudicators) from the specified institution, in a room in the given category. The \"priority\" field resolves conflicting constraints: the higher priority takes precedence. You can also use the priority field to specify \"lower-preference\" constraints, which are taken if a higher-priority constraint couldn't be met."
