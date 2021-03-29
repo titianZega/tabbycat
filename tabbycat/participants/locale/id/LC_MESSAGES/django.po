@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-16 14:12-0400\n"
-"PO-Revision-Date: 2021-03-29 05:55\n"
+"PO-Revision-Date: 2021-03-29 06:06\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -438,7 +438,7 @@ msgstr ""
 
 #: participants/templates/admin/participants/adjudicator/change_form.html:8
 msgid "<strong>Don't forget:</strong> If this adjudicator should be conflicted against their own institution, you should add this conflict <strong>now</strong> in the <strong>Adjudicator-institution conflicts</strong> tab above, because the own-institution conflict is <strong>not</strong> automatically created when using this form."
-msgstr ""
+msgstr "<strong>Jangan lupa:</strong> Jika juri ini memiliki konflik dengan institusinya, anda sebaiknya menambahkan konflik ini <strong>sekarang</strong> di bagian tab <strong>Konflik Juri dengan institusi</strong>, karena konflik ini <strong>tidak</strong> dibuat secara otomatis ketika menggunakan formulir ini."
 
 #: participants/templates/admin/participants/delete_debateteam_warning.html:7
 #, python-format
@@ -471,7 +471,7 @@ msgstr ""
 
 #: participants/templates/admin/participants/team/change_form.html:8
 msgid "<strong>Don't forget:</strong> If this team should be conflicted against its own institution, you should add this conflict <strong>now</strong> in the <strong>Team-institution conflicts</strong> tab above, because the own-institution conflict is <strong>not</strong> automatically created when using this form."
-msgstr ""
+msgstr "<strong>Jangan lupa:</strong> Jika timini memiliki konflik dengan institusinya, anda sebaiknya menambahkan konflik ini <strong>sekarang</strong> di bagian tab <strong>Konflik Tim dengan institusi</strong>, karena konflik ini <strong>tidak</strong> dibuat secara otomatis ketika menggunakan formulir ini."
 
 #: participants/templates/current_round/common.html:6
 #, python-format
@@ -633,12 +633,12 @@ msgstr ""
 #: participants/templates/current_round/round_adj.html:139
 #, python-format
 msgid "You are adjudicating in <a href=\"%(url)s\"><strong>%(room)s</strong></a>."
-msgstr ""
+msgstr "Anda sedang menjadi juri pada <a href=\"%(url)s\"><strong>%(room)s</strong></a>."
 
 #: participants/templates/current_round/round_adj.html:143
 #, python-format
 msgid "You are adjudicating in <strong>%(room)s</strong>."
-msgstr ""
+msgstr "Anda sedang menjadi juri di ruang <strong>%(room)s</strong>."
 
 #: participants/templates/current_round/round_team.html:12
 #, python-format
@@ -683,12 +683,12 @@ msgstr ""
 #: participants/templates/current_round/round_team.html:66
 #, python-format
 msgid "Your debate is in <a href=\"%(url)s\"><strong>%(room)s</strong></a>."
-msgstr ""
+msgstr "Debat anda berada di tautan <a href=\"%(url)s\"><strong>%(room)s</strong></a>."
 
 #: participants/templates/current_round/round_team.html:70
 #, python-format
 msgid "Your debate is in <strong>%(room)s</strong>."
-msgstr ""
+msgstr "Debat anda berada di ruang <strong>%(room)s</strong>."
 
 #: participants/templates/edit_speaker_eligibility.html:7
 #, python-format
