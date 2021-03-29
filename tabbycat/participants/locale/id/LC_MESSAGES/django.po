@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-16 14:12-0400\n"
-"PO-Revision-Date: 2021-03-29 04:25\n"
+"PO-Revision-Date: 2021-03-29 04:35\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -324,7 +324,7 @@ msgstr ""
 
 #: participants/models.py:376
 msgid "independent"
-msgstr ""
+msgstr "independen"
 
 #: participants/models.py:378
 msgid "adjudication core"
@@ -336,11 +336,11 @@ msgstr "juri debat"
 
 #: participants/models.py:388
 msgid "adjudicators"
-msgstr ""
+msgstr "juri"
 
 #: participants/tables.py:28
 msgid "Points after this debate"
-msgstr ""
+msgstr "Poin sesudah debat ini"
 
 #: participants/tables.py:30
 msgid "Wins after this debate"
@@ -358,11 +358,11 @@ msgstr ""
 #: participants/templates/team_record.html:19
 #, python-format
 msgid "About %(name)s"
-msgstr ""
+msgstr "Tentang %(name)s"
 
 #: participants/templates/adjudicator_registration_card.html:15
 msgid "Independent adjudicator"
-msgstr ""
+msgstr "Juri independen"
 
 #: participants/templates/adjudicator_registration_card.html:18
 msgid "Member of the adjudication core"
@@ -371,7 +371,7 @@ msgstr ""
 #: participants/templates/adjudicator_registration_card.html:26
 #: participants/templates/team_registration_card.html:60
 msgid "Institution:"
-msgstr ""
+msgstr "Institusi:"
 
 #: participants/templates/adjudicator_registration_card.html:30
 #: participants/templates/team_registration_card.html:64
@@ -381,7 +381,7 @@ msgstr ""
 #: participants/templates/adjudicator_registration_card.html:34
 #: participants/templates/team_registration_card.html:68
 msgid "Region:"
-msgstr ""
+msgstr "Wilayah:"
 
 #: participants/templates/adjudicator_registration_card.html:40
 msgid "The institutional affiliations of adjudicators are not public at this tournament."
@@ -395,7 +395,7 @@ msgstr ""
 #: participants/templates/adjudicator_registration_card.html:49
 #: participants/templates/team_registration_card.html:79
 msgid "; "
-msgstr ""
+msgstr "; "
 
 #: participants/templates/adjudicator_registration_card.html:51
 #: participants/templates/adjudicator_registration_card.html:58
@@ -408,7 +408,7 @@ msgstr ""
 #: participants/templates/team_registration_card.html:88
 #: participants/templates/team_registration_card.html:98
 msgid "None"
-msgstr ""
+msgstr "Tidak ada"
 
 #: participants/templates/adjudicator_registration_card.html:54
 msgid "Team Conflicts:"
@@ -476,7 +476,7 @@ msgstr ""
 #: participants/templates/current_round/common.html:6
 #, python-format
 msgid "The round begins at %(start_time)s"
-msgstr ""
+msgstr "Ronde akan dimulai pada %(start_time)s"
 
 #: participants/templates/current_round/common.html:15
 msgid "Teams:"
@@ -485,7 +485,7 @@ msgstr "Tim:"
 #: participants/templates/current_round/common.html:28
 msgid "Adjudicator:"
 msgid_plural "Adjudicators:"
-msgstr[0] ""
+msgstr[0] "Juri:"
 
 #: participants/templates/current_round/common.html:37
 #: participants/templates/current_round/common.html:39
@@ -505,20 +505,20 @@ msgstr ""
 
 #: participants/templates/current_round/common.html:54
 msgid "Motions are not released to public."
-msgstr ""
+msgstr "Mosi tidak dirilis ke publik."
 
 #: participants/templates/current_round/common.html:57
 msgid "Motion:"
-msgstr ""
+msgstr "Mosi:"
 
 #: participants/templates/current_round/common.html:61
 #, python-format
 msgid "Motion %(seq)s:"
-msgstr ""
+msgstr "Mosi %(seq)s:"
 
 #: participants/templates/current_round/common.html:69
 msgid "The motion(s) for this round haven't yet been released."
-msgstr ""
+msgstr "Mosi untuk ronde ini belum dirilis."
 
 #: participants/templates/current_round/round_adj.html:14
 #, python-format
@@ -735,11 +735,11 @@ msgstr ""
 
 #: participants/templates/in_this_round.html:13
 msgid "In This Round"
-msgstr ""
+msgstr "Pada Ronde Ini"
 
 #: participants/templates/in_this_round.html:16
 msgid "(Not Released to Public)"
-msgstr ""
+msgstr "(Tidak dirilis ke Publik)"
 
 #: participants/templates/in_this_round.html:23
 msgid "Room TBA"
@@ -752,7 +752,7 @@ msgstr ""
 
 #: participants/templates/in_this_round.html:39
 msgid "You are not adjudicating this round."
-msgstr ""
+msgstr "Anda tidak menjadi juri pada ronde ini."
 
 #: participants/templates/in_this_round.html:54
 #, python-format
@@ -783,11 +783,11 @@ msgstr "Daftar Partisipan"
 
 #: participants/templates/participants_subnav.html:10
 msgid "Institutions List"
-msgstr ""
+msgstr "Daftar Institusi"
 
 #: participants/templates/participants_subnav.html:15
 msgid "Emails have already been sent."
-msgstr ""
+msgstr "Email sudah dikirim."
 
 #: participants/templates/participants_subnav.html:19
 msgid "Email Team Registrations"
@@ -801,7 +801,7 @@ msgstr "Nama Terkode"
 #: participants/templates/speaker_categories_edit.html:4
 #: participants/templates/speaker_categories_edit.html:5
 msgid "Speaker Categories"
-msgstr ""
+msgstr "Kategori Pembicara"
 
 #: participants/templates/participants_subnav.html:35
 msgid "Speaker Eligibility"
@@ -818,11 +818,11 @@ msgstr ""
 
 #: participants/templates/speaker_categories_edit.html:29
 msgid "Save Speaker Categories"
-msgstr ""
+msgstr "Menyimpan Kategori Pembicara"
 
 #: participants/templates/team_registration_card.html:14
 msgid "Team name:"
-msgstr ""
+msgstr "Nama tim:"
 
 #: participants/templates/team_registration_card.html:14
 msgid "Full name:"
