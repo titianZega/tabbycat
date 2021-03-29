@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-18 17:59-0400\n"
-"PO-Revision-Date: 2021-03-29 05:15\n"
+"PO-Revision-Date: 2021-03-29 05:26\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -33,11 +33,11 @@ msgstr "Tidak ada pertanyaan balik yang ditambahkan baik untuk tim atau juri unt
 
 #: printing/templates/feedback_list.html:16
 msgid "No feedback questions have been added for teams to answer."
-msgstr ""
+msgstr "Tidak ada pertanyaan balik yang ditambahkan untuk tim untuk di jawab."
 
 #: printing/templates/feedback_list.html:18
 msgid "No feedback questions have been added for adjudicators to answer."
-msgstr ""
+msgstr "Tidak ada pertanyaan balik yang ditambahkan untuk dijawab oleh juri."
 
 #: printing/templates/feedback_list.html:20
 #, python-format
@@ -98,7 +98,7 @@ msgstr ""
 
 #: printing/templates/scoresheet_list.html:47
 msgid "Editing motions here will not save them permanently — it will only update the text used in the printed ballots below. This can be useful if using placeholder motions (to ensure confidentiality) in Tabbycat, but you still want to print ballots with correct motions."
-msgstr ""
+msgstr "Mengedit Mosi di sini tidak akan tersimpan secara permanen - ini hanya mengupdate teks yang digunakan dalam mencetak balot di bawah ini. ini akan berguna jika menggunakan mosi pengisi ruang (untuk memastikan konfidensial) di Tabbycat, tapi anda masih ingin mencetak balot dengan mosi yang benar."
 
 #: printing/templates/scoresheet_list.html:55
 msgid "Motion"
@@ -106,11 +106,11 @@ msgstr "Mosi"
 
 #: printing/templates/scoresheet_list.html:59
 msgid "Changes to motions will update in the displayed ballots automatically"
-msgstr ""
+msgstr "Menganti mosi akan memperbarui tampilan balot secara otomatis"
 
 #: printing/templates/scoresheet_list.html:96
 msgid "Speeches are x minutes, the speaker score range is from x to x. You have x minutes to form an adjudication."
-msgstr ""
+msgstr "Pidato x menit, rentan nilai skor pembicara dari x sampai x. anda memiliki x menit untuk mengajukan keputusan ke seorang juri."
 
 #: printing/views.py:40
 msgid "Overall Score"
