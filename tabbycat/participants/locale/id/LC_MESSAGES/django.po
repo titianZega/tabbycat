@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-16 14:12-0400\n"
-"PO-Revision-Date: 2021-03-29 04:55\n"
+"PO-Revision-Date: 2021-03-29 05:06\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -27,7 +27,7 @@ msgstr ""
 #, python-format
 msgid "%(count)d speaker had their URL key removed."
 msgid_plural "%(count)d speakers had their URL keys removed."
-msgstr[0] ""
+msgstr[0] "Sebanyak %(count)d pembicara sudah menghapus kunci URL mereka."
 
 #: participants/admin.py:150 participants/admin.py:209
 msgid "Delete URL key"
@@ -37,7 +37,7 @@ msgstr "Hapus kunci URL"
 #, python-format
 msgid "%(count)d adjudicator had their URL key removed."
 msgid_plural "%(count)d adjudicators had their URL keys removed."
-msgstr[0] ""
+msgstr[0] "Sebanyak %(count)d juri sudah menghapus kunci URL mereka."
 
 #: participants/apps.py:7 participants/views.py:40
 msgid "Participants"
@@ -228,7 +228,7 @@ msgstr ""
 
 #: participants/models.py:158
 msgid "Uses institutional prefix"
-msgstr ""
+msgstr "Menggunakan nama depan institusi"
 
 #: participants/models.py:159
 msgid "If ticked, a team called \"1\" from Victoria will be shown as \"Victoria 1\""
@@ -280,11 +280,11 @@ msgstr "Tim harus memiliki institusi jika mereka menggunakan nama depan institus
 
 #: participants/models.py:309
 msgid "Teams must have a full name if they don't use the institutional prefix."
-msgstr ""
+msgstr "Tim harus memiliki nama lengkap jika mereka tidak menggunakan nama depan institusi."
 
 #: participants/models.py:311
 msgid "Teams must have a short name if they don't use the institutional prefix."
-msgstr ""
+msgstr "Tim harus memiliki nama pendek jika mereka tidak menggunakan nama depan institusi."
 
 #: participants/models.py:329
 msgid "speaker"
@@ -702,7 +702,7 @@ msgstr ""
 #: participants/templates/feedback_progress_panel.html:17
 #, python-format
 msgid "Has submitted feedback for <strong>%(adjudicator)s</strong>"
-msgstr ""
+msgstr "Sudah memberikan umpan balik untuk <strong>%(adjudicator)s</strong>"
 
 #: participants/templates/feedback_progress_panel.html:25
 #, python-format
@@ -712,11 +712,11 @@ msgstr ""
 #: participants/templates/feedback_progress_panel.html:30
 #, python-format
 msgid "Has not submitted feedback for <strong>%(adjudicator)s</strong>"
-msgstr ""
+msgstr "Belum memberikan umpan balik untuk <strong>%(adjudicator)s</strong>"
 
 #: participants/templates/feedback_progress_panel.html:39
 msgid "More feedback submissions than expected for this debate:"
-msgstr ""
+msgstr "Pengumpulan umpan balik melebihi batas yang diijinkan untuk debat ini:"
 
 #: participants/templates/feedback_progress_panel.html:48
 #, python-format
@@ -726,12 +726,12 @@ msgstr ""
 #: participants/templates/feedback_progress_panel.html:55
 #, python-format
 msgid "%(name)s doesn't have any feedback to submit."
-msgstr ""
+msgstr "%(name)s tidak memiliki umpan balik untuk diberikan."
 
 #: participants/templates/in_this_round.html:9
 #, python-format
 msgid "In This Round (%(round)s)"
-msgstr ""
+msgstr "Pada Ronde Ini (%(round)s)"
 
 #: participants/templates/in_this_round.html:13
 msgid "In This Round"
@@ -743,12 +743,12 @@ msgstr "(Tidak dirilis ke Publik)"
 
 #: participants/templates/in_this_round.html:23
 msgid "Room TBA"
-msgstr ""
+msgstr "Ruangan TBA"
 
 #: participants/templates/in_this_round.html:35
 #, python-format
 msgid "%(adjudicator)s is not adjudicating this round."
-msgstr ""
+msgstr "Juri %(adjudicator)s tidak menjadi juri pada ronde ini."
 
 #: participants/templates/in_this_round.html:39
 msgid "You are not adjudicating this round."
@@ -758,16 +758,16 @@ msgstr "Anda tidak menjadi juri pada ronde ini."
 #, python-format
 msgid "It looks like %(team)s is competing in %(ndebates)s debate this round."
 msgid_plural "It looks like %(team)s is competing in %(ndebates)s debates this round."
-msgstr[0] ""
+msgstr[0] "Sepertinya tim %(team)s sedang bertanding di debat %(ndebates)s pada ronde ini."
 
 #: participants/templates/in_this_round.html:60
 msgid "If this is an error, please contact a tab director immediately."
-msgstr ""
+msgstr "Jika terdapat kesalahan, mohon hubungi pimpinan debat secepatnya."
 
 #: participants/templates/in_this_round.html:75
 #, python-format
 msgid "%(team)s does not have a debate this round."
-msgstr ""
+msgstr "Tim %(team)s sedang tidak berdebat pada ronde ini."
 
 #: participants/templates/in_this_round.html:79
 msgid "You do not have a debate this round."
