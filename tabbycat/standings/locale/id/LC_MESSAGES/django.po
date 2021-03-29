@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2021-03-29 04:55\n"
+"PO-Revision-Date: 2021-03-29 05:06\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -116,28 +116,28 @@ msgstr "Nilai Kuartil Bawah"
 
 #: standings/diversity.py:256
 msgid "Reply Speaker Average"
-msgstr ""
+msgstr "Rata-rata Pembicara Penyimpul"
 
 #: standings/diversity.py:257
 #, python-format
 msgid "Speaker %(num)d Average"
-msgstr ""
+msgstr "Rata-rata Pembicara %(num)d"
 
 #: standings/diversity.py:265
 msgid "Average Finals Score"
-msgstr ""
+msgstr "Rata-rata Nilai Akhir"
 
 #: standings/speakers.py:50 standings/speakers.py:106
 msgid "total"
-msgstr ""
+msgstr "total"
 
 #: standings/speakers.py:51 standings/speakers.py:107
 msgid "Total"
-msgstr ""
+msgstr "Total"
 
 #: standings/speakers.py:58 standings/speakers.py:116
 msgid "average"
-msgstr ""
+msgstr "rata-rata"
 
 #: standings/speakers.py:59 standings/speakers.py:117
 msgid "Avg"
