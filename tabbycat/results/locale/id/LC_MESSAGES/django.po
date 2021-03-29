@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-11-18 17:59-0400\n"
-"PO-Revision-Date: 2021-03-29 04:35\n"
+"PO-Revision-Date: 2021-03-29 04:45\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -60,25 +60,25 @@ msgstr "%(aff_team)s ditegaskan, %(neg_team)s ditiadakan"
 #: results/forms.py:318
 #, python-format
 msgid "%(side)s's motion veto"
-msgstr "%(side)s's mosi veto"
+msgstr "%(side)s's isyarat veto"
 
 #: results/forms.py:327 results/forms.py:895
 #, python-format
 msgid "%(team)s (%(side)s)"
-msgstr ""
+msgstr "%(team)s (%(side)s)"
 
 #: results/forms.py:330
 msgid "Winner"
-msgstr ""
+msgstr "Pemenang"
 
 #: results/forms.py:483
 msgid "Mark as a duplicate speech"
-msgstr ""
+msgstr "Tandai sebagai duplikat pidato"
 
 #: results/forms.py:543
 #, python-format
 msgid "The speaker %(speaker)s doesn't appear to be on team %(team)s."
-msgstr ""
+msgstr "Pembicara %(speaker)s tidak berada dalam tim %(team)s."
 
 #: results/forms.py:557
 #, python-format
