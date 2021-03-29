@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-16 14:12-0400\n"
-"PO-Revision-Date: 2021-03-29 05:15\n"
+"PO-Revision-Date: 2021-03-29 05:55\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -240,7 +240,7 @@ msgstr "kategori break"
 
 #: participants/models.py:166 participants/models.py:360
 msgid "institution conflicts"
-msgstr ""
+msgstr "konflik institusi"
 
 #: participants/models.py:177
 msgid "none"
@@ -304,15 +304,15 @@ msgstr "nilai basis"
 
 #: participants/models.py:364
 msgid "team conflicts"
-msgstr ""
+msgstr "konflik tim"
 
 #: participants/models.py:368
 msgid "adjudicator conflicts"
-msgstr ""
+msgstr "konflik juri"
 
 #: participants/models.py:371
 msgid "always trainee"
-msgstr ""
+msgstr "selalu trainee"
 
 #: participants/models.py:372
 msgid "If checked, this adjudicator will never be auto-allocated a voting position, regardless of their score"
@@ -328,7 +328,7 @@ msgstr "independen"
 
 #: participants/models.py:378
 msgid "adjudication core"
-msgstr ""
+msgstr "juri inti"
 
 #: participants/models.py:387
 msgid "adjudicator"
@@ -352,7 +352,7 @@ msgstr "Nilai Pembicara<br>(sesuai urutan berbicara)"
 
 #: participants/tables.py:39
 msgid "Speaks"
-msgstr ""
+msgstr "Berbicara"
 
 #: participants/templates/adjudicator_record.html:17
 #: participants/templates/team_record.html:19
@@ -366,7 +366,7 @@ msgstr "Juri independen"
 
 #: participants/templates/adjudicator_registration_card.html:18
 msgid "Member of the adjudication core"
-msgstr ""
+msgstr "Anggota tim penjurian inti"
 
 #: participants/templates/adjudicator_registration_card.html:26
 #: participants/templates/team_registration_card.html:60
@@ -390,7 +390,7 @@ msgstr ""
 #: participants/templates/adjudicator_registration_card.html:47
 #: participants/templates/team_registration_card.html:77
 msgid "Institutional Conflicts:"
-msgstr ""
+msgstr "Konflik Institusi:"
 
 #: participants/templates/adjudicator_registration_card.html:49
 #: participants/templates/team_registration_card.html:79
@@ -412,7 +412,7 @@ msgstr "Tidak ada"
 
 #: participants/templates/adjudicator_registration_card.html:54
 msgid "Team Conflicts:"
-msgstr ""
+msgstr "Konflik Tim:"
 
 #: participants/templates/adjudicator_registration_card.html:56
 #: participants/templates/adjudicator_registration_card.html:64
@@ -429,7 +429,7 @@ msgstr ", "
 #: participants/templates/adjudicator_registration_card.html:61
 #: participants/templates/team_registration_card.html:84
 msgid "Adjudicator Conflicts:"
-msgstr ""
+msgstr "Konflik Juri:"
 
 #: participants/templates/adjudicator_registration_card.html:75
 #: participants/templates/team_registration_card.html:94
