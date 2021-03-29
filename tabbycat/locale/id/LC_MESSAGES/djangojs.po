@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-14 04:50+1100\n"
-"PO-Revision-Date: 2021-03-29 04:35\n"
+"PO-Revision-Date: 2021-03-29 04:45\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -169,15 +169,15 @@ msgstr "%1 %2 dari %3 %4"
 
 #: printing/templates/PrintableBallotHeader.vue:
 msgid "%1 %2 from %3 on %4 (Chair)"
-msgstr ""
+msgstr "%1 %2 dari %3 di %4 (Kursi)"
 
 #: printing/templates/PrintableBallotHeader.vue:
 msgid "%1 %2 from %3 on %4 (Panellist)"
-msgstr ""
+msgstr "%1 %2 dari %3 di %4 (panelis)"
 
 #: printing/templates/PrintableBallotHeader.vue:
 msgid "%1 %2 from %3 on %4 (Trainee)"
-msgstr ""
+msgstr "%1 %2 dari %3 di %4 (Peserta Pelatihan)"
 
 #: printing/templates/PrintableBallotHeader.vue:
 msgid "ID %1,"
@@ -189,11 +189,11 @@ msgstr "Ruangan:"
 
 #: printing/templates/PrintableBallotHeader.vue:
 msgid "Chair for Panel of %1"
-msgstr ""
+msgstr "Kursi untuk panel %1"
 
 #: printing/templates/PrintableBallotHeader.vue: printing/templates/PrintableDebateInfo.vue:
 msgid "Solo Chair"
-msgstr ""
+msgstr "Kursi Solo"
 
 #: printing/templates/PrintableBallotHeader.vue: printing/templates/PrintableDebateInfo.vue:
 msgid "Panellist"
@@ -201,7 +201,7 @@ msgstr "Panelis"
 
 #: printing/templates/PrintableBallotHeader.vue: printing/templates/PrintableDebateInfo.vue:
 msgid "Trainee"
-msgstr ""
+msgstr "Peserta pelatihan"
 
 #: printing/templates/PrintableBallotHeader.vue:
 msgid "Team"
@@ -213,15 +213,15 @@ msgstr "Tandai pidato %1 to %2; <strong>%3</strong>."
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "Mark replies %1 to %2; <strong>%3</strong>."
-msgstr ""
+msgstr "Tandai balasan %1 ke %2; <strong>%3</strong>."
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "Return ballots to %1."
-msgstr ""
+msgstr "Kembalikan surat suara ke %1."
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "The motion is <em>%1</em>"
-msgstr ""
+msgstr "Pergerakannya adalah <em>%1</em>"
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "Debated"
