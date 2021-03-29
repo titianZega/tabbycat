@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2021-03-29 05:36\n"
+"PO-Revision-Date: 2021-03-29 05:45\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -64,7 +64,7 @@ msgstr "Panelis"
 
 #: standings/diversity.py:177
 msgid "Trainees"
-msgstr ""
+msgstr "Trainee"
 
 #: standings/diversity.py:209
 msgid "Average Rating"
@@ -96,7 +96,7 @@ msgstr "Rata-rata Rating dari Panelis"
 
 #: standings/diversity.py:221
 msgid "Average Rating From Trainees"
-msgstr ""
+msgstr "Rata-rata Rating dari Trainee"
 
 #: standings/diversity.py:246
 msgid "Average Score"
@@ -141,7 +141,7 @@ msgstr "rata-rata"
 
 #: standings/speakers.py:59 standings/speakers.py:117
 msgid "Avg"
-msgstr "Rta"
+msgstr "Avg"
 
 #: standings/speakers.py:66
 msgid "team points"
@@ -165,7 +165,7 @@ msgstr "jumlah pidato yang diberikan"
 
 #: standings/speakers.py:99 standings/speakers.py:138
 msgid "Num"
-msgstr "Jlh"
+msgstr "Num"
 
 #: standings/speakers.py:137
 msgid "replies given"
@@ -185,7 +185,7 @@ msgstr "poin"
 
 #: standings/teams.py:63
 msgid "Pts"
-msgstr "Poin"
+msgstr "Pts"
 
 #: standings/teams.py:76
 msgid "wins"
@@ -225,7 +225,7 @@ msgstr "jumlah margin"
 
 #: standings/teams.py:119
 msgid "Marg"
-msgstr ""
+msgstr "Marg"
 
 #: standings/teams.py:128
 msgid "average margin"
