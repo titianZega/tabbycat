@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2021-03-29 05:15\n"
+"PO-Revision-Date: 2021-03-29 05:26\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -169,7 +169,7 @@ msgstr "Jlh"
 
 #: standings/speakers.py:137
 msgid "replies given"
-msgstr ""
+msgstr "penyimpul yang diberikan"
 
 #: standings/speakers.py:147
 msgid "trimmed mean (high-low drop)"
@@ -181,7 +181,7 @@ msgstr ""
 
 #: standings/teams.py:62
 msgid "points"
-msgstr ""
+msgstr "poin"
 
 #: standings/teams.py:63
 msgid "Pts"
@@ -189,15 +189,15 @@ msgstr ""
 
 #: standings/teams.py:76
 msgid "wins"
-msgstr ""
+msgstr "kemenangan"
 
 #: standings/teams.py:77 standings/views.py:592
 msgid "Wins"
-msgstr ""
+msgstr "Kemenangan"
 
 #: standings/teams.py:87
 msgid "total speaker score"
-msgstr ""
+msgstr "total nilai pembicara"
 
 #: standings/teams.py:88
 msgid "Spk"
