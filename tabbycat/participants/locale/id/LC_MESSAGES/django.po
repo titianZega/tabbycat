@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-16 14:12-0400\n"
-"PO-Revision-Date: 2021-03-01 05:05\n"
+"PO-Revision-Date: 2021-03-29 04:25\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -826,15 +826,15 @@ msgstr ""
 
 #: participants/templates/team_registration_card.html:14
 msgid "Full name:"
-msgstr ""
+msgstr "Nama lengkap:"
 
 #: participants/templates/team_registration_card.html:22
 msgid "Code name:"
-msgstr ""
+msgstr "Kode nama:"
 
 #: participants/templates/team_registration_card.html:29
 msgid "Speakers:"
-msgstr ""
+msgstr "Pembicara:"
 
 #: participants/templates/team_registration_card.html:40
 msgid "Eligible for break categories:"
@@ -842,7 +842,7 @@ msgstr ""
 
 #: participants/templates/team_registration_card.html:48
 msgid "Speaker categories:"
-msgstr ""
+msgstr "Kategori pembicara:"
 
 #: participants/templatetags/team_name_for_data_entry.py:18
 #, python-format
@@ -863,15 +863,15 @@ msgstr "Institusi"
 
 #: participants/views.py:101
 msgid "Code"
-msgstr ""
+msgstr "Kode"
 
 #: participants/views.py:102
 msgid "Full name"
-msgstr ""
+msgstr "Nama lengkap"
 
 #: participants/views.py:104
 msgid "Region"
-msgstr ""
+msgstr "Wilayah"
 
 #: participants/views.py:106
 msgid "Teams"
@@ -879,7 +879,7 @@ msgstr "Tim"
 
 #: participants/views.py:106
 msgid "Number of teams"
-msgstr ""
+msgstr "Jumlah tim"
 
 #: participants/views.py:108
 msgid "Adjs"
@@ -895,15 +895,15 @@ msgstr ""
 
 #: participants/views.py:112
 msgid "Number of independent adjudicators"
-msgstr ""
+msgstr "Banyak juri independen"
 
 #: participants/views.py:142
 msgid "Code name"
-msgstr ""
+msgstr "Kode nama"
 
 #: participants/views.py:162
 msgid "Team Registration"
-msgstr ""
+msgstr "Registrasi Tim"
 
 #: participants/views.py:207
 msgid "Results"
@@ -916,7 +916,7 @@ msgstr ""
 
 #: participants/views.py:243
 msgid "Previous Rounds"
-msgstr ""
+msgstr "Ronde sebelumnya"
 
 #: participants/views.py:332
 #, python-format
@@ -926,7 +926,7 @@ msgstr[0] ""
 
 #: participants/views.py:338
 msgid "No changes were made to the categories."
-msgstr ""
+msgstr "Tidak ada perubahan yang dilakukan pada kategori."
 
 #: participants/views.py:351
 msgid "Speaker Category Eligibility"
