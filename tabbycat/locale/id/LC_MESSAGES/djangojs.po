@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-14 04:50+1100\n"
-"PO-Revision-Date: 2021-03-08 03:25\n"
+"PO-Revision-Date: 2021-03-29 04:05\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -181,7 +181,7 @@ msgstr ""
 
 #: printing/templates/PrintableBallotHeader.vue:
 msgid "ID %1,"
-msgstr ""
+msgstr "ID %1,"
 
 #: printing/templates/PrintableBallotHeader.vue:
 msgid "Room:"
@@ -197,7 +197,7 @@ msgstr ""
 
 #: printing/templates/PrintableBallotHeader.vue: printing/templates/PrintableDebateInfo.vue:
 msgid "Panellist"
-msgstr ""
+msgstr "Panelis"
 
 #: printing/templates/PrintableBallotHeader.vue: printing/templates/PrintableDebateInfo.vue:
 msgid "Trainee"
@@ -209,7 +209,7 @@ msgstr "Tim"
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "Mark speeches %1 to %2; <strong>%3</strong>."
-msgstr ""
+msgstr "Tandai pidato %1 to %2; <strong>%3</strong>."
 
 #: printing/templates/PrintableDebateInfo.vue:
 msgid "Mark replies %1 to %2; <strong>%3</strong>."
