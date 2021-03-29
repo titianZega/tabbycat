@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-05 15:26-0300\n"
-"PO-Revision-Date: 2021-03-29 07:31\n"
+"PO-Revision-Date: 2021-03-29 08:02\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -92,7 +92,7 @@ msgstr "Keterangan, sebagai predikat sebuah kalimat, spt. \"has step-free access
 
 #: venues/models.py:82
 msgid "display in room name"
-msgstr ""
+msgstr "ditampilkan di nama Ruangan"
 
 #: venues/models.py:83
 msgid "Prefix: \"Purple – G05\", Suffix: \"G05 – Purple\""
@@ -100,7 +100,7 @@ msgstr "Awalan: \"Purple – G05\", Akhiran: \"G05 – Purple\""
 
 #: venues/models.py:85
 msgid "display in public tooltip"
-msgstr ""
+msgstr "ditampilkan di tooltip publik"
 
 #: venues/models.py:86
 msgid "Displays the description in the tooltip for the room on public pages. The description, if not blank, will always show on admin pages."
@@ -146,7 +146,7 @@ msgstr "Kategori-kategori Ruangan membolehkan anda untuk menggabungkan ruangan-r
 #: venues/templates/venue_categories_edit.html:14
 #, python-format
 msgid "If you want to delete room categories, use the <a href=\"%(edit_db_url)s\" class=\"alert-link\">Edit Database</a> area."
-msgstr ""
+msgstr "Bila kamu ingin menghapus kategori-kategori ruangan, gunakan area <a href=\"%(edit_db_url)s\" class=\"alert-link\">Edit Database</a>."
 
 #: venues/templates/venue_categories_edit.html:20
 msgid "Save Room Categories"
@@ -159,7 +159,7 @@ msgstr "Batasan-batasan Ruangan"
 
 #: venues/templates/venue_constraints_edit.html:9
 msgid "Room constraints tell the room allocator to try to keep the specified team or adjudicator, or all teams (but not adjudicators) from the specified institution, in a room in the given category. The \"priority\" field resolves conflicting constraints: the higher priority takes precedence. You can also use the priority field to specify \"lower-preference\" constraints, which are taken if a higher-priority constraint couldn't be met."
-msgstr ""
+msgstr "Batasan-batasan Ruangan memberitahu allocator ruangan agar berusaha mempertahankan tim atau juri yang sudah ditentukan, atau semua tim-tim (tapi tidak juri-juri) dari institusi yang ditentukan, dalam ruangan di kategori yang diberikan. Bidang \"priority\" memecahkan batasan-batasan yang bertentangan: prioritas yang lebih tinggi mendapat hak lebih tinggi. Kamu juga bisa menggunakan bidang prioritas untuk menentukan batasan-batasan \"lower-preference\", yang diambil bila tidak sampai pada batasan prioritas yang lebih tinggi."
 
 #: venues/templates/venue_constraints_edit.html:20
 msgid "Save Room Constraints"
@@ -168,7 +168,7 @@ msgstr "Simpan Batasan-batasan Ruangan"
 #: venues/utils.py:38 venues/utils.py:50
 #, python-format
 msgid "Room constraint of %(name)s met (%(category)s)"
-msgstr ""
+msgstr "Batasan Ruangan dari %(name)s memenuhi (%(category)s)"
 
 #: venues/utils.py:39 venues/utils.py:51
 #, python-format
@@ -218,5 +218,5 @@ msgstr "%s (Institusi)"
 #, python-format
 msgid "Saved %(count)d room constraint."
 msgid_plural "Saved %(count)d room constraints."
-msgstr[0] ""
+msgstr[0] "Tersimpan %(count)d batasan ruangan."
 
