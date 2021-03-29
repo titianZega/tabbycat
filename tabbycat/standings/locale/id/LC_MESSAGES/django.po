@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2021-03-29 05:45\n"
+"PO-Revision-Date: 2021-03-29 05:55\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -269,11 +269,11 @@ msgstr ""
 
 #: standings/teams.py:254
 msgid "number of adjudicators who voted for this team"
-msgstr ""
+msgstr "jumlah juri yang memberikan suara untuk tim ini"
 
 #: standings/teams.py:255
 msgid "Ballots"
-msgstr ""
+msgstr "Kertas Suara"
 
 #: standings/teams.py:256
 msgid "votes/ballots carried"
@@ -281,27 +281,27 @@ msgstr ""
 
 #: standings/teams.py:280
 msgid "number of firsts"
-msgstr ""
+msgstr "jumlah posisi pertama"
 
 #: standings/teams.py:281
 msgid "1sts"
-msgstr ""
+msgstr "1sts"
 
 #: standings/teams.py:290
 msgid "number of seconds"
-msgstr ""
+msgstr "jumlah posisi kedua"
 
 #: standings/teams.py:291
 msgid "2nds"
-msgstr ""
+msgstr "2nds"
 
 #: standings/teams.py:300
 msgid "number of thirds"
-msgstr ""
+msgstr "jumlah posisi ketiga"
 
 #: standings/teams.py:301
 msgid "3rds"
-msgstr ""
+msgstr "3rds"
 
 #: standings/teams.py:313
 msgid "Who-beat-whom"
@@ -609,7 +609,7 @@ msgstr ""
 
 #: standings/views.py:592
 msgid "Points"
-msgstr ""
+msgstr "Poin"
 
 #: standings/views.py:638
 msgid "Feedback Overview"
