@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-05 15:26-0300\n"
-"PO-Revision-Date: 2021-03-29 06:06\n"
+"PO-Revision-Date: 2021-03-29 06:15\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -116,11 +116,11 @@ msgstr "kategori-kategori ruangan"
 
 #: venues/models.py:119
 msgid "category"
-msgstr ""
+msgstr "kategori"
 
 #: venues/models.py:123
 msgid "subject content type"
-msgstr ""
+msgstr "tipe konten subjek"
 
 #: venues/models.py:126
 msgid "subject ID"
