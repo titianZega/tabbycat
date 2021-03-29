@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-05 15:26-0300\n"
-"PO-Revision-Date: 2021-03-29 06:27\n"
+"PO-Revision-Date: 2021-03-29 06:37\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -141,7 +141,7 @@ msgstr "Kategori-kategori Ruangan"
 
 #: venues/templates/venue_categories_edit.html:9
 msgid "Room categories allow you to group rooms together into \"zones\" to display in the draw and make navigation easier for participants, and/or specify constraints on room allocation that require teams, adjudicators or institutions to be put in a room in a particular category."
-msgstr ""
+msgstr "Kategori-kategori Ruangan membolehkan anda untuk menggabungkan ruangan-ruangan ke \"zones\" untuk ditampilkan dalam pengundian dan membuat navigasi menjadi lebih mudah untuk peserta-peserta, dan/atau menentukan batasan-batasan pada pengalokasian ruangan yang membutuhkan tim-tim, juri-juri atau petunjuk-petunjuk untuk di ditempatkan di sebuah ruangan dalam kategori tertentu."
 
 #: venues/templates/venue_categories_edit.html:14
 #, python-format
