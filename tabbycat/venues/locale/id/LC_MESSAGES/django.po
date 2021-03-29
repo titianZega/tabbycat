@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-05 15:26-0300\n"
-"PO-Revision-Date: 2021-03-29 04:55\n"
+"PO-Revision-Date: 2021-03-29 05:15\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -32,7 +32,7 @@ msgstr "Pengundian belum terkonfirmasi, pastikan pengundian agar dapat memosisik
 
 #: venues/consumers.py:28
 msgid "Successfully auto-allocated rooms to debates."
-msgstr ""
+msgstr "Berhasil mengalokasikan-otomatis ruangan-ruangan ke bagian Debat."
 
 #: venues/models.py:9 venues/models.py:66
 msgid "name"
@@ -44,7 +44,7 @@ msgstr "prioritas"
 
 #: venues/models.py:12
 msgid "Rooms with a higher priority number will be preferred when allocating rooms to debates"
-msgstr ""
+msgstr "Ruangan-ruangan dengan nomor prioritas yang lebih tinggi akan lebih mungkin terpilih saat mengalokasi Ruangan ke Debat"
 
 #: venues/models.py:15 venues/models.py:78
 msgid "tournament"
@@ -52,7 +52,7 @@ msgstr "turnamen"
 
 #: venues/models.py:16
 msgid "URL"
-msgstr ""
+msgstr "URL"
 
 #: venues/models.py:17
 msgid "A URL that contains extra information about this room, e.g. a map or a meeting link (for online tournaments)"
