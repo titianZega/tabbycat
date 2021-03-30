@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2021-03-30 06:57\n"
+"PO-Revision-Date: 2021-03-30 07:08\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -583,11 +583,11 @@ msgstr ""
 
 #: standings/views.py:408
 msgid "Reply Speaker Tab"
-msgstr ""
+msgstr "Tabulasi Pembicara Penyimpul"
 
 #: standings/views.py:420 standings/views.py:669
 msgid "Team Standings"
-msgstr ""
+msgstr "Klasemen Tim"
 
 #: standings/views.py:499
 msgid "Team Tab"
@@ -596,12 +596,12 @@ msgstr "Tabulasi Tim"
 #: standings/views.py:518
 #, python-format
 msgid "%(category)s Team Standings"
-msgstr ""
+msgstr "Klasemen Tim %(category)s"
 
 #: standings/views.py:545
 #, python-format
 msgid "%(category)s Team Tab"
-msgstr ""
+msgstr "Tabulasi Tim %(category)s"
 
 #: standings/views.py:556
 msgid "Current Team Standings"
