@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2020-12-30 04:10\n"
+"PO-Revision-Date: 2021-03-30 03:35\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -250,7 +250,7 @@ msgstr[0] ""
 
 #: utils/tables.py:745
 msgid "Teams are from the same institution"
-msgstr ""
+msgstr "Tim-tim dari institusi yang sama"
 
 #: utils/tables.py:751
 msgid "Conflicts/Flags"
