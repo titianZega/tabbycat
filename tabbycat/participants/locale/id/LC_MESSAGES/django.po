@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-16 14:12-0400\n"
-"PO-Revision-Date: 2021-03-30 07:57\n"
+"PO-Revision-Date: 2021-03-30 08:14\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -296,7 +296,7 @@ msgstr "pendebat"
 
 #: participants/models.py:353
 msgid "Adjudicators not assigned to any tournament can be shared between tournaments"
-msgstr ""
+msgstr "Juri yang tidak terdaftar pada turnamen apapun dapat digunakan antar turnamen"
 
 #: participants/models.py:355
 msgid "base score"
@@ -453,7 +453,7 @@ msgstr "<strong>Peringatan:</strong>Jika ada objek \"tim debat\" pada daftar di 
 #. Translators: This follows the above sentence in the same paragraph.
 #: participants/templates/admin/participants/delete_debateteam_warning.html:21
 msgid "This is especially the case if any team that would be deleted has already participated in a debate. If a team already has a result entered for it, deleting the team also deletes those results, <strong>which normally breaks the tab</strong>, even if you think you don't need those results anymore. If a team has debated and is withdrawing from the tournament, you should <strong>not</strong> delete it. Just mark the team inactive under the “Availability” section of the Tabbycat admin area."
-msgstr ""
+msgstr "Terutama pada kasus jika ada tim yang akan dihapus ternyata sudah berpartisipasi pada sebuah debat. Jika tim tersebut sudah memiliki hasil yang tercatat, menghapus tim tersebut juga akan menghapus hasil tersebut, <strong>dimana biasanya juga menghapus tab yang ada</strong>, bahkan jika anda sudah tidak membutuhkan lagi hasil tersebut. Jika sebuah tim sudah mengikuti pertandingan dan sedang menunggu hasil dari turnamen tersebut, anda sebaiknya <strong>tidak</strong> menghapus tim tersebut. Anda cukup menandai tim tersebut tidak aktif pada bagian \"Ketersediaan\" di area admin Tabbycat."
 
 #: participants/templates/admin/participants/delete_debateteam_warning.html:33
 msgid "Note that deleting an institution also deletes all teams from that institution."
@@ -462,12 +462,12 @@ msgstr "Mohon diingat bahwa menghapus sebuah institusi juga akan menghapus selur
 #: participants/templates/admin/participants/delete_debateteam_warning.html:41
 #, python-format
 msgid "If you're very sure about deleting this %(object_name)s, please delete the above objects first, and be sure to heed the warning that you will see on the “debate team” objects page before proceeding."
-msgstr ""
+msgstr "Jika anda merasa yakin untuk menghapus objek %(object_name)s, harap hapus objek yang berada di atasnya terlebih dahulu, dan pastikan untuk memperhatikan peringatan yang akan anda lihat pada halaman objek \"tim debat\" sebelum melanjutkan."
 
 #: participants/templates/admin/participants/delete_debateteam_warning.html:47
 #, python-format
 msgid "If you're very sure about deleting these %(objects_name)s, please delete the above objects first, and be sure to heed the warning that you will see on the “debate team” objects page before proceeding."
-msgstr ""
+msgstr "Jika anda merasa yakin untuk menghapus objek %(objects_name)s ini, harap hapus objek yang berada di atasnya terlebih dahulu, dan pastikan untuk memperhatikan peringatan yang akan anda lihat pada halaman objek \"tim debat\" sebelum melanjutkan."
 
 #: participants/templates/admin/participants/team/change_form.html:8
 msgid "<strong>Don't forget:</strong> If this team should be conflicted against its own institution, you should add this conflict <strong>now</strong> in the <strong>Team-institution conflicts</strong> tab above, because the own-institution conflict is <strong>not</strong> automatically created when using this form."
@@ -678,7 +678,7 @@ msgstr ""
 #: participants/templates/current_round/round_team.html:60
 #, python-format
 msgid "%(team)s's debate is in <strong>%(room)s</strong>."
-msgstr ""
+msgstr "Debat tim %(team)s berada di <strong>%(room)s</strong>."
 
 #: participants/templates/current_round/round_team.html:66
 #, python-format
