@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2021-03-30 07:37\n"
+"PO-Revision-Date: 2021-03-30 07:47\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -29,7 +29,7 @@ msgstr "Ranking yang sama akan ditambahkan dua kali:"
 #: standings/base.py:414
 #, python-format
 msgid "Unrecognized metric code: \"%(code)s\""
-msgstr "Metrik kode tidak dikenal: %(code)s"
+msgstr "Kode metrik tidak dikenal: %(code)s"
 
 #: standings/diversity.py:136 standings/diversity.py:166
 #: standings/diversity.py:187
@@ -72,15 +72,15 @@ msgstr "Rata-rata Rating"
 
 #: standings/diversity.py:210
 msgid "Median Rating"
-msgstr "Rating Median"
+msgstr "Median Rating"
 
 #: standings/diversity.py:211
 msgid "Upper Quartile Rating"
-msgstr "Rating Kuartil Atas"
+msgstr "Kuartil Atas Rating"
 
 #: standings/diversity.py:212
 msgid "Lower Quartile Rating"
-msgstr "Rating Kuartil Bawah"
+msgstr "Kuartil Bawah Rating"
 
 #: standings/diversity.py:218
 msgid "Average Rating From Teams"
@@ -100,11 +100,11 @@ msgstr "Rata-rata Rating dari Trainee"
 
 #: standings/diversity.py:246
 msgid "Average Score"
-msgstr "Nilai Rata-rata"
+msgstr "Rata-rata Nilai"
 
 #: standings/diversity.py:247
 msgid "Median Score"
-msgstr "Nilai Median"
+msgstr "Median Nilai"
 
 #: standings/diversity.py:248
 msgid "Upper Quartile Score"
