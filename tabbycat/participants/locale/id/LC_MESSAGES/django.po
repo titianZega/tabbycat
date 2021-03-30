@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-16 14:12-0400\n"
-"PO-Revision-Date: 2021-03-30 08:14\n"
+"PO-Revision-Date: 2021-03-30 08:23\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -603,12 +603,12 @@ msgstr ""
 #: participants/templates/current_round/round_adj.html:107
 #, python-format
 msgid "%(adjudicator)s is a <strong>%(type)s</strong> adjudicating in <a href=\"%(url)s\"><strong>%(room)s</strong></a>."
-msgstr ""
+msgstr "Juri %(adjudicator)s adalah tipe juri <strong>%(type)s</strong> yang sedang menjadi juri di tautan <a href=\"%(url)s\"><strong>%(room)s</strong></a>."
 
 #: participants/templates/current_round/round_adj.html:111
 #, python-format
 msgid "%(adjudicator)s is a <strong>%(type)s</strong> adjudicating in <strong>%(room)s</strong>."
-msgstr ""
+msgstr "Juri %(adjudicator)s adalah tipe juri <strong>%(type)s</strong> yang sedang menjadi juri di <strong>%(room)s</strong>."
 
 #: participants/templates/current_round/round_adj.html:117
 #, python-format
@@ -623,7 +623,7 @@ msgstr ""
 #: participants/templates/current_round/round_adj.html:129
 #, python-format
 msgid "%(adjudicator)s is adjudicating in <a href=\"%(url)s\"><strong>%(room)s</strong></a>."
-msgstr ""
+msgstr "juri %(adjudicator)s sedang menjadi juri di tautan <a href=\"%(url)s\"><strong>%(room)s</strong></a>."
 
 #: participants/templates/current_round/round_adj.html:133
 #, python-format
@@ -673,7 +673,7 @@ msgstr "Anda sedang melakukan debat sebagai tim <strong>%(side)s</strong>."
 #: participants/templates/current_round/round_team.html:56
 #, python-format
 msgid "%(team)s's debate is in <a href=\"%(url)s\"><strong>%(room)s</strong></a>."
-msgstr ""
+msgstr "Debat untuk %(team)s berada di tautan <a href=\"%(url)s\"><strong>%(room)s</strong></a>."
 
 #: participants/templates/current_round/round_team.html:60
 #, python-format
@@ -693,7 +693,7 @@ msgstr "Debat anda berada di ruang <strong>%(room)s</strong>."
 #: participants/templates/edit_speaker_eligibility.html:7
 #, python-format
 msgid "It looks like there aren't any speaker categories are defined. If you'd like to produce category-specific speaker tabs, such as a novice or ESL tab, use the <a href=\"%(categories_url)s\" class=\"alert-link\">Speaker Categories</a> page to define them, then return to this page to set speaker eligibility."
-msgstr ""
+msgstr "Sepertinya belum ada kategori pendebat yang sudah ditentukan. JIka anda ingin membuat tab untuk kategori pendebat yang spesifik, seperti tab pemula atau ESL, gunakan halaman <a href=\"%(categories_url)s\" class=\"alert-link\">Kategori Pendebat</a> untuk membuat kategori tersebut, lalu kembali ke halaman ini untuk menentukan kelayakan pendebat."
 
 #: participants/templates/feedback_progress_panel.html:10
 msgid "Feedback Returns"
@@ -912,7 +912,7 @@ msgstr "Hasil"
 #: participants/views.py:212 participants/views.py:246
 #, python-format
 msgid "Record for %(name)s"
-msgstr ""
+msgstr "Catatan Rekor untuk %(name)s"
 
 #: participants/views.py:243
 msgid "Previous Rounds"
