@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2021-03-30 07:17\n"
+"PO-Revision-Date: 2021-03-30 07:37\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -24,12 +24,12 @@ msgstr "Metrik yang sama akan ditambahkan dua kali:"
 
 #: standings/base.py:298
 msgid "The same ranking would be added twice:"
-msgstr "Rangking yang sama akan ditambahkan dua kali:"
+msgstr "Ranking yang sama akan ditambahkan dua kali:"
 
 #: standings/base.py:414
 #, python-format
 msgid "Unrecognized metric code: \"%(code)s\""
-msgstr "Metrik kode tidak dikenal:%(code)s"
+msgstr "Metrik kode tidak dikenal: %(code)s"
 
 #: standings/diversity.py:136 standings/diversity.py:166
 #: standings/diversity.py:187
