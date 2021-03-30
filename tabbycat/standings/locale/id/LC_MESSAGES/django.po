@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2021-03-30 07:47\n"
+"PO-Revision-Date: 2021-03-30 07:57\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -108,11 +108,11 @@ msgstr "Median Nilai"
 
 #: standings/diversity.py:248
 msgid "Upper Quartile Score"
-msgstr "Nilai Kuartil Atas"
+msgstr "Kuartil Atas Nilai"
 
 #: standings/diversity.py:249
 msgid "Lower Quartile Score"
-msgstr "Nilai Kuartil Bawah"
+msgstr "Kuartil Bawah Nilai"
 
 #: standings/diversity.py:256
 msgid "Reply Speaker Average"
@@ -273,11 +273,11 @@ msgstr "jumlah juri yang memberikan suara untuk tim ini"
 
 #: standings/teams.py:255
 msgid "Ballots"
-msgstr "Kertas Suara"
+msgstr "Balot"
 
 #: standings/teams.py:256
 msgid "votes/ballots carried"
-msgstr ""
+msgstr "suara/balot yang dimiliki"
 
 #: standings/teams.py:280
 msgid "number of firsts"
@@ -305,7 +305,7 @@ msgstr "3rds"
 
 #: standings/teams.py:313
 msgid "Who-beat-whom"
-msgstr ""
+msgstr "Siapa-mengalahkan-siapa"
 
 #: standings/teams.py:314
 msgid "WBW"
@@ -313,7 +313,7 @@ msgstr ""
 
 #: standings/teams.py:315
 msgid "who-beat-whom"
-msgstr ""
+msgstr "siapa-mengalahkan-siapa"
 
 #: standings/templates/current_standings.html:6
 msgid "It also excludes results from silent rounds (if any) and from the current round."
@@ -465,7 +465,7 @@ msgstr "Mosi Paling/Kurang Populer"
 
 #: standings/templates/standings_index.html:177
 msgid "Average Speaks"
-msgstr ""
+msgstr "Rata-rata Nilai Pembicara"
 
 #: standings/templates/standings_menu.html:6
 msgid "Overview"
