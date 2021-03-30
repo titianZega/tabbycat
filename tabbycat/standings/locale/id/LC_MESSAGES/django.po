@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2021-03-30 07:57\n"
+"PO-Revision-Date: 2021-03-30 08:14\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -407,7 +407,7 @@ msgstr "Urutan"
 
 #: standings/templates/standings_index.html:18
 msgid "Top Speaks"
-msgstr ""
+msgstr "Nilai Pembicara Teratas"
 
 #: standings/templates/standings_index.html:22
 #: standings/templates/standings_index.html:41
@@ -425,15 +425,15 @@ msgstr ""
 #: standings/templates/standings_index.html:167
 #: standings/templates/standings_index.html:186
 msgid "No data yet"
-msgstr ""
+msgstr "Belum ada data"
 
 #: standings/templates/standings_index.html:37
 msgid "Bottom Speaks"
-msgstr ""
+msgstr "Nilai Pembicara Terbawah"
 
 #: standings/templates/standings_index.html:56
 msgid "Largest Margins"
-msgstr ""
+msgstr "Margin Terbesar"
 
 #: standings/templates/standings_index.html:60
 #: standings/templates/standings_index.html:81
@@ -443,7 +443,7 @@ msgstr ""
 
 #: standings/templates/standings_index.html:77
 msgid "Closest Margins"
-msgstr ""
+msgstr "Margin Terdekat"
 
 #: standings/templates/standings_index.html:98
 msgid "Top Team Scores"
