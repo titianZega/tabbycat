@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-02 04:52\n"
+"PO-Revision-Date: 2021-04-02 05:45\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -38,23 +38,23 @@ msgstr "Supprimer clé d’URL"
 #, python-format
 msgid "%(count)d team had their emoji reset."
 msgid_plural "%(count)d teams had their emojis reset."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(count)d équipe a fait réinitialiser leur émoji."
+msgstr[1] "%(count)d équipes ont eu leurs émoji réinitialisés."
 
 #: participants/admin.py:164
 msgid "Reset emoji"
-msgstr ""
+msgstr "Réinitialiser émoji"
 
 #: participants/admin.py:170
 #, python-format
 msgid "%(count)d team had their code name reset."
 msgid_plural "%(count)d teams had their code names reset."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%(count)d équipe a fait réinitialiser leur nom code."
+msgstr[1] "%(count)d équipes ont eu leurs noms code réinitialisés."
 
 #: participants/admin.py:174
 msgid "Reset code name"
-msgstr ""
+msgstr "Réinitialiser nom code"
 
 #: participants/admin.py:228
 #, python-format
