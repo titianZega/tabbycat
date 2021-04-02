@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2020-12-30 04:12\n"
+"POT-Creation-Date: 2021-04-02 01:40-0300\n"
+"PO-Revision-Date: 2021-04-02 04:55\n"
 "Last-Translator: \n"
 "Language-Team: Talossan\n"
 "Language: tzl_TZL\n"
@@ -21,7 +21,7 @@ msgstr ""
 msgid "Application Programming Interface"
 msgstr "crwdns51256:0crwdne51256:0"
 
-#: checkins/apps.py:7 templates/nav/admin_nav.html:113
+#: checkins/apps.py:7 templates/nav/admin_nav.html:117
 #: templates/nav/assistant_nav.html:38 templates/nav/public_nav.html:105
 msgid "Check-Ins"
 msgstr "crwdns30572:0crwdne30572:0"
@@ -163,7 +163,7 @@ msgstr "crwdns34122:0%(speaker)scrwdnd34122:0%(time)scrwdne34122:0"
 msgid "%(speaker)s is missing."
 msgstr "crwdns30634:0%(speaker)scrwdne30634:0"
 
-#: checkins/views.py:30 templates/nav/admin_nav.html:124
+#: checkins/views.py:30 templates/nav/admin_nav.html:128
 #: templates/nav/assistant_nav.html:42
 msgid "Scan Identifiers"
 msgstr "crwdns30636:0crwdne30636:0"
@@ -176,11 +176,11 @@ msgstr "crwdns30638:0crwdne30638:0"
 msgid "Rooms' Check-In Statuses"
 msgstr "crwdns51262:0crwdne51262:0"
 
-#: checkins/views.py:169 templates/nav/admin_nav.html:120
+#: checkins/views.py:169 templates/nav/admin_nav.html:124
 msgid "Make Identifiers"
 msgstr "crwdns30642:0crwdne30642:0"
 
-#: checkins/views.py:176 templates/nav/admin_nav.html:206
+#: checkins/views.py:176 templates/nav/admin_nav.html:210
 msgid "Speakers"
 msgstr "crwdns30644:0crwdne30644:0"
 
@@ -386,8 +386,8 @@ msgid "Using an app designed for debate timekeeping makes speaking and adjudicat
 msgstr "crwdns30740:0%%crwdnd30740:0%%crwdnd30740:0%%crwdnd30740:0%%crwdne30740:0"
 
 #: templates/footer.html:51
-msgid "Need ballots?"
-msgstr "crwdns30742:0crwdne30742:0"
+msgid "Our Organisation"
+msgstr "crwdns51944:0crwdne51944:0"
 
 #: templates/footer.html:53
 msgid "Tabbycat is supported by the <a href=\"http://tabbycat-debate.org/\">Tabbycat Debate Association</a>, a non-profit for advancing open debate technology."
@@ -453,8 +453,8 @@ msgstr "crwdns30764:0crwdne30764:0"
 msgid "Public Area"
 msgstr "crwdns30766:0crwdne30766:0"
 
-#: templates/nav/admin_nav.html:60 templates/nav/admin_nav.html:146
-#: templates/nav/admin_nav.html:186 templates/nav/admin_nav.html:245
+#: templates/nav/admin_nav.html:60 templates/nav/admin_nav.html:150
+#: templates/nav/admin_nav.html:190 templates/nav/admin_nav.html:249
 msgid "Overview"
 msgstr "crwdns30768:0crwdne30768:0"
 
@@ -487,114 +487,118 @@ msgstr "crwdns34126:0crwdne34126:0"
 msgid "Preformed Panels"
 msgstr "crwdns34128:0crwdne34128:0"
 
-#: templates/nav/admin_nav.html:103 templates/nav/public_nav.html:160
+#: templates/nav/admin_nav.html:97
+msgid "Export XML"
+msgstr "crwdns51946:0crwdne51946:0"
+
+#: templates/nav/admin_nav.html:107 templates/nav/public_nav.html:160
 msgid "Sides"
 msgstr "crwdns30782:0crwdne30782:0"
 
-#: templates/nav/admin_nav.html:128 templates/nav/assistant_nav.html:48
+#: templates/nav/admin_nav.html:132 templates/nav/assistant_nav.html:48
 msgid "People's Status"
 msgstr "crwdns30786:0crwdne30786:0"
 
-#: templates/nav/admin_nav.html:132
+#: templates/nav/admin_nav.html:136
 msgid "Rooms' Status"
 msgstr "crwdns51278:0crwdne51278:0"
 
-#: templates/nav/admin_nav.html:140
+#: templates/nav/admin_nav.html:144
 msgid "Feedback"
 msgstr "crwdns30790:0crwdne30790:0"
 
-#: templates/nav/admin_nav.html:149
+#: templates/nav/admin_nav.html:153
 msgid "Latest"
 msgstr "crwdns30792:0crwdne30792:0"
 
-#: templates/nav/admin_nav.html:152
+#: templates/nav/admin_nav.html:156
 msgid "Important"
 msgstr "crwdns34130:0crwdne34130:0"
 
-#: templates/nav/admin_nav.html:155
+#: templates/nav/admin_nav.html:159
 msgid "Comments"
 msgstr "crwdns34132:0crwdne34132:0"
 
-#: templates/nav/admin_nav.html:158
+#: templates/nav/admin_nav.html:162
 msgid "Find by Source"
 msgstr "crwdns30794:0crwdne30794:0"
 
-#: templates/nav/admin_nav.html:161
+#: templates/nav/admin_nav.html:165
 msgid "Find by Target"
 msgstr "crwdns30796:0crwdne30796:0"
 
-#: templates/nav/admin_nav.html:164
+#: templates/nav/admin_nav.html:168
 msgid "Unsubmitted"
 msgstr "crwdns30798:0crwdne30798:0"
 
-#: templates/nav/admin_nav.html:167
+#: templates/nav/admin_nav.html:171
 msgid "Add Feedback"
 msgstr "crwdns30800:0crwdne30800:0"
 
-#: templates/nav/admin_nav.html:170
+#: templates/nav/admin_nav.html:174
 msgid "Bulk Update"
 msgstr "crwdns30802:0crwdne30802:0"
 
-#: templates/nav/admin_nav.html:179 templates/nav/public_nav.html:165
+#: templates/nav/admin_nav.html:183 templates/nav/public_nav.html:165
 msgid "Standings"
 msgstr "crwdns30804:0crwdne30804:0"
 
-#: templates/nav/admin_nav.html:190
+#: templates/nav/admin_nav.html:194
 msgid "All Teams"
 msgstr "crwdns30806:0crwdne30806:0"
 
-#: templates/nav/admin_nav.html:192
+#: templates/nav/admin_nav.html:196
 msgid "Teams"
 msgstr "crwdns30808:0crwdne30808:0"
 
-#: templates/nav/admin_nav.html:197 templates/nav/public_nav.html:13
+#: templates/nav/admin_nav.html:201 templates/nav/public_nav.html:13
 #, python-format
 msgid "%(category)s Teams"
 msgstr "crwdns51280:0%(category)scrwdne51280:0"
 
-#: templates/nav/admin_nav.html:204
+#: templates/nav/admin_nav.html:208
 msgid "All Speakers"
 msgstr "crwdns30812:0crwdne30812:0"
 
-#: templates/nav/admin_nav.html:211 templates/nav/public_nav.html:30
+#: templates/nav/admin_nav.html:215 templates/nav/public_nav.html:30
 #, python-format
 msgid "%(category)s Speakers"
 msgstr "crwdns51282:0%(category)scrwdne51282:0"
 
-#: templates/nav/admin_nav.html:219
+#: templates/nav/admin_nav.html:223
 msgid "Replies"
 msgstr "crwdns30816:0crwdne30816:0"
 
-#: templates/nav/admin_nav.html:223 templates/nav/public_nav.html:155
+#: templates/nav/admin_nav.html:227 templates/nav/public_nav.html:155
 msgid "Motions"
 msgstr "crwdns30818:0crwdne30818:0"
 
-#: templates/nav/admin_nav.html:226 templates/nav/public_nav.html:170
+#: templates/nav/admin_nav.html:230 templates/nav/public_nav.html:170
 msgid "Diversity"
 msgstr "crwdns30820:0crwdne30820:0"
 
-#: templates/nav/admin_nav.html:239
+#: templates/nav/admin_nav.html:243
 msgid "Breaks"
 msgstr "crwdns30822:0crwdne30822:0"
 
-#: templates/nav/admin_nav.html:249
+#: templates/nav/admin_nav.html:253
 #, python-format
 msgid "%(category)s"
 msgstr "crwdns51284:0%(category)scrwdne51284:0"
 
-#: templates/nav/admin_nav.html:253
+#: templates/nav/admin_nav.html:257
 msgid "Adjudicators'"
 msgstr "crwdns51286:0crwdne51286:0"
 
-#: templates/nav/admin_nav.html:256
+#: templates/nav/admin_nav.html:260
 msgid "Edit Categories"
 msgstr "crwdns51288:0crwdne51288:0"
 
-#: templates/nav/admin_nav.html:259
+#: templates/nav/admin_nav.html:263
 msgid "Edit Eligibility"
 msgstr "crwdns51290:0crwdne51290:0"
 
-#: templates/nav/admin_nav.html:274 templates/nav/top_nav_base.html:101
+#: templates/nav/admin_nav.html:278 templates/nav/top_nav_base.html:101
 msgid "Log Out"
 msgstr "crwdns30826:0crwdne30826:0"
 
@@ -602,7 +606,7 @@ msgstr "crwdns30826:0crwdne30826:0"
 msgid "Enter Results"
 msgstr "crwdns30828:0crwdne30828:0"
 
-#: templates/nav/assistant_nav.html:11 templates/nav/public_nav.html:195
+#: templates/nav/assistant_nav.html:11 templates/nav/public_nav.html:211
 msgid "Enter Feedback"
 msgstr "crwdns30830:0crwdne30830:0"
 
@@ -687,7 +691,7 @@ msgstr "crwdns30864:0crwdne30864:0"
 msgid "Feedback Progress"
 msgstr "crwdns30866:0crwdne30866:0"
 
-#: templates/nav/public_nav.html:190
+#: templates/nav/public_nav.html:191 templates/nav/public_nav.html:197
 msgid "Enter Ballot"
 msgstr "crwdns30868:0crwdne30868:0"
 
@@ -891,12 +895,12 @@ msgstr "crwdns30948:0crwdne30948:0"
 msgid "Password reset on Tabbycat site at %(domain)s"
 msgstr "crwdns30950:0%(domain)scrwdne30950:0"
 
-#: urls.py:103
+#: urls.py:107
 #, python-format
 msgid "Hi, %(user)s — you just logged in!"
 msgstr "crwdns51298:0%(user)scrwdne51298:0"
 
-#: urls.py:106
+#: urls.py:110
 msgid "Welcome! You just logged in!"
 msgstr "crwdns30954:0crwdne30954:0"
 
