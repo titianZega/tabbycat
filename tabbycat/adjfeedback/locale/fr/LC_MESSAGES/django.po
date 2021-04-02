@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-02 04:52\n"
+"PO-Revision-Date: 2021-04-02 05:35\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -383,7 +383,7 @@ msgstr "choix"
 
 #: adjfeedback/models.py:177
 msgid "Permissible choices for select one/multiple fields (ignored for other fields)"
-msgstr ""
+msgstr "Les choix acceptables pour les champs de selection unique/multiple (ignoré pour les autres types de champ)"
 
 #: adjfeedback/models.py:182
 msgid "adjudicator feedback question"
@@ -685,7 +685,7 @@ msgstr "La <a href=\"%(option_url)s\" class=\"alert-link\">configuration des év
 #: adjfeedback/templates/feedback_overview.html:14
 #, python-format
 msgid "The current <a href=\"%(option_url)s\" class=\"alert-link\">feedback configuration</a> allows and expects both chairs and panellists to submit feedback on each other, and also chairs to submit feedback on trainees."
-msgstr ""
+msgstr "La <a href=\"%(option_url)s\" class=\"alert-link\">configuration des évaluations</a> actuelle permet et attend les présidents et panellistes à soumettre des évaluations sur l'un l'autre et aussi les présidents pour les stagiaires."
 
 #: adjfeedback/templates/feedback_overview.html:18
 #, python-format
