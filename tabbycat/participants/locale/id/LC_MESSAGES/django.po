@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-16 14:12-0400\n"
-"PO-Revision-Date: 2021-03-30 09:00\n"
+"POT-Creation-Date: 2021-04-02 01:40-0300\n"
+"PO-Revision-Date: 2021-04-02 04:48\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -18,28 +18,48 @@ msgstr ""
 "X-Crowdin-Project-ID: 364715\n"
 "X-Crowdin-File-ID: 942\n"
 
-#: participants/admin.py:94
+#: participants/admin.py:96
 #, python-format
 msgid "The team can't be in a break category of a different tournament. Please remove: %(category)s"
 msgstr "Tim ini tidak dapat berada pada kategori break dari turnamen yang berbeda. Harap hapus %(category)s"
 
-#: participants/admin.py:146
+#: participants/admin.py:148
 #, python-format
 msgid "%(count)d speaker had their URL key removed."
 msgid_plural "%(count)d speakers had their URL keys removed."
 msgstr[0] "Sebanyak %(count)d pendebat sudah menghapus kunci URL mereka."
 
-#: participants/admin.py:150 participants/admin.py:209
+#: participants/admin.py:152 participants/admin.py:233
 msgid "Delete URL key"
 msgstr "Hapus kunci URL"
 
-#: participants/admin.py:204
+#: participants/admin.py:160
+#, python-format
+msgid "%(count)d team had their emoji reset."
+msgid_plural "%(count)d teams had their emojis reset."
+msgstr[0] ""
+
+#: participants/admin.py:164
+msgid "Reset emoji"
+msgstr ""
+
+#: participants/admin.py:170
+#, python-format
+msgid "%(count)d team had their code name reset."
+msgid_plural "%(count)d teams had their code names reset."
+msgstr[0] ""
+
+#: participants/admin.py:174
+msgid "Reset code name"
+msgstr ""
+
+#: participants/admin.py:228
 #, python-format
 msgid "%(count)d adjudicator had their URL key removed."
 msgid_plural "%(count)d adjudicators had their URL keys removed."
 msgstr[0] "Sebanyak %(count)d juri sudah menghapus kunci URL mereka."
 
-#: participants/apps.py:7 participants/views.py:40
+#: participants/apps.py:7 participants/views.py:41
 msgid "Participants"
 msgstr "Partisipan"
 
@@ -794,7 +814,7 @@ msgstr "Email sudah dikirim."
 msgid "Email Team Registrations"
 msgstr "Registrasi Email Tim"
 
-#: participants/templates/participants_subnav.html:26 participants/views.py:134
+#: participants/templates/participants_subnav.html:26 participants/views.py:135
 msgid "Code Names"
 msgstr "Nama Terkode"
 
@@ -850,72 +870,72 @@ msgstr "Kategori pembicara:"
 msgid "%(code_name)s <em>(%(real_name)s)</em>"
 msgstr "%(code_name)s<em>(%(real_name)s)</em>"
 
-#: participants/views.py:45
+#: participants/views.py:46
 msgid "Adjudicators"
 msgstr "Juri"
 
-#: participants/views.py:54
+#: participants/views.py:55
 msgid "Speakers"
 msgstr "Pembicara"
 
-#: participants/views.py:85
+#: participants/views.py:86
 msgid "Institutions"
 msgstr "Institusi"
 
-#: participants/views.py:101
+#: participants/views.py:102
 msgid "Code"
 msgstr "Kode"
 
-#: participants/views.py:102
+#: participants/views.py:103
 msgid "Full name"
 msgstr "Nama lengkap"
 
-#: participants/views.py:104
+#: participants/views.py:105
 msgid "Region"
 msgstr "Wilayah"
 
-#: participants/views.py:106
+#: participants/views.py:107
 msgid "Teams"
 msgstr "Tim"
 
-#: participants/views.py:106
+#: participants/views.py:107
 msgid "Number of teams"
 msgstr "Jumlah tim"
 
-#: participants/views.py:108
+#: participants/views.py:109
 msgid "Adjs"
 msgstr ""
 
-#: participants/views.py:109
+#: participants/views.py:110
 msgid "Number of adjudicators, excluding independents"
 msgstr "Jumlah juri, kecuali juri independen"
 
-#: participants/views.py:111
+#: participants/views.py:112
 msgid "IAs"
 msgstr ""
 
-#: participants/views.py:112
+#: participants/views.py:113
 msgid "Number of independent adjudicators"
 msgstr "Banyak juri independen"
 
-#: participants/views.py:142
+#: participants/views.py:143
 msgid "Code name"
 msgstr "Kode nama"
 
-#: participants/views.py:162
+#: participants/views.py:163
 msgid "Team Registration"
 msgstr "Registrasi Tim"
 
-#: participants/views.py:207
+#: participants/views.py:228
 msgid "Results"
 msgstr "Hasil"
 
-#: participants/views.py:212 participants/views.py:246
+#: participants/views.py:233 participants/views.py:258
 #, python-format
 msgid "Record for %(name)s"
 msgstr "Catatan Rekor untuk %(name)s"
 
-#: participants/views.py:243
+#: participants/views.py:255
 msgid "Previous Rounds"
 msgstr "Ronde sebelumnya"
 
