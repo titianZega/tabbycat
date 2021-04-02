@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2021-01-12 08:07\n"
+"POT-Creation-Date: 2021-04-02 01:40-0300\n"
+"PO-Revision-Date: 2021-04-02 04:48\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -21,7 +21,7 @@ msgstr ""
 msgid "Application Programming Interface"
 msgstr "Application Programming Interface"
 
-#: checkins/apps.py:7 templates/nav/admin_nav.html:113
+#: checkins/apps.py:7 templates/nav/admin_nav.html:117
 #: templates/nav/assistant_nav.html:38 templates/nav/public_nav.html:105
 msgid "Check-Ins"
 msgstr "Cek-In"
@@ -163,7 +163,7 @@ msgstr "%(speaker)s cek-in pada %(time)s."
 msgid "%(speaker)s is missing."
 msgstr "%(speaker)s tidak ada."
 
-#: checkins/views.py:30 templates/nav/admin_nav.html:124
+#: checkins/views.py:30 templates/nav/admin_nav.html:128
 #: templates/nav/assistant_nav.html:42
 msgid "Scan Identifiers"
 msgstr "Pindah penanda"
@@ -176,11 +176,11 @@ msgstr "Status Cek-in Orang-Orang"
 msgid "Rooms' Check-In Statuses"
 msgstr "Status Cek-In Ruangan-Ruangan"
 
-#: checkins/views.py:169 templates/nav/admin_nav.html:120
+#: checkins/views.py:169 templates/nav/admin_nav.html:124
 msgid "Make Identifiers"
 msgstr "Buat Penanda"
 
-#: checkins/views.py:176 templates/nav/admin_nav.html:206
+#: checkins/views.py:176 templates/nav/admin_nav.html:210
 msgid "Speakers"
 msgstr "Pembicara"
 
@@ -385,8 +385,8 @@ msgid "Using an app designed for debate timekeeping makes speaking and adjudicat
 msgstr "Menggunakan aplikasi yang didesain untuk mengukur waktu debat membuat berbicara dan menjurikan lebih mudah! Cek <a href=\"https://itunes.apple.com/app/apple-store/id1156065589?pt=814172&ct=Tabbycat%%20Installs&mt=8\">Timekept</a> (iPhone/iPad) or <a href=\"https://play.google.com/store/apps/details?id=net.czlee.debatekeeper&referrer=utm_source%%3Dtabbycat%%26utm_medium%%3Dfooter\">Debatekeeper</a> (Android)."
 
 #: templates/footer.html:51
-msgid "Need ballots?"
-msgstr "Butuh kertas suara?"
+msgid "Our Organisation"
+msgstr ""
 
 #: templates/footer.html:53
 msgid "Tabbycat is supported by the <a href=\"http://tabbycat-debate.org/\">Tabbycat Debate Association</a>, a non-profit for advancing open debate technology."
@@ -452,8 +452,8 @@ msgstr "Area Asisten"
 msgid "Public Area"
 msgstr "Area Publik"
 
-#: templates/nav/admin_nav.html:60 templates/nav/admin_nav.html:146
-#: templates/nav/admin_nav.html:186 templates/nav/admin_nav.html:245
+#: templates/nav/admin_nav.html:60 templates/nav/admin_nav.html:150
+#: templates/nav/admin_nav.html:190 templates/nav/admin_nav.html:249
 msgid "Overview"
 msgstr "Tinjauan"
 
@@ -486,114 +486,118 @@ msgstr "Email"
 msgid "Preformed Panels"
 msgstr "Rancangan Panel"
 
-#: templates/nav/admin_nav.html:103 templates/nav/public_nav.html:160
+#: templates/nav/admin_nav.html:97
+msgid "Export XML"
+msgstr ""
+
+#: templates/nav/admin_nav.html:107 templates/nav/public_nav.html:160
 msgid "Sides"
 msgstr "Sisi"
 
-#: templates/nav/admin_nav.html:128 templates/nav/assistant_nav.html:48
+#: templates/nav/admin_nav.html:132 templates/nav/assistant_nav.html:48
 msgid "People's Status"
 msgstr "Status Orang"
 
-#: templates/nav/admin_nav.html:132
+#: templates/nav/admin_nav.html:136
 msgid "Rooms' Status"
 msgstr "Status Ruangan"
 
-#: templates/nav/admin_nav.html:140
+#: templates/nav/admin_nav.html:144
 msgid "Feedback"
 msgstr "Penilaian Juri"
 
-#: templates/nav/admin_nav.html:149
+#: templates/nav/admin_nav.html:153
 msgid "Latest"
 msgstr "Terbaru"
 
-#: templates/nav/admin_nav.html:152
+#: templates/nav/admin_nav.html:156
 msgid "Important"
 msgstr "Penting"
 
-#: templates/nav/admin_nav.html:155
+#: templates/nav/admin_nav.html:159
 msgid "Comments"
 msgstr "Komentar"
 
-#: templates/nav/admin_nav.html:158
+#: templates/nav/admin_nav.html:162
 msgid "Find by Source"
 msgstr "Temukan berdasarkan Sumber"
 
-#: templates/nav/admin_nav.html:161
+#: templates/nav/admin_nav.html:165
 msgid "Find by Target"
 msgstr "Temukan berdasarkan Target"
 
-#: templates/nav/admin_nav.html:164
+#: templates/nav/admin_nav.html:168
 msgid "Unsubmitted"
 msgstr "Belum Diterima"
 
-#: templates/nav/admin_nav.html:167
+#: templates/nav/admin_nav.html:171
 msgid "Add Feedback"
 msgstr "Tambahkan Penilaian"
 
-#: templates/nav/admin_nav.html:170
+#: templates/nav/admin_nav.html:174
 msgid "Bulk Update"
 msgstr "Pembaruan Sekaligus"
 
-#: templates/nav/admin_nav.html:179 templates/nav/public_nav.html:165
+#: templates/nav/admin_nav.html:183 templates/nav/public_nav.html:165
 msgid "Standings"
 msgstr "Urutan"
 
-#: templates/nav/admin_nav.html:190
+#: templates/nav/admin_nav.html:194
 msgid "All Teams"
 msgstr "Semua Tim"
 
-#: templates/nav/admin_nav.html:192
+#: templates/nav/admin_nav.html:196
 msgid "Teams"
 msgstr "Tim"
 
-#: templates/nav/admin_nav.html:197 templates/nav/public_nav.html:13
+#: templates/nav/admin_nav.html:201 templates/nav/public_nav.html:13
 #, python-format
 msgid "%(category)s Teams"
 msgstr "%(category)s Tim"
 
-#: templates/nav/admin_nav.html:204
+#: templates/nav/admin_nav.html:208
 msgid "All Speakers"
 msgstr "Semua Pembicara"
 
-#: templates/nav/admin_nav.html:211 templates/nav/public_nav.html:30
+#: templates/nav/admin_nav.html:215 templates/nav/public_nav.html:30
 #, python-format
 msgid "%(category)s Speakers"
 msgstr "Pembicara kategori %(category)s"
 
-#: templates/nav/admin_nav.html:219
+#: templates/nav/admin_nav.html:223
 msgid "Replies"
 msgstr "Tanggapan"
 
-#: templates/nav/admin_nav.html:223 templates/nav/public_nav.html:155
+#: templates/nav/admin_nav.html:227 templates/nav/public_nav.html:155
 msgid "Motions"
 msgstr "Mosi"
 
-#: templates/nav/admin_nav.html:226 templates/nav/public_nav.html:170
+#: templates/nav/admin_nav.html:230 templates/nav/public_nav.html:170
 msgid "Diversity"
 msgstr "Keberagaman"
 
-#: templates/nav/admin_nav.html:239
+#: templates/nav/admin_nav.html:243
 msgid "Breaks"
 msgstr "Break"
 
-#: templates/nav/admin_nav.html:249
+#: templates/nav/admin_nav.html:253
 #, python-format
 msgid "%(category)s"
 msgstr ""
 
-#: templates/nav/admin_nav.html:253
+#: templates/nav/admin_nav.html:257
 msgid "Adjudicators'"
 msgstr "Milik Juri"
 
-#: templates/nav/admin_nav.html:256
+#: templates/nav/admin_nav.html:260
 msgid "Edit Categories"
 msgstr "Sunting Kategori"
 
-#: templates/nav/admin_nav.html:259
+#: templates/nav/admin_nav.html:263
 msgid "Edit Eligibility"
 msgstr "Sunting Kelayakan"
 
-#: templates/nav/admin_nav.html:274 templates/nav/top_nav_base.html:101
+#: templates/nav/admin_nav.html:278 templates/nav/top_nav_base.html:101
 msgid "Log Out"
 msgstr "Keluar"
 
@@ -601,7 +605,7 @@ msgstr "Keluar"
 msgid "Enter Results"
 msgstr "Masukkan Hasil"
 
-#: templates/nav/assistant_nav.html:11 templates/nav/public_nav.html:195
+#: templates/nav/assistant_nav.html:11 templates/nav/public_nav.html:211
 msgid "Enter Feedback"
 msgstr "Berikan Penilaian"
 
@@ -686,7 +690,7 @@ msgstr "Break"
 msgid "Feedback Progress"
 msgstr "Progres Penilaian Juri"
 
-#: templates/nav/public_nav.html:190
+#: templates/nav/public_nav.html:191 templates/nav/public_nav.html:197
 msgid "Enter Ballot"
 msgstr "Masukkan Lembar Penjurian"
 
@@ -890,12 +894,12 @@ msgstr "Kembali ke halaman login"
 msgid "Password reset on Tabbycat site at %(domain)s"
 msgstr "Reset password pada situs Tabbycat di %(domain)s"
 
-#: urls.py:103
+#: urls.py:107
 #, python-format
 msgid "Hi, %(user)s — you just logged in!"
 msgstr "Hi, %(user)s — Anda baru saja masuk!"
 
-#: urls.py:106
+#: urls.py:110
 msgid "Welcome! You just logged in!"
 msgstr "Selamat datang! Anda baru saja masuk!"
 
