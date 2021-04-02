@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-02 04:52\n"
+"PO-Revision-Date: 2021-04-02 05:15\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -259,7 +259,7 @@ msgstr "Conflits/signalements"
 
 #: utils/tables.py:819
 msgid "The confirmed ballot"
-msgstr ""
+msgstr "La feuille confirmée"
 
 #: utils/tables.py:824 utils/tables.py:849
 msgid "No ballot"
@@ -267,7 +267,7 @@ msgstr "Aucune feuille"
 
 #: utils/tables.py:826 utils/tables.py:851
 msgid "No scores"
-msgstr ""
+msgstr "Pas de notes"
 
 #: utils/tables.py:829 utils/tables.py:854 utils/tables.py:866
 msgid "View Ballot"
