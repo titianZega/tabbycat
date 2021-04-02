@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-02 04:52\n"
+"PO-Revision-Date: 2021-04-02 05:45\n"
 "Last-Translator: \n"
 "Language-Team: French\n"
 "Language: fr_FR\n"
@@ -387,7 +387,7 @@ msgstr "Utiliser un application conçu pour le débat rend parler et juger plus 
 
 #: templates/footer.html:51
 msgid "Our Organisation"
-msgstr ""
+msgstr "Notre organisation"
 
 #: templates/footer.html:53
 msgid "Tabbycat is supported by the <a href=\"http://tabbycat-debate.org/\">Tabbycat Debate Association</a>, a non-profit for advancing open debate technology."
@@ -489,7 +489,7 @@ msgstr "Jurys préformés"
 
 #: templates/nav/admin_nav.html:97
 msgid "Export XML"
-msgstr ""
+msgstr "Exporter XML"
 
 #: templates/nav/admin_nav.html:107 templates/nav/public_nav.html:160
 msgid "Sides"
