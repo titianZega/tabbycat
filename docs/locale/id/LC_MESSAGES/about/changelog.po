@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-05 06:35\n"
+"PO-Revision-Date: 2021-04-05 07:25\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -40,11 +40,11 @@ msgstr "Mengubah nama 'test score' menjadi 'base score'"
 
 #: ../../../CHANGELOG.rst:11
 msgid "Divisions-specific features have been deprecated and removed"
-msgstr ""
+msgstr "Fitur khusus divisi sudah tidak digunakan lagi dan telah dihapus"
 
 #: ../../../CHANGELOG.rst:12
 msgid "Moved the 'Edit Database' menu item to the dropdown with the logo in the admin navigation"
-msgstr ""
+msgstr "Memindahkan item menu 'Ubah Basisdata' ke dropdown dengan logo pada bagian navigasi untuk admin"
 
 #: ../../../CHANGELOG.rst:13
 msgid "Pull-ups can now be restricted to teams with the lowest draw strength (by speaker or team points) of their bracket"
@@ -68,16 +68,16 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:21
 msgid "*Release date: 19 October 2019*"
-msgstr ""
+msgstr "*Tanggal rilis: 19 Oktober 2019*"
 
 #: ../../../CHANGELOG.rst:23
 msgid "Fixed issue where teams would appear to be unavailable in break rounds"
-msgstr ""
+msgstr "Memperbaiki masalah dimana tim tampil tidak tersedia pada ronde istirahat"
 
 #: ../../../CHANGELOG.rst:24 ../../../CHANGELOG.rst:294
 #: ../../../CHANGELOG.rst:302 ../../../CHANGELOG.rst:314
 msgid "Other minor fixes"
-msgstr ""
+msgstr "Perbaikan minor lainnya"
 
 #: ../../../CHANGELOG.rst:28
 msgid "2.3.1"
@@ -85,7 +85,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:29
 msgid "*Release date: 6 October 2019*"
-msgstr ""
+msgstr "*Tanggal rilis: 6 Oktober 2019*"
 
 #: ../../../CHANGELOG.rst:31
 msgid "Fixed issue where the institutions list would count teams/adjudicators outside of the tournament"
@@ -105,11 +105,11 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:38
 msgid "2.3.0 (LaPerm)"
-msgstr ""
+msgstr "2.3.0 (LaPerm)"
 
 #: ../../../CHANGELOG.rst:39
 msgid "*Release date: 27 September 2019*"
-msgstr ""
+msgstr "*Tanggal rilis: 27 September 2019*"
 
 #: ../../../CHANGELOG.rst:44
 msgid "Added a preformed panel system which provides a powerful take on a 'shadow draw' workflow"
