@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 06:45\n"
+"PO-Revision-Date: 2021-04-05 06:55\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -689,19 +689,19 @@ msgstr ""
 #: results/templates/privateurl_ballot_set_error.html:12
 #, python-format
 msgid "The page is provided to allow you, <strong>%(name)s</strong>, to verify your own scoresheet. <strong>You must not share this URL with anyone.</strong> Sharing the URL will allow others to access <strong>all</strong> actions from your personal landing page."
-msgstr ""
+msgstr "Halaman ini disediakan untuk memungkinkan Anda, <strong>%(name)s</strong>, memverifikasi lembar skor Anda sendiri. <strong> Anda tidak boleh berbagi URL ini dengan siapa pun. </strong> Berbagi URL akan memungkinkan orang lain mengakses <strong> semua </strong> tindakan dari halaman landing pribadi Anda."
 
 #: results/templates/privateurl_ballot_set_error.html:4
 #: results/templates/privateurl_ballot_set_error.html:6
 #: results/templates/public_ballot_set_error.html:4
 #: results/templates/public_ballot_set_error.html:6
 msgid "Ballot Not Available"
-msgstr ""
+msgstr "Kertas suara tidak tersedia"
 
 #: results/templates/privateurl_ballot_set_error.html:27
 #, python-format
 msgid "<a href=\"%(url)s\">Back to your private landing page.</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\">Kembali ke halaman arahan pribadi anda.</a>"
 
 #: results/templates/public_add_ballot.html:4
 #: results/templates/public_add_ballot_unreleased.html:4
@@ -715,7 +715,7 @@ msgstr "Siapakah Anda?"
 
 #: results/templates/public_add_ballot.html:6
 msgid "(click your name on this list)"
-msgstr ""
+msgstr "(klik nama anda di daftar ini)"
 
 #: results/templates/public_add_ballot_unreleased.html:8
 #, python-format
@@ -728,21 +728,21 @@ msgstr "Pengundian dan/atau mosi untuk %(round)s belum dirilis."
 #: results/templates/public_ballot_set.html:21
 #, python-format
 msgid "Ballot for %(matchup)s"
-msgstr ""
+msgstr "Kertas suara untuk %(matchup)s"
 
 #: results/templates/public_ballot_set.html:28 results/views.py:255
 #, python-format
 msgid "%(round)s @ %(room)s"
-msgstr ""
+msgstr "%(round)s @ %(room)s"
 
 #: results/templates/public_ballot_set.html:37
 msgid "Return to landing page"
-msgstr ""
+msgstr "Kembali ke halaman arahan"
 
 #: results/templates/public_ballot_set.html:42
 #, python-format
 msgid "Return to Results for %(round)s"
-msgstr ""
+msgstr "Kembali ke Hasil untuk %(round)s"
 
 #: results/templates/public_ballot_set.html:54
 msgid "Motion"
@@ -751,53 +751,53 @@ msgstr "Mosi"
 #: results/templates/public_ballot_set.html:67
 #, python-format
 msgid "From %(name)s (%(institution)s)"
-msgstr ""
+msgstr "Dari %(name)s (%(institution)s)"
 
 #: results/templates/public_ballot_set.html:92
 #: results/templates/public_ballot_set.html:96
 #, python-format
 msgid "<em>Total for %(name)s (%(side)s)</em>"
-msgstr ""
+msgstr "<em>Total untuk %(name)s (%(side)s)</em>"
 
 #: results/templates/public_ballot_set.html:105
 #: results/templates/public_ballot_set.html:109
 #, python-format
 msgid "<em>%(name)s (%(side)s)</em>"
-msgstr ""
+msgstr "<em>%(name)s(%(side)s)</em>"
 
 #: results/templates/public_ballot_set.html:117
 msgid "Won"
-msgstr ""
+msgstr "Menang"
 
 #: results/templates/public_ballot_set.html:117
 msgid "Lost"
-msgstr ""
+msgstr "Kalah"
 
 #: results/templates/public_ballot_set_error.html:14
 #, python-format
 msgid "<a href=\"%(url)s\">Back to the tournament home page.</a>"
-msgstr ""
+msgstr "<a href=\"%(url)s\">Kembali ke halaman utama turnamen.</a>"
 
 #: results/templates/public_enter_results.html:5
 #: results/templates/public_enter_results.html:8
 #, python-format
 msgid "Enter Results for %(debate)s"
-msgstr ""
+msgstr "Memasukan hasil untuk %(debate)s"
 
 #: results/templates/public_enter_results.html:16
 #, python-format
 msgid "%(adjudicator)s, note that you must enter <strong>all of the ballots</strong> from your panel, not just your own!"
-msgstr ""
+msgstr "%(adjudicator)s, perhatikan bahwa Anda harus memasukkan <strong> semua kertas suara </strong> dari panel Anda, bukan hanya milik Anda!"
 
 #: results/templates/public_enter_results.html:24
 #, python-format
 msgid "This form has already been submitted <strong>once</strong>. Please contact a tab official after submitting your form."
 msgid_plural "This form has already been submitted <strong>%(nsubmissions)s</strong> times. Please contact a tab official after submitting your form."
-msgstr[0] ""
+msgstr[0] "Formulir ini telah dikirimkan <strong>%(nsubmissions)s</strong> kali. Silakan hubungi tabulasi resmi setelah mengirimkan formulir Anda."
 
 #: results/templates/public_enter_results.html:63
 msgid "Submit Ballot(s)"
-msgstr ""
+msgstr "Menyerahkan Kertas suara"
 
 #: results/templates/public_enter_results.html:65
 msgid "When submitting this form your IP address will be stored for logging purposes."
@@ -806,11 +806,11 @@ msgstr "Saat melakukan submisi, alamat IP anda akan disimpan untuk pencatatan."
 #: results/templates/public_enter_results_error.html:4
 #, python-format
 msgid "No Result to Enter (%(adjudicator)s)"
-msgstr ""
+msgstr "Tidak ada Hasil untuk Dimasukkan (%(adjudicator)s)"
 
 #: results/templates/public_enter_results_error.html:7
 msgid "No Result to Enter"
-msgstr ""
+msgstr "Tidak Ada Hasil untuk Dimasukkan"
 
 #: results/templates/public_results_for_round.html:7
 msgid "View by Team"
