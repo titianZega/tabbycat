@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 06:05\n"
+"PO-Revision-Date: 2021-04-05 09:41\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -42,7 +42,7 @@ msgstr "Siapapun yang punya URL dapat mengakses laman data entri yang relevan. I
 #: privateurls/templates/private_urls.html:47
 #, python-format
 msgid "Neither <strong>participant ballot submissions</strong>, <strong>participant feedback submissions</strong>, nor <strong>participant self-checkins</strong> are configured to be from private URLs. Any generated URLs will not be useful unless you configure those settings accordingly on the <a href=\"%(data_entry_options_url)s\">tournament configuration page</a>."
-msgstr ""
+msgstr "Bukan <strong>masukan kotak suara peserta</strong>, <strong>masukan umpan balik peserta</strong>, maupun <strong>daftar-mandiri peserta</strong> yang telah terkonfigurasi untuk dari URL-URL pribadi. URL-URL apapun yang dihasilkan tidak akan berguna kecuali bila kamu mengkonfigurasi pengaturan-pengaturan itu sedemikian rupa pada <a href=\"%(data_entry_options_url)s\">laman konfigurasi turnamen</a>."
 
 #: privateurls/templates/private_urls.html:67
 msgid "There are no private URLs assigned."
