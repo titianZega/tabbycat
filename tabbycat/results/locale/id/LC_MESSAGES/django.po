@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 03:54\n"
+"PO-Revision-Date: 2021-04-05 04:05\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -321,15 +321,15 @@ msgstr "Tim debat dan pembicara harus dari tim yang sama."
 
 #: results/models.py:361
 msgid "The ballot submission and debate team must relate to the same debate."
-msgstr ""
+msgstr "Penngumpulan kertas suara dan tim debat harus terkait dengan debat yang sama."
 
 #: results/tables.py:15
 msgid "Whether this debate's ballot has been checked in"
-msgstr ""
+msgstr "Apakah kertas suara debat ini telah diperiksa"
 
 #: results/tables.py:36
 msgid "Status of this debate's ballot"
-msgstr ""
+msgstr "Status kertas suara debat ini"
 
 #: results/templates/admin_results.html:6
 msgid "Display Draw"
@@ -337,29 +337,29 @@ msgstr "Tampilkan Pengundian"
 
 #: results/templates/admin_results.html:9
 msgid "Check-In Ballots"
-msgstr ""
+msgstr "Kertas suara cek-in"
 
 #: results/templates/admin_results.html:12
 msgid "Recent 'Iron-Persons'"
-msgstr ""
+msgstr "'Iron-Persons' terbaru"
 
 #: results/templates/admin_results.html:20
 msgid "Teams who have recently missed a speaker"
-msgstr ""
+msgstr "Tim yang baru saja melewatkan pembicara"
 
 #: results/templates/admin_results.html:36
 #, python-format
 msgid "A speaker from %(team)s gave multiple speeches in the previous round"
-msgstr ""
+msgstr "Seorang pembicara dari %(team)s memberikan banyak pidato di babak sebelumnya"
 
 #: results/templates/admin_results.html:43
 #, python-format
 msgid "A speaker from %(team)s gave multiple speeches in the current round"
-msgstr ""
+msgstr "Seorang pembicara dari %(team)s memberikan banyak pidato di babak ini"
 
 #: results/templates/admin_results.html:52
 msgid "No known cases in the current or previous round"
-msgstr ""
+msgstr "Tidak ada kasus yang diketahui di babak saat ini atau sebelumnya"
 
 #: results/templates/admin_results.html:66
 msgid "Complete Round"
