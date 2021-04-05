@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 06:05\n"
+"PO-Revision-Date: 2021-04-05 06:15\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -505,7 +505,7 @@ msgstr "Lembar nilai"
 
 #: results/templates/ballot/ballot_set.html:35
 msgid "Solo Chair"
-msgstr "Kursi Solo"
+msgstr "Ketua Solo"
 
 #: results/templates/ballot/ballot_set.html:35
 #: results/templates/ballot_entry_form.html:32
@@ -570,64 +570,64 @@ msgstr "dikirimkan dari formulir publik di %(ip_address)s"
 #: results/templates/ballot/other_ballots_list.html:64
 #, python-format
 msgid "%(timestamp)s (%(timeago)s ago),"
-msgstr ""
+msgstr "%(timestamp)s (%(timeago)s yang lalu),"
 
 #: results/templates/ballot/other_ballots_list.html:69
 msgid "unknown"
-msgstr ""
+msgstr "tidak diketahui"
 
 #: results/templates/ballot/other_ballots_list.html:70
 #, python-format
 msgid "confirmed by <strong>%(confirmer)s</strong>"
-msgstr ""
+msgstr "dikonfirmasi oleh <strong>%(confirmer)s</strong>"
 
 #: results/templates/ballot/other_ballots_list.html:74
 msgid "unconfirmed"
-msgstr ""
+msgstr "belum dikonfirmasi"
 
 #: results/templates/ballot/other_ballots_list.html:78
 msgid "(discarded)"
-msgstr ""
+msgstr "(dibuang)"
 
 #: results/templates/ballot/other_ballots_list.html:82
 #, python-format
 msgid "<em>(identical to version %(others)s)</em>"
 msgid_plural "<em>(identical to versions %(others)s)</em>"
-msgstr[0] ""
+msgstr[0] "<em>(identik dengan versi %(others)s)</em>"
 
 #: results/templates/ballot_entry.html:21
 #, python-format
 msgid "This ballot entry interface is in beta, if you encounter any problems the older version of the interface is <a href=\"%(old_url)s\" class=\"alert-link\">available here</a>."
-msgstr ""
+msgstr "Antarmuka entri kertas suara ini dalam versi beta, jika Anda mengalami masalah, versi lama antarmuka <a href=\"%(old_url)s\" class=\"alert-link\"> tersedia di sini </a>."
 
 #: results/templates/ballot_entry_base.html:8
 #, python-format
 msgid "New Ballot Set for %(debate)s"
-msgstr ""
+msgstr "Kumpulan Kertas Suara Baru untuk %(debate)s"
 
 #: results/templates/ballot_entry_base.html:12
 #, python-format
 msgid "Edit Ballot Set for %(debate)s"
-msgstr ""
+msgstr "Ubah Kertas Suara untuk %(debate)s"
 
 #: results/templates/ballot_entry_base.html:19
 #, python-format
 msgid "%(room)s: %(debate)s"
-msgstr ""
+msgstr "%(room)s: %(debate)s"
 
 #: results/templates/ballot_entry_base.html:48
 msgid "This debate has a panel with an even number of voting adjudicators. If the adjudicators split evenly, the debate will be awarded to the team for which the chair voted."
-msgstr ""
+msgstr "Debat ini memiliki panel dengan pemungutan suara juri dalam jumlah genap. Jika juri dibagi rata, debat akan diberikan kepada tim yang dipilih oleh ketua."
 
 #: results/templates/ballot_entry_base.html:59
 #, python-format
 msgid "%(team)s had speakers who spoke multiple times in the last round — i.e. an 'iron' person speech. Please carefully check the ballot to see if that is still the case for this round. If it is, ensure the speakers selected below reflect this."
-msgstr ""
+msgstr "%(team)s memiliki pembicara yang berbicara beberapa kali di babak terakhir - yaitu pidato orang 'iron'. Harap periksa kertas suara dengan hati-hati untuk melihat apakah hal itu masih berlaku untuk putaran ini. Jika ya, pastikan pembicara yang dipilih di bawah mencerminkan ini."
 
 #: results/templates/ballot_entry_form.html:38
 #, python-format
 msgid "Scoresheet from chair %(chair)s"
-msgstr ""
+msgstr "Lembar nilai dari ketua %(chair)s"
 
 #: results/templates/ballot_entry_form.html:42
 msgid "Scoresheet, no chair set"
@@ -670,11 +670,11 @@ msgstr "Status debat"
 
 #: results/templates/enter_results.html:35
 msgid "all debates must be confirmed to complete the round"
-msgstr ""
+msgstr "semua debat harus dikonfirmasi untuk menyelesaikan babak tersebut"
 
 #: results/templates/enter_results.html:45
 msgid "Save Ballot"
-msgstr ""
+msgstr "Simpan Kertas suara"
 
 #: results/templates/enter_results.html:48
 msgid "Cancel Entry"
