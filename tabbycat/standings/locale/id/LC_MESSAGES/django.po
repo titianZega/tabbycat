@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2021-04-05 06:25\n"
+"PO-Revision-Date: 2021-04-05 06:35\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -524,12 +524,12 @@ msgstr "Keberagaman"
 #: standings/templates/team_standings.html:10
 #, python-format
 msgid "The team standings precedence is empty. This means that teams aren't ranked according to any metrics, so everyone is first equal. If this isn't what you intended, set the team standings precedence in the <a href=\"%(standings_config_url)s\" class=\"alert-link\">Standings section of this tournament's configuration</a>. In most tournaments, the first metric should be points or wins."
-msgstr ""
+msgstr "Presedensi klasemen tim kosong. Ini artinya tim tidak diranking berdasarkan metrik apapun, sehingga semua tim setara. Jika ini bukan yang Anda inginkan, atur presedensi klasemen tim pada <a href=\"%(standings_config_url)s\" class=\"alert-link\">seksi Klasemen dari konfigurasi turnamen ini</a>. Pada sebagian besar turnamen, metrik pertama seharusnya jumlah poin atau jumlah kemenangan."
 
 #: standings/views.py:99
 #, python-format
 msgid "<p>There was an error generating the standings: <em>%(message)s</em></p>"
-msgstr ""
+msgstr "<p>Ada kesalahan saat membangkitkan klasemen: <em>%(message)s</em></p>"
 
 #: standings/views.py:104
 #, python-format
