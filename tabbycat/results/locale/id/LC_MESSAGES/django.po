@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 03:45\n"
+"PO-Revision-Date: 2021-04-05 03:54\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -261,27 +261,27 @@ msgstr "skor tim oleh juri"
 
 #: results/models.py:243 results/models.py:277
 msgid "The debate team, debate adjudicator and ballot submission must all relate to the same debate."
-msgstr ""
+msgstr "Tim debat, juri debat dan pengumpulan kertas suara semuanya harus terkait dengan debat yang sama."
 
 #: results/models.py:256 results/models.py:336
 msgid "position"
-msgstr ""
+msgstr "posisi"
 
 #: results/models.py:262
 msgid "speaker score by adjudicator"
-msgstr ""
+msgstr "skor pembicara oleh juri"
 
 #: results/models.py:263
 msgid "speaker scores by adjudicator"
-msgstr ""
+msgstr "skor pembicara oleh juri"
 
 #: results/models.py:293
 msgid "points"
-msgstr ""
+msgstr "poin"
 
 #: results/models.py:301
 msgid "votes given"
-msgstr ""
+msgstr "suara yang diberikan"
 
 #: results/models.py:303
 msgid "votes possible"
@@ -289,11 +289,11 @@ msgstr ""
 
 #: results/models.py:307
 msgid "team score"
-msgstr ""
+msgstr "skor tim"
 
 #: results/models.py:308
 msgid "team scores"
-msgstr ""
+msgstr "skor tim"
 
 #: results/models.py:334
 msgid "speaker"
@@ -301,7 +301,7 @@ msgstr "pendebat"
 
 #: results/models.py:338
 msgid "ghost"
-msgstr ""
+msgstr "hantu"
 
 #: results/models.py:339
 msgid "If checked, this score does not count towards the speaker tab. This is typically checked for speeches where someone spoke twice to make up for an absent teammate (sometimes known as \"iron-person\" or \"iron-man\" speeches)."
@@ -309,15 +309,15 @@ msgstr "Apabila ditandai, maka skor ini tidak akan mempengaruhi perhitungan pada
 
 #: results/models.py:348
 msgid "speaker score"
-msgstr ""
+msgstr "skor pembicara"
 
 #: results/models.py:349
 msgid "speaker scores"
-msgstr ""
+msgstr "skor pembicara"
 
 #: results/models.py:358
 msgid "The debate team and speaker must be from the same team."
-msgstr ""
+msgstr "Tim debat dan pembicara harus dari tim yang sama."
 
 #: results/models.py:361
 msgid "The ballot submission and debate team must relate to the same debate."
