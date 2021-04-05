@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 06:35\n"
+"PO-Revision-Date: 2021-04-05 06:45\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -70,7 +70,7 @@ msgstr "%(aff_team)s ditegaskan, %(neg_team)s ditiadakan"
 #: results/forms.py:320
 #, python-format
 msgid "%(side)s's motion veto"
-msgstr "%(side)s's isyarat veto"
+msgstr "%(side)s's mosi veto"
 
 #: results/forms.py:329 results/forms.py:897
 #, python-format
@@ -814,93 +814,95 @@ msgstr ""
 
 #: results/templates/public_results_for_round.html:7
 msgid "View by Team"
-msgstr ""
+msgstr "Lihat berdasarkan Tim"
 
 #: results/templates/public_results_for_round.html:10
 msgid "View by Debate"
-msgstr ""
+msgstr "Lihat berdasarkan Debat"
 
 #: results/templates/public_results_index.html:12
 #, python-format
 msgid "Results for %(round)s"
-msgstr ""
+msgstr "Hasil untuk %(round)s"
 
 #: results/templates/public_results_not_available.html:4
 #: results/templates/public_results_not_available.html:6
 #: results/templates/public_results_silent.html:4
 #: results/templates/public_results_silent.html:6
 msgid "Results Not Available"
-msgstr ""
+msgstr "Hasil tidak tersedia"
 
 #: results/templates/public_results_not_available.html:12
 #, python-format
 msgid "The results for %(round)s aren't yet available."
-msgstr ""
+msgstr "Hasil untuk %(round)s belum tersedia."
 
 #: results/templates/public_results_silent.html:12
 #, python-format
 msgid "%(round)s is a silent round."
-msgstr ""
+msgstr "%(round)s adalah babak diam."
 
 #: results/utils.py:18
 msgid "No Ballot"
-msgstr ""
+msgstr "Tidak ada kertas suara"
 
 #: results/utils.py:19
 msgid "Debate was Postponed"
-msgstr ""
+msgstr "Debat sudah ditunda"
 
 #: results/utils.py:20
 msgid "Ballot is Unconfirmed"
-msgstr ""
+msgstr "Kertas suara tidak terkonfirmasi"
 
 #: results/utils.py:21
 msgid "Ballot is Confirmed"
-msgstr ""
+msgstr "Kertas suara sudah terkonfirmasi"
 
 #. Translators: e.g. "{Melbourne 1} as {OG}", "{Cape Town 1} as {CO}"
 #: results/utils.py:36
 #, python-format
 msgid "%(team)s as %(side)s"
-msgstr ""
+msgstr "%(team)s sebagai %(side)s"
 
 #: results/utils.py:43
 #, python-format
 msgid "%(team)s (%(side)s) won"
-msgstr ""
+msgstr "%(team)s (%(side)s) menang"
 
 #. Translators: The team here is the losing team
 #: results/utils.py:45
 #, python-format
 msgid "vs %(team)s (%(side)s)"
-msgstr ""
+msgstr "vs %(team)s (%(side)s)"
 
 #: results/utils.py:47
 #, python-format
 msgid "Advancing: %(advancing_list)s<br>"
-msgstr ""
+msgstr "Lolos: %(advancing_list)s<br>"
 
 #: results/utils.py:50
 #, python-format
 msgid "Eliminated: %(eliminated_list)s"
-msgstr ""
+msgstr "Tereliminasi: %(eliminated_list)s"
 
 #: results/utils.py:58
 #, python-format
 msgid "1st: %(first_team)s<br>"
-msgstr ""
+msgstr "Ke-1: %(first_team)s<br>"
 
 #: results/utils.py:59
 #, python-format
 msgid "2nd: %(second_team)s<br>\n"
 "3rd: %(third_team)s<br>\n"
 "4th: %(fourth_team)s"
-msgstr ""
+msgstr "Ke-2: %(second_team)s<br>\n"
+"Ke-3: %(third_team)s<br>\n"
+"Ke-4: %(fourth_team)s"
 
 #: results/utils.py:74
 #, python-format
 msgid "Error with result for %(debate)s"
-msgstr ""
+msgstr "Kesalahan pada hasil untuk %(debate)s"
 
 #. Translators: Abbreviation for Prime Minister
 #: results/utils.py:134
@@ -999,7 +1001,7 @@ msgstr "Pengundian untuk ronde ini belum dirilis."
 
 #: results/views.py:512
 msgid "The motions for this round haven't been released yet."
-msgstr "Topik ronde ini belum dirilis."
+msgstr "Mosi ronde ini belum dirilis."
 
 #: results/views.py:517
 msgid "It looks like you don't have a debate this round."
