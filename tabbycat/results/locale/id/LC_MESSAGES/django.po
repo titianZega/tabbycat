@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 06:25\n"
+"PO-Revision-Date: 2021-04-05 06:35\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -678,7 +678,7 @@ msgstr "Simpan Kertas suara"
 
 #: results/templates/enter_results.html:48
 msgid "Cancel Entry"
-msgstr ""
+msgstr "Batalkan Entri"
 
 #: results/templates/includes/public_enter_results_info.html:4
 #, python-format
@@ -720,7 +720,7 @@ msgstr ""
 #: results/templates/public_add_ballot_unreleased.html:8
 #, python-format
 msgid "The draw and/or motions for %(round)s have yet to be released."
-msgstr ""
+msgstr "Pengundian dan/atau mosi untuk %(round)s belum dirilis."
 
 #: results/templates/public_ballot_set.html:6
 #: results/templates/public_ballot_set.html:10
@@ -746,7 +746,7 @@ msgstr ""
 
 #: results/templates/public_ballot_set.html:54
 msgid "Motion"
-msgstr ""
+msgstr "Mosi"
 
 #: results/templates/public_ballot_set.html:67
 #, python-format
@@ -1007,49 +1007,49 @@ msgstr "Sepertinya Anda tidak berdebat di babak ini."
 
 #: results/views.py:519
 msgid "It looks like you're assigned to two or more debates this round. Please contact a tab room official."
-msgstr "Sepertinya Anda ditugaskan untuk dua atau lebih debat pada babak ini. Silakan hubungi ruang tab petugas."
+msgstr "Sepertinya Anda ditugaskan untuk dua atau lebih debat pada babak ini. Silakan hubungi ruang tabulasi resmi."
 
 #: results/views.py:530
 msgid "Your debate doesn't have a chair, so you can't enter results for it. Please contact a tab room official."
-msgstr ""
+msgstr "Debat Anda tidak memiliki ketua, jadi Anda tidak bisa memasukkan hasil untuk itu. Silakan hubungi ruang tabulasi resmi."
 
 #: results/views.py:535
 msgid "It looks like the sides for this debate haven't yet been confirmed, so you can't enter results for it. Please contact a tab room official."
-msgstr ""
+msgstr "Sepertinya sisi perdebatan ini belum dikonfirmasi, jadi Anda tidak bisa memasukkan hasil untuk itu. Silakan hubungi ruang tabulasi resmi."
 
 #: results/views.py:622
 msgid "It looks like you were assigned to two or more debates. Please contact a tab room official."
-msgstr ""
+msgstr "Sepertinya Anda ditugaskan untuk dua atau lebih debat. Silakan hubungi ruang tabulasi resmi."
 
 #: results/views.py:640
 #, python-format
 msgid "This debate is in %s, which is a silent round."
-msgstr ""
+msgstr "Perdebatan ini ada di %s, yang merupakan babak diam."
 
 #: results/views.py:643
 #, python-format
 msgid "This debate is in %s, the results for which aren't available yet."
-msgstr ""
+msgstr "Perdebatan ini ada di %s, hasil yang belum tersedia."
 
 #: results/views.py:647
 #, python-format
 msgid "The result for debate %s is not confirmed."
-msgstr ""
+msgstr "Hasil untuk debat %s belum dikonfirmasi."
 
 #: results/views.py:650
 #, python-format
 msgid "The debate %s does not have a confirmed ballot."
-msgstr ""
+msgstr "Debat ini %s belum dikonfirmasi kertas suaranya."
 
 #: results/views.py:672
 #, python-format
 msgid "There is no result yet for debate %s."
-msgstr ""
+msgstr "Belum ada hasil untuk debat %s."
 
 #: results/views.py:738
 #, python-format
 msgid "Add result from %(adjudicator)s"
-msgstr ""
+msgstr "Tambakan hasil dari %(adjudicator)s"
 
 #: results/views.py:742
 msgid "Adjudicator"
