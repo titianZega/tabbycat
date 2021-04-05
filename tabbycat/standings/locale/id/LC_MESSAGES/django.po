@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2021-04-05 06:45\n"
+"PO-Revision-Date: 2021-04-05 06:55\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -538,12 +538,12 @@ msgstr "<p>Anda mungkin perlu memeriksa kembali <a href=\"%(standings_options_ur
 
 #: standings/views.py:112
 msgid "<p>The tab director will need to resolve this issue.</p>"
-msgstr ""
+msgstr "<p>Direktur tabulasi perlu menyelesaikan masalah ini.</p>"
 
 #: standings/views.py:116
 #, python-format
 msgid "as of %(round)s"
-msgstr ""
+msgstr "pada %(round)s"
 
 #. Translators: 'title' is the main title; "(Top 15 Only)" is just a suffix
 #: standings/views.py:181
