@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 04:34\n"
+"PO-Revision-Date: 2021-04-05 05:54\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -403,31 +403,31 @@ msgstr "Konfigurasi turnamen Anda memungkinkan balasan dikirimkan secara online 
 #: results/templates/assistant_enter_results.html:7
 #: results/templates/ballot_entry_base.html:30
 msgid "Back to All Results"
-msgstr ""
+msgstr "Kembali ke Hasil Pencarian"
 
 #: results/templates/assistant_enter_results.html:11
 #: results/templates/ballot_entry_base.html:35
 #: results/templates/ballot_entry_base.html:39
 msgid "Create a new ballot set for this debate"
-msgstr ""
+msgstr "Buat set kertas suara baru untuk debat ini"
 
 #: results/templates/assistant_enter_results.html:33
 msgid "You can't confirm this ballot set because you entered it."
-msgstr ""
+msgstr "Anda tidak dapat mengonfirmasi kumpulan kertas suara ini karena Anda telah memasukkannya."
 
 #: results/templates/assistant_enter_results.html:41
 msgid "Confirm results"
-msgstr ""
+msgstr "Konfirmasi hasil"
 
 #: results/templates/assistant_enter_results.html:44
 msgid "Results are incorrect"
-msgstr ""
+msgstr "Hasil tidak benar"
 
 #: results/templates/assistant_enter_results.html:49
 #: results/templates/enter_results.html:53
 #: results/templates/public_enter_results.html:68
 msgid "Emails will be sent to adjudicators when the ballot is confirmed."
-msgstr ""
+msgstr "Email akan dikirim ke juri saat kertas suara dikonfirmasi."
 
 #: results/templates/assistant_results.html:4
 #: results/templates/assistant_results.html:5
@@ -436,11 +436,11 @@ msgstr "Masukkan Hasil"
 
 #: results/templates/assistant_results.html:12
 msgid "This page automatically updates with the new ballot entries and checkins as they occur."
-msgstr ""
+msgstr "Halaman ini secara otomatis diperbarui dengan entri kertas suara baru dan check in saat terjadi."
 
 #: results/templates/assistant_results.html:16
 msgid "This tournament's configuration is set to <strong>British Parliamentary</strong> with <strong>one ballot per voting adjudicator</strong>. This combination isn't allowed: BP tournaments must use consensus ballots. Results can't be entered while this configuration is in place. Please ask an administrator to change this configuration."
-msgstr ""
+msgstr "Konfigurasi turnamen ini disetel ke <strong> Parlemen Inggris </strong> dengan <strong> satu kertas suara per pemungutan suara juri</strong>. Kombinasi ini tidak diperbolehkan: Turnamen BP harus menggunakan surat suara konsensus. Hasil tidak dapat dimasukkan saat konfigurasi ini diterapkan. Silakan minta administrator untuk mengubah konfigurasi ini."
 
 #: results/templates/assistant_results.html:23
 msgid "Currently there are no motions entered for this round, so debate results cannot be entered. Please ask an administrator to add motions."
