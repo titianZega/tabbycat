@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 03:35\n"
+"PO-Revision-Date: 2021-04-05 03:45\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -197,7 +197,7 @@ msgstr ""
 
 #: results/models.py:100
 msgid "A tab room ballot must have a user associated."
-msgstr ""
+msgstr "Sebuah kertas suara ruang tab harus memiliki pengguna yang terkait."
 
 #: results/models.py:108
 msgid "debate"
@@ -218,16 +218,16 @@ msgstr "submisi lembar penjurian"
 
 #: results/models.py:117
 msgid "ballot submissions"
-msgstr ""
+msgstr "pengumpulan kertas suara"
 
 #: results/models.py:136
 #, python-format
 msgid "Debate is in round %(round)d but motion (%(motion)s) is from round %(motion_round)d"
-msgstr ""
+msgstr "Perdebatan ada di ronde %(round)d tetapi mosi (%(motion)s) berasal dari ronde %(motion_round)d"
 
 #: results/models.py:143
 msgid "A ballot can't be both confirmed and discarded!"
-msgstr ""
+msgstr "Sebuah kertas suara tidak bisa dikonfirmasikan dan dibuang!"
 
 #: results/models.py:213 results/models.py:252
 msgid "debate adjudicator"
@@ -240,11 +240,11 @@ msgstr "tim debat"
 
 #: results/models.py:218 results/models.py:295
 msgid "win"
-msgstr ""
+msgstr "menang"
 
 #: results/models.py:220 results/models.py:297
 msgid "margin"
-msgstr ""
+msgstr "batas"
 
 #: results/models.py:222 results/models.py:255 results/models.py:299
 #: results/models.py:335
@@ -253,11 +253,11 @@ msgstr "skor"
 
 #: results/models.py:227
 msgid "team score by adjudicator"
-msgstr ""
+msgstr "skor tim oleh juri"
 
 #: results/models.py:228
 msgid "team scores by adjudicator"
-msgstr ""
+msgstr "skor tim oleh juri"
 
 #: results/models.py:243 results/models.py:277
 msgid "The debate team, debate adjudicator and ballot submission must all relate to the same debate."
