@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 04:05\n"
+"PO-Revision-Date: 2021-04-05 04:15\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -367,33 +367,33 @@ msgstr ""
 
 #: results/templates/admin_results.html:76
 msgid "This page automatically updates with the new ballot entries and checkins as they occur. You will, however, need to reload it once all ballots are completed in order to advance the round."
-msgstr ""
+msgstr "Halaman ini secara otomatis diperbarui dengan entri kertas suara baru dan check in saat terjadi. Namun, Anda harus memuatnya kembali setelah semua kertas suara dilengkapi untuk melanjutkan putaran."
 
 #: results/templates/admin_results.html:88
 #, python-format
 msgid "The following debate appears to have scoresheets from trainees: %(debates_list)s."
 msgid_plural "The following %(ndebates)s debates appear to have scoresheets from trainees: %(debates_list)s."
-msgstr[0] ""
+msgstr[0] "Perdebatan %(ndebates)s berikut tampaknya mendapat lembar skor dari peserta pelatihan: %(debates_list)s."
 
 #: results/templates/admin_results.html:94
 #, python-format
 msgid "This can happen if you demote a panellist to trainee after a result has been submitted for that debate. This may indicate that there is an inconsistency in results data, which may cause unexpected results (or crashes). Please consider going to the Edit Database area and deleting the offending <a href=\"%(editdb_speakerscorebyadj_url)s?debate_adjudicator__type__exact=T\" class=\"alert-link\">\"speaker scores by adj\" objects</a>, and then opening and resaving the result here."
-msgstr ""
+msgstr "Ini dapat terjadi jika Anda menurunkan seorang panelis menjadi peserta pelatihan setelah hasil telah dikirimkan untuk debat tersebut. Ini mungkin menunjukkan bahwa ada ketidakkonsistenan dalam data hasil, yang dapat menyebabkan hasil yang tidak diharapkan (atau crash). Harap pertimbangkan untuk pergi ke area Edit Database dan menghapus <a href=\"%(editdb_speakerscorebyadj_url)s?debate_adjudicator__type__exact=T\" class=\"alert-link\"> \"pembicara skor dengan adj\" objek </a>, dan kemudian membuka dan menyimpan kembali hasilnya di sini."
 
 #: results/templates/admin_results.html:107
 #, python-format
 msgid "This tournament's configuration is set to <strong>British Parliamentary</strong> with <strong>one ballot per voting adjudicator</strong>. This combination isn't allowed: BP tournaments must use consensus ballots. Results can't be entered while this configuration is in place. Please <a href=\"%(debate_rules_url)s\">revise this tournament's configuration</a> before you try to enter results."
-msgstr ""
+msgstr "Konfigurasi turnamen ini disetel ke <strong> Parlemen Inggris </strong> dengan <strong> satu surat suara per juri pemungutan suara </strong>. Kombinasi ini tidak diperbolehkan: Turnamen BP harus menggunakan surat suara konsensus. Hasil tidak dapat dimasukkan saat konfigurasi ini diterapkan. Harap <a href=\"%(debate_rules_url)s\"> perbaiki konfigurasi turnamen ini </a> sebelum Anda mencoba untuk memasukkan hasil."
 
 #: results/templates/admin_results.html:115
 #, python-format
 msgid "Currently there are no motions entered for this round, so debate results cannot be entered. <a href=\"%(motions_url)s\" class=\"alert-link\">Add Motions.</a>"
-msgstr ""
+msgstr "Saat ini tidak ada mosi yang masuk untuk babak ini, jadi hasil debat tidak bisa dimasukkan. <a href=\"%(motions_url)s\" class=\"alert-link\"> Tambahkan Gerakan. </a>"
 
 #: results/templates/admin_results.html:124
 #, python-format
 msgid "Your tournament configuration allows ballots to be submitted online by adjudicators. The draw <a href=\"%(display_url)s\" class=\"alert-link\">must be released</a> before they can do so for this round."
-msgstr ""
+msgstr "Konfigurasi turnamen Anda memungkinkan kertas suara dikirimkan secara online oleh juri. Hasil imbang <a href=\"%(display_url)s\" class=\"alert-link\"> harus dilepaskan </a> sebelum mereka dapat melakukannya untuk babak ini."
 
 #: results/templates/admin_results.html:131
 #, python-format
