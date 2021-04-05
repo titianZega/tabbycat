@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2020-07-23 04:45\n"
+"PO-Revision-Date: 2021-04-05 03:54\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,7 @@ msgstr ""
 
 #: ../../../AUTHORS.rst:6
 msgid "Authors"
-msgstr ""
+msgstr "Penulis"
 
 #: ../../../AUTHORS.rst:8
 msgid "Tabbycat was authored by Qi-Shan Lim for Auckland Australs 2010. The current active maintainers are:"
@@ -44,11 +44,11 @@ msgstr ""
 
 #: ../../../AUTHORS.rst:16
 msgid "Contributors"
-msgstr ""
+msgstr "Kontributor"
 
 #: ../../../AUTHORS.rst:18
 msgid "Étienne Beaulé has contributed many features, fixes, and suggestions across many aspects of Tabbycat."
-msgstr ""
+msgstr "Étienne Beaulé sudah memberikan kontribusi banyak fitur, perbaikan, dan saran dalam banyak hal untuk Tabbycat."
 
 #: ../../../AUTHORS.rst:19
 msgid "Thevesh Theva contributed the algorithm for calculating the liveness of teams within a particular break category."
@@ -64,7 +64,7 @@ msgstr ""
 
 #: ../../../AUTHORS.rst:24
 msgid "Sponsors"
-msgstr ""
+msgstr "Sponsor"
 
 #: ../../../AUTHORS.rst:26
 msgid "Thanks to the Western Australian Debating League for sponsoring various features related to organising division-based tournaments and round-robin based draw methods."
