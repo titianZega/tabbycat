@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 03:54\n"
+"PO-Revision-Date: 2021-04-05 04:05\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -1269,7 +1269,7 @@ msgstr "Apabila ditandai, sistem mewajibkan adanya mosi pada balot"
 
 #: options/preferences.py:1332
 msgid "Enable motions"
-msgstr ""
+msgstr "Aktifkan mosi"
 
 #: options/preferences.py:1340
 msgid "Whether the printed scoresheets should hide the text of motions (even if they have been entered and released)"
@@ -1277,7 +1277,7 @@ msgstr ""
 
 #: options/preferences.py:1341
 msgid "Ballot Hide Motions"
-msgstr ""
+msgstr "Sembunyikan mosi balot"
 
 #: options/preferences.py:1349
 msgid "Enables the motion veto field on ballots, to track veto statistics"
@@ -1293,7 +1293,7 @@ msgstr "Jika menunjukan hasil ke publik, menunjukkan mosi mana yang dipilih dala
 
 #: options/preferences.py:1359
 msgid "Show motions in results"
-msgstr ""
+msgstr "Tunjukan mosi dalam hasil"
 
 #: options/preferences.py:1367
 msgid "Order in which are listed by round in the public view"
@@ -1301,15 +1301,15 @@ msgstr ""
 
 #: options/preferences.py:1368
 msgid "Order to display motions"
-msgstr ""
+msgstr "Urutan untuk tampilan mosi"
 
 #: options/preferences.py:1372
 msgid "Earliest round first"
-msgstr ""
+msgstr "Ronde paling awal pertama"
 
 #: options/preferences.py:1373
 msgid "Latest round first"
-msgstr ""
+msgstr "Ronde paling terakhir pertama"
 
 #: options/preferences.py:1380
 msgid "Whether motions can be reused from one round to another."
@@ -1317,11 +1317,11 @@ msgstr ""
 
 #: options/preferences.py:1381
 msgid "Allow motion reuse"
-msgstr ""
+msgstr "Memperbolehkan mosi sebelumnya"
 
 #: options/preferences.py:1388 options/templates/preferences_index.html:114
 msgid "Global Settings"
-msgstr ""
+msgstr "Pengaturan global"
 
 #: options/preferences.py:1394
 msgid "Enables external applications to access the site through a dedicated interface, subject to public information settings."
@@ -1329,23 +1329,23 @@ msgstr ""
 
 #: options/preferences.py:1395
 msgid "Enable API access"
-msgstr ""
+msgstr "Aktifkan akases API"
 
 #: options/presets.py:32 options/presets.py:358
 msgid "Public Information Options"
-msgstr ""
+msgstr "Opsi informasi public"
 
 #: options/presets.py:32
 msgid "Enable Public Information"
-msgstr ""
+msgstr "Aktifkan publik informasi"
 
 #: options/presets.py:33
 msgid "Disable Public Information"
-msgstr ""
+msgstr "Nonaktfikan informasi publik"
 
 #: options/presets.py:74
 msgid "Australs Rules"
-msgstr ""
+msgstr "Aturan australs"
 
 #: options/presets.py:75
 msgid "3 vs 3 with replies, chosen motions, intermediate brackets, one-up-one-down. Compliant with AIDA rules."
@@ -1353,7 +1353,7 @@ msgstr ""
 
 #: options/presets.py:114
 msgid "British Parliamentary Rules"
-msgstr ""
+msgstr "Aturan parlemen inggris"
 
 #: options/presets.py:115
 msgid "2 vs 2 vs 2 vs 2. Compliant with WUDC rules."
@@ -1361,7 +1361,7 @@ msgstr ""
 
 #: options/presets.py:156
 msgid "Canadian Parliamentary Rules"
-msgstr ""
+msgstr "Aturan parlemen canada"
 
 #: options/presets.py:158
 msgid "2 vs 2 with replies (unscored) and POIs. May require additional configuration depending on regional variations."
@@ -1369,7 +1369,7 @@ msgstr ""
 
 #: options/presets.py:181
 msgid "Australian Easters Rules"
-msgstr ""
+msgstr "Aturan Easters Australia"
 
 #: options/presets.py:183
 msgid "3 vs 3 without replies, set motions, novices, intermediate bubbles, one-up-one-down. Compliant with AIDA rules."
@@ -1385,7 +1385,7 @@ msgstr ""
 
 #: options/presets.py:228
 msgid "3 vs 3 Prepared"
-msgstr ""
+msgstr "3 vs 3 disiapkan"
 
 #: options/presets.py:230
 msgid "3 vs 3 with preallocated sides, publicly displayed sides and motions, and novice statuses."
@@ -1393,7 +1393,7 @@ msgstr ""
 
 #: options/presets.py:257
 msgid "UADC Rules"
-msgstr ""
+msgstr "Aturan UADC"
 
 #: options/presets.py:259
 msgid "3 vs 3 with replies, chosen motions, and all adjudicators can receive feedback from teams."
@@ -1401,7 +1401,7 @@ msgstr ""
 
 #: options/presets.py:295
 msgid "WSDC Rules"
-msgstr ""
+msgstr "Aturan WSDC"
 
 #: options/presets.py:297
 msgid "3 vs 3 with replies, chosen motions, prop/opp side labels, and all adjudicators can receive feedback from teams."
@@ -1413,7 +1413,7 @@ msgstr ""
 
 #: options/presets.py:372
 msgid "Tab Release Options"
-msgstr ""
+msgstr "Rilis tab opsi"
 
 #: options/presets.py:374
 msgid "For when a tab is ready to be released. This will publicly display the results of all rounds, the team tab, the speaker tab, etc"
@@ -1461,7 +1461,7 @@ msgstr ""
 
 #: options/templates/preferences_index.html:79
 msgid "How and where are motions used"
-msgstr ""
+msgstr "Bagaimana dan dimana mosi digunakan"
 
 #: options/templates/preferences_index.html:90
 msgid "When to release a public tab is made visible and what data it shows"
