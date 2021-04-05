@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 05:54\n"
+"PO-Revision-Date: 2021-04-05 06:05\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -444,68 +444,68 @@ msgstr "Konfigurasi turnamen ini disetel ke <strong> Parlemen Inggris </strong> 
 
 #: results/templates/assistant_results.html:23
 msgid "Currently there are no motions entered for this round, so debate results cannot be entered. Please ask an administrator to add motions."
-msgstr ""
+msgstr "Saat ini tidak ada mosi yang masuk untuk babak ini, jadi hasil debat tidak bisa dimasukkan. Silakan minta administrator untuk menambahkan mosi."
 
 #: results/templates/assistant_results.html:33
 #, python-format
 msgid "One debate does not have its sides confirmed. Results for this debate cannot be entered until its side allocations are marked as confirmed."
 msgid_plural "%(ndebates)s debate do not have their sides confirmed. Results for these debates cannot be entered until their side allocations are marked as confirmed."
-msgstr[0] ""
+msgstr[0] "%(ndebates)s debat belum dikonfirmasi pihaknya. Hasil untuk debat ini tidak dapat dimasukkan sampai alokasi sisi mereka ditandai sudah dikonfirmasi."
 
 #: results/templates/assistant_results.html:44
 #, python-format
 msgid "One debate has a panel with an even number of voting adjudicators. If the adjudicators split evenly, the debate will be awarded to the team for which the chair voted."
 msgid_plural "%(num_even_panel)s debates have panels with an even number of voting adjudicators. If the adjudicators split evenly, the debate will be awarded to the team for which the chair voted."
-msgstr[0] ""
+msgstr[0] "%(num_even_panel)s debat memiliki panel dengan jumlah pemungutan suara juri yang genap. Jika juri dibagi rata, debat akan diberikan kepada tim yang dipilih oleh ketua."
 
 #: results/templates/ballot/ballot_debate_info.html:6
 msgid "Debate Information"
-msgstr ""
+msgstr "Informasi debat"
 
 #: results/templates/ballot/ballot_debate_info.html:42
 msgid "No speakers spoke twice (no 'iron-person' speeches)"
-msgstr ""
+msgstr "Tidak ada pembicara yang berbicara dua kali (tidak ada pidato 'iron-person')"
 
 #: results/templates/ballot/ballot_debate_info.html:45
 msgid "A speaker spoke twice (an 'iron-person' speech)"
-msgstr ""
+msgstr "Seorang pembicara berbicara dua kali (pidato 'iron-person')"
 
 #: results/templates/ballot/ballot_scoresheet.html:28
 msgid "Result"
-msgstr ""
+msgstr "Hasil"
 
 #: results/templates/ballot/ballot_scoresheet.html:28
 msgid "Rank"
-msgstr ""
+msgstr "Peringkat"
 
 #: results/templates/ballot/ballot_scoresheet.html:34
 msgid "Margin"
-msgstr ""
+msgstr "Batas"
 
 #: results/templates/ballot/ballot_set.html:6
 msgid "There are some problems with this scoresheet. Please review and correct them."
-msgstr ""
+msgstr "Ada beberapa masalah dengan lembar nilai ini. Harap tinjau dan perbaiki."
 
 #: results/templates/ballot/ballot_set.html:19
 #: results/templates/ballot_entry_form.html:23
 #, python-format
 msgid "Ballot from %(name)s (%(institution)s)"
-msgstr ""
+msgstr "Kertas suara dari %(name)s (%(institution)s)"
 
 #: results/templates/ballot/ballot_set.html:23
 #: results/templates/ballot_entry_form.html:27
 #, python-format
 msgid "Ballot from %(name)s"
-msgstr ""
+msgstr "Kertas suara %(name)s"
 
 #: results/templates/ballot/ballot_set.html:31
 #: results/templates/public_ballot_set.html:71
 msgid "Scoresheet"
-msgstr ""
+msgstr "Lembar nilai"
 
 #: results/templates/ballot/ballot_set.html:35
 msgid "Solo Chair"
-msgstr ""
+msgstr "Kursi Solo"
 
 #: results/templates/ballot/ballot_set.html:35
 #: results/templates/ballot_entry_form.html:32
@@ -515,57 +515,57 @@ msgstr "Ketua panel"
 #: results/templates/ballot/ballot_set.html:35
 #: results/templates/ballot_entry_form.html:34
 msgid "Panellist"
-msgstr ""
+msgstr "Panelis"
 
 #: results/templates/ballot/ballot_set.html:35
 msgid "Trainee"
-msgstr ""
+msgstr "Peserta pelatihan"
 
 #: results/templates/ballot/ballot_set.html:44
 msgid "Assign sides before entering scores"
-msgstr ""
+msgstr "Tetapkan sisi sebelum memasukkan skor"
 
 #: results/templates/ballot/ballot_speaks.html:19
 msgid "Duplicate speeches are hidden from the speaker tab. If a speaker is 'iron-manning' you would typically mark only the lesser of their scores as a duplicate."
-msgstr ""
+msgstr "Pidato duplikat disembunyikan dari tab pembicara. Jika pembicara adalah 'iron-manning' Anda biasanya hanya menandai skor yang lebih rendah sebagai duplikat."
 
 #: results/templates/ballot/other_ballots_list.html:9
 #, python-format
 msgid "There is %(number)s existing ballot set for this debate."
 msgid_plural "There are %(number)s existing ballot sets for this debate."
-msgstr[0] ""
+msgstr[0] "Ada %(number)s kertas suara yang disetel untuk debat ini."
 
 #: results/templates/ballot/other_ballots_list.html:21
 msgid "This ballot set is <strong>confirmed</strong>."
-msgstr ""
+msgstr "Set kertas suara ini <strong> dikonfirmasi </strong>."
 
 #: results/templates/ballot/other_ballots_list.html:26
 msgid "This ballot set is <strong>discarded</strong>."
-msgstr ""
+msgstr "Set kertas suara ini <strong> dibuang</strong>."
 
 #: results/templates/ballot/other_ballots_list.html:41
 msgid "CURRENTLY VIEWING"
-msgstr ""
+msgstr "MELIHAT SAAT INI"
 
 #: results/templates/ballot/other_ballots_list.html:44
 #, python-format
 msgid "Version <strong>%(version)s</strong>,"
-msgstr ""
+msgstr "Versi <strong>%(version)s</strong>,"
 
 #: results/templates/ballot/other_ballots_list.html:49
 #, python-format
 msgid "entered by <strong>%(submitter)s</strong>,"
-msgstr ""
+msgstr "dimasuki oleh <strong>%(submitter)s</strong>,"
 
 #: results/templates/ballot/other_ballots_list.html:54
 #, python-format
 msgid "submitted from <strong>%(adjudicator)s</strong>'s private URL,"
-msgstr ""
+msgstr "dikirim dari <strong>%(adjudicator)s</strong> URL pribadi,"
 
 #: results/templates/ballot/other_ballots_list.html:58
 #, python-format
 msgid "submitted from the public form on %(ip_address)s,"
-msgstr ""
+msgstr "dikirimkan dari formulir publik di %(ip_address)s"
 
 #: results/templates/ballot/other_ballots_list.html:64
 #, python-format
