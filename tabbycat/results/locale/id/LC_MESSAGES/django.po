@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 03:15\n"
+"PO-Revision-Date: 2021-04-05 03:25\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -139,17 +139,17 @@ msgstr "Margin (%(margin).1f) dalam surat suara juri %(adjudicator)s melebihi ba
 
 #: results/forms.py:917
 msgid "Sides for this debate are not confirmed. You can't save a result for this debate until the sides have been confirmed in the draw."
-msgstr ""
+msgstr "Sisi perdebatan ini tidak dikonfirmasi. Anda tidak dapat menyimpan hasil untuk debat ini sampai kedua belah pihak telah dikonfirmasi dalam pengundian."
 
 #: results/forms.py:960
 #, python-format
 msgid "There must be exactly %(n)d team advancing."
 msgid_plural "There must be exactly %(n)d teams advancing."
-msgstr[0] ""
+msgstr[0] "Tepatnya harus ada %(n)d tim yang maju."
 
 #: results/forms.py:1003
 msgid "There must be exactly 1 team advancing."
-msgstr ""
+msgstr "Harus ada 1 tim yang maju."
 
 #: results/models.py:32
 msgid "Tab room"
@@ -157,7 +157,7 @@ msgstr ""
 
 #: results/models.py:33
 msgid "Public"
-msgstr ""
+msgstr "Publik"
 
 #: results/models.py:37
 msgid "timestamp"
@@ -165,7 +165,7 @@ msgstr "waktu"
 
 #: results/models.py:39
 msgid "version"
-msgstr ""
+msgstr "versi"
 
 #: results/models.py:41
 msgid "submitter type"
