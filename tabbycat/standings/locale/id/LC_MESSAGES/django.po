@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2021-04-05 06:15\n"
+"PO-Revision-Date: 2021-04-05 06:25\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -355,7 +355,7 @@ msgstr "Pengaturan ini dapat diubah pada <a href=\"%(standings_config_url)s\" cl
 #: standings/templates/speaker_standings.html:11
 #, python-format
 msgid "The speaker standings precedence is empty. This means that speakers aren't ranked according to any metrics, so everyone is first equal. If this isn't what you intended, set the speaker standings precedence in the <a href=\"%(standings_config_url)s\" class=\"alert-link\">Standings section of this tournament's configuration</a>. In most tournaments, the first metric should be total or average."
-msgstr "Presedensi klasemen pembicara kosong. Ini artinya pembicara tidak diranking berdasarkan metrik apapun, sehingga semua pembicara setara. Jika ini bukan yang Anda inginkan, atur presedensi klasemen pembicara pada <a href=\"%(standings_config_url)s\" class=\"alert-link\">seksi Klasemen pada konfigurasi turnamen ini</a>. Pada sebagian besar turnamen, metrik pertama seharusnya total atau rata-rata."
+msgstr "Presedensi klasemen pembicara kosong. Ini artinya pembicara tidak diranking berdasarkan metrik apapun, sehingga semua pembicara setara. Jika ini bukan yang Anda inginkan, atur presedensi klasemen pembicara pada <a href=\"%(standings_config_url)s\" class=\"alert-link\">seksi Klasemen dari konfigurasi turnamen ini</a>. Pada sebagian besar turnamen, metrik pertama seharusnya total atau rata-rata."
 
 #: standings/templates/speaker_standings.html:23
 msgid "Speakers are ranked by their <strong>average score</strong>."
@@ -377,7 +377,7 @@ msgstr "Semua pembicara muncul di klasemen ini, tidak peduli berapa banyak debat
 #: standings/templates/speaker_standings.html:48
 #, python-format
 msgid "Enforcing the limit on the number of missed debates requires the \"number of speeches given\" metric to be included in the speaker standings calculations, so it's been automatically added. To remove this warning message, add <strong>Number of speeches given</strong> to the <strong>Speaker standings extra metrics</strong> in the <a href=\"%(standings_config_url)s\" class=\"alert-link\">Standings section of this tournament's configuration</a>."
-msgstr ""
+msgstr "Menetapkan batas jumlah debat yang dilewatkan memerlukan metrik \"jumlah pidato yang diberikan\" untuk disertakan pada penghitungan klasemen pembicara, sehingga secara otomatis telah ditambahkan. Untuk menghilangkan pesan peringatan ini, tambahkan <strong> Jumlah pidato yang diberikan</strong> ke <strong>metrik tambahan Klasemen pembicara</strong> pada <a href=\"%(standings_config_url)s\" class=\"alert-link\">seksi Klasemen dari konfigurasi turnamen ini</a>."
 
 #: standings/templates/standings_diversity.html:4
 #: standings/templates/standings_diversity.html:5
