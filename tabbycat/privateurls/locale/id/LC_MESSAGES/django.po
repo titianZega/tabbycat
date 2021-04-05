@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 10:06\n"
+"PO-Revision-Date: 2021-04-05 10:16\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -70,11 +70,11 @@ msgstr "Semua peserta-peserta yang terjangkau telah dikirimkan URL-URL privat me
 
 #: privateurls/templates/private_urls_nav.html:24
 msgid "Email URLs"
-msgstr ""
+msgstr "URL-URL Surel"
 
 #: privateurls/templates/private_urls_nav.html:31
 msgid "This button only generates private URLs for participants who do not already have one."
-msgstr ""
+msgstr "Tombol ini hanya mengahasilkan URL-URL privat untuk peserta yang sebelumnya belum punya."
 
 #: privateurls/templates/private_urls_nav.html:32
 #: privateurls/templates/private_urls_nav.html:39
