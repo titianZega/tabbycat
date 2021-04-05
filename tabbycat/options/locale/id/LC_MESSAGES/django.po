@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-02 04:48\n"
+"PO-Revision-Date: 2021-04-05 03:45\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -428,7 +428,7 @@ msgstr "Panelis kepada ketua juri, ketua juri kepada panelis dan trainee"
 
 #: options/preferences.py:377
 msgid "Panellists and trainees on chairs, vice-versa"
-msgstr ""
+msgstr "panelis dan trainee di ketua panel, dan sebalik nya"
 
 #: options/preferences.py:378
 msgid "All adjudicators (including trainees) on each other"
@@ -572,11 +572,11 @@ msgstr "Pembicara substantif"
 
 #: options/preferences.py:509
 msgid "What to call the teams"
-msgstr ""
+msgstr "Apa panggilan untuk tim-tim"
 
 #: options/preferences.py:510
 msgid "Side names"
-msgstr ""
+msgstr "Nama panggilan"
 
 #: options/preferences.py:519
 msgid "Whether this style features scored reply speeches"
@@ -584,7 +584,7 @@ msgstr ""
 
 #: options/preferences.py:520
 msgid "Reply scores"
-msgstr ""
+msgstr "Penyimpul Skor"
 
 #: options/preferences.py:528
 msgid "Whether to limit reply speeches to speakers who gave a substantive speech in the debate"
@@ -653,7 +653,7 @@ msgstr ""
 
 #: options/preferences.py:629 options/templates/preferences_index.html:89
 msgid "Tab Release"
-msgstr ""
+msgstr "Rilis tab"
 
 #: options/preferences.py:635
 msgid "Enables public display of the team tab. Intended for use after the tournament."
@@ -729,11 +729,11 @@ msgstr ""
 
 #: options/preferences.py:732
 msgid "Only shows base score"
-msgstr ""
+msgstr "Hanya menunjukan nilai awal"
 
 #: options/preferences.py:733
 msgid "Only shows final score"
-msgstr ""
+msgstr "Hanya menunjukan nilai akhir"
 
 #: options/preferences.py:734
 msgid "Shows base, final, and per-round scores"
