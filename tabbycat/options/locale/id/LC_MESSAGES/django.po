@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 04:15\n"
+"PO-Revision-Date: 2021-04-05 04:25\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -669,7 +669,7 @@ msgstr ""
 
 #: options/preferences.py:645
 msgid "Top teams cutoff"
-msgstr ""
+msgstr "Cutoff tim teratas"
 
 #: options/preferences.py:653
 msgid "Enables public display of the speaker tab. Intended for use after the tournament."
@@ -725,7 +725,7 @@ msgstr ""
 
 #: options/preferences.py:728
 msgid "Adjudicator tab displays"
-msgstr ""
+msgstr "Tap tampilan juri"
 
 #: options/preferences.py:732
 msgid "Only shows base score"
@@ -737,7 +737,7 @@ msgstr "Hanya menunjukan nilai akhir"
 
 #: options/preferences.py:734
 msgid "Shows base, final, and per-round scores"
-msgstr ""
+msgstr "Tampilkan nilai awal, nilai final, dan nilai tiap round"
 
 #: options/preferences.py:741
 msgid "Enables public display of every adjudicator's ballot. Intended for use after the tournament."
@@ -817,7 +817,7 @@ msgstr ""
 
 #: options/preferences.py:820
 msgid "Bypass double checking"
-msgstr ""
+msgstr "Melompati Pengecekan ganda"
 
 #: options/preferences.py:828
 msgid "Requires scores of draft ballots to be re-entered as part of the confirmation stage (to create more stringent check). Only applies to BP formats."
@@ -853,7 +853,7 @@ msgstr ""
 
 #: options/preferences.py:854
 msgid "Participant self-checkin"
-msgstr ""
+msgstr "Partisipan check in sendiri"
 
 #: options/preferences.py:862
 msgid "The amount of time (in hours) before a speaker or adjudicator's check-in event expires"
@@ -861,7 +861,7 @@ msgstr ""
 
 #: options/preferences.py:865
 msgid "Check-In Window (People)"
-msgstr ""
+msgstr "Jendela Check-in (Orang)"
 
 #: options/preferences.py:871
 msgid "The amount of time (in hours) before a room's check-in event expires"
@@ -869,7 +869,7 @@ msgstr ""
 
 #: options/preferences.py:874
 msgid "Check-In Window (Rooms)"
-msgstr ""
+msgstr "Jendela Check-in (ruangan)"
 
 #: options/preferences.py:880
 msgid "Whether the printed scoresheets should show the 'circle digits' prompt to help check bad handwriting"
@@ -877,7 +877,7 @@ msgstr ""
 
 #: options/preferences.py:881
 msgid "Ballot Digit Checks"
-msgstr ""
+msgstr "Cek Digit balot"
 
 #: options/preferences.py:889
 msgid "The location to return scoresheets to, printed on pre-printed ballots. Set to 'TBA' to hide."
@@ -885,7 +885,7 @@ msgstr ""
 
 #: options/preferences.py:890
 msgid "Score return location"
-msgstr ""
+msgstr "Lokasi Nilai Kembali"
 
 #: options/preferences.py:898
 msgid "The location to return feedback to, printed on pre-printed feedback forms. Set to 'TBA' to hide."
