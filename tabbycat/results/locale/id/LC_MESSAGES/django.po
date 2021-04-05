@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 06:15\n"
+"PO-Revision-Date: 2021-04-05 06:25\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -944,7 +944,7 @@ msgstr ""
 
 #: results/utils.py:168
 msgid "Reply"
-msgstr ""
+msgstr "Balasan"
 
 #: results/views.py:252 results/views.py:254
 msgid " vs "
@@ -957,7 +957,7 @@ msgstr "N/A"
 #: results/views.py:391
 #, python-format
 msgid "Ballot set for %(debate)s added."
-msgstr ""
+msgstr "Kumpulan kertas suara %(debate)s telah ditambahkan."
 
 #: results/views.py:393 results/views.py:460
 msgid " Email receipts queued to be sent."
@@ -966,48 +966,48 @@ msgstr ""
 #: results/views.py:407
 #, python-format
 msgid "Whoops! The debate %(debate)s doesn't have a chair, so you can't enter results for it."
-msgstr ""
+msgstr "Ups! Debat %(debate)s tidak memiliki ketua, jadi Anda tidak bisa memasukkan hasil untuk itu."
 
 #: results/views.py:413
 #, python-format
 msgid "Whoops! The debate %(debate)s doesn't have its sides confirmed, so you can't enter results for it."
-msgstr ""
+msgstr "Ups! Debat %(debate)s tidak memiliki pihak terkonfirmasi, jadi Anda tidak bisa memasukkan hasil untuk itu."
 
 #: results/views.py:453
 #, python-format
 msgid "Ballot set for %(matchup)s discarded."
-msgstr ""
+msgstr "Set kertas suara untuk %(matchup)s dibuang."
 
 #: results/views.py:455
 #, python-format
 msgid "Ballot set for %(matchup)s confirmed."
-msgstr ""
+msgstr "Set kertas suara %(matchup)s telah dikonfirmasi."
 
 #: results/views.py:457
 #, python-format
 msgid "Edits to ballot set for %(matchup)s saved."
-msgstr ""
+msgstr "Pengeditan untuk kumpulan suara %(matchup)s telah disimpan."
 
 #: results/views.py:501
 #, python-format
 msgid "Thanks, %(user)s! Your ballot for %(debate)s has been recorded."
-msgstr ""
+msgstr "Terima kasih, %(user)s! Kertas suara Anda untuk %(debate)s telah tercatat."
 
 #: results/views.py:508
 msgid "The draw for this round hasn't been released yet."
-msgstr ""
+msgstr "Pengundian untuk ronde ini belum dirilis."
 
 #: results/views.py:512
 msgid "The motions for this round haven't been released yet."
-msgstr ""
+msgstr "Topik ronde ini belum dirilis."
 
 #: results/views.py:517
 msgid "It looks like you don't have a debate this round."
-msgstr ""
+msgstr "Sepertinya Anda tidak berdebat di babak ini."
 
 #: results/views.py:519
 msgid "It looks like you're assigned to two or more debates this round. Please contact a tab room official."
-msgstr ""
+msgstr "Sepertinya Anda ditugaskan untuk dua atau lebih debat pada babak ini. Silakan hubungi ruang tab petugas."
 
 #: results/views.py:530
 msgid "Your debate doesn't have a chair, so you can't enter results for it. Please contact a tab room official."
