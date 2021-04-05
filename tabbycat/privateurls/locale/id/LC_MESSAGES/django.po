@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 05:15\n"
+"PO-Revision-Date: 2021-04-05 06:05\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -37,7 +37,7 @@ msgstr "URL-URL pribadi dipakai untuk memungkinkan peserta-peserta menyampaikan 
 
 #: privateurls/templates/private_urls.html:31
 msgid "Anyone with the URL can access the relevant data entry page. The idea is that it's hard to guess another key (the random-looking string), so you should make each URL accessible only to the participant in question. <a href=\"http://tabbycat.readthedocs.io/en/latest/features/data-entry.html#private-urls\"> Read more about private URLs.</a>"
-msgstr ""
+msgstr "Siapapun yang punya URL dapat mengakses laman data entri yang relevan. Idenya ialah sulit untuk menebak kunci lainnya (string yang terlihat aneh), sehingga kamu mesti membuat tiap URL mudah diakses hanya untuk peserta yang dibicarakan. <a href=\"http://tabbycat.readthedocs.io/en/latest/features/data-entry.html#private-urls\"> Baca lagi mengenai URL-URL pribadi.</a>"
 
 #: privateurls/templates/private_urls.html:47
 #, python-format
