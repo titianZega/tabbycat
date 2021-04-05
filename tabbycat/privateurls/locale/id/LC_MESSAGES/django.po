@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 10:46\n"
+"PO-Revision-Date: 2021-04-05 10:55\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -166,19 +166,19 @@ msgstr ""
 #, python-format
 msgid "A private URL was generated for %(nblank_people)d person."
 msgid_plural "Private URLs were generated for all %(nblank_people)d people."
-msgstr[0] ""
+msgstr[0] "URL-URL privat telah dihasilkan untuk semua %(nblank_people)d orang."
 
 #: privateurls/views.py:131
 #, python-format
 msgid "The already-existing private URL for %(nexisting_people)d person was left intact."
 msgid_plural "The already-existing private URLs for %(nexisting_people)d people were left intact."
-msgstr[0] ""
+msgstr[0] "URL-URL privat yang telah ada untuk %(nexisting_people)d orang dibiarkan utuh."
 
 #: privateurls/views.py:172
 msgid "URL Key"
-msgstr ""
+msgstr "Kunci URL"
 
 #: privateurls/views.py:181
 msgid "Debates"
-msgstr ""
+msgstr "Debat-debat"
 
