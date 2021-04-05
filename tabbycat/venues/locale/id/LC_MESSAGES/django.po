@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-07-05 15:26-0300\n"
-"PO-Revision-Date: 2021-03-29 08:02\n"
+"PO-Revision-Date: 2021-04-05 11:07\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -141,7 +141,7 @@ msgstr "Kategori-kategori Ruangan"
 
 #: venues/templates/venue_categories_edit.html:9
 msgid "Room categories allow you to group rooms together into \"zones\" to display in the draw and make navigation easier for participants, and/or specify constraints on room allocation that require teams, adjudicators or institutions to be put in a room in a particular category."
-msgstr "Kategori-kategori Ruangan membolehkan anda untuk menggabungkan ruangan-ruangan ke \"zones\" untuk ditampilkan dalam pengundian dan membuat navigasi menjadi lebih mudah untuk peserta-peserta, dan/atau menentukan batasan-batasan pada pengalokasian ruangan yang membutuhkan tim-tim, juri-juri atau petunjuk-petunjuk untuk di ditempatkan di sebuah ruangan dalam kategori tertentu."
+msgstr "Kategori-kategori Ruangan membolehkan anda untuk menggabungkan ruangan-ruangan ke \"zones\" untuk ditampilkan dalam pengundian dan membuat navigasi menjadi lebih mudah untuk para peserta, dan/atau menentukan batasan-batasan pada pengalokasian ruangan yang membutuhkan para tim, para juri atau petunjuk-petunjuk untuk ditempatkan di sebuah ruangan dalam kategori tertentu."
 
 #: venues/templates/venue_categories_edit.html:14
 #, python-format
@@ -159,7 +159,7 @@ msgstr "Batasan-batasan Ruangan"
 
 #: venues/templates/venue_constraints_edit.html:9
 msgid "Room constraints tell the room allocator to try to keep the specified team or adjudicator, or all teams (but not adjudicators) from the specified institution, in a room in the given category. The \"priority\" field resolves conflicting constraints: the higher priority takes precedence. You can also use the priority field to specify \"lower-preference\" constraints, which are taken if a higher-priority constraint couldn't be met."
-msgstr "Batasan-batasan Ruangan memberitahu allocator ruangan agar berusaha mempertahankan tim atau juri yang sudah ditentukan, atau semua tim-tim (tapi tidak juri-juri) dari institusi yang ditentukan, dalam ruangan di kategori yang diberikan. Bidang \"priority\" memecahkan batasan-batasan yang bertentangan: prioritas yang lebih tinggi mendapat hak lebih tinggi. Kamu juga bisa menggunakan bidang prioritas untuk menentukan batasan-batasan \"lower-preference\", yang diambil bila tidak sampai pada batasan prioritas yang lebih tinggi."
+msgstr "Batasan-batasan Ruangan memberitahu allocator ruangan agar berusaha mempertahankan tim atau juri yang sudah ditentukan, atau semua tim-tim (tapi tidak para juri) dari institusi yang ditentukan, dalam ruangan di kategori yang diberikan. Bidang \"priority\" memecahkan batasan-batasan yang bertentangan: prioritas yang lebih tinggi mendapat hak lebih tinggi. Kamu juga bisa menggunakan bidang prioritas untuk menentukan batasan-batasan \"lower-preference\", yang diambil bila tidak sampai pada batasan prioritas yang lebih tinggi."
 
 #: venues/templates/venue_constraints_edit.html:20
 msgid "Save Room Constraints"
