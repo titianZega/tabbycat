@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-05 03:54\n"
+"PO-Revision-Date: 2021-04-05 04:05\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -60,7 +60,7 @@ msgstr ""
 
 #: ../../../AUTHORS.rst:21
 msgid "Viran Weerasekera, Valerie Tierney, Molly Dale, Madeline Schultz, and Vail Bromberger contributed to the \"Tournament Logistics\" section of our documentation."
-msgstr ""
+msgstr "Viran Weerasekera, Valerie Tierney, Molly Dale, Madeline Schultz, dan Vail Bromberger sudah berkontribusi pada bagian \"Logistik Turnamen\" pada dokumentasi kami."
 
 #: ../../../AUTHORS.rst:24
 msgid "Sponsors"
