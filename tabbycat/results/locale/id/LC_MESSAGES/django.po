@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 03:25\n"
+"PO-Revision-Date: 2021-04-05 03:35\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -153,7 +153,7 @@ msgstr "Harus ada 1 tim yang maju."
 
 #: results/models.py:32
 msgid "Tab room"
-msgstr ""
+msgstr "Ruang tab"
 
 #: results/models.py:33
 msgid "Public"
@@ -169,7 +169,7 @@ msgstr "versi"
 
 #: results/models.py:41
 msgid "submitter type"
-msgstr ""
+msgstr "tipe pengirim"
 
 #: results/models.py:43
 msgid "confirmed"
@@ -177,15 +177,15 @@ msgstr "terkonfirmasi"
 
 #: results/models.py:48
 msgid "from participant"
-msgstr ""
+msgstr "dari partisipan"
 
 #: results/models.py:53
 msgid "submitter"
-msgstr ""
+msgstr "pengirim"
 
 #: results/models.py:56
 msgid "confirmer"
-msgstr ""
+msgstr "terkonfirmasi"
 
 #: results/models.py:58
 msgid "confirm timestamp"
@@ -209,7 +209,7 @@ msgstr "mosi"
 
 #: results/models.py:112
 msgid "discarded"
-msgstr ""
+msgstr "dibuang"
 
 #: results/models.py:116 results/models.py:211 results/models.py:250
 #: results/models.py:288 results/models.py:330
