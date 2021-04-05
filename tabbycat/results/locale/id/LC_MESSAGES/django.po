@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-02 04:51\n"
+"PO-Revision-Date: 2021-04-05 03:05\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -26,7 +26,7 @@ msgstr[0] ""
 
 #: results/admin.py:45
 msgid "Resave results"
-msgstr ""
+msgstr "Simpan kembali hasil"
 
 #: results/apps.py:7 results/templates/public_results_index.html:4
 #: results/templates/public_results_index.html:5 results/views.py:140
