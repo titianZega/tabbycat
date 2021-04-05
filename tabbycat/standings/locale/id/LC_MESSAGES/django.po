@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2021-04-05 06:35\n"
+"PO-Revision-Date: 2021-04-05 06:45\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -534,7 +534,7 @@ msgstr "<p>Ada kesalahan saat membangkitkan klasemen: <em>%(message)s</em></p>"
 #: standings/views.py:104
 #, python-format
 msgid "<p>You may need to double-check the <a href=\"%(standings_options_url)s\" class=\"alert-link\">standings configuration under the Setup section</a>. If this issue persists and you're not sure how to fix it, please contact the developers.</p>"
-msgstr ""
+msgstr "<p>Anda mungkin perlu memeriksa kembali <a href=\"%(standings_options_url)s\" class=\"alert-link\">konfigurasi klasemen pada seksi Setup</a>. Jika masalahnya terus berlanjut dan Anda tidak yakin bagaimana memperbaikinya, mohon kontak pengembang.</p>"
 
 #: standings/views.py:112
 msgid "<p>The tab director will need to resolve this issue.</p>"
