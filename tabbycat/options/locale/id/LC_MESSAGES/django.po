@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 03:45\n"
+"PO-Revision-Date: 2021-04-05 03:54\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -765,7 +765,7 @@ msgstr ""
 
 #: options/preferences.py:767 options/templates/preferences_index.html:94
 msgid "Data Entry"
-msgstr ""
+msgstr "Data masukan"
 
 #: options/preferences.py:773
 msgid "Whether adjudicators can submit ballots themselves, and how they do so"
@@ -1285,11 +1285,11 @@ msgstr ""
 
 #: options/preferences.py:1350
 msgid "Motion vetoes"
-msgstr ""
+msgstr "Mosi diveto"
 
 #: options/preferences.py:1358
 msgid "If showing results to public, show which motions were selected in the record"
-msgstr ""
+msgstr "Jika menunjukan hasil ke publik, menunjukkan mosi mana yang dipilih dalam rekam jejak"
 
 #: options/preferences.py:1359
 msgid "Show motions in results"
@@ -1489,7 +1489,7 @@ msgstr ""
 
 #: options/templates/preferences_index.html:127
 msgid "Manually Set Current Round"
-msgstr ""
+msgstr "Set ronde sekarang secara manual"
 
 #: options/templates/preferences_index.html:128
 msgid "Tabbycat will prompt you to advance the current round on each round's results page. However, if there are special circumstances that require you to override this and set the current round to something else, use this page."
@@ -1506,7 +1506,7 @@ msgstr ""
 #: options/templates/preferences_index.html:147
 #, python-format
 msgid "Apply %(preset)s"
-msgstr ""
+msgstr "Menerapkan %(preset)s"
 
 #: options/templates/preferences_presets_complete.html:4
 #: options/templates/preferences_presets_complete.html:5
@@ -1518,7 +1518,7 @@ msgstr ""
 #: options/templates/preferences_presets_confirm.html:10
 #: options/templates/preferences_section_set.html:19
 msgid "Back to Configuration"
-msgstr ""
+msgstr "Kembali ke konfigurasi"
 
 #: options/templates/preferences_presets_complete.html:16
 msgid "Preferences that were changed"
@@ -1546,12 +1546,12 @@ msgstr ""
 #: options/templates/preferences_section_set.html:6
 #, python-format
 msgid "Configuration: %(section)s"
-msgstr ""
+msgstr "Konfigurasi: %(section)s"
 
 #: options/templates/preferences_section_set.html:10
 #, python-format
 msgid "Edit Configuration: %(section)s"
-msgstr ""
+msgstr "Edit konfigurasi: %(section)s"
 
 #: options/views.py:65
 #, python-format
