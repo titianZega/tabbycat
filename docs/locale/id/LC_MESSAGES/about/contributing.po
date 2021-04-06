@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-05 07:25\n"
+"PO-Revision-Date: 2021-04-06 02:05\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +36,7 @@ msgstr "Umpan balik dan ide"
 
 #: ../../../CONTRIBUTING.rst:12
 msgid "These can be added as issues in the `GitHub repository <https://github.com/TabbycatDebate/tabbycat/issues>`_; posts in our `Facebook group <https://www.facebook.com/groups/tabbycat.debate/>`_; or as an :ref:`email to the developers <authors>`."
-msgstr ""
+msgstr "Hal ini dapat ditambahkan sebagai sebuah masalah pada pos mengenai `repositori GitHub <https://github.com/TabbycatDebate/tabbycat/issues>`_; di `grup Facebook kami <https://www.facebook.com/groups/tabbycat.debate/>`_; atau sebagai `email referensi :ref: untuk pengembang <authors>`."
 
 #: ../../../CONTRIBUTING.rst:15
 msgid "Bug reports"
@@ -124,7 +124,7 @@ msgstr "Perubahan skema biasis data"
 
 #: ../../../CONTRIBUTING.rst:56
 msgid "When adding new features, it may be necessary to modify the database schema to support these new additions. After the changes are made, the migration files made by ``python manage.py makemigrations`` must also be committed. The migration files should also contain methods fill the new fields based on existing data if possible."
-msgstr ""
+msgstr "Ketika menambahkan sebuah fitur baru, merubah skema basisdata mungkin diperlukan agar tambahan fitur tersebut mendapatkan dukungan. Setelah perubahan dilakukan, file migrasi yang dihasilkan dari ``python manage.py makemigrations`` juga harus disertakan. Jika memungkinkan, file migrasi tersebut sebaiknya juga berisi method untuk mengisi field baru berdasarkan data yang sudah ada."
 
 #: ../../../CONTRIBUTING.rst:58
 msgid "Fixture files (found under ``data/fixtures/``) may also need to be updated, which can be done by running the ``migrate_fixtures.py`` script under a unmigrated database, then committing the result. ::"
@@ -132,7 +132,7 @@ msgstr ""
 
 #: ../../../CONTRIBUTING.rst:64
 msgid "Style guide"
-msgstr ""
+msgstr "Panduan Gaya Penulisan"
 
 #: ../../../CONTRIBUTING.rst:66
 msgid "For the front end interface design there is a style guide available at \"/style/\" once a tournament has been setup."
@@ -200,7 +200,7 @@ msgstr ""
 
 #: ../../../CONTRIBUTING.rst:107
 msgid "Project structure"
-msgstr ""
+msgstr "Struktur proyek"
 
 #: ../../../CONTRIBUTING.rst:109
 msgid "``bin`` contains a number of convenience scripts for starting/stopping Docker, and the webserver/asset pipeline."
