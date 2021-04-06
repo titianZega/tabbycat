@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-06 02:25\n"
+"PO-Revision-Date: 2021-04-06 02:42\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -176,7 +176,7 @@ msgstr ""
 
 #: ../../../CONTRIBUTING.rst:91
 msgid "One day, we hope to have a public API in place to facilitate the integration with other debating tournament software, like registration or adjudicator feedback systems. If and when that happens, we'll probably revise this convention to be more in line with `Semantic Versioning <http://semver.org/>`_."
-msgstr ""
+msgstr "Suatu hari nanti, kami berharap dapat memiliki API publik yang dapat memfasilitasi integrasi dengan perangkat lunak turnamen debat lainnya, seperti sistem registrasi dan umpan balik dari juri. Ketika hal ini tercapai, kemungkinan besar kami akan merevisi konvensi ini agar lebih sesuai dengan menggunakan `Versi Semantik <http://semver.org/>`_."
 
 #: ../../../CONTRIBUTING.rst:93
 msgid "Starting from version 0.7.0, we use cat breeds as the code names for major versions."
@@ -192,11 +192,11 @@ msgstr ""
 
 #: ../../../CONTRIBUTING.rst:100
 msgid "To preview the documentation locally, install the development dependencies and then  start the server::"
-msgstr ""
+msgstr "Untuk dapat melihat dokumentasi secara lokal, instal dependency untuk pengembangan dan kemudian hidupkan server::"
 
 #: ../../../CONTRIBUTING.rst:104
 msgid "You should then be able to preview the docs at `127.0.0.1:7999 <http://127.0.0.1:7999>`_."
-msgstr ""
+msgstr "Anda kemudian dapat melihat dokumen tersebut pada `127.0.0.1:7999 <http://127.0.0.1:7999>`_."
 
 #: ../../../CONTRIBUTING.rst:107
 msgid "Project structure"
@@ -272,7 +272,7 @@ msgstr ""
 
 #: ../../../CONTRIBUTING.rst:144
 msgid "Release checklist"
-msgstr ""
+msgstr "Rilis Ceklis"
 
 #: ../../../CONTRIBUTING.rst:146
 msgid "Check that all migrations have been generated and committed into Git"
