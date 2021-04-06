@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-06 02:42\n"
+"PO-Revision-Date: 2021-04-06 03:52\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -296,11 +296,11 @@ msgstr ""
 
 #: ../../../CONTRIBUTING.rst:155
 msgid "Check the major current deployment options, including:"
-msgstr ""
+msgstr "Periksa opsi pengembangan utama saat ini, termasuk:"
 
 #: ../../../CONTRIBUTING.rst:152
 msgid "The ``deploy_heroku.py`` script"
-msgstr ""
+msgstr "Skrip ``deploy_heroku.py``"
 
 #: ../../../CONTRIBUTING.rst:153
 msgid "The Tabbykitten version"
