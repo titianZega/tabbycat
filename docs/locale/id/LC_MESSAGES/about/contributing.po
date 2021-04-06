@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-06 02:05\n"
+"PO-Revision-Date: 2021-04-06 02:25\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -156,7 +156,7 @@ msgstr ""
 
 #: ../../../CONTRIBUTING.rst:83
 msgid "Our convention is to increment the minor version whenever we add new functionality, and to increment the major version whenever:"
-msgstr ""
+msgstr "Konvensi yang kami lakukan bertujuan memperkecil versi minor kapanpun kami menambahkan fungsi baru, dan untuk menambahkan versi major kapanpun:"
 
 #: ../../../CONTRIBUTING.rst:85
 msgid "the database can't be migrated forwards using ``python manage.py migrate --no-input``, or"
@@ -164,7 +164,7 @@ msgstr ""
 
 #: ../../../CONTRIBUTING.rst:86
 msgid "there is a major change to how the tournament workflow goes, or"
-msgstr ""
+msgstr "ada perubahan besar mengenai bagaimana turnamen berjalan, atau"
 
 #: ../../../CONTRIBUTING.rst:87
 msgid "we make some other change that is, in our opinion, significant enough to warrant a milestone."
@@ -180,7 +180,7 @@ msgstr ""
 
 #: ../../../CONTRIBUTING.rst:93
 msgid "Starting from version 0.7.0, we use cat breeds as the code names for major versions."
-msgstr ""
+msgstr "Sejak versi 0.7.0, kami menggunakan ras kucing sebagai kode nama untuk versi major."
 
 #: ../../../CONTRIBUTING.rst:96
 msgid "Documentation"
@@ -204,19 +204,19 @@ msgstr "Struktur proyek"
 
 #: ../../../CONTRIBUTING.rst:109
 msgid "``bin`` contains a number of convenience scripts for starting/stopping Docker, and the webserver/asset pipeline."
-msgstr ""
+msgstr "``bin`` memuat sejumlah skrip praktis untuk memulai/menghentikan Docker, dan pipeline webserver/aset."
 
 #: ../../../CONTRIBUTING.rst:110
 msgid "``data`` contains the sample data sets and fixtures used to setup demo tournaments and in automated tests respectively"
-msgstr ""
+msgstr "``data`` memuat contoh set data dan perlengkapan yang digunakan untuk mengatur turnamen demo dan dalam tes otomatis masing-masing"
 
 #: ../../../CONTRIBUTING.rst:111
 msgid "``docs`` contains our document source files and images (although some are linked from the root directory)"
-msgstr ""
+msgstr "``docs`` memuat file dan gambar sumber dokumen kami (meskipun beberapa sudah ditautkan dari direktori root)"
 
 #: ../../../CONTRIBUTING.rst:115
 msgid "``tabbycat`` is the main directory containing the Django project"
-msgstr ""
+msgstr "``tabbycat`` adalah direktori utama yang memuat proyek Django"
 
 #: ../../../CONTRIBUTING.rst:113
 msgid "``locale`` contains translation strings for shared templates (others are in respective app directories)"
@@ -228,7 +228,7 @@ msgstr ""
 
 #: ../../../CONTRIBUTING.rst:115
 msgid "``utils`` contains shared utilities"
-msgstr ""
+msgstr "``utils`` memuat utilitas yang digunakan bersama"
 
 #: ../../../CONTRIBUTING.rst:116
 msgid "All other folders are the Django apps that contain specific views, models, and templates for functions such as ``draw`` generation/display, or recording ``results``. Each has sub-folders for tests and templates."
