@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-07 17:18\n"
+"PO-Revision-Date: 2021-04-07 17:27\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -1205,55 +1205,55 @@ msgstr "Pesan draw juri"
 
 #: options/preferences.py:1250
 msgid "The subject-line for emails sent to teams with their draw."
-msgstr ""
+msgstr "Baris subjek untuk email yang dikirim ke tim dengan undian mereka."
 
 #: options/preferences.py:1251
 msgid "Team draw subject line"
-msgstr ""
+msgstr "Baris subjek poin tim"
 
 #: options/preferences.py:1258 options/preferences.py:1276
 msgid "The message body for emails sent to participants with their private URLs."
-msgstr ""
+msgstr "Badan pesan untuk email yang dikirim ke peserta dengan URL pribadinya."
 
 #: options/preferences.py:1259 options/preferences.py:1277
 msgid "Private URL notification message"
-msgstr ""
+msgstr "Pesan pemberitahuan URL pribadi"
 
 #: options/preferences.py:1268
 msgid "The subject-line for emails sent to participants with their private URLs."
-msgstr ""
+msgstr "Baris subjek untuk email yang dikirim ke peserta dengan URL pribadinya."
 
 #: options/preferences.py:1269
 msgid "Private URL notification subject line"
-msgstr ""
+msgstr "Baris subjek pemberitahuan URL pribadi"
 
 #: options/preferences.py:1290
 msgid "The subject-line for emails sent to participants on motion release."
-msgstr ""
+msgstr "Baris subjek untuk email yang dikirim ke peserta saat rilis mosi."
 
 #: options/preferences.py:1291
 msgid "Motion release notification subject line"
-msgstr ""
+msgstr "Baris subjek pemberitahuan pelepasan mosi"
 
 #: options/preferences.py:1298
 msgid "The message body for emails sent to participants on motion release."
-msgstr ""
+msgstr "Badan pesan untuk email yang dikirim ke peserta tentang rilis mosi."
 
 #: options/preferences.py:1299
 msgid "Motion release notification message"
-msgstr ""
+msgstr "Pesan pemberitahuan perilisan mosi"
 
 #: options/preferences.py:1307
 msgid "The subject-line for emails sent to participants informing them of their team registration."
-msgstr ""
+msgstr "Baris subjek untuk email yang dikirim ke peserta yang memberi tahu mereka tentang pendaftaran tim mereka."
 
 #: options/preferences.py:1308
 msgid "Team registration notification subject line"
-msgstr ""
+msgstr "Baris subjek pemberitahuan pendaftaran tim"
 
 #: options/preferences.py:1315
 msgid "The message body for emails sent to participants informing them of their team registration."
-msgstr ""
+msgstr "The message body for emails sent to participants informing them of their team registration."
 
 #: options/preferences.py:1316
 msgid "Team registration notification message"
@@ -1273,7 +1273,7 @@ msgstr "Aktifkan mosi"
 
 #: options/preferences.py:1340
 msgid "Whether the printed scoresheets should hide the text of motions (even if they have been entered and released)"
-msgstr ""
+msgstr "Apakah lembar nilai yang dicetak harus menyembunyikan teks mosi (meskipun telah dimasukkan dan dilepaskan)"
 
 #: options/preferences.py:1341
 msgid "Ballot Hide Motions"
@@ -1281,7 +1281,7 @@ msgstr "Sembunyikan mosi balot"
 
 #: options/preferences.py:1349
 msgid "Enables the motion veto field on ballots, to track veto statistics"
-msgstr ""
+msgstr "Mengaktifkan bidang veto mosi pada balot, untuk melacak statistik veto"
 
 #: options/preferences.py:1350
 msgid "Motion vetoes"
@@ -1313,7 +1313,7 @@ msgstr "Ronde paling terakhir pertama"
 
 #: options/preferences.py:1380
 msgid "Whether motions can be reused from one round to another."
-msgstr ""
+msgstr "Apakah mosi dapat digunakan kembali dari satu putaran ke putaran lainnya."
 
 #: options/preferences.py:1381
 msgid "Allow motion reuse"
@@ -1325,7 +1325,7 @@ msgstr "Pengaturan global"
 
 #: options/preferences.py:1394
 msgid "Enables external applications to access the site through a dedicated interface, subject to public information settings."
-msgstr ""
+msgstr "Memungkinkan aplikasi eksternal untuk mengakses situs melalui antarmuka khusus, sesuai dengan pengaturan informasi publik."
 
 #: options/preferences.py:1395
 msgid "Enable API access"
@@ -1365,7 +1365,7 @@ msgstr "Aturan parlemen canada"
 
 #: options/presets.py:158
 msgid "2 vs 2 with replies (unscored) and POIs. May require additional configuration depending on regional variations."
-msgstr ""
+msgstr "2 vs 2 dengan balasan (tanpa skor) dan POI. Mungkin memerlukan konfigurasi tambahan tergantung pada variasi regional."
 
 #: options/presets.py:181
 msgid "Australian Easters Rules"
@@ -1373,11 +1373,11 @@ msgstr "Aturan Easters Australia"
 
 #: options/presets.py:183
 msgid "3 vs 3 without replies, set motions, novices, intermediate bubbles, one-up-one-down. Compliant with AIDA rules."
-msgstr ""
+msgstr "3 vs 3 tanpa balasan, atur mosi, pemula, gelembung menengah, satu-atas-satu-ke bawah. Sesuai dengan aturan AIDA."
 
 #: options/presets.py:201
 msgid "2 vs 2 Impromptu"
-msgstr ""
+msgstr "2 vs 2 Dadakan"
 
 #: options/presets.py:203
 msgid "2 vs 2 with replies, chosen motions, chosen sides, and novice statuses."
