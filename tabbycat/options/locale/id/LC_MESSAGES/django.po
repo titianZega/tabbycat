@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-07 17:09\n"
+"PO-Revision-Date: 2021-04-07 17:18\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -1165,43 +1165,43 @@ msgstr "Baris subjek tanda terima balot"
 
 #: options/preferences.py:1197
 msgid "The message body for emails sent to adjudicators with their submitted ballot."
-msgstr ""
+msgstr "Badan pesan untuk email yang dikirim ke juri dengan balot yang mereka kirimkan."
 
 #: options/preferences.py:1198
 msgid "Ballot receipt message"
-msgstr ""
+msgstr "Pesan tanda terima balot"
 
 #: options/preferences.py:1214
 msgid "The subject line for emails sent to speakers with their team points."
-msgstr ""
+msgstr "Baris subjek untuk email yang dikirim ke pembicara dengan poin tim mereka."
 
 #: options/preferences.py:1215
 msgid "Team points subject line"
-msgstr ""
+msgstr "Baris subjek poin tim"
 
 #: options/preferences.py:1222
 msgid "The message body for emails sent to speakers with their team points."
-msgstr ""
+msgstr "Badan Pesan untuk email yang dikirim ke pembicara dengan poin tim mereka."
 
 #: options/preferences.py:1223
 msgid "Team points message"
-msgstr ""
+msgstr "Pesan poin tim"
 
 #: options/preferences.py:1232
 msgid "The subject-line for emails sent to adjudicators with their assignments."
-msgstr ""
+msgstr "Baris subjek untuk email yang dikirim ke juri dengan tugas mereka."
 
 #: options/preferences.py:1233
 msgid "Adjudicator draw subject line"
-msgstr ""
+msgstr "Baris subjek draw juri"
 
 #: options/preferences.py:1240
 msgid "The message body for emails sent to adjudicators with their assignments."
-msgstr ""
+msgstr "Badan pesan untuk email yang dikirim ke juri dengan tugas mereka."
 
 #: options/preferences.py:1241
 msgid "Adjudicator draw message"
-msgstr ""
+msgstr "Pesan draw juri"
 
 #: options/preferences.py:1250
 msgid "The subject-line for emails sent to teams with their draw."
@@ -1349,7 +1349,7 @@ msgstr "Aturan australs"
 
 #: options/presets.py:75
 msgid "3 vs 3 with replies, chosen motions, intermediate brackets, one-up-one-down. Compliant with AIDA rules."
-msgstr ""
+msgstr "3 vs 3 dengan balasan, mosi yang dipilih, Brackets tengah, satu-atas-satu-ke-bawah. Sesuai dengan aturan AIDA."
 
 #: options/presets.py:114
 msgid "British Parliamentary Rules"
@@ -1357,7 +1357,7 @@ msgstr "Aturan parlemen inggris"
 
 #: options/presets.py:115
 msgid "2 vs 2 vs 2 vs 2. Compliant with WUDC rules."
-msgstr ""
+msgstr "2 vs 2 vs 2 vs 2. Sesuai dengan aturan WUDC."
 
 #: options/presets.py:156
 msgid "Canadian Parliamentary Rules"
