@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 04:25\n"
+"PO-Revision-Date: 2021-04-07 16:02\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -661,7 +661,7 @@ msgstr ""
 
 #: options/preferences.py:636
 msgid "Release team tab to public"
-msgstr ""
+msgstr "Rilis tab tim ke publik"
 
 #: options/preferences.py:644
 msgid "Only show scores for the top X teams in the public tab (set to 0 to show all teams)."
