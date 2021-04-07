@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-07 17:49\n"
+"PO-Revision-Date: 2021-04-07 17:57\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -1001,107 +1001,107 @@ msgstr "Aktifkan tampilan publik klasemen tim"
 
 #: options/preferences.py:1018
 msgid "Enables the public page for each team and adjudicator showing their records"
-msgstr ""
+msgstr "Mengaktifkan halaman publik untuk setiap tim dan juri yang menampilkan catatan mereka"
 
 #: options/preferences.py:1019
 msgid "Enable public record pages"
-msgstr ""
+msgstr "Aktifkan halaman catatan publik"
 
 #: options/preferences.py:1027
 msgid "Enables the public page showing the team breaks. Intended for use after the break announcement."
-msgstr ""
+msgstr "Mengaktifkan halaman publik yang menampilkan jeda tim. Ditujukan untuk digunakan setelah pengumuman istirahat."
 
 #: options/preferences.py:1028
 msgid "Release team breaks to public"
-msgstr ""
+msgstr "Rilis istirahat tim ke publik"
 
 #: options/preferences.py:1036
 msgid "Enables the public page showing breaking adjudicators. Intended for use after the break announcement."
-msgstr ""
+msgstr "Mengaktifkan halaman publik yang menampilkan juri yang sedang istirahat. Ditujukan untuk digunakan setelah pengumuman istirahat."
 
 #: options/preferences.py:1037
 msgid "Release adjudicators break to public"
-msgstr ""
+msgstr "Rilis juri yang istirahat ke publik"
 
 #: options/preferences.py:1045
 msgid "Enables the public page detailing who has unsubmitted feedback"
-msgstr ""
+msgstr "Mengaktifkan halaman publik yang merinci siapa yang memiliki nilai yang belum dikirim"
 
 #: options/preferences.py:1046
 msgid "Enable public view of unsubmitted feedback"
-msgstr ""
+msgstr "Aktifkan tampilan publik dari nilai yang belum dikirim"
 
 #: options/preferences.py:1054
 msgid "List of tournament staff, to be displayed on the tournament home page. Leave this blank or with the default text if you want to not show this information."
-msgstr ""
+msgstr "Daftar staf turnamen, untuk ditampilkan di halaman beranda turnamen. Biarkan kosong atau dengan teks default jika Anda tidak ingin menampilkan informasi ini."
 
 #: options/preferences.py:1055
 msgid "Tournament staff"
-msgstr ""
+msgstr "Staff turnamen"
 
 #: options/preferences.py:1065
 msgid "Message to be displayed on the tournament home page"
-msgstr ""
+msgstr "Pesan yang akan ditampilkan di halaman beranda turnamen"
 
 #: options/preferences.py:1066
 msgid "Welcome message"
-msgstr ""
+msgstr "Pesan selamat datang"
 
 #: options/preferences.py:1075 options/templates/preferences_index.html:104
 msgid "UI Options"
-msgstr ""
+msgstr "Opsi UI"
 
 #: options/preferences.py:1081
 msgid "If showing results to public, show splitting adjudicators in them"
-msgstr ""
+msgstr "Jika menampilkan hasil ke publik, tunjukkan juri pemisah di dalamnya"
 
 #: options/preferences.py:1082
 msgid "Show splitting adjudicators"
-msgstr ""
+msgstr "Tunjukkan juri pemisah"
 
 #: options/preferences.py:1090
 msgid "Whether and how to use code names for teams"
-msgstr ""
+msgstr "Apakah dan bagaimana menggunakan nama kode untuk tim"
 
 #: options/preferences.py:1091
 msgid "Team code names"
-msgstr ""
+msgstr "Code nama tim"
 
 #: options/preferences.py:1096
 msgid "Do not use code names"
-msgstr ""
+msgstr "Jangan mengunakan kode nama"
 
 #: options/preferences.py:1097
 msgid "Use real names everywhere, and show code names in tooltips"
-msgstr ""
+msgstr "Gunakan nama asli di mana saja, dan tampilkan kode nama di keterangan alat"
 
 #: options/preferences.py:1098
 msgid "Use code names for public; real names with code names in tooltips for admins"
-msgstr ""
+msgstr "Gunakan kode nama untuk publik; nama asli dengan kode nama di keterangan alat untuk admin"
 
 #: options/preferences.py:1100
 msgid "Use code names for public; code names with real names in tooltips for admins"
-msgstr ""
+msgstr "Gunakan kode nama untuk publik; kode nama dengan nama asli di keterangan alat untuk admin"
 
 #: options/preferences.py:1102
 msgid "Use code names everywhere; do not use tooltips (real names show in some admin views)"
-msgstr ""
+msgstr "Gunakan kode nama di mana saja; jangan gunakan tooltips (nama asli ditampilkan di beberapa tampilan admin)"
 
 #: options/preferences.py:1108
 msgid "Display team emoji in the public and admin interfaces"
-msgstr ""
+msgstr "Tampilkan emoji tim di antarmuka publik dan admin"
 
 #: options/preferences.py:1109
 msgid "Show emoji"
-msgstr ""
+msgstr "Tampilkan Emoji"
 
 #: options/preferences.py:1117
 msgid "In tables listing teams, adds a column showing their institutions"
-msgstr ""
+msgstr "Dalam tabel daftar tim, tambahkan kolom yang menunjukkan institusi mereka"
 
 #: options/preferences.py:1118
 msgid "Show team institutions"
-msgstr ""
+msgstr "Tunjukkan institusi tim"
 
 #: options/preferences.py:1126
 msgid "Hide the institutions of adjudicators on public pages and on printed ballots"
