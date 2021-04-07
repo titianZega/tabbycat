@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-07 17:27\n"
+"PO-Revision-Date: 2021-04-07 17:37\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -1381,7 +1381,7 @@ msgstr "2 vs 2 Dadakan"
 
 #: options/presets.py:203
 msgid "2 vs 2 with replies, chosen motions, chosen sides, and novice statuses."
-msgstr ""
+msgstr "2 vs 2 dengan balasan, mosi yang dipilih, sisi yang dipilih, dan status pemula."
 
 #: options/presets.py:228
 msgid "3 vs 3 Prepared"
@@ -1389,7 +1389,7 @@ msgstr "3 vs 3 disiapkan"
 
 #: options/presets.py:230
 msgid "3 vs 3 with preallocated sides, publicly displayed sides and motions, and novice statuses."
-msgstr ""
+msgstr "3 vs 3 dengan sisi yang telah dialokasikan sebelumnya, sisi dan gerakan yang ditampilkan secara publik, dan status pemula."
 
 #: options/presets.py:257
 msgid "UADC Rules"
@@ -1397,7 +1397,7 @@ msgstr "Aturan UADC"
 
 #: options/presets.py:259
 msgid "3 vs 3 with replies, chosen motions, and all adjudicators can receive feedback from teams."
-msgstr ""
+msgstr "3 vs 3 dengan balasan, mosi yang dipilih, dan semua juri dapat menerima umpan balik dari tim."
 
 #: options/presets.py:295
 msgid "WSDC Rules"
@@ -1405,11 +1405,11 @@ msgstr "Aturan WSDC"
 
 #: options/presets.py:297
 msgid "3 vs 3 with replies, chosen motions, prop/opp side labels, and all adjudicators can receive feedback from teams."
-msgstr ""
+msgstr "3 vs 3 dengan balasan, gerakan yang dipilih, label sisi prop / opp, dan semua juri dapat menerima umpan balik dari tim."
 
 #: options/presets.py:360
 msgid "For tournaments hosted online: this sets it up so that people can access the draw and other generally useful information via the tab site."
-msgstr ""
+msgstr "Untuk turnamen yang diselenggarakan secara online: ini mengaturnya sehingga orang-orang dapat mengakses undian dan informasi lain yang umumnya berguna melalui situs tab."
 
 #: options/presets.py:372
 msgid "Tab Release Options"
@@ -1417,7 +1417,7 @@ msgstr "Rilis tab opsi"
 
 #: options/presets.py:374
 msgid "For when a tab is ready to be released. This will publicly display the results of all rounds, the team tab, the speaker tab, etc"
-msgstr ""
+msgstr "Untuk saat tab siap dirilis. Ini akan secara terbuka menampilkan hasil dari semua putaran, tab tim, tab pembicara, dll"
 
 #: options/templates/preferences_index.html:4
 #: options/templates/preferences_index.html:5
@@ -1427,37 +1427,37 @@ msgstr "Konfigurasi"
 #: options/templates/preferences_index.html:11
 #, python-format
 msgid "Your draw rules specify four teams per-debate but your ballot setting specifies that adjudicators submit independent ballots. These settings <strong>are not compatible and will cause results entry to crash</strong>. You need to go back to the <a href=\"%(options_url)s\" class=\"alert-link\">Debate Rules section</a> and change your configuration to use consensus ballots."
-msgstr ""
+msgstr "Aturan undian Anda menentukan empat tim per debat, tetapi pengaturan balot Anda menentukan bahwa juri mengirimkan balot independen. Pengaturan ini <strong> tidak kompatibel dan akan menyebabkan entri hasil crash </strong>. Anda harus kembali ke <a href=\"%(options_url)s\" class=\"alert-link\"> bagian Aturan Debat </a> dan mengubah konfigurasi Anda untuk menggunakan balot konsensus."
 
 #: options/templates/preferences_index.html:24
 #, python-format
 msgid "You do not use preallocated side allocation yet the odd bracket resolution method uses preallocated sides. This will cause draw generation to fail. You need to edit odd bracket resolution, avoiding <i>Intermediate 1</i> and <i>Intermediate 2</i> in the <a href=\"%(options_url)s\" class=\"alert-link\">Draw Rules section</a>."
-msgstr ""
+msgstr "Anda tidak menggunakan alokasi sisi yang dialokasikan sebelumnya namun metode resolusi tanda kurung ganjil menggunakan sisi yang dialokasikan sebelumnya. Ini akan menyebabkan kegagalan pembuatan undian. Anda perlu mengedit resolusi braket ganjil, menghindari <i> Menengah 1 </i> dan <i> Menengah 2 </i> di <a href=\"%(options_url)s\" class=\"alert-link\"> Bagian aturan pengundian</a>."
 
 #: options/templates/preferences_index.html:35
 #, python-format
 msgid "You both have team code names enabled, and team institutions showing on public pages. If your objective in enabling team code names is to obscure team institutions, this probably defeats the purpose of code names. You can edit these settings in the <a href=\"%(ui_url)s\" class=\"alert-link\">UI Options section</a>."
-msgstr ""
+msgstr "Anda berdua mengaktifkan nama kode tim, dan institusi tim ditampilkan di halaman publik. Jika tujuan Anda dalam mengaktifkan nama kode tim adalah untuk mengaburkan institusi tim, ini mungkin mengalahkan tujuan nama kode. Anda dapat mengedit pengaturan ini di <a href=\"%(ui_url)s\" class=\"alert-link\"> bagian Opsi UI </a>."
 
 #: options/templates/preferences_index.html:54
 msgid "The range of scores that can awarded to speeches, replies, and teams"
-msgstr ""
+msgstr "Rentang skor yang dapat diberikan untuk pidato, balasan, dan tim"
 
 #: options/templates/preferences_index.html:59
 msgid "How teams are paired in the draw and how adjudicators are auto-allocated"
-msgstr ""
+msgstr "Bagaimana tim dipasangkan dalam undian dan bagaimana juri dialokasikan secara otomatis"
 
 #: options/templates/preferences_index.html:64
 msgid "How many speeches in a debate, how motions are decided, and whether reply speeches are used"
-msgstr ""
+msgstr "Berapa banyak pidato dalam sebuah debat, bagaimana mosi diputuskan, dan apakah pidato balasan digunakan"
 
 #: options/templates/preferences_index.html:69
 msgid "How teams and speakers are ranked in the released tabs"
-msgstr ""
+msgstr "Bagaimana tim dan pembicara diberi peringkat di tab yang dirilis"
 
 #: options/templates/preferences_index.html:74
 msgid "How adjudicators are ranked and who can submit feedback"
-msgstr ""
+msgstr "Bagaimana peringkat juri dan siapa yang dapat mengirimkan umpan balik"
 
 #: options/templates/preferences_index.html:79
 msgid "How and where are motions used"
@@ -1465,7 +1465,7 @@ msgstr "Bagaimana dan dimana mosi digunakan"
 
 #: options/templates/preferences_index.html:90
 msgid "When to release a public tab is made visible and what data it shows"
-msgstr ""
+msgstr "Kapan merilis tab publik dibuat terlihat dan data apa yang ditampilkan"
 
 #: options/templates/preferences_index.html:95
 msgid "How ballots, feedback, and check-ins are entered, including online submission options"
