@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-07 16:59\n"
+"PO-Revision-Date: 2021-04-07 17:09\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -857,7 +857,7 @@ msgstr "Partisipan check in sendiri"
 
 #: options/preferences.py:862
 msgid "The amount of time (in hours) before a speaker or adjudicator's check-in event expires"
-msgstr ""
+msgstr "Jumlah waktu (dalam jam) sebelum acara check-in pembicara atau juri berakhir"
 
 #: options/preferences.py:865
 msgid "Check-In Window (People)"
@@ -865,7 +865,7 @@ msgstr "Jendela Check-in (Orang)"
 
 #: options/preferences.py:871
 msgid "The amount of time (in hours) before a room's check-in event expires"
-msgstr ""
+msgstr "Jumlah waktu (dalam jam) sebelum acara check-in ruangan berakhir"
 
 #: options/preferences.py:874
 msgid "Check-In Window (Rooms)"
@@ -873,7 +873,7 @@ msgstr "Jendela Check-in (ruangan)"
 
 #: options/preferences.py:880
 msgid "Whether the printed scoresheets should show the 'circle digits' prompt to help check bad handwriting"
-msgstr ""
+msgstr "Apakah lembar nilai yang dicetak harus menampilkan perintah 'digit lingkaran' untuk membantu memeriksa tulisan tangan yang buruk"
 
 #: options/preferences.py:881
 msgid "Ballot Digit Checks"
@@ -881,7 +881,7 @@ msgstr "Cek Digit balot"
 
 #: options/preferences.py:889
 msgid "The location to return scoresheets to, printed on pre-printed ballots. Set to 'TBA' to hide."
-msgstr ""
+msgstr "Lokasi untuk mengembalikan lembar nilai, dicetak pada surat suara yang telah dicetak sebelumnya. Set ke 'TBA' untuk menyembunyikan."
 
 #: options/preferences.py:890
 msgid "Score return location"
@@ -889,7 +889,7 @@ msgstr "Lokasi Nilai Kembali"
 
 #: options/preferences.py:898
 msgid "The location to return feedback to, printed on pre-printed feedback forms. Set to 'TBA' to hide."
-msgstr ""
+msgstr "Lokasi untuk mengembalikan nilai, dicetak pada formulir nilai yang telah dicetak sebelumnya. Set ke 'TBA' untuk menyembunyikan."
 
 #: options/preferences.py:899
 msgid "Feedback return location"
@@ -897,7 +897,7 @@ msgstr "Lokasi umpan balik kembali"
 
 #: options/preferences.py:907
 msgid "Lets debates have their status as postponed, as to not block draw generation."
-msgstr ""
+msgstr "Biarkan debat memiliki status mereka sebagai ditunda, untuk tidak memblokir pembuatan undian."
 
 #: options/preferences.py:908
 msgid "Enable postponements"
@@ -909,27 +909,27 @@ msgstr "Fitur umum"
 
 #: options/preferences.py:921
 msgid "Enables the public page listing all participants in the tournament"
-msgstr ""
+msgstr "Mengaktifkan halaman publik yang mencantumkan semua peserta dalam turnamen"
 
 #: options/preferences.py:922
 msgid "Enable public view of participants list"
-msgstr ""
+msgstr "Aktifkan tampilan publik dari daftar peserta"
 
 #: options/preferences.py:930
 msgid "Enables the public page listing all institutions in the tournament"
-msgstr ""
+msgstr "Mengaktifkan halaman publik yang mencantumkan semua institusi di turnamen"
 
 #: options/preferences.py:931
 msgid "Enable public view of institutions list"
-msgstr ""
+msgstr "Aktifkan tampilan publik dari daftar institusi"
 
 #: options/preferences.py:939
 msgid "Enables the public page listing diversity statistics"
-msgstr ""
+msgstr "Mengaktifkan statistik keragaman daftar halaman publik"
 
 #: options/preferences.py:940
 msgid "Enable public view of diversity info"
-msgstr ""
+msgstr "Aktifkan tampilan publik tentang info keragaman"
 
 #: options/preferences.py:948
 msgid "Enables the public page showing checkin statuses for individuals, institutions, and teams. Note that this page can be slow when used at very large tournaments."
@@ -1137,31 +1137,31 @@ msgstr ""
 
 #: options/preferences.py:1159
 msgid "Reply-to address"
-msgstr ""
+msgstr "Alamat balas-ke"
 
 #: options/preferences.py:1167
 msgid "A secret key to accept email status events"
-msgstr ""
+msgstr "Kunci rahasia untuk menerima peristiwa status email"
 
 #: options/preferences.py:1168
 msgid "Email status secret key"
-msgstr ""
+msgstr "Kunci rahasia status email"
 
 #: options/preferences.py:1178
 msgid "Enables a copy of adjudicators' ballots to be automatically sent to them (by email) after they are entered in Tabbycat (for confirmation or checking)"
-msgstr ""
+msgstr "Memungkinkan salinan balot juri untuk secara otomatis dikirim kepada mereka (melalui email) setelah mereka dimasukkan di Tabbycat (untuk konfirmasi atau pemeriksaan)"
 
 #: options/preferences.py:1179
 msgid "Ballot receipts"
-msgstr ""
+msgstr "Tanda terima balot"
 
 #: options/preferences.py:1187
 msgid "The subject line for emails sent to adjudicators with their submitted ballot. Use '{{ DEBATE }}' as a placeholder for the associated debate"
-msgstr ""
+msgstr "Baris subjek untuk email yang dikirim ke juri dengan balot yang mereka kirimkan. Gunakan '{{DEBATE}}' sebagai placeholder untuk debat terkait"
 
 #: options/preferences.py:1189
 msgid "Ballot receipt subject line"
-msgstr ""
+msgstr "Baris subjek tanda terima balot"
 
 #: options/preferences.py:1197
 msgid "The message body for emails sent to adjudicators with their submitted ballot."
