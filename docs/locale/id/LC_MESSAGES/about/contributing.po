@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-06 04:06\n"
+"PO-Revision-Date: 2021-04-07 03:16\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -44,7 +44,7 @@ msgstr "Laporan bug"
 
 #: ../../../CONTRIBUTING.rst:17
 msgid "Please report bugs by opening a new issue in our `GitHub repository <https://github.com/TabbycatDebate/tabbycat/issues>`_. It is most helpful if you can include:"
-msgstr ""
+msgstr "Harap laporkan masalah yang ada dengan membuka sebuah issue baru di `repositori GitHub kami <https://github.com/TabbycatDebate/tabbycat/issues>`_. Akan sangat menolong jika anda menyertakan:"
 
 #: ../../../CONTRIBUTING.rst:19
 msgid "How Tabbycat was installed (on Heroku, locally on macOS, `etc.`)"
@@ -64,7 +64,7 @@ msgstr "Memulai pengembangan"
 
 #: ../../../CONTRIBUTING.rst:26
 msgid "To easily test your changes to Tabbycat you probably want a working :ref:`local install <install-local>` (without using Docker)"
-msgstr ""
+msgstr "Agar lebih mudah dalam menguji perubahan pada Tabbycat, anda sebaiknya menggunakan instalasi `lokal :ref: <install-local>` (tanpa menggunakan Docker)"
 
 #: ../../../CONTRIBUTING.rst:27
 msgid "Please submit pull requests for features and bug fixes against `develop` (but not `master`)."
