@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-07 16:28\n"
+"PO-Revision-Date: 2021-04-07 16:38\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -600,23 +600,23 @@ msgstr "Urutan"
 
 #: options/preferences.py:542
 msgid "The number of substantive speeches a speaker can miss and still be on the speaker tab (-1 means no limit)"
-msgstr ""
+msgstr "Jumlah dari pidato subtantif dari seorang pembicara dapat di lewatkan dan masih bisa dilakukan pada tab pembiacara (-1berarti tidak ada batasan)"
 
 #: options/preferences.py:543
 msgid "Speeches missable for standings eligibility"
-msgstr ""
+msgstr "Pidato terlewatkan untuk kelayakan klasemen"
 
 #: options/preferences.py:551
 msgid "The number of reply speeches a speaker can miss and still be on the replies tab (-1 means no limit)"
-msgstr ""
+msgstr "Jumlah dari pidato subtantif dari seorang pembicara dapat di lewatkan dan masih bisa dilakukan pada tab pembiacara (-1berarti tidak ada batasan)"
 
 #: options/preferences.py:552
 msgid "Replies missable for standings eligibility"
-msgstr ""
+msgstr "Pidato terlewatkan untuk kelayakan klasemen"
 
 #: options/preferences.py:560
 msgid "Metrics to use to rank teams (see documentation for further details)"
-msgstr ""
+msgstr "Metrik yang digunakan untuk menentukan peringkat tim (liat pada dokumentasi untuk lebih lengkapnya)"
 
 #: options/preferences.py:561
 msgid "Team standings precedence"
@@ -649,7 +649,7 @@ msgstr ""
 
 #: options/preferences.py:619
 msgid "Speaker standings extra metrics"
-msgstr ""
+msgstr "Klasemen Pembicara ekstra metrik"
 
 #: options/preferences.py:629 options/templates/preferences_index.html:89
 msgid "Tab Release"
@@ -657,7 +657,7 @@ msgstr "Rilis tab"
 
 #: options/preferences.py:635
 msgid "Enables public display of the team tab. Intended for use after the tournament."
-msgstr ""
+msgstr "Aktfikan tampilan public dari tab tim. Ditujukan untuk digunakan setelah turnamen."
 
 #: options/preferences.py:636
 msgid "Release team tab to public"
@@ -665,7 +665,7 @@ msgstr "Rilis tab tim ke publik"
 
 #: options/preferences.py:644
 msgid "Only show scores for the top X teams in the public tab (set to 0 to show all teams)."
-msgstr ""
+msgstr "Hanya tampilkan skor untuk tim X teratas di tab publik (setel ke 0 untuk menunjukkan semua tim)."
 
 #: options/preferences.py:645
 msgid "Top teams cutoff"
@@ -705,11 +705,11 @@ msgstr "Cutoff pembicara penyimpul teratas"
 
 #: options/preferences.py:707
 msgid "Enables public display of all motions and win/loss/selection information. This includes all motions — whether they have been marked as released or not. Intended for use after the tournament."
-msgstr ""
+msgstr "Aktifkan tampilan publik dari semua mosi dan informasi menang / kalah / seleksi. Ini mencakup semua mosi - apakah mereka telah ditandai sebagai dilepaskan atau tidak. Ditujukan untuk digunakan setelah turnamen."
 
 #: options/preferences.py:710
 msgid "Release motions tab to public"
-msgstr ""
+msgstr "Rilis tab mosi ke publik"
 
 #: options/preferences.py:718
 msgid "Enables public display of the feedback scores of all adjudicators"
