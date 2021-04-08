@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2021-04-08 07:47\n"
+"PO-Revision-Date: 2021-04-08 07:57\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -173,11 +173,11 @@ msgstr "penyimpul yang diberikan"
 
 #: standings/speakers.py:147
 msgid "trimmed mean (high-low drop)"
-msgstr ""
+msgstr "rata-rata terpangkas (titik tinggi-rendah)"
 
 #: standings/speakers.py:148
 msgid "Trim"
-msgstr ""
+msgstr "Trim"
 
 #: standings/teams.py:62
 msgid "points"
@@ -553,7 +553,7 @@ msgstr "%(title)s(Hanya %(limit)d Teratas)"
 
 #: standings/views.py:208 standings/views.py:428
 msgid "The tab can't be displayed because all rounds so far in this tournament are silent."
-msgstr ""
+msgstr "Tabulasi tidak dapat ditampilkan karena semua ronde pada turnamen sejauh ini merupakan ronde diam."
 
 #: standings/views.py:290
 msgid "Speaker Standings"
