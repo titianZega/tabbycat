@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-08 04:35\n"
+"PO-Revision-Date: 2021-04-08 04:45\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -65,64 +65,64 @@ msgstr "Konfigurasi Publik"
 
 #: tournaments/forms.py:92
 msgid "Show non-sensitive information on the public-facing side of this site, like draws (once released) and the motions of previous rounds"
-msgstr ""
+msgstr "Tunjukkan informasi yang tidak sensitif di sisi publik dari laman ini, seperti gambaran (ketika dirilis) dan pergerakan dari babak sebelumnya."
 
 #: tournaments/forms.py:98
 msgid "<strong>Tabulation:</strong> [list tabulation staff here]<br /><strong>Organisation:</strong> [list organising committee members here]<br /><strong>Adjudication:</strong> [list chief adjudicators here]"
-msgstr ""
+msgstr "<strong>Tabulasi:</strong> [daftar staff tabulasi di sini]<br /><strong>Organisasi:</strong>[daftar anggota panitia penyelenggara di sini]<br /><strong>Pengadilan:</strong>[daftar ketua pengadilan di sini]"
 
 #: tournaments/forms.py:194
 msgid "Current preliminary round"
-msgstr ""
+msgstr "Babak pre eliminasi sekarang"
 
 #: tournaments/forms.py:195
 msgid "All preliminary rounds have been completed"
-msgstr ""
+msgstr "Semua babak pre eliminasi sudah diselesaikan"
 
 #: tournaments/forms.py:207
 #, python-format
 msgid "Current elimination round in <strong>%(category)s</strong> <em>(only if all preliminary rounds have been completed)</em>"
-msgstr ""
+msgstr "Babak eliminasi sekarang di <strong>%(category)s</strong><em>(hanya jika semua babak pre eliminasi sudah selesai)</em>"
 
 #: tournaments/forms.py:213
 #, python-format
 msgid "All elimination rounds in %(category)s have been completed"
-msgstr ""
+msgstr "Semua babak eliminasi di %(category)s sudah selesai"
 
 #: tournaments/forms.py:225
 msgid "If the current round is a preliminary round, this field must be blank."
-msgstr ""
+msgstr "Jika babak sekarang adalah babak pre eliminasi, bidang ini harus kosong."
 
 #: tournaments/forms.py:231
 msgid "If all preliminary rounds have been completed, this field is required."
-msgstr ""
+msgstr "Jika semua babak pre eliminasi sudah selesai, bidang ini diperlukan."
 
 #: tournaments/mixins.py:109
 #, python-format
 msgid "You've been redirected to this page because tournament %(tournament)s has no rounds. Please create some before returning to the admin site."
-msgstr ""
+msgstr "Anda sudah dialihkan ke halaman ini karena pertandingan %(tournament)s tidak punya babak. Buatlah beberapa sebelum kembali ke laman admin."
 
 #: tournaments/mixins.py:117
 #, python-format
 msgid "There's a problem with the data for the tournament %(tournament)s. Please contact a tab director and ask them to investigate."
-msgstr ""
+msgstr "Ada sebuah masalah dengan data untuk pertandingan %(tournament)s. Hubungi direksi tab dan mintalah mereka untuk menginvestigasi."
 
 #: tournaments/mixins.py:130
 msgid "You've been redirected to this page because of a problem with how teams are assigned to sides in a debate."
-msgstr ""
+msgstr "Anda sudah diarahkan ke halaman ini karena ada sebuah masalah dengan bagaiamana regu-regu diarahkan ke sisi-sisi dalam sebuah perdebatan."
 
 #: tournaments/mixins.py:137
 msgid "There's a problem with how teams are assigned to sides in a debate. The tab director will need to resolve this issue."
-msgstr ""
+msgstr "Ada masalah dengan bagaimana regu-regu diarahkan ke sisi pada sebuah debat. Direksi tab akan perlu menyelesaikan permasalahan ini."
 
 #: tournaments/mixins.py:232 tournaments/templates/round_complete_check.html:8
 #, python-format
 msgid "for %(round)s"
-msgstr ""
+msgstr "untuk %(round)s"
 
 #: tournaments/mixins.py:433
 msgid "Return to Draw"
-msgstr ""
+msgstr "Kembali ke Penarikan"
 
 #: tournaments/models.py:26
 msgid "You can't use this as a tournament slug, because it's reserved for a Tabbycat system URL. Please try another one."
