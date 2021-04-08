@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2021-04-08 07:16\n"
+"PO-Revision-Date: 2021-04-08 07:27\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -153,7 +153,7 @@ msgstr "Tim"
 
 #: standings/speakers.py:89 standings/speakers.py:126
 msgid "standard deviation"
-msgstr "simpangan baku"
+msgstr "standar deviasi"
 
 #: standings/speakers.py:90 standings/speakers.py:127
 msgid "Stdev"
@@ -201,7 +201,7 @@ msgstr "total nilai pembicara"
 
 #: standings/teams.py:88
 msgid "Spk"
-msgstr "Spk"
+msgstr "Np"
 
 #: standings/teams.py:97
 msgid "average total speaker score"
@@ -265,7 +265,7 @@ msgstr "jumlah pullup sebelum ronde ini"
 
 #: standings/teams.py:232
 msgid "PU"
-msgstr ""
+msgstr "PU"
 
 #: standings/teams.py:254
 msgid "number of adjudicators who voted for this team"
@@ -309,7 +309,7 @@ msgstr "Siapa-mengalahkan-siapa"
 
 #: standings/teams.py:314
 msgid "WBW"
-msgstr ""
+msgstr "SNS"
 
 #: standings/teams.py:315
 msgid "who-beat-whom"
@@ -390,11 +390,11 @@ msgstr ""
 
 #: standings/templates/standings_diversity.html:37
 msgid "Non-cis male identifying"
-msgstr ""
+msgstr "Laki-laki"
 
 #: standings/templates/standings_diversity.html:40
 msgid "Cis-male identifying"
-msgstr ""
+msgstr "Bukan laki-laki"
 
 #: standings/templates/standings_diversity.html:43
 msgid "Unspecified/unrecorded"
@@ -549,7 +549,7 @@ msgstr "pada %(round)s"
 #: standings/views.py:181
 #, python-format
 msgid "%(title)s (Top %(limit)d Only)"
-msgstr ""
+msgstr "%(title)s(Hanya %(limit)d Teratas)"
 
 #: standings/views.py:208 standings/views.py:428
 msgid "The tab can't be displayed because all rounds so far in this tournament are silent."
