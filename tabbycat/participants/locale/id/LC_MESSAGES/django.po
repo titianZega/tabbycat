@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-02 04:48\n"
+"PO-Revision-Date: 2021-04-08 06:56\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -27,7 +27,7 @@ msgstr "Tim ini tidak dapat berada pada kategori break dari turnamen yang berbed
 #, python-format
 msgid "%(count)d speaker had their URL key removed."
 msgid_plural "%(count)d speakers had their URL keys removed."
-msgstr[0] "Sebanyak %(count)d pendebat sudah menghapus kunci URL mereka."
+msgstr[0] "Sebanyak %(count)d pembicara sudah menghapus kunci URL mereka."
 
 #: participants/admin.py:152 participants/admin.py:233
 msgid "Delete URL key"
@@ -132,7 +132,7 @@ msgstr "batas"
 
 #: participants/models.py:77
 msgid "At most this many speakers will be shown on the public tab for this category, or use 0 for no limit"
-msgstr "Maksimal sejumlah pendebat ini akan muncul pada tab publik untuk kategori ini, atau gunakan 0 untuk tidak dibatasi"
+msgstr "Maksimal sejumlah pembicara ini akan muncul pada tab publik untuk kategori ini, atau gunakan 0 untuk tidak dibatasi"
 
 #: participants/models.py:79
 msgid "public"
@@ -144,11 +144,11 @@ msgstr "Apabila ditandai, kategori ini akan ditampilkan pada publik pada bagian 
 
 #: participants/models.py:86
 msgid "speaker category"
-msgstr "kategori pendebat"
+msgstr "kategori pembicara"
 
 #: participants/models.py:87 participants/models.py:326
 msgid "speaker categories"
-msgstr "kategori pendebat"
+msgstr "kategori pembicara"
 
 #: participants/models.py:97
 msgid "email address"
@@ -308,11 +308,11 @@ msgstr "Tim harus memiliki nama pendek jika mereka tidak menggunakan nama depan 
 
 #: participants/models.py:329
 msgid "speaker"
-msgstr "pendebat"
+msgstr "pembicara"
 
 #: participants/models.py:330
 msgid "speakers"
-msgstr "pendebat"
+msgstr "pembicara"
 
 #: participants/models.py:353
 msgid "Adjudicators not assigned to any tournament can be shared between tournaments"
@@ -368,7 +368,7 @@ msgstr "Jumlah menang sesudah debat ini"
 
 #: participants/tables.py:39
 msgid "Speaker scores<br>(in speaking order)"
-msgstr "Nilai Pendebat<br>(sesuai urutan giliran berbicara)"
+msgstr "Nilai Pembicara<br>(sesuai urutan giliran berbicara)"
 
 #: participants/tables.py:39
 msgid "Speaks"
@@ -714,7 +714,7 @@ msgstr "Debat anda berada di ruang <strong>%(room)s</strong>."
 #: participants/templates/edit_speaker_eligibility.html:7
 #, python-format
 msgid "It looks like there aren't any speaker categories are defined. If you'd like to produce category-specific speaker tabs, such as a novice or ESL tab, use the <a href=\"%(categories_url)s\" class=\"alert-link\">Speaker Categories</a> page to define them, then return to this page to set speaker eligibility."
-msgstr "Sepertinya belum ada kategori pendebat yang sudah ditentukan. JIka anda ingin membuat tab untuk kategori pendebat yang spesifik, seperti tab pemula atau ESL, gunakan halaman <a href=\"%(categories_url)s\" class=\"alert-link\">Kategori Pendebat</a> untuk membuat kategori tersebut, lalu kembali ke halaman ini untuk menentukan kelayakan pendebat."
+msgstr "Sepertinya belum ada kategori pembicara yang sudah ditentukan. JIka anda ingin membuat tab untuk kategori pembicara yang spesifik, seperti tab pemula atau ESL, gunakan halaman <a href=\"%(categories_url)s\" class=\"alert-link\">Kategori Pembicara</a> untuk membuat kategori tersebut, lalu kembali ke halaman ini untuk menentukan kelayakan pembicara."
 
 #: participants/templates/feedback_progress_panel.html:10
 msgid "Feedback Returns"
@@ -822,11 +822,11 @@ msgstr "Nama Terkode"
 #: participants/templates/speaker_categories_edit.html:4
 #: participants/templates/speaker_categories_edit.html:5
 msgid "Speaker Categories"
-msgstr "Kategori Pendebat"
+msgstr "Kategori Pembicara"
 
 #: participants/templates/participants_subnav.html:35
 msgid "Speaker Eligibility"
-msgstr "Kelayakan Pendebat"
+msgstr "Kelayakan Pembicara"
 
 #: participants/templates/speaker_categories_edit.html:16
 msgid "Speaker categories allow category-specific speaker tabs to be produced, <i>e.g.</i>, for novice or ESL categories. On this page, you can define what speaker categories exist. After you've defined the categories, you can set speaker eligibility on the Speaker Eligibility page."
@@ -835,11 +835,11 @@ msgstr ""
 #: participants/templates/speaker_categories_edit.html:23
 #, python-format
 msgid "If you want to delete speaker categories, use the <a href=\"%(edit_db_url)s\" class=\"alert-link\">Edit Database</a> area."
-msgstr "Jika Anda ingin menghapus kategori pendebat, gunakan area <a href=\"%(edit_db_url)s\" class=\"alert-link\">Sunting Basisdata</a>."
+msgstr "Jika Anda ingin menghapus kategori pembicara, gunakan area <a href=\"%(edit_db_url)s\" class=\"alert-link\">Sunting Basisdata</a>."
 
 #: participants/templates/speaker_categories_edit.html:29
 msgid "Save Speaker Categories"
-msgstr "Menyimpan Kategori Pendebat"
+msgstr "Menyimpan Kategori Pembicara"
 
 #: participants/templates/team_registration_card.html:14
 msgid "Team name:"
@@ -855,7 +855,7 @@ msgstr "Kode nama:"
 
 #: participants/templates/team_registration_card.html:29
 msgid "Speakers:"
-msgstr "Pendebat:"
+msgstr "Pembicara:"
 
 #: participants/templates/team_registration_card.html:40
 msgid "Eligible for break categories:"
@@ -912,7 +912,7 @@ msgstr "Jumlah juri, kecuali juri independen"
 
 #: participants/views.py:112
 msgid "IAs"
-msgstr ""
+msgstr "JI"
 
 #: participants/views.py:113
 msgid "Number of independent adjudicators"
@@ -951,5 +951,5 @@ msgstr "Tidak ada perubahan yang dilakukan pada kategori."
 
 #: participants/views.py:351
 msgid "Speaker Category Eligibility"
-msgstr "Eligibilitas Kategori Pendebat"
+msgstr "Eligibilitas Kategori Pembicara"
 
