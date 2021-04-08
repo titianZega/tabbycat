@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-14 04:50+1100\n"
-"PO-Revision-Date: 2021-04-05 06:05\n"
+"PO-Revision-Date: 2021-04-08 04:55\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -469,7 +469,7 @@ msgstr ""
 
 #: results/templates/ResultsStats.vue:36
 msgid "Confirmed"
-msgstr ""
+msgstr "Terkonfirmasi"
 
 #: results/templates/ResultsStats.vue:40
 msgid "Ballot Statuses"
