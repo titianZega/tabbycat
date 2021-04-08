@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 07:05\n"
+"PO-Revision-Date: 2021-04-08 06:56\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -110,12 +110,12 @@ msgstr "Skor total sama untuk tim-tim (yaitu seri)."
 
 #: results/forms.py:720
 msgid "The declared winner does not correspond to the team with the highest score."
-msgstr "Pemenang yang diumumkan tidak sesuai dengan tim dengan skor tertinggi."
+msgstr "Pemenang yang diumumkan tidak sesuai dengan tim dengan nilai tertinggi."
 
 #: results/forms.py:729
 #, python-format
 msgid "The total scores for the following teams are the same: %(teams)s"
-msgstr "Skor total untuk tim berikut ini sama: %(teams)s"
+msgstr "Nilai total untuk tim berikut ini sama: %(teams)s"
 
 #: results/forms.py:739
 #, python-format
@@ -125,12 +125,12 @@ msgstr "Margin (%(margin).1f) melebihi batas maksimum yang diperbolehkan (%(max_
 #: results/forms.py:842
 #, python-format
 msgid "The total scores for the teams are the same (i.e. a draw) for adjudicator %(adjudicator)s."
-msgstr "Skor total untuk tim-tim adalah sama (yaitu seri) untuk juri %(adjudicator)s."
+msgstr "Nilai total untuk tim-tim adalah sama (yaitu seri) untuk juri %(adjudicator)s."
 
 #: results/forms.py:847
 #, python-format
 msgid "The declared winner does not correspond to the team with the highest score for adjudicator %(adjudicator)s."
-msgstr "Pemenang yang diumumkan tidak sesuai dengan tim dengan skor tertinggi untuk juri %(adjudicator)s."
+msgstr "Pemenang yang diumumkan tidak sesuai dengan tim dengan nilai tertinggi untuk juri %(adjudicator)s."
 
 #: results/forms.py:855
 #, python-format
@@ -249,15 +249,15 @@ msgstr "batas"
 #: results/models.py:222 results/models.py:255 results/models.py:299
 #: results/models.py:335
 msgid "score"
-msgstr "skor"
+msgstr "nilai"
 
 #: results/models.py:227
 msgid "team score by adjudicator"
-msgstr "skor tim oleh juri"
+msgstr "nilai tim oleh juri"
 
 #: results/models.py:228
 msgid "team scores by adjudicator"
-msgstr "skor tim oleh juri"
+msgstr "nilai tim oleh juri"
 
 #: results/models.py:243 results/models.py:277
 msgid "The debate team, debate adjudicator and ballot submission must all relate to the same debate."
@@ -269,11 +269,11 @@ msgstr "posisi"
 
 #: results/models.py:262
 msgid "speaker score by adjudicator"
-msgstr "skor pembicara oleh juri"
+msgstr "nilai pembicara oleh juri"
 
 #: results/models.py:263
 msgid "speaker scores by adjudicator"
-msgstr "skor pembicara oleh juri"
+msgstr "nilai pembicara oleh juri"
 
 #: results/models.py:293
 msgid "points"
@@ -289,15 +289,15 @@ msgstr ""
 
 #: results/models.py:307
 msgid "team score"
-msgstr "skor tim"
+msgstr "nilai tim"
 
 #: results/models.py:308
 msgid "team scores"
-msgstr "skor tim"
+msgstr "nilai tim"
 
 #: results/models.py:334
 msgid "speaker"
-msgstr "pendebat"
+msgstr "pembicara"
 
 #: results/models.py:338
 msgid "ghost"
@@ -305,15 +305,15 @@ msgstr "hantu"
 
 #: results/models.py:339
 msgid "If checked, this score does not count towards the speaker tab. This is typically checked for speeches where someone spoke twice to make up for an absent teammate (sometimes known as \"iron-person\" or \"iron-man\" speeches)."
-msgstr "Apabila ditandai, maka skor ini tidak akan mempengaruhi perhitungan pada tabulasi pembicara. Ini biasa digunakan untuk pembicara yang harus berbicara dua kali saat ada anggota tim yang hilang (\"iron-person\")."
+msgstr "Apabila ditandai, maka nilai ini tidak akan mempengaruhi perhitungan pada tabulasi pembicara. Ini biasa digunakan untuk pembicara yang harus berbicara dua kali saat ada anggota tim yang hilang (\"iron-person\")."
 
 #: results/models.py:348
 msgid "speaker score"
-msgstr "skor pembicara"
+msgstr "nilai pembicara"
 
 #: results/models.py:349
 msgid "speaker scores"
-msgstr "skor pembicara"
+msgstr "nilai pembicara"
 
 #: results/models.py:358
 msgid "The debate team and speaker must be from the same team."
@@ -373,12 +373,12 @@ msgstr "Halaman ini secara otomatis diperbarui dengan entri kertas suara baru da
 #, python-format
 msgid "The following debate appears to have scoresheets from trainees: %(debates_list)s."
 msgid_plural "The following %(ndebates)s debates appear to have scoresheets from trainees: %(debates_list)s."
-msgstr[0] "Perdebatan %(ndebates)s berikut tampaknya mendapat lembar skor dari peserta pelatihan: %(debates_list)s."
+msgstr[0] "Perdebatan %(ndebates)s berikut tampaknya mendapat lembar nilai dari peserta pelatihan: %(debates_list)s."
 
 #: results/templates/admin_results.html:94
 #, python-format
 msgid "This can happen if you demote a panellist to trainee after a result has been submitted for that debate. This may indicate that there is an inconsistency in results data, which may cause unexpected results (or crashes). Please consider going to the Edit Database area and deleting the offending <a href=\"%(editdb_speakerscorebyadj_url)s?debate_adjudicator__type__exact=T\" class=\"alert-link\">\"speaker scores by adj\" objects</a>, and then opening and resaving the result here."
-msgstr "Ini dapat terjadi jika Anda menurunkan seorang panelis menjadi peserta pelatihan setelah hasil telah dikirimkan untuk debat tersebut. Ini mungkin menunjukkan bahwa ada ketidakkonsistenan dalam data hasil, yang dapat menyebabkan hasil yang tidak diharapkan (atau crash). Harap pertimbangkan untuk pergi ke area Edit Database dan menghapus <a href=\"%(editdb_speakerscorebyadj_url)s?debate_adjudicator__type__exact=T\" class=\"alert-link\"> \"pembicara skor dengan adj\" objek </a>, dan kemudian membuka dan menyimpan kembali hasilnya di sini."
+msgstr "Ini dapat terjadi jika Anda menurunkan seorang panelis menjadi peserta pelatihan setelah hasil telah dikirimkan untuk debat tersebut. Ini mungkin menunjukkan bahwa ada ketidakkonsistenan dalam data hasil, yang dapat menyebabkan hasil yang tidak diharapkan (atau crash). Harap pertimbangkan untuk pergi ke area Edit Database dan menghapus <a href=\"%(editdb_speakerscorebyadj_url)s?debate_adjudicator__type__exact=T\" class=\"alert-link\"> \"pembicara nilai dengan adj\" objek </a>, dan kemudian membuka dan menyimpan kembali hasilnya di sini."
 
 #: results/templates/admin_results.html:107
 #, python-format
@@ -480,7 +480,7 @@ msgstr "Peringkat"
 
 #: results/templates/ballot/ballot_scoresheet.html:34
 msgid "Margin"
-msgstr "Batas"
+msgstr "Marjin"
 
 #: results/templates/ballot/ballot_set.html:6
 msgid "There are some problems with this scoresheet. Please review and correct them."
@@ -523,11 +523,11 @@ msgstr "Peserta pelatihan"
 
 #: results/templates/ballot/ballot_set.html:44
 msgid "Assign sides before entering scores"
-msgstr "Tetapkan sisi sebelum memasukkan skor"
+msgstr "Tetapkan sisi sebelum memasukkan nilai"
 
 #: results/templates/ballot/ballot_speaks.html:19
 msgid "Duplicate speeches are hidden from the speaker tab. If a speaker is 'iron-manning' you would typically mark only the lesser of their scores as a duplicate."
-msgstr "Pidato duplikat disembunyikan dari tab pembicara. Jika pembicara adalah 'iron-manning' Anda biasanya hanya menandai skor yang lebih rendah sebagai duplikat."
+msgstr "Pidato duplikat disembunyikan dari tab pembicara. Jika pembicara adalah 'iron-manning' Anda biasanya hanya menandai nilai yang lebih rendah sebagai duplikat."
 
 #: results/templates/ballot/other_ballots_list.html:9
 #, python-format
@@ -631,7 +631,7 @@ msgstr "Lembar nilai dari ketua %(chair)s"
 
 #: results/templates/ballot_entry_form.html:42
 msgid "Scoresheet, no chair set"
-msgstr "Lembar nilai, tidak ada set kursi"
+msgstr "Lembar nilai, tidak ada set ketua"
 
 #: results/templates/ballot_entry_form.html:63
 #, python-format
@@ -646,7 +646,7 @@ msgstr "Kesalahan dengan bidang pembicara duplikat%(pos)s: %(error)s"
 #: results/templates/ballot_entry_form.html:75
 #, python-format
 msgid "Error with %(pos)s's score field: %(error)s"
-msgstr "Kesalahan dengan bidang skor %(pos)s: %(error)s"
+msgstr "Kesalahan dengan bidang nilai %(pos)s: %(error)s"
 
 #: results/templates/debate_postponement_form.html:3
 msgid "Postponed"
