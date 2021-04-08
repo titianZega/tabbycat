@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2020-12-29 23:49-0400\n"
-"PO-Revision-Date: 2021-04-08 06:45\n"
+"PO-Revision-Date: 2021-04-08 07:16\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -141,7 +141,7 @@ msgstr "rata-rata"
 
 #: standings/speakers.py:59 standings/speakers.py:117
 msgid "Avg"
-msgstr ""
+msgstr "Avg"
 
 #: standings/speakers.py:66
 msgid "team points"
@@ -153,11 +153,11 @@ msgstr "Tim"
 
 #: standings/speakers.py:89 standings/speakers.py:126
 msgid "standard deviation"
-msgstr ""
+msgstr "simpangan baku"
 
 #: standings/speakers.py:90 standings/speakers.py:127
 msgid "Stdev"
-msgstr ""
+msgstr "Stdev"
 
 #: standings/speakers.py:98
 msgid "number of speeches given"
@@ -165,7 +165,7 @@ msgstr "jumlah pidato yang diberikan"
 
 #: standings/speakers.py:99 standings/speakers.py:138
 msgid "Num"
-msgstr ""
+msgstr "Jlh"
 
 #: standings/speakers.py:137
 msgid "replies given"
@@ -185,7 +185,7 @@ msgstr "poin"
 
 #: standings/teams.py:63
 msgid "Pts"
-msgstr ""
+msgstr "Poin"
 
 #: standings/teams.py:76
 msgid "wins"
@@ -201,7 +201,7 @@ msgstr "total nilai pembicara"
 
 #: standings/teams.py:88
 msgid "Spk"
-msgstr ""
+msgstr "Spk"
 
 #: standings/teams.py:97
 msgid "average total speaker score"
@@ -209,15 +209,15 @@ msgstr "rata-rata total nilai pembicara"
 
 #: standings/teams.py:98
 msgid "ATSS"
-msgstr ""
+msgstr "RTNP"
 
 #: standings/teams.py:107
 msgid "speaker score standard deviation"
-msgstr "simpangan baku nilai pembicara"
+msgstr "standar deviasi nilai pembicara"
 
 #: standings/teams.py:108
 msgid "SSD"
-msgstr ""
+msgstr "SDNP"
 
 #: standings/teams.py:118
 msgid "sum of margins"
@@ -233,7 +233,7 @@ msgstr "rata-rata margin"
 
 #: standings/teams.py:129
 msgid "AWM"
-msgstr ""
+msgstr "RM"
 
 #: standings/teams.py:138
 msgid "average individual speaker score"
@@ -241,27 +241,27 @@ msgstr "rata-rata nilai individu pembicara"
 
 #: standings/teams.py:139
 msgid "AISS"
-msgstr ""
+msgstr "RNIP"
 
 #: standings/teams.py:211
 msgid "draw strength by wins"
-msgstr ""
+msgstr "kekuatan undian berdasarkan kemenangan"
 
 #: standings/teams.py:212
 msgid "DS"
-msgstr ""
+msgstr "KU"
 
 #: standings/teams.py:219
 msgid "draw strength by total speaker score"
-msgstr ""
+msgstr "kekuatan undian berdasarkan total nilai pembicara"
 
 #: standings/teams.py:220
 msgid "DSS"
-msgstr ""
+msgstr "KUTNP"
 
 #: standings/teams.py:231
 msgid "number of pullups before this round"
-msgstr ""
+msgstr "jumlah pullup sebelum ronde ini"
 
 #: standings/teams.py:232
 msgid "PU"
