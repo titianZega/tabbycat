@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-05 03:54\n"
+"PO-Revision-Date: 2021-04-08 04:35\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -20,48 +20,48 @@ msgstr ""
 
 #: tournaments/apps.py:7
 msgid "Tournaments"
-msgstr ""
+msgstr "Pertandingan"
 
 #: tournaments/forms.py:29
 msgid "Number of preliminary rounds"
-msgstr ""
+msgstr "Jumlah ronde pre eliminasi"
 
 #: tournaments/forms.py:34
 msgid "Number of teams in the open break"
-msgstr ""
+msgstr "Jumlah regu di istirahat pembuka"
 
 #: tournaments/forms.py:35
 msgid "Leave blank if there are no break rounds."
-msgstr ""
+msgstr "Biarkan kosong jika tidak ada ronde istirahat."
 
 #: tournaments/forms.py:41
 msgid "Did you agree with their decision?"
-msgstr ""
+msgstr "Apakah Anda setuju dengan keputusan mereka?"
 
 #: tournaments/forms.py:41
 msgid "Agree?"
-msgstr ""
+msgstr "Setuju?"
 
 #: tournaments/forms.py:47
 msgid "Comments"
-msgstr ""
+msgstr "Komentar"
 
 #. Translators: This is the name given to the 'Open Break'.
 #: tournaments/forms.py:61
 msgid "Open"
-msgstr ""
+msgstr "Buka"
 
 #: tournaments/forms.py:86
 msgid "Format Configuration"
-msgstr ""
+msgstr "Format Konfigurasi"
 
 #: tournaments/forms.py:87
 msgid "Apply a standard set of settings to match a common debate format"
-msgstr ""
+msgstr "Aplikasikan satu set standar dari pengaturan untuk mencocokan format perdebatan yang umum"
 
 #: tournaments/forms.py:91
 msgid "Public Configuration"
-msgstr ""
+msgstr "Konfigurasi Publik"
 
 #: tournaments/forms.py:92
 msgid "Show non-sensitive information on the public-facing side of this site, like draws (once released) and the motions of previous rounds"
