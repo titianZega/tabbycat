@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-07 06:38\n"
+"PO-Revision-Date: 2021-04-11 16:34\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -72,7 +72,7 @@ msgstr "Harap submit permintaan pull untuk fitur dan perbaikan bug pada cabang `
 
 #: ../../../CONTRIBUTING.rst:28
 msgid "We broadly use the `git-flow workflow <http://danielkummer.github.io/git-flow-cheatsheet/>`_."
-msgstr ""
+msgstr "Secara luas, kami menggunakan `git-flow workflow <http://danielkummer.github.io/git-flow-cheatsheet/>`_."
 
 #: ../../../CONTRIBUTING.rst:29
 msgid "We use Django's testing tools — adding unit tests to new features is greatly appreciated"
