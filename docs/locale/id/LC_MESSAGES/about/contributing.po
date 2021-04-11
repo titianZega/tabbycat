@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-11 16:44\n"
+"PO-Revision-Date: 2021-04-11 16:54\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -80,11 +80,11 @@ msgstr "Kami menggunakan peralatan tes dari Django - menambahkan unit tes ke fit
 
 #: ../../../CONTRIBUTING.rst:31
 msgid "A number of our tests use `Selenium <http://selenium-python.readthedocs.io>`_ and `ChromeDriver <https://sites.google.com/a/chromium.org/chromedriver/>`_ to simulate in-browser functionality. They will fail if you do not have the Chrome browser and ChromeDriver installed."
-msgstr ""
+msgstr "Kami menggunakan `Selenium <http://selenium-python.readthedocs.io>`_ dan `ChromeDriver <https://sites.google.com/a/chromium.org/chromedriver/>`_ untuk mensimulasikan fungsional browser pada beberapa tes kami. Mereka akan gagal jika anda tidak memiliki ChromeDriver terinstalasi pada browser Chrome."
 
 #: ../../../CONTRIBUTING.rst:33
 msgid "A number of extra dependencies are required for running tests, linting, and serving the documentation. These can be installed with::"
-msgstr ""
+msgstr "Beberapa dependensi tambahan dibutuhkan untuk menjalankan tes, linting dan layanan dokumentasi. Ini dapat diinstal dengan::"
 
 #: ../../../CONTRIBUTING.rst:37
 msgid "Our ``package.json`` provides a convenience command that runs a standard set of development tools simultaneously, such as the Django server and the automatic recompilation with live injecting of javascript and CSS. Once you have set ``USE_WEBPACK_SERVER=True`` in your ``settings_local.py`` you can then run this with::"
@@ -152,7 +152,7 @@ msgstr ""
 
 #: ../../../CONTRIBUTING.rst:81
 msgid "Versioning convention"
-msgstr ""
+msgstr "Penamaan versi yang disarankan"
 
 #: ../../../CONTRIBUTING.rst:83
 msgid "Our convention is to increment the minor version whenever we add new functionality, and to increment the major version whenever:"
