@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-11 15:05\n"
+"PO-Revision-Date: 2021-04-11 15:15\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -609,17 +609,17 @@ msgstr "%(adjudicator)s adalah <strong>juri ketua</strong> yang sedang menjadi j
 #: participants/templates/current_round/round_adj.html:89
 #, python-format
 msgid "%(adjudicator)s is the <strong>chair</strong> adjudicating in <strong>%(room)s</strong>."
-msgstr ""
+msgstr "Juri %(adjudicator)s adalah <strong>juri ketua</strong> yang sedang menjadi juri di <strong>%(room)s</strong>."
 
 #: participants/templates/current_round/round_adj.html:95
 #, python-format
 msgid "You are the <strong>chair</strong> adjudicating in <a href=\"%(url)s\"><strong>%(room)s</strong></a>."
-msgstr ""
+msgstr "Anda adalah <strong>juri ketua</strong> yang sedang menjadi juri di tautan <a href=\"%(url)s\"><strong>%(room)s</strong></a>."
 
 #: participants/templates/current_round/round_adj.html:99
 #, python-format
 msgid "You are the <strong>chair</strong> adjudicating in <strong>%(room)s</strong>."
-msgstr ""
+msgstr "Anda adalah <strong>juri ketua</strong> yang menjadi juri di <strong>%(room)s</strong>."
 
 #: participants/templates/current_round/round_adj.html:107
 #, python-format
@@ -634,12 +634,12 @@ msgstr "Juri %(adjudicator)s adalah tipe juri <strong>%(type)s</strong> yang sed
 #: participants/templates/current_round/round_adj.html:117
 #, python-format
 msgid "You are a <strong>%(type)s</strong> adjudicating in <a href=\"%(url)s\"><strong>%(room)s</strong></a>."
-msgstr ""
+msgstr "Anda adalah tipe juri <strong>%(type)s</strong> yang sedang menjadi juri di tautan <a href=\"%(url)s\"><strong>%(room)s</strong></a>."
 
 #: participants/templates/current_round/round_adj.html:121
 #, python-format
 msgid "You are a <strong>%(type)s</strong> adjudicating in <strong>%(room)s</strong>."
-msgstr ""
+msgstr "Anda adalah tipe juri <strong>%(type)s</strong> yang menjadi juri di <strong>%(room)s</strong>."
 
 #: participants/templates/current_round/round_adj.html:129
 #, python-format
@@ -830,7 +830,7 @@ msgstr "Kelayakan Pembicara"
 
 #: participants/templates/speaker_categories_edit.html:16
 msgid "Speaker categories allow category-specific speaker tabs to be produced, <i>e.g.</i>, for novice or ESL categories. On this page, you can define what speaker categories exist. After you've defined the categories, you can set speaker eligibility on the Speaker Eligibility page."
-msgstr ""
+msgstr "Kategori pembicara membolehkan pembicara pada kategori-spesifik untuk diproduksi, <i>contoh</i>, untuk kategori pemula atau ESL. Pada halaman ini, Anda dapat mendefinisikan apa saja kategori pembicara yang tersedia. Setelah Anda mendefinisikan kategori, Anda dapat mengisi kelayakan pada halaman Kelayakan."
 
 #: participants/templates/speaker_categories_edit.html:23
 #, python-format
