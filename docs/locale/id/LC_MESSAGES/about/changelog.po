@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-05 07:25\n"
+"PO-Revision-Date: 2021-04-11 16:54\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -56,7 +56,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:15
 msgid "Added the new emoji that come along with Unicode 11 — thanks to Viran Weerasekera for this addition!"
-msgstr ""
+msgstr "Menambahkan emoji baru yang dimuat bersamaan dengan Unicode 11 - terimakasih untuk Viran Weerasekera untuk penambahan ini!"
 
 #: ../../../CHANGELOG.rst:16
 msgid "The 'Show adjudicator institutions' preference now covers a wider range of cases; meaning that if it is unchecked then all adjudicator's institutional affiliations should be hidden from the public"
@@ -97,11 +97,11 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:33
 msgid "Fixed issue where the javascript bundle would not build on a local windows install"
-msgstr ""
+msgstr "Memperbaiki masalah dimana berkas javascript tidak dapat dibangun pada instalasi windows secara lokal"
 
 #: ../../../CHANGELOG.rst:34
 msgid "Fixed issue where the adjudicator record pages would show an unreleased motion if that round's draw was released"
-msgstr ""
+msgstr "Memperbaiki masalah dimana halaman rekam jejak juri akan menunjukkan mosi yang tidak dirilis jika ronde pengundian dirilis"
 
 #: ../../../CHANGELOG.rst:38
 msgid "2.3.0 (LaPerm)"
@@ -133,7 +133,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:50
 msgid "Rewrote the Edit Adjudication, Venues, and Teams pages to enable a number of enhancements"
-msgstr ""
+msgstr "Menulis ulang halaman Ubah Juri, Tempat, dan Tim untuk mengaktifkan sejumlah penyempurnaan"
 
 #: ../../../CHANGELOG.rst:47
 msgid "These pages now live-update changes that were made on other instances of that page. As a result, users on different computers can each open the Edit Adjudicators page and see the changes made by the other users. This feature, along with sharding, should make it easier than ever to distribute the task of adjudicator allocation across an entire adjudication core"
