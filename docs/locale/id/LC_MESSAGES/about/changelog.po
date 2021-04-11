@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-11 18:35\n"
+"PO-Revision-Date: 2021-04-11 18:44\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -201,11 +201,11 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:65
 msgid "Expanded the use of private URLs (Encore Étienne Beaulé):"
-msgstr ""
+msgstr "Memperluas penggunaan dari URL privat (Encore Etienne Beaule):"
 
 #: ../../../CHANGELOG.rst:64
 msgid "QR codes are now included in addition to the URL when printing private URLs"
-msgstr ""
+msgstr "Kode QR sekarang akan termasuk dengan penambahan pada URL ketika mencetak URL privat"
 
 #: ../../../CHANGELOG.rst:65
 msgid "Private landing pages will now display check-in status (if check-ins are used) along with further details regarding break categories, regions, etc."
@@ -853,7 +853,7 @@ msgstr "*Tanggal rilis: 7 Februari 2018*"
 
 #: ../../../CHANGELOG.rst:301
 msgid "Improved the printing of scoresheets and feedback forms on Chrome."
-msgstr ""
+msgstr "Meningkatkan pencetakan lembar skor dan formulir umpan balik pada Chrome."
 
 #: ../../../CHANGELOG.rst:306
 msgid "2.0.4"
@@ -861,15 +861,15 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:307
 msgid "*Release date: 22 January 2018*"
-msgstr ""
+msgstr "*Tanggal rilis: 22 Januari 2018*"
 
 #: ../../../CHANGELOG.rst:309
 msgid "Add alert for users who try to do voting ballots on BP-configured tournaments"
-msgstr ""
+msgstr "Menambahkan tanda untuk pengguna yang mencoba untuk melakukan pemungutan suara pada turnamen yang dikonfigurasi BP"
 
 #: ../../../CHANGELOG.rst:310
 msgid "Fixed issue where draws of the \"manual\" type would not generate correctly"
-msgstr ""
+msgstr "Memperbaiki masalah dimana pengundian dengan tipe \"manual\" tidak dihasilkan dengan benar"
 
 #: ../../../CHANGELOG.rst:311
 msgid "Fixed issue where a ballot's speaker names dropdown would contain both team's speakers when using formats with side selection"
@@ -889,7 +889,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:319
 msgid "*Release date: 3 December 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 3 Desember 2017*"
 
 #: ../../../CHANGELOG.rst:321
 msgid "Fixed issue where the 'prefix team name with institution name' checkbox would not be correctly saved when using the Simple Importer"
