@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-11 17:04\n"
+"PO-Revision-Date: 2021-04-11 18:15\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -245,11 +245,11 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:74
 msgid "Info-slides can now be split into paragraphs"
-msgstr ""
+msgstr "Slide info sekarang dapat dipisahkan menjadi beberapa paragraf"
 
 #: ../../../CHANGELOG.rst:75
 msgid "Check-in pages now differentiate between teams with 1 and 2 checked-in people in two-team formats"
-msgstr ""
+msgstr "Halaman Check-in sekarang membedakan antar tim dengan 1 dan 2 orang yang check-in pada format 2 tim"
 
 #: ../../../CHANGELOG.rst:76
 msgid "Institutional caps in breaks can be based on the number of teams in the break. Thanks to Viran Weerasekera for this feature!"
@@ -261,7 +261,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:78
 msgid "Upgraded to Python 3.6, dropped support for Python 3.5 and below. Note that this will require you to upgrade your python versions if running locally."
-msgstr ""
+msgstr "Melakukan pembaruan versi ke Python 3.6, menghilangkan dukungan untuk Python 3.5 atau lebih rendah. Harap dicatat bahwa hal ini akan mewajibkan anda untuk meningkatkan versi python anda jika menjalankan secara lokal."
 
 #: ../../../CHANGELOG.rst:82
 msgid "2.2.10"
