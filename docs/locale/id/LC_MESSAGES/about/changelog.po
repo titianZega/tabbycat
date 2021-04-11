@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-11 18:15\n"
+"PO-Revision-Date: 2021-04-11 18:26\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -301,15 +301,15 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:99
 msgid "*Release date: 14 December 2018*"
-msgstr ""
+msgstr "*Tanggal rilis: 14 Desember 2018*"
 
 #: ../../../CHANGELOG.rst:101
 msgid "Fix issue where the check-in buttons were always disabled on admin and assistant pages"
-msgstr ""
+msgstr "Memperbaiki masalah dimana tombol check-in selalu dinonaktifkan pada halaman admin dan asisten"
 
 #: ../../../CHANGELOG.rst:102
 msgid "Other minor fixes. Thanks to Étienne for these and for the check-in button fix!"
-msgstr ""
+msgstr "Perbaikan kecil lainnya. Terimakasih pada Etienne untuk hal ini dan untuk perbaikan tombol check-in!"
 
 #: ../../../CHANGELOG.rst:106
 msgid "2.2.7"
@@ -317,7 +317,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:107
 msgid "*Release date: 16 November 2018*"
-msgstr ""
+msgstr "*Tanggal rilis: 16 November 2018*"
 
 #: ../../../CHANGELOG.rst:109
 msgid "Lock redis-py version to 2.10.6, as workaround for `compatibility issue between django-redis and redis-py <https://github.com/niwinz/django-redis/issues/342>`_"
@@ -325,7 +325,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:110
 msgid "Fix login link on page shown after a user logs out"
-msgstr ""
+msgstr "Memperbaiki tautan login yang ditunjukkan setelah pengguna logout"
 
 #: ../../../CHANGELOG.rst:114
 msgid "2.2.6"
@@ -333,7 +333,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:115
 msgid "*Release date: 14 November 2018*"
-msgstr ""
+msgstr "*Tanggal rilis: 14 November 2018*"
 
 #: ../../../CHANGELOG.rst:117
 msgid "Fix issue where check-ins could not be revoked"
@@ -589,7 +589,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:216
 msgid "*Release date: 19 May 2018*"
-msgstr ""
+msgstr "*Tanggal rilis: 19 Mei 2018*"
 
 #: ../../../CHANGELOG.rst:218
 msgid "The Scan Identifiers page now orders check-ins from top to bottom"
@@ -605,11 +605,11 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:224
 msgid "2.1.0 (Japanese Bobtail)"
-msgstr ""
+msgstr "2.1.0(Japanese Bobtail)"
 
 #: ../../../CHANGELOG.rst:225
 msgid "*Release date: 7 May 2018*"
-msgstr ""
+msgstr "*Tanggal rilis: 7 Mei 2018*"
 
 #: ../../../CHANGELOG.rst:227
 msgid "Added an introductory modal for the adjudicator allocation page to help outline how the features and workflow operate"
