@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-12 09:59\n"
+"PO-Revision-Date: 2021-04-12 10:13\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -93,7 +93,7 @@ msgstr "Memperbaiki masalah dimana daftar institusi turut menghitung tim/juri ya
 
 #: ../../../CHANGELOG.rst:32
 msgid "Fixed issue where a rejected ballot form would crash rather than providing an error message"
-msgstr ""
+msgstr "Memperbaiki masalah dimana formulir kertas suara yang ditolak akan menyebabkan kegagalan daripada memberikan pesan masalah"
 
 #: ../../../CHANGELOG.rst:33
 msgid "Fixed issue where the javascript bundle would not build on a local windows install"
@@ -177,7 +177,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:57
 msgid "Ballot receipt emails now provide more information about team scores/points"
-msgstr ""
+msgstr "Email tanda terima kertas suara sekarang memberikan informasi lebih mengenai skor/poin tim"
 
 #: ../../../CHANGELOG.rst:58
 msgid "Emails are now in a rich-text format"
@@ -185,7 +185,7 @@ msgstr "Email sekarang menggunakan format teks-banyak"
 
 #: ../../../CHANGELOG.rst:59
 msgid "Custom emails may be sent out to select participants through the web-interface"
-msgstr ""
+msgstr "Email khusus mungkin akan dikirim untuk memilih peserta melalui antarmuka web"
 
 #: ../../../CHANGELOG.rst:60
 msgid "Participants can be specifically included or excluded from receiving a notification before sending with checks for duplicate messages"
@@ -197,7 +197,7 @@ msgstr "Tim dapat mengirim email dengan detil pengundian mereka"
 
 #: ../../../CHANGELOG.rst:62
 msgid "Emails can be tracked to determine if sent or read (SendGrid-specific)"
-msgstr ""
+msgstr "Email dapat ditelusuri untuk menentukan apakah sudah terkirim atau dibaca (sesuai spesifikasi Send-Grid)"
 
 #: ../../../CHANGELOG.rst:65
 msgid "Expanded the use of private URLs (Encore Étienne Beaulé):"
@@ -273,7 +273,7 @@ msgstr "*Tanggal rilis: 10 Februari 2019*"
 
 #: ../../../CHANGELOG.rst:85
 msgid "Fixed the display of feedback quantities on the Feedback Overview Page"
-msgstr ""
+msgstr "Memperbaiki tampilan jumlah umpan balik pada Halaman Gambaran Umpan Balik"
 
 #: ../../../CHANGELOG.rst:86
 msgid "Fixed issue where 'ignored' feedback would hide the result from the feedback graph but not affect an adjudicator's current score. Thanks to Étienne for this fix"
