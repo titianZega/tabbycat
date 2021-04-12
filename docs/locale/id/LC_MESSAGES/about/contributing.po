@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-12 15:08\n"
+"PO-Revision-Date: 2021-04-12 15:47\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -168,11 +168,11 @@ msgstr "ada perubahan besar mengenai bagaimana turnamen berjalan, atau"
 
 #: ../../../CONTRIBUTING.rst:87
 msgid "we make some other change that is, in our opinion, significant enough to warrant a milestone."
-msgstr ""
+msgstr "kami membuat beberapa perubahan yang menurut pendapat kami, cukup signifikan untuk menjamin pencapaian."
 
 #: ../../../CONTRIBUTING.rst:89
 msgid "We write `data migrations <https://docs.djangoproject.com/en/1.10/topics/migrations/#data-migrations>`_ to allow existing systems to be upgraded easily. However, we don't always support backward database migrations. Our expectation is that long-lived installations keep up with our latest version."
-msgstr ""
+msgstr "Kami menulis `migrasi data <https://docs.djangoproject.com/en/1.10/topics/migrations/#data-migrations>`_ untuk mengijinkan sistem yang sudah ada lebih mudah untuk ditingkatkan. Namun, kami tidak selalu mendukung migrasi basis data ke versi sebelumnya. Harapan kami adalah bahwa penginstalan akan berumur lebih panjang dengan mengikuti versi kami yang terbaru."
 
 #: ../../../CONTRIBUTING.rst:91
 msgid "One day, we hope to have a public API in place to facilitate the integration with other debating tournament software, like registration or adjudicator feedback systems. If and when that happens, we'll probably revise this convention to be more in line with `Semantic Versioning <http://semver.org/>`_."
