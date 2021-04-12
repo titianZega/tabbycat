@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-12 09:43\n"
+"PO-Revision-Date: 2021-04-12 14:47\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -256,7 +256,7 @@ msgstr ""
 
 #: ../../../CONTRIBUTING.rst:130
 msgid "These can then be compiled using::"
-msgstr ""
+msgstr "Hal itu dapat dikompilasi dengan menggunakan::"
 
 #: ../../../CONTRIBUTING.rst:134
 msgid "As it stands Heroku needs the .mo files pre-compiled (see `issue in Heroku Python buildpack <https://github.com/heroku/heroku-buildpack-python/issues/198>`_, so these are committed to Git. Note that the English (``en``) language files should not be compiled; their sole purpose is to provide a source language for `Crowdin <https://crowdin.com/project/tabbycat>`_."
@@ -308,7 +308,7 @@ msgstr "Versi Tabbykitten"
 
 #: ../../../CONTRIBUTING.rst:154
 msgid "Docker (macOS, Windows 10*) and Docker Toolbox (Windows 10 Home) methods"
-msgstr ""
+msgstr "Metode Docker(macOS, Windows 10*) dan Docker Toolbox (Windows 10 Home)"
 
 #: ../../../CONTRIBUTING.rst:155
 msgid "Using Bash and Powershell on Windows"
@@ -316,7 +316,7 @@ msgstr "Menggunakan Bash dan Powershell di Windows"
 
 #: ../../../CONTRIBUTING.rst:156
 msgid "Using Terminal on macOS (at least test out a fresh install of the npm/pip  dependencies)"
-msgstr ""
+msgstr "Menggunakan Terminal pada macOs (setidaknya coba uji hasil instalasi yang baru dari dependansi npm/pip)"
 
 #: ../../../CONTRIBUTING.rst:157
 msgid "Check that the last Travis CI build passed and run the full local test suite (this will include the Selenium tests that are not on Travis)"
