@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-08 07:09\n"
+"PO-Revision-Date: 2021-04-12 10:30\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -907,12 +907,12 @@ msgstr "Kesalahan pada hasil untuk %(debate)s"
 #. Translators: Abbreviation for Prime Minister
 #: results/utils.py:134
 msgid "PM"
-msgstr ""
+msgstr "PM"
 
 #. Translators: Abbreviation for Deputy Prime Minister
 #: results/utils.py:136
 msgid "DPM"
-msgstr ""
+msgstr "WPM"
 
 #. Translators: Abbreviation for Leader of the Opposition
 #: results/utils.py:138
