@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-08 04:55\n"
+"PO-Revision-Date: 2021-04-12 11:08\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -182,7 +182,7 @@ msgstr "Manual"
 
 #: tournaments/models.py:287
 msgid "Round-robin"
-msgstr ""
+msgstr "Round-robin"
 
 #: tournaments/models.py:288
 msgid "Power-paired"
@@ -280,7 +280,7 @@ msgstr ""
 #. Translators: A silent round is a round for which results are not disclosed once the round is over.
 #: tournaments/models.py:343
 msgid "silent"
-msgstr ""
+msgstr "diam"
 
 #: tournaments/models.py:344
 msgid "If marked silent, information about this round (such as its results) will not be shown publicly."
