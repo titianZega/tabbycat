@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-07 18:13\n"
+"PO-Revision-Date: 2021-04-12 10:13\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -40,15 +40,15 @@ msgstr "Aturan Penilaian"
 
 #: options/preferences.py:25
 msgid "Minimum allowed score for substantive speeches"
-msgstr "Skor minimum yang diijinkan untuk pidato substantif"
+msgstr "Nilai minimum yang diijinkan untuk pidato substantif"
 
 #: options/preferences.py:28
 msgid "Minimum speaker score"
-msgstr "Skor pembicara minimum"
+msgstr "Nilai pembicara minimum"
 
 #: options/preferences.py:34
 msgid "Maximum speaker score"
-msgstr "Skor pembicara maksimum"
+msgstr "Nilai pembicara maksimum"
 
 #: options/preferences.py:35
 msgid "Maximum allowed score for substantive speeches"
@@ -56,11 +56,11 @@ msgstr "Skor maksimum yang diijinkan untuk pidato substantif"
 
 #: options/preferences.py:43
 msgid "Speaker score step"
-msgstr "Jarak antara skor pembicara"
+msgstr "Jarak antara nilai pembicara"
 
 #: options/preferences.py:44
 msgid "Score steps allowed for substantive speeches, e.g. full points (1) or half points (0.5)"
-msgstr "Jarak skor yang diijinkan untuk pidato substantif seperti bilangan bulat (1) atau separuh (0.5)"
+msgstr "Jarak nilai yang diijinkan untuk pidato substantif seperti bilangan bulat (1) atau separuh (0.5)"
 
 #: options/preferences.py:52
 msgid "The largest amount by which one team can beat another (0 means no limit)"
@@ -72,27 +72,27 @@ msgstr "Margin maksimum"
 
 #: options/preferences.py:62
 msgid "Minimum allowed score for reply speeches"
-msgstr "Skor minimum yang diijinkan untuk pidato penyimpul"
+msgstr "Nilai minimum yang diijinkan untuk pidato penyimpul"
 
 #: options/preferences.py:63
 msgid "Minimum reply score"
-msgstr "Skor penyimpul minimum"
+msgstr "Nilai penyimpul minimum"
 
 #: options/preferences.py:71
 msgid "Maximum allowed score for reply speeches"
-msgstr "Skor maksimum yang diijinkan untuk pidato penyimpul"
+msgstr "Nilai maksimum yang diijinkan untuk pidato penyimpul"
 
 #: options/preferences.py:72
 msgid "Maximum reply score"
-msgstr "Skor penyimpul maksimum"
+msgstr "Nilai penyimpul maksimum"
 
 #: options/preferences.py:80
 msgid "Score steps allowed for reply speeches, e.g. full points (1) or half points (0.5)"
-msgstr "Jarak skor yang diijinkan untuk pidato penyimpul seperti bilangan bulat (1) atau separuh (0.5)"
+msgstr "Jarak nilai yang diijinkan untuk pidato penyimpul seperti bilangan bulat (1) atau separuh (0.5)"
 
 #: options/preferences.py:81
 msgid "Reply score step"
-msgstr "Jarak antara skor penyimpul"
+msgstr "Jarak antara nilai penyimpul"
 
 #: options/preferences.py:89
 msgid "If checked, a team's winning margin includes dissenting adjudicators"
@@ -108,11 +108,11 @@ msgstr "Aturan Draw"
 
 #: options/preferences.py:103
 msgid "The auto-allocator will only take adjudicators at or above this score as voting panellists"
-msgstr "Algoritma alokasi otomatis hanya akan mengambil juri dengan skor diatas skor ini sebagai panelis / juri yang memiliki hak suara"
+msgstr "Algoritma alokasi otomatis hanya akan mengambil juri dengan nilai diatas nilai ini sebagai panelis / juri yang memiliki hak suara"
 
 #: options/preferences.py:104
 msgid "Minimum adjudicator score to vote"
-msgstr "Skor minimum juri untuk memiliki hak suara"
+msgstr "Nilai minimum juri untuk memiliki hak suara"
 
 #: options/preferences.py:112
 msgid "Penalty applied by adjudicator auto-allocator for conflicts"
@@ -396,19 +396,19 @@ msgstr "Penilaian Juri"
 
 #: options/preferences.py:352
 msgid "Minimum possible adjudicator score that can be given"
-msgstr "Skor minimum yang dapat diberikan untuk juri"
+msgstr "Nilai minimum yang dapat diberikan untuk juri"
 
 #: options/preferences.py:353
 msgid "Minimum adjudicator score"
-msgstr "Skor juri minimum"
+msgstr "Nilai juri minimum"
 
 #: options/preferences.py:361
 msgid "Maximum possible adjudicator score that can be given"
-msgstr "Skor maksimum yang dapat diberikan untuk juri"
+msgstr "Nilai maksimum yang dapat diberikan untuk juri"
 
 #: options/preferences.py:362
 msgid "Maximum adjudicator score"
-msgstr "Skor juri maksimum"
+msgstr "Nilai juri maksimum"
 
 #: options/preferences.py:370
 msgid "Used to inform available choices in the feedback forms for adjudicators (both online and printed) and feedback progress"
@@ -540,27 +540,27 @@ msgstr "Minta juri untuk mengisi pemenang secara terpisah sebagai pemenang dalam
 
 #: options/preferences.py:479
 msgid "Require winner selection, overriding scores"
-msgstr "Minta juri untuk mengisi pemenang secara terpisah sebagai pemenang dalam debat dan mengesampingkan skor yang diisi"
+msgstr "Minta juri untuk mengisi pemenang secara terpisah sebagai pemenang dalam debat dan mengesampingkan nilai yang diisi"
 
 #: options/preferences.py:486
 msgid "When ballots should ask for speaker scores."
-msgstr "Kapan balot mewajibkan skor pembicara."
+msgstr "Kapan balot mewajibkan nilai pembicara."
 
 #: options/preferences.py:487
 msgid "Require speaker scores"
-msgstr "Kewajiban mengisi skor pembicara"
+msgstr "Kewajiban mengisi nilai pembicara"
 
 #: options/preferences.py:491
 msgid "Always require speaker scores"
-msgstr "Selalu wajibkan skor pembicara"
+msgstr "Selalu wajibkan nilai pembicara"
 
 #: options/preferences.py:492
 msgid "Only require speaker scores in preliminary rounds"
-msgstr "Hanya wajibkan skor pembicara pada babak penyisihan"
+msgstr "Hanya wajibkan nilai pembicara pada babak penyisihan"
 
 #: options/preferences.py:493
 msgid "Never require speaker scores"
-msgstr "Tidak pernah minta skor pembicara"
+msgstr "Tidak pernah minta nilai pembicara"
 
 #: options/preferences.py:500
 msgid "How many substantive speakers on a team"
@@ -580,11 +580,11 @@ msgstr "Nama panggilan"
 
 #: options/preferences.py:519
 msgid "Whether this style features scored reply speeches"
-msgstr "Apakah ini gaya fitur skor balasan pidato"
+msgstr "Apakah ini gaya fitur nilai balasan pidato"
 
 #: options/preferences.py:520
 msgid "Reply scores"
-msgstr "Penyimpul Skor"
+msgstr "Penyimpul nilai"
 
 #: options/preferences.py:528
 msgid "Whether to limit reply speeches to speakers who gave a substantive speech in the debate"
@@ -665,7 +665,7 @@ msgstr "Rilis tab tim ke publik"
 
 #: options/preferences.py:644
 msgid "Only show scores for the top X teams in the public tab (set to 0 to show all teams)."
-msgstr "Hanya tampilkan skor untuk tim X teratas di tab publik (setel ke 0 untuk menunjukkan semua tim)."
+msgstr "Hanya tampilkan nilai untuk tim X teratas di tab publik (setel ke 0 untuk menunjukkan semua tim)."
 
 #: options/preferences.py:645
 msgid "Top teams cutoff"
@@ -697,7 +697,7 @@ msgstr "Rilis tabulasi pembicara penyimpul pada publik"
 
 #: options/preferences.py:680
 msgid "Only show scores for the top X repliers in the public tab (set to 0 to show all repliers)."
-msgstr "Hanya tunjukkan skor untuk X pembicara penyimpul terbaik pada publik (0 berarti tunjukkan seluruh pembicara)."
+msgstr "Hanya tunjukkan nilai untuk X pembicara penyimpul terbaik pada publik (0 berarti tunjukkan seluruh pembicara)."
 
 #: options/preferences.py:681
 msgid "Top replies cutoff"
@@ -713,7 +713,7 @@ msgstr "Rilis tab mosi ke publik"
 
 #: options/preferences.py:718
 msgid "Enables public display of the feedback scores of all adjudicators"
-msgstr "Aktifkan tampilan publik dari penilaian skor dari juri"
+msgstr "Aktifkan tampilan publik dari penilaian nilai dari juri"
 
 #: options/preferences.py:719
 msgid "Release adjudicator tab to public"
@@ -821,7 +821,7 @@ msgstr "Melompati Pengecekan ganda"
 
 #: options/preferences.py:828
 msgid "Requires scores of draft ballots to be re-entered as part of the confirmation stage (to create more stringent check). Only applies to BP formats."
-msgstr "Wajibkan skor untuk dimasukkan ulang sebagai bagian dari tahap konfirmasi (sebagai sistem pengecekan yang lebih ketat). Hanya berlaku untuk format BP."
+msgstr "Wajibkan nilai untuk dimasukkan ulang sebagai bagian dari tahap konfirmasi (sebagai sistem pengecekan yang lebih ketat). Hanya berlaku untuk format BP."
 
 #: options/preferences.py:829
 msgid "Enforce blind confirmations"
@@ -993,7 +993,7 @@ msgstr "Aktifkan tampilan publik tentang mosi"
 
 #: options/preferences.py:1009
 msgid "Enables the public page showing team standings, showing wins only (not speaker scores or ranking)"
-msgstr "Mengaktifkan halaman publik yang menampilkan klasemen tim, hanya menampilkan kemenangan (bukan skor atau peringkat pembicara)"
+msgstr "Mengaktifkan halaman publik yang menampilkan klasemen tim, hanya menampilkan kemenangan (bukan nilai atau peringkat pembicara)"
 
 #: options/preferences.py:1010
 msgid "Enable public view of team standings"
@@ -1365,7 +1365,7 @@ msgstr "Aturan parlemen canada"
 
 #: options/presets.py:158
 msgid "2 vs 2 with replies (unscored) and POIs. May require additional configuration depending on regional variations."
-msgstr "2 vs 2 dengan balasan (tanpa skor) dan POI. Mungkin memerlukan konfigurasi tambahan tergantung pada variasi regional."
+msgstr "2 vs 2 dengan balasan (tanpa nilai) dan POI. Mungkin memerlukan konfigurasi tambahan tergantung pada variasi regional."
 
 #: options/presets.py:181
 msgid "Australian Easters Rules"
@@ -1441,7 +1441,7 @@ msgstr "Anda berdua mengaktifkan nama kode tim, dan institusi tim ditampilkan di
 
 #: options/templates/preferences_index.html:54
 msgid "The range of scores that can awarded to speeches, replies, and teams"
-msgstr "Rentang skor yang dapat diberikan untuk pidato, balasan, dan tim"
+msgstr "Rentang nilai yang dapat diberikan untuk pidato, balasan, dan tim"
 
 #: options/templates/preferences_index.html:59
 msgid "How teams are paired in the draw and how adjudicators are auto-allocated"
