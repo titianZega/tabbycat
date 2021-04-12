@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-12 11:00\n"
+"PO-Revision-Date: 2021-04-12 11:08\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -127,7 +127,7 @@ msgstr "Saat ini kamu belum lapor masuk."
 #: privateurls/templates/public_url_landing.html:62
 #, python-format
 msgid "Submit Ballot for %(round)s"
-msgstr ""
+msgstr "Mengajukan Kotak suara selama %(round)s"
 
 #: privateurls/templates/public_url_landing.html:65
 msgid "There are no current rounds"
