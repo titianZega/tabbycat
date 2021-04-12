@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-12 11:08\n"
+"PO-Revision-Date: 2021-04-12 11:18\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -29,48 +29,48 @@ msgstr "URL Privat"
 
 #: privateurls/templates/private_urls.html:17
 msgid "The private URLs for ballot and/or feedback submission from participants are given below."
-msgstr "URL-URL privat untuk kertas suara dan/atau masukan umpan balik dari para peserta, diberikan dibawah ini."
+msgstr "URL privat untuk kertas suara dan/atau masukan umpan balik dari para peserta, diberikan dibawah ini."
 
 #: privateurls/templates/private_urls.html:19
 msgid "Private URLs are used to allow participants to submit ballots and/or feedback online. You should use them if you have a means of distributing crazy-looking URLs to participants, and are too worried about fraud to use a publicly accessible page where <em>anyone</em> can enter <em>any</em> submission. The URLs will look something like this:"
-msgstr "URL-URL privat dipakai untuk memungkinkan para peserta menyampaikan suara dan/atau umpan balik secara daring. Kamu sebaiknya memakainya bila bermaksud untuk membagikan URL-URL gila ke para peserta, dan terlalu khawatir terhadap penipuan menggunakan laman umum yang mudah diakses dimana <em>siapapun</em> bisa mencantumkan masukan <em>apapun</em>. URL-URL nya akan terlihat seperti ini:"
+msgstr "URL privat dipakai untuk memungkinkan para peserta menyampaikan suara dan/atau umpan balik secara daring. Kamu sebaiknya memakainya bila bermaksud untuk membagikan URL-URL gila ke para peserta, dan terlalu khawatir terhadap penipuan menggunakan laman umum yang mudah diakses dimana <em>siapapun</em> bisa mencantumkan masukan <em>apapun</em>. URLnya akan terlihat seperti ini:"
 
 #: privateurls/templates/private_urls.html:31
 msgid "Anyone with the URL can access the relevant data entry page. The idea is that it's hard to guess another key (the random-looking string), so you should make each URL accessible only to the participant in question. <a href=\"http://tabbycat.readthedocs.io/en/latest/features/data-entry.html#private-urls\"> Read more about private URLs.</a>"
-msgstr "Siapapun yang punya URL dapat mengakses laman data entri yang relevan. Idenya ialah sulit untuk menebak kunci lainnya (string yang terlihat aneh), sehingga kamu mesti membuat tiap URL mudah diakses hanya untuk peserta yang dibicarakan. <a href=\"http://tabbycat.readthedocs.io/en/latest/features/data-entry.html#private-urls\"> Baca lagi mengenai URL-URL privat.</a>"
+msgstr "Siapapun yang punya URL dapat mengakses laman data entri yang relevan. Idenya ialah sulit untuk menebak kunci lainnya (string yang terlihat aneh), sehingga kamu mesti membuat tiap URL mudah diakses hanya untuk peserta yang dibicarakan. <a href=\"http://tabbycat.readthedocs.io/en/latest/features/data-entry.html#private-urls\"> Baca lagi mengenai URL privat.</a>"
 
 #: privateurls/templates/private_urls.html:47
 #, python-format
 msgid "Neither <strong>participant ballot submissions</strong>, <strong>participant feedback submissions</strong>, nor <strong>participant self-checkins</strong> are configured to be from private URLs. Any generated URLs will not be useful unless you configure those settings accordingly on the <a href=\"%(data_entry_options_url)s\">tournament configuration page</a>."
-msgstr "Bukan <strong>masukan kotak suara peserta</strong>, <strong>masukan umpan balik peserta</strong>, maupun <strong>daftar-mandiri peserta</strong> telah terkonfigurasi menjadi dari URL-URL privat. URL-URL apapun yang dihasilkan tidak akan berguna kecuali bila kamu mengkonfigurasi pengaturan-pengaturan itu sedemikian rupa pada <a href=\"%(data_entry_options_url)s\">laman konfigurasi turnamen</a>."
+msgstr "Bukan <strong>masukan kotak suara peserta</strong>, <strong>masukan umpan balik peserta</strong>, maupun <strong>daftar-mandiri peserta</strong> telah terkonfigurasi menjadi dari URL privat. URL apapun yang dihasilkan tidak akan berguna kecuali bila kamu mengkonfigurasi pengaturan-pengaturan itu sedemikian rupa pada <a href=\"%(data_entry_options_url)s\">laman konfigurasi turnamen</a>."
 
 #: privateurls/templates/private_urls.html:67
 msgid "There are no private URLs assigned."
-msgstr "Tidak ada URL-URL privat yang ditetapkan."
+msgstr "Tidak ada URL privat yang ditetapkan."
 
 #: privateurls/templates/private_urls.html:73
 msgid "Generate Private URLs"
-msgstr "Menghasilkan URL-URL privat"
+msgstr "Menghasilkan URL privat"
 
 #: privateurls/templates/private_urls_nav.html:6
 msgid "View URLs"
-msgstr "Lihat URL-URL"
+msgstr "Lihat URL"
 
 #: privateurls/templates/private_urls_nav.html:11
 msgid "Print Teams' URLs"
-msgstr "Mencetak URL-URL para tim"
+msgstr "Mencetak URL para tim"
 
 #: privateurls/templates/private_urls_nav.html:15
 msgid "Print Adjudicators' URLs"
-msgstr "Mencetak URL-URL para juri"
+msgstr "Mencetak URL para juri"
 
 #: privateurls/templates/private_urls_nav.html:22
 msgid "All reachable participants have already been sent their private URLs."
-msgstr "Semua peserta yang terjangkau telah dikirimkan URL-URL privat mereka."
+msgstr "Semua peserta yang terjangkau telah dikirimkan URL privat mereka."
 
 #: privateurls/templates/private_urls_nav.html:24
 msgid "Email URLs"
-msgstr "URL-URL Surel"
+msgstr "URL Surel"
 
 #: privateurls/templates/private_urls_nav.html:31
 msgid "This button only generates private URLs for participants who do not already have one."
