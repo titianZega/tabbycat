@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-12 11:18\n"
+"PO-Revision-Date: 2021-04-12 11:30\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -70,20 +70,20 @@ msgstr "Semua peserta yang terjangkau telah dikirimkan URL privat mereka."
 
 #: privateurls/templates/private_urls_nav.html:24
 msgid "Email URLs"
-msgstr "URL Surel"
+msgstr "URL Email"
 
 #: privateurls/templates/private_urls_nav.html:31
 msgid "This button only generates private URLs for participants who do not already have one."
-msgstr "Tombol ini hanya mengahasilkan URL-URL privat untuk para peserta yang sebelumnya belum punya."
+msgstr "Tombol ini hanya mengahasilkan URL privat untuk para peserta yang sebelumnya belum punya."
 
 #: privateurls/templates/private_urls_nav.html:32
 #: privateurls/templates/private_urls_nav.html:39
 msgid "Generate URLs"
-msgstr "Menghasilkan URL-URL"
+msgstr "Menghasilkan URL"
 
 #: privateurls/templates/private_urls_nav.html:38
 msgid "All participants already have private URLs."
-msgstr "Semua peserta sudah mempunyai URL-URL privat."
+msgstr "Semua peserta sudah mempunyai URL privat."
 
 #: privateurls/templates/public_url_landing.html:4
 #: privateurls/templates/public_url_landing.html:5
@@ -160,7 +160,7 @@ msgstr "Juri"
 
 #: privateurls/views.py:119
 msgid "All participants already have private URLs. If you want to delete them, use the Edit Database area."
-msgstr "Semua para peserta sudah punya URL-URL privat. Bila kamu ingin menghapusnya, pakai area Edit Basisdata."
+msgstr "Semua para peserta sudah punya URL privat. Bila kamu ingin menghapusnya, pakai area Edit Basisdata."
 
 #: privateurls/views.py:126
 #, python-format
