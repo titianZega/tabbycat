@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-12 11:38\n"
+"PO-Revision-Date: 2021-04-12 11:51\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -258,7 +258,7 @@ msgstr "kategori break"
 
 #: tournaments/models.py:331
 msgid "If elimination round, which break category"
-msgstr ""
+msgstr "Jika babak penyisihan, yang mentransisi kategori"
 
 #: tournaments/models.py:334
 msgid "draw status"
@@ -270,7 +270,7 @@ msgstr ""
 
 #: tournaments/models.py:338
 msgid "feedback weight"
-msgstr ""
+msgstr "bobot umpan balik"
 
 #: tournaments/models.py:340
 #, no-python-format
