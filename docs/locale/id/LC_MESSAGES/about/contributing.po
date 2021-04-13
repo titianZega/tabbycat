@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-13 05:45\n"
+"PO-Revision-Date: 2021-04-13 05:55\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -96,7 +96,7 @@ msgstr "Menghasilkan data untuk diuji"
 
 #: ../../../CONTRIBUTING.rst:44
 msgid "There are management commands to help developers quickly generate data for use in testing, including results and feedback. A list of all commands can be found from ``dj help``, but the most useful in this context are:"
-msgstr ""
+msgstr "Ada manajemen perintah untuk membantu pengembang membuat data yang digunakan untuk pengujian, termasuk hasil dan umpan balik. Daftar dari semua perintah itu dapat ditemukan pada ``dj help``, namun pada konteks ini yang paling berguna adalah:"
 
 #: ../../../CONTRIBUTING.rst:46
 msgid "``dj importtournament ( minimal8team | australs24team | bp88team )``, which imports participant data for the 8-team (``minimal8team``), 24-team Australs (``australs24team``) and 88-team BP (``bp88team``) demonstration tournaments respectively."
@@ -236,7 +236,7 @@ msgstr "Semua folder lainnya adalah aplikasi Django yang berisi tampilan spesifi
 
 #: ../../../CONTRIBUTING.rst:117
 msgid "In the root directory there are a number of files defining our python and javascript dependencies, core configuration files, and key documents like the ``README``"
-msgstr ""
+msgstr "Pada direktori utama ata sejumlah file yang menentukan dependansi python dan javascript kita, file konfigurasi inti, dan dokumen kunci seperti ``README``"
 
 #: ../../../CONTRIBUTING.rst:120
 msgid "Internationalization/Localization"
@@ -244,15 +244,15 @@ msgstr "Internasionalisasi / Lokalisasi"
 
 #: ../../../CONTRIBUTING.rst:122
 msgid "The `gettext <https://docs.djangoproject.com/en/2.2/topics/i18n/translation/>`_ framework is used to enable the translation of strings in Python files and Django templates. Backend in this context signifies these types of files."
-msgstr ""
+msgstr "Framework `gettext <https://docs.djangoproject.com/en/2.2/topics/i18n/translation/>`_ digunakan untuk mengaktifkan terjemahan string di file Python dan template Django. Backend dalam konteks ini menandakan tipe file ini."
 
 #: ../../../CONTRIBUTING.rst:124
 msgid "The backend's translation files can be updated from the ``tabbycat`` directory using one or more of the supporting language codes (see settings.py)::"
-msgstr ""
+msgstr "File terjemahan dari backend, dapat diperbarui dari direktori ``tabbycat`` menggunakan dukungan 1 atau lebih bahasa pemrograman (lihat settings.py)::"
 
 #: ../../../CONTRIBUTING.rst:128
 msgid "To do more than one language, just specify ``-l`` multiple times, _e.g._ ``-les -lar``."
-msgstr ""
+msgstr "Untuk melakukan lebih dari 1 bahasa, harap perjelas ``-l`` beberapa kali, seperti ``-les -lar``."
 
 #: ../../../CONTRIBUTING.rst:130
 msgid "These can then be compiled using::"
@@ -276,7 +276,7 @@ msgstr "Rilis Ceklis"
 
 #: ../../../CONTRIBUTING.rst:146
 msgid "Check that all migrations have been generated and committed into Git"
-msgstr ""
+msgstr "Periksa bahwa semua migrasi sudah dihasilkan dan di-commit ke Git"
 
 #: ../../../CONTRIBUTING.rst:147
 msgid "Merge translations from the Crowdin pull request and compile messages"
