@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-13 05:55\n"
+"PO-Revision-Date: 2021-04-13 06:06\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -104,7 +104,7 @@ msgstr ""
 
 #: ../../../CONTRIBUTING.rst:47
 msgid "``dj simulaterounds ROUND [ROUND ROUND ...]``, which simulates all of the rounds specified, generating a draw, an adjudicator allocation and a complete set of random results (but not feedback)."
-msgstr ""
+msgstr "``dj simulaterounds ROUND [ROUND ROUND ...]``, dimana menyimulasikan ronde yang sudah ditentukan, menghasilkan undian, dan alokasi juri dan hasil acak yang lengkap (namun tanpa umpan balik)."
 
 #: ../../../CONTRIBUTING.rst:48
 msgid "``dj generatefeedback ROUND [ROUND ROUND ...]``, which randomly generates feedback for all existing debates in the specified rounds."
@@ -264,7 +264,7 @@ msgstr ""
 
 #: ../../../CONTRIBUTING.rst:136
 msgid "Strings defined in Vue files must similarily be marked with ``gettext`` but must be added manually to ``tabbycat/locale/LANGUAGE_CODE/djangojs.po``, for each language supported. These can then compiled to javascript bundles using::"
-msgstr ""
+msgstr "String yang ditentukan dari file Vue harus sama dengan ``gettext`` namun harus ditambahkan secara manual ke ``tabbycat/locale/LANGUAGE_CODE/djangojs.po``, untuk setiap bahasa yang didukung. Kemudian hal ini dapat dikompilasi ke bundle javascript menggunakan::"
 
 #: ../../../CONTRIBUTING.rst:141
 msgid "These are then also committed to git to save users needing to run `compilejsi18n` during setup. The resulting files are then bundled as part of the npm build task. Updating these translations in development (live-reload) requires the use of the ``cp-i18n`` npm task."
@@ -280,15 +280,15 @@ msgstr "Periksa bahwa semua migrasi sudah dihasilkan dan di-commit ke Git"
 
 #: ../../../CONTRIBUTING.rst:147
 msgid "Merge translations from the Crowdin pull request and compile messages"
-msgstr ""
+msgstr "Satukan permintaan pull terjemahan dan kompilasi pesan dari Crowdin"
 
 #: ../../../CONTRIBUTING.rst:148
 msgid "Bump version number in ``docs/conf.py``"
-msgstr ""
+msgstr "Nomor versi dari Bump ada di ``docs/conf.py``"
 
 #: ../../../CONTRIBUTING.rst:149
 msgid "Bump version number and (if applicable) codename in ``tabbycat/settings/core.py``"
-msgstr ""
+msgstr "Nomor versi Bump, dan (jika ada) kode nama, terdapat di ``tabbycat/settings/core.py``"
 
 #: ../../../CONTRIBUTING.rst:150
 msgid "Update the main ``CHANGELOG.rst`` file (including release date)"
@@ -320,7 +320,7 @@ msgstr "Menggunakan Terminal pada macOs (setidaknya coba uji hasil instalasi yan
 
 #: ../../../CONTRIBUTING.rst:157
 msgid "Check that the last Travis CI build passed and run the full local test suite (this will include the Selenium tests that are not on Travis)"
-msgstr ""
+msgstr "Periksa jika build Travis CI terakhir sudah terpenuhi dan jalankan pengujian lokal secara lengkap (ini termasuk uji Selenium yang tidak ada di Travis)"
 
 #: ../../../CONTRIBUTING.rst:158
 msgid "Shift remaining issues from the Github Milestone"
@@ -336,11 +336,11 @@ msgstr "Pastikan tag yang digunakan adalah benar (``vX.Y.Z``) dan publikasikan k
 
 #: ../../../CONTRIBUTING.rst:161
 msgid "Back-merge ``master`` to the ``kitten`` branch"
-msgstr ""
+msgstr "Menyatukan mundur ``master`` ke cabang ``kitten``"
 
 #: ../../../CONTRIBUTING.rst:162
 msgid "Back-merge ``develop`` to the in-progress feature branches"
-msgstr ""
+msgstr "Menyatukan ``develop`` ke belakang untuk cabang fitur yang sedang berlangsung"
 
 #: ../../../CONTRIBUTING.rst:163
 msgid "Issue a formal release with change notes on GitHub"
