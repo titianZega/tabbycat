@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-13 05:36\n"
+"PO-Revision-Date: 2021-04-13 05:45\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -136,19 +136,19 @@ msgstr "Panduan Gaya Penulisan"
 
 #: ../../../CONTRIBUTING.rst:66
 msgid "For the front end interface design there is a style guide available at \"/style/\" once a tournament has been setup."
-msgstr ""
+msgstr "Untuk desain antarmuka depan, ada panduan untuk ragam tampilan pada \"/style/\" ketika turnamen diatur pertama kali."
 
 #: ../../../CONTRIBUTING.rst:68
 msgid "For python code, we use `flake8 <http://flake8.readthedocs.io>`_ to check for a non-strict series of style rules. Warnings will trigger a Travis CI build to fail. The entire codebase can be checked by using::"
-msgstr ""
+msgstr "Untuk kode python, kami menggunakan `flake8 <http://flake8.readthedocs.io>`_ untuk memeriksa serangkaian aturan gaya yang tidak ketat. Peringatan akan memicu Travis CI untuk gagal. Keseluruhan kode basis dapat diperiksa menggunakan::"
 
 #: ../../../CONTRIBUTING.rst:72
 msgid "For stylesheets, we use `stylelint <https://stylelint.io>`_. The relevant code can be checked by using::"
-msgstr ""
+msgstr "Untuk lembar gaya, kami menggunakan `stylelint <https://stylelint.io>`_. Kode yang relevan dapat diperiksa menggunakan::"
 
 #: ../../../CONTRIBUTING.rst:76
 msgid "For javascript, we use `eslint <http://eslint.org/>`_ to enforce the `standardJS <https://standardjs.com>`_ style and the standard recommendation of the vue plugin for eslint. The relevant code can be checked by using::"
-msgstr ""
+msgstr "Untuk javascript, kami menggunakan `eslint <http://eslint.org/>`_ untuk untuk memaksa penggunaan gaya `standardJS <https://standardjs.com>` dan rekomendasi standari dari plugin vue untuk eslint. Kode yang relevan dapat diperiksa menggunakan::"
 
 #: ../../../CONTRIBUTING.rst:81
 msgid "Versioning convention"
@@ -160,7 +160,7 @@ msgstr "Konvensi yang kami lakukan bertujuan memperkecil versi minor kapanpun ka
 
 #: ../../../CONTRIBUTING.rst:85
 msgid "the database can't be migrated forwards using ``python manage.py migrate --no-input``, or"
-msgstr ""
+msgstr "basis data tidak dapat dimigrasi ke depan menggunakan ``python manage.py migrate --no-input``, atau"
 
 #: ../../../CONTRIBUTING.rst:86
 msgid "there is a major change to how the tournament workflow goes, or"
@@ -224,7 +224,7 @@ msgstr "``locale`` memuat string terjemahan untuk template bersama (yang lainnya
 
 #: ../../../CONTRIBUTING.rst:114
 msgid "``templates`` contains shared html templates, stylesheets, javascript source files, and Vue.js components/mixins."
-msgstr ""
+msgstr "``templates`` memuat template html, lembar gaya, file sumber javascript, dan komponen/campuran Vue.js."
 
 #: ../../../CONTRIBUTING.rst:115
 msgid "``utils`` contains shared utilities"
