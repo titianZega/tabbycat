@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-15 07:36\n"
+"PO-Revision-Date: 2021-04-15 08:46\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,7 @@ msgstr "Bila kamu sedang membaca ini, kamu mungkin tertarik menggunakan Tabbycat
 
 #: ../../guide/comparisons.rst:9
 msgid "Obviously, this page is written by the developers of Tabbycat, and naturally, we have our biases. But rarely is there a single best option for everyone and every situation: different tab programs imagine the tabbing process in a different ways and have made unique trade-offs in their development process and design decisions. So we've tried to be as fair and accurate as we can, and we've consulted experienced tab directors (other than us!) and chief adjudicators to help provide a balanced overview."
-msgstr ""
+msgstr "Tentunya, halaman ini dibuat oleh developer Tabbycat, and pastinya, kami punya bias sendiri. Namun jarang ada satu pilihan terbaik untuk semua orang dan segala situasi: program tabulasi berbeda andaikan proses menabulasi dengan cara yang berbeda dan membuat pertukaran unik dalam proses pengembangan dan putusan desain. Jadi kami telah mencoba untuk adil sebisa dan seakurat mungkin, dan kami berkonsiltasi pada direktur tabulasi yang berpengalaman (selain kami!) serta kepala juri untuk membantu menyediakan gambaran yang seimbang."
 
 #: ../../guide/comparisons.rst:11
 msgid "At present, this guide just focuses on the major options available for the British Parliamentary format, although we'd like to expand this to incorporate the other formats that Tabbycat supports at some point in the future. As with all of our documentation, the source for this page `is on GitHub <https://github.com/TabbycatDebate/tabbycat/blob/develop/docs/guide/comparisons.rst>`_, and we welcome feedback and contributions."
