@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2020-07-23 04:45\n"
+"PO-Revision-Date: 2021-04-15 07:16\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../install/heroku.rst:5
 msgid "Installing on Heroku"
-msgstr ""
+msgstr "Menginstal pada Heroku"
 
 #: ../../install/heroku.rst:7
 msgid "When running Tabbycat on the internet, we set it up on `Heroku <http://www.heroku.com/>`_. The project is set up to be good to go on Heroku, and it works well for us, so if you'd like to run it online, we recommend that you do the same. Naturally, this requires you to have a Heroku account."
@@ -32,11 +32,11 @@ msgstr ""
 
 #: ../../install/heroku.rst:12
 msgid "The short way"
-msgstr ""
+msgstr "Cara yang singkat"
 
 #: ../../install/heroku.rst:13
 msgid "Click this button:"
-msgstr ""
+msgstr "Tekan tombol ini:"
 
 #: ../../install/heroku.rst:18
 msgid "This is the easiest way to deploy an instance of Tabbycat online. It requires no technical background."
@@ -56,7 +56,7 @@ msgstr ""
 
 #: ../../install/heroku.rst:27
 msgid "The long way"
-msgstr ""
+msgstr "Cara yang panjang"
 
 #: ../../install/heroku.rst:28
 msgid "The long way sets you up with more control over your environment.  Because you'll clone `our GitHub repository`_, it'll be easier for you to :ref:`upgrade your app <upgrade-heroku>` when a new version is released.  You'll also have the flexibility to make and contribute updates to the source code.  We recommend it if you have experience with Git.  It's also easier with this method to import CSV files using the command-line importer, so if you have a very large tournament, this might make importing initial data easier."
@@ -80,7 +80,7 @@ msgstr ""
 
 #: ../../install/heroku.rst:39 ../../install/heroku.rst:100
 msgid "Advanced users"
-msgstr ""
+msgstr "Pengguna tingkat lanjut"
 
 #: ../../install/heroku.rst:42
 msgid "Tabbycat is a `Django <https://www.djangoproject.com/>`_ project. As such, it can be installed on any web platform that supports Django, using any SQL system that Django supports. Just be aware that we haven't tried any other platform."
@@ -100,7 +100,7 @@ msgstr ""
 
 #: ../../install/heroku.rst:68
 msgid "1. Install dependencies"
-msgstr ""
+msgstr "1. instal depedensi"
 
 #: ../../install/heroku.rst:70
 msgid "Install the `Heroku Command Line Interface (CLI) <https://devcenter.heroku.com/articles/heroku-cli>`_, then log in with the command ``heroku login``."
@@ -152,7 +152,7 @@ msgstr ""
 
 #: ../../install/heroku.rst:106
 msgid "3. Deploy to Heroku"
-msgstr ""
+msgstr "3. Terapkan ke Heroku"
 
 #: ../../install/heroku.rst:110
 msgid "Navigate to your Tabbycat directory::"
@@ -200,7 +200,7 @@ msgstr ""
 
 #: ../../install/heroku.rst:145
 msgid "Activate your virtual environment::"
-msgstr ""
+msgstr "Aktifkan lingkungan virtual anda::"
 
 #: ../../install/heroku.rst:149
 msgid "Run initial migrations on your blank local database::"
@@ -220,7 +220,7 @@ msgstr ""
 
 #: ../../install/heroku.rst:165
 msgid "5. Push the local database to Heroku"
-msgstr ""
+msgstr "5. mengirim basisdata lokal ke heroku"
 
 #: ../../install/heroku.rst:167
 msgid "Once you're happy with how your local import went, you can push the local database to Heroku."
