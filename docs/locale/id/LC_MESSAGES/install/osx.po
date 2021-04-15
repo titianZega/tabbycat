@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2020-07-23 04:45\n"
+"PO-Revision-Date: 2021-04-15 07:16\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -56,7 +56,7 @@ msgstr ""
 
 #: ../../install/osx.rst:27
 msgid "1. Install dependencies"
-msgstr ""
+msgstr "1. instal depedensi"
 
 #: ../../install/osx.rst:29
 msgid "First, you need to install all of the software on which Tabbycat depends, if you don't already have it installed."
@@ -112,11 +112,11 @@ msgstr ""
 
 #: ../../install/osx.rst:65
 msgid "Download the zip or tar.gz file."
-msgstr ""
+msgstr "Unduh file zip atau berkas tar.gz."
 
 #: ../../install/osx.rst:66
 msgid "Extract all files in it to a folder of your choice."
-msgstr ""
+msgstr "Ekstrak semua berkas ke dalam sebuah folder pilihan anda."
 
 #: ../../install/osx.rst:71
 msgid "If you've used Git before, you might prefer to clone `our GitHub repository`_ instead. Don't forget to check out the |vrelease| tag or the master branch."
