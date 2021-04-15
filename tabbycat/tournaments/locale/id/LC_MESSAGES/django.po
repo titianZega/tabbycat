@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-15 05:15\n"
+"PO-Revision-Date: 2021-04-15 05:35\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -428,70 +428,70 @@ msgstr ""
 
 #: tournaments/templates/donations.html:24
 msgid "We suggest that tournaments budget for a donation of A$1 (Australian dollar) per team. For tournaments run for fundraising or for profit, whether partly or solely, this payment is <strong>required</strong> and your licence to use Tabbycat is conditional upon it. General donations from individuals or organisations are of course also much appreciated."
-msgstr ""
+msgstr "Kami menyarankan anggaran pertandingan untuk sebuah donasi sebesar A$1 (dollar Australia) per regu. Untuk pertandingan yang diselenggarakan untuk penggalangan dana dan untuk keuntungan, baik sebagian atau seluruhnya, pembayaran ini <strong>diperlukan</strong> dan lisensi Anda untuk mengunakan Tabbycat bergantung pada itu. Donasi umum dari individual atau organisasi tentu saja lebih dihargai juga."
 
 #: tournaments/templates/donations.html:34
 #, python-format
 msgid "Our suggested donation from %(tournament)s, based on its size, is <strong>A$%(nteams)s</strong>. The easiest way to donate is <a href=\"http://PayPal.Me/tabbycatproject/%(nteams)saud\">via Paypal</a>, but please don’t hesitate to <a href=\"http://tabbycat.readthedocs.io/en/stable/about/support.html#email\">email us</a> if other methods would work better for you. Also, feel free to get in touch if you require an invoice or receipt for the payment."
-msgstr ""
+msgstr "Donasi yang kami sarangkan dari %(tournament)s, berdasarkan ukurannya, adalah <strong>A$%(nteams)s</strong>. Cara termudh untuk berdonasi adalah <a href=\"http://PayPal.Me/tabbycatproject/%(nteams)saud\">via Paypal</a>, tetapi tolong jangan segan-segan untuk<a href=\"http://tabbycat.readthedocs.io/en/stable/about/support.html#email\">mengirim surel kepada kami</a>jika metode lain akan bekerja lebih baik untuk Anda. Juga, jangan ragu untuk menghubungi kami jika Anda membutuhkan faktur atau tanda terima untuk pembayaran tersebut."
 
 #: tournaments/templates/donations.html:46
 msgid "The easiest way to donate is <a href=\"http://PayPal.Me/tabbycatproject/0aud\">via Paypal</a>. Please <a href=\"http://tabbycat.readthedocs.io/en/stable/about/support.html\">contact us</a> if you require other options."
-msgstr ""
+msgstr "Cara termudh untuk berdonasi adalah <a href=\"http://PayPal.Me/tabbycatproject/0aud\">via Paypal</a>. Tolong <a href=\"http://tabbycat.readthedocs.io/en/stable/about/support.html\">hubungi kami</a> jika Anda memerlukan pilihan lain."
 
 #: tournaments/templates/fix_debate_teams.html:6
 msgid "Debate Team Missing"
-msgstr ""
+msgstr "Regu Debat Menghilang"
 
 #: tournaments/templates/fix_debate_teams.html:16
 msgid "Tabbycat always requires that, in every debate, one and only one team is assigned to each side. When that is not the case, this error occurs. Usually, this is the result of debates having been manually edited."
-msgstr ""
+msgstr "Tabbycat selalu mensyaratkan bahwa, pada setiap debat, satu dan hanya satu regu yang ditugaskan untuk setiap sisi. Jika hal tersebut buka kasusnya, kesalahan ini terjadi. Biasanya, hal ini adalah hasil dari debat-debat yang disunting secara manual."
 
 #: tournaments/templates/fix_debate_teams.html:24
 msgid "A list of offending debates is presented below. To fix them, you'll need to do the following:"
-msgstr ""
+msgstr "Sebuah daftar dari perdebatan yang menyinggung disajikan di bawah ini. Untuk memperbaiki mereka, Anda harus melalkukan hal berikut:"
 
 #. Translators: This is in a list of instructions.
 #: tournaments/templates/fix_debate_teams.html:33
 msgid "Click the <strong>Fix this debate</strong> button for that debate."
-msgstr ""
+msgstr "Klik tombol <strong>Perbaiki debat ini</strong> untuk debat tersebut."
 
 #. Translators: This is in a list of instructions.
 #: tournaments/templates/fix_debate_teams.html:39
 msgid "Ensure that every <strong>side</strong> that should be present in the debate is present and has a <strong>team</strong> assigned. If a team is missing, find an empty row and use the magnifying glass to select a team. Then set the new team's <strong>side</strong> accordingly."
-msgstr ""
+msgstr "Pastkan setiap <strong>sisi</strong> yang harus hadir di debat hadir dan memiliki sebuah <strong>regu</strong> ditugaskan. Jikasebuah regu menghilang, carilah sebuah baris yang kosong dan gunakan kaca pembesar untuk memilih sebuah regu. Setelah itu aturlah <strong>sisi</strong> regu baru sesuai dengan itu."
 
 #. Translators: This is in a list of instructions.
 #: tournaments/templates/fix_debate_teams.html:48
 msgid "Ensure that no <strong>side</strong> appears more than once in the debate."
-msgstr ""
+msgstr "Pastikan tidak ada <strong>sisi</strong> yang muncul lebih dari sekali pada debat."
 
 #. Translators: This is in a list of instructions.
 #: tournaments/templates/fix_debate_teams.html:55
 msgid "<strong>Save</strong> the changes."
-msgstr ""
+msgstr "<strong>Simpan</strong> perubahan-perubahannya."
 
 #: tournaments/templates/fix_debate_teams.html:62
 msgid "Once you've fixed all the debates, you should then be able to return to whatever page you were originally on without the error reoccurring."
-msgstr ""
+msgstr "Jika Anda sudah menetapkan semua debatnya, Anda kemudian harus bisa kembali ke halaman manapun dimana sebelumnya anda berada tanpa terjadi kesalahan."
 
 #: tournaments/templates/fix_debate_teams.html:68
 #, python-format
 msgid "You can also see all the debates in the <a href=\"%(edit_debates_url)s\" target=\"_blank\">Debates section of the Edit Database Area</a>."
-msgstr ""
+msgstr "Anda juga dapat melihat semua debat di <a href=\"%(edit_debates_url)s\" target=\"_blank\">bagian Debat dari Area Sunting Basisdata</a>."
 
 #: tournaments/templates/fix_debate_teams.html:82
 msgid "Debate ID"
-msgstr ""
+msgstr "ID Debat"
 
 #: tournaments/templates/fix_debate_teams.html:85
 #, python-format
 msgid "Team(s) on %(side)s"
-msgstr ""
+msgstr "Regu di %(side)s"
 
 #: tournaments/templates/fix_debate_teams.html:90
 msgid "Link to fix this debate"
-msgstr ""
+msgstr "Tautan untuk memperbaiki debat ini"
 
 #: tournaments/templates/fix_debate_teams.html:101
 msgid "No teams"
@@ -504,11 +504,11 @@ msgstr "Banyak kelompok"
 #: tournaments/templates/fix_debate_teams.html:120
 msgctxt "button label"
 msgid "Fix this debate"
-msgstr ""
+msgstr "Perbaiki debat ini"
 
 #: tournaments/templates/fix_debate_teams.html:127
 msgid "It looks like all debates are in good shape!"
-msgstr ""
+msgstr "Terlihat seperti semua debat berada di bentuk yang baik!"
 
 #: tournaments/templates/fix_debate_teams.html:128
 msgid "If you keep getting redirected to this page and you're not sure why, please contact the developers of Tabbycat."
