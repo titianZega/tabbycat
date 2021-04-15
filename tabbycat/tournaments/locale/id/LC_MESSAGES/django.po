@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-12 11:51\n"
+"PO-Revision-Date: 2021-04-15 04:54\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -126,7 +126,7 @@ msgstr "Kembali ke Penarikan"
 
 #: tournaments/models.py:26
 msgid "You can't use this as a tournament slug, because it's reserved for a Tabbycat system URL. Please try another one."
-msgstr ""
+msgstr "Anda tidak dapat menggunakan ini sebagai suatu TOURNAMENT SLUG, karena ini sudah dipesan untuk sebuah sistem URL Tabbycat. Cobalah yang lain."
 
 #: tournaments/models.py:33 tournaments/models.py:320
 msgid "name"
@@ -266,7 +266,7 @@ msgstr "status undian"
 
 #: tournaments/models.py:335
 msgid "The status of this round's draw"
-msgstr ""
+msgstr "Status dari penarikan babak ini"
 
 #: tournaments/models.py:338
 msgid "feedback weight"
@@ -275,7 +275,7 @@ msgstr "bobot umpan balik"
 #: tournaments/models.py:340
 #, no-python-format
 msgid "The extent to which each adjudicator's overall score depends on feedback vs their base score. At 0, it is 100% drawn from their base score, at 1 it is 100% drawn from feedback."
-msgstr ""
+msgstr "Sejauh mana skor keseluruhan masing-masing juri bergantung pada imbal balik dibandingkan dengan nilai dasar mereka. Pada 0, 100% diambil dari nilai dasar mereka, pada 1 100% diambil dari imbal balik."
 
 #. Translators: A silent round is a round for which results are not disclosed once the round is over.
 #: tournaments/models.py:343
@@ -284,7 +284,7 @@ msgstr "diam"
 
 #: tournaments/models.py:344
 msgid "If marked silent, information about this round (such as its results) will not be shown publicly."
-msgstr ""
+msgstr "Jika ditandai sunyi, informasi mengenai babak ini (seperti hasilnya) tidak akan ditunjukkan untuk publik."
 
 #: tournaments/models.py:346
 msgid "motions released"
@@ -292,19 +292,19 @@ msgstr "mosi dirilis"
 
 #: tournaments/models.py:347
 msgid "Whether motions will appear on the public website, assuming that feature is turned on"
-msgstr ""
+msgstr "Apakah gerakan akan muncul di situs publik, mengasumsikan fitur itu dinyalakan"
 
 #: tournaments/models.py:348
 msgid "starts at"
-msgstr ""
+msgstr "mulai pada"
 
 #: tournaments/models.py:351
 msgid "weight"
-msgstr ""
+msgstr "bobot"
 
 #: tournaments/models.py:352
 msgid "A factor for the points received in the round. For example, if 2, all points are doubled."
-msgstr ""
+msgstr "Sebuah faktor untuk nilai yang didapatkan pada babak. Sebagai contoh, jika 2, semua nilai digandakan."
 
 #: tournaments/models.py:355
 msgid "round"
@@ -312,7 +312,7 @@ msgstr "ronde"
 
 #: tournaments/models.py:356
 msgid "rounds"
-msgstr ""
+msgstr "babak"
 
 #: tournaments/models.py:369
 msgid "A round in the elimination stage must have its draw type set to \"Elimination\"."
