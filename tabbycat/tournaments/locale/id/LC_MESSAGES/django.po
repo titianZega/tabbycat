@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-15 07:45\n"
+"PO-Revision-Date: 2021-04-15 08:02\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -91,11 +91,11 @@ msgstr "Semua ronde penyisihan di %(category)s sudah selesai"
 
 #: tournaments/forms.py:225
 msgid "If the current round is a preliminary round, this field must be blank."
-msgstr "Jika babak sekarang adalah babak pre eliminasi, bidang ini harus kosong."
+msgstr "Jika ronde saat ini adalah ronde penyisihan, bidang ini harus kosong."
 
 #: tournaments/forms.py:231
 msgid "If all preliminary rounds have been completed, this field is required."
-msgstr "Jika semua babak pre eliminasi sudah selesai, bidang ini diperlukan."
+msgstr "Jika semua ronde penyisihan sudah selesai, bidang ini diperlukan."
 
 #: tournaments/mixins.py:109
 #, python-format
