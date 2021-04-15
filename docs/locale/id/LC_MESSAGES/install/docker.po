@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2020-07-23 04:45\n"
+"PO-Revision-Date: 2021-04-15 07:16\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -20,11 +20,11 @@ msgstr ""
 
 #: ../../install/docker.rst:5
 msgid "Installing Locally using Docker"
-msgstr ""
+msgstr "Menginstal secara loval mengunakan Docker"
 
 #: ../../install/docker.rst:7
 msgid "Is this the best install method for you?"
-msgstr ""
+msgstr "Apa ini cara menginstal yang terbaik untuk anda?"
 
 #: ../../install/docker.rst:10
 msgid "In most cases, we recommend doing an :ref:`internet-based installation on Heroku <install-heroku>` instead. If you decide to do a local installation, be sure to read our page on :ref:`local installations <install-local>` to help you understand what's going on, particularly this section: :ref:`install-decision`"
@@ -41,7 +41,7 @@ msgstr ""
 
 #: ../../install/docker.rst:18
 msgid "1. Download Tabbycat"
-msgstr ""
+msgstr "1. Mengunduh Tabbycat"
 
 #: ../../install/docker.rst:20
 msgid "`Go to the page for our latest release <https://github.com/TabbycatDebate/tabbycat/releases/latest>`_."
@@ -49,19 +49,19 @@ msgstr ""
 
 #: ../../install/docker.rst:22
 msgid "Download the zip or tar.gz file."
-msgstr ""
+msgstr "Unduh file zip atau berkas tar.gz."
 
 #: ../../install/docker.rst:24
 msgid "Extract all files in it to a folder of your choice."
-msgstr ""
+msgstr "Ekstrak semua berkas ke dalam sebuah folder pilihan anda."
 
 #: ../../install/docker.rst:28
 msgid "2. Install Docker"
-msgstr ""
+msgstr "2. Instal Docker"
 
 #: ../../install/docker.rst:31
 msgid "If using macOS or Linux"
-msgstr ""
+msgstr "Jika Mengunakan macOS atau Linux"
 
 #: ../../install/docker.rst:33
 msgid "Install the **Docker Community Edition (stable)** from the `Docker store page <https://store.docker.com/search?type=edition&offering=community>`_."
@@ -101,11 +101,11 @@ msgstr ""
 
 #: ../../install/docker.rst:57
 msgid "3. Run Tabbycat in Docker"
-msgstr ""
+msgstr "3. Run Tabbycat in Docker"
 
 #: ../../install/docker.rst:60
 msgid "If using the Docker App"
-msgstr ""
+msgstr "Jika Menggunakan aplikasi Docker"
 
 #: ../../install/docker.rst:62
 msgid "*These instructions apply if you installed the Docker App, i.e., if you are using macOS, Linux or Windows Pro/Enterprise/Education.*"
@@ -145,7 +145,7 @@ msgstr ""
 
 #: ../../install/docker.rst:81
 msgid "If using the Docker Toolbox"
-msgstr ""
+msgstr "Jika Menggunakan Docker Toolbox"
 
 #: ../../install/docker.rst:83
 msgid "*These instructions apply if you installed the Docker Toolbox, i.e., if you are using Windows 7, Windows 8 or Windows 10 Home.*"
@@ -153,11 +153,11 @@ msgstr ""
 
 #: ../../install/docker.rst:87
 msgid "Start the **Docker Quickstart Terminal**."
-msgstr ""
+msgstr "Mulai **Docker Quickstart Terminal**."
 
 #: ../../install/docker.rst:89
 msgid "Run the command ``docker-machine ip``. Take note of the IP address it shows, for example::"
-msgstr ""
+msgstr "Jalankan pada cmd ``docker-machine ip``, catat alamat IP yang di tunjukan, untuk contoh nya::"
 
 #: ../../install/docker.rst:94
 msgid "Navigate to the Tabbycat folder (*i.e.* the folder containing ``README.md``) and run ``docker-compose up``."
