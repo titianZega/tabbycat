@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-15 07:36\n"
+"PO-Revision-Date: 2021-04-15 07:45\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -69,25 +69,25 @@ msgstr "Tampilkan informasi yang bukan rahasia pada sisi publik dari situs ini, 
 
 #: tournaments/forms.py:98
 msgid "<strong>Tabulation:</strong> [list tabulation staff here]<br /><strong>Organisation:</strong> [list organising committee members here]<br /><strong>Adjudication:</strong> [list chief adjudicators here]"
-msgstr "<strong>Tabulasi:</strong> [daftar staff tabulasi di sini]<br /><strong>Organisasi:</strong>[daftar anggota panitia penyelenggara di sini]<br /><strong>Pengadilan:</strong>[daftar ketua pengadilan di sini]"
+msgstr "<strong>Tabulasi:</strong>[tuliskan staf tabulasi di sini]<br /><strong>Organisasi:</strong>[tuliskan anggota panitian penyelenggara di sini]<br /><strong>Penjurian:</strong>[tuliskan ketua juri di sini]"
 
 #: tournaments/forms.py:194
 msgid "Current preliminary round"
-msgstr "Babak pre eliminasi sekarang"
+msgstr "Ronde penyisihan saat ini"
 
 #: tournaments/forms.py:195
 msgid "All preliminary rounds have been completed"
-msgstr "Semua babak pre eliminasi sudah diselesaikan"
+msgstr "Semua ronde penyisihan sudah selesai"
 
 #: tournaments/forms.py:207
 #, python-format
 msgid "Current elimination round in <strong>%(category)s</strong> <em>(only if all preliminary rounds have been completed)</em>"
-msgstr "Babak eliminasi sekarang di <strong>%(category)s</strong><em>(hanya jika semua babak pre eliminasi sudah selesai)</em>"
+msgstr "Ronde eliminasi saat ini di <strong>%(category)s</strong><em>(hanya jika semua ronde penyisihan sudah selesai)</em>"
 
 #: tournaments/forms.py:213
 #, python-format
 msgid "All elimination rounds in %(category)s have been completed"
-msgstr "Semua babak eliminasi di %(category)s sudah selesai"
+msgstr "Semua ronde penyisihan di %(category)s sudah selesai"
 
 #: tournaments/forms.py:225
 msgid "If the current round is a preliminary round, this field must be blank."
