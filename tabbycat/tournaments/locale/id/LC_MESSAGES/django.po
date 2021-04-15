@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-15 04:54\n"
+"PO-Revision-Date: 2021-04-15 05:05\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -316,19 +316,19 @@ msgstr "babak"
 
 #: tournaments/models.py:369
 msgid "A round in the elimination stage must have its draw type set to \"Elimination\"."
-msgstr ""
+msgstr "Sebuah babak di tahap eliminasi harus mengatur tipe pengambilan sebagai \"Eliminasi\"."
 
 #: tournaments/models.py:372
 msgid "A round in the preliminary stage cannot have its draw type set to \"Elimination\"."
-msgstr ""
+msgstr "Sebuah babak di tahap pre-eliminasi tidak bisa mengatur tipe pengambilannya sebagai \"Eliminasi\"."
 
 #: tournaments/models.py:377
 msgid "Elimination rounds must have a break category."
-msgstr ""
+msgstr "Babak eliminasi harus memiliki sebuah kategori istirahat."
 
 #: tournaments/templates/assistant_tournament_index.html:4
 msgid "Dashboard"
-msgstr ""
+msgstr "Pengaturan"
 
 #: tournaments/templates/assistant_tournament_index.html:5
 msgid "Overview"
@@ -337,33 +337,33 @@ msgstr "Tinjauan"
 #: tournaments/templates/assistant_tournament_index.html:8
 #, python-format
 msgid "current round: %(round)s, status: %(status)s"
-msgstr ""
+msgstr "babak sekarang: %(round)s, status: %(status)s"
 
 #: tournaments/templates/blank_site_start.html:7
 #: tournaments/templates/blank_site_start.html:20
 msgid "Welcome to Tabbycat!"
-msgstr ""
+msgstr "Selamat datang di Tabbycat!"
 
 #: tournaments/templates/blank_site_start.html:23
 msgid "To get started, you'll need to create the first user account. This account is a \"superuser\" account: it will be able to edit anything on the site. Therefore, you should use a strong password."
-msgstr ""
+msgstr "Untuk memulai, Anda akan perlu untuk memuat akun pengguna pertama. Akun ini adalah sebuah akun \"pengguna super\": akun ini akan bisa mengubah semua hal di situs. Maka dari itu, Anda harus menggunakan sebuah kata sandi yang kuat."
 
 #: tournaments/templates/blank_site_start.html:28
 msgid "You can only create this account once, but if you like, you can change the username and password after it's created, or add new superusers afterwards."
-msgstr ""
+msgstr "Anda hanya dapat membuat akun ini sekali, tetapi jika Anda mau, Anda dapat mengubah nama pengguna dan kata sandi setelah akun tersebut dibuat, atau menambahkan pengguna super setelahnya."
 
 #: tournaments/templates/blank_site_start.html:32
 msgid "The email address is used for password resets. You don't have to provide one, but if you don't, you won't be able to reset your password if you forget it."
-msgstr ""
+msgstr "Alamat email tersebut digunakan untuk mengatur ulang kata sandi. Anda tidak perlu menyediakan satu, tetapi jika tidak, Anda tidak akan bisa mengatur ulang kata sandi Anda jika Anda melupakannya."
 
 #: tournaments/templates/blank_site_start.html:40
 msgid "Create Account"
-msgstr ""
+msgstr "Membuat Akun"
 
 #: tournaments/templates/configure_tournament.html:5
 #, python-format
 msgid "Configure Tournament %(tournament)s"
-msgstr ""
+msgstr "Konfigurasi Pertandingan %(tournament)s"
 
 #: tournaments/templates/configure_tournament.html:9
 #: tournaments/templates/create_tournament.html:5
@@ -372,15 +372,15 @@ msgstr ""
 
 #: tournaments/templates/configure_tournament.html:20
 msgid "To finish creating your tournament select a basic configuration options. Note that these can always be changed later (and with more precise control) if needed."
-msgstr ""
+msgstr "Untuk menyelesaikan membuat pertandingan Anda pilihlah sebuah pilihan konfigurasi dasar. Catat bahwa hal ini selalu dapat diubah nantinya (dan dengan kontrol yang lebih tepat) jika dibutuhkan."
 
 #: tournaments/templates/configure_tournament.html:25
 msgid "Configure Tournament"
-msgstr ""
+msgstr "Konfigurasi Pertandingan"
 
 #: tournaments/templates/create_tournament.html:4
 msgid "Create New Tournament"
-msgstr ""
+msgstr "Membuat Pertandingan Baru"
 
 #: tournaments/templates/create_tournament.html:15
 #, python-format
