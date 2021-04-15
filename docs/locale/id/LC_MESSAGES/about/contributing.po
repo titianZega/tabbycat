@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-15 06:05\n"
+"PO-Revision-Date: 2021-04-15 07:16\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -100,7 +100,7 @@ msgstr "Ada manajemen perintah untuk membantu pengembang membuat data yang digun
 
 #: ../../../CONTRIBUTING.rst:46
 msgid "``dj importtournament ( minimal8team | australs24team | bp88team )``, which imports participant data for the 8-team (``minimal8team``), 24-team Australs (``australs24team``) and 88-team BP (``bp88team``) demonstration tournaments respectively."
-msgstr ""
+msgstr "``dj importtournament ( minimal8team | australs24team | bp88team )``, melakukan impor data peserta untuk demonstrasi turnamen kelompok 8-team(``minimal8team``), 24-team Australs (``australs24team``) dan 88-team BP (``bp88team``)."
 
 #: ../../../CONTRIBUTING.rst:47
 msgid "``dj simulaterounds ROUND [ROUND ROUND ...]``, which simulates all of the rounds specified, generating a draw, an adjudicator allocation and a complete set of random results (but not feedback)."
@@ -108,11 +108,11 @@ msgstr "``dj simulaterounds ROUND [ROUND ROUND ...]``, dimana menyimulasikan ron
 
 #: ../../../CONTRIBUTING.rst:48
 msgid "``dj generatefeedback ROUND [ROUND ROUND ...]``, which randomly generates feedback for all existing debates in the specified rounds."
-msgstr ""
+msgstr "``dj generatefeedback ROUND [ROUND ROUND ...]``, secara acak memberikan umpan balik untuk semua debat yang ada di ronde tertentu."
 
 #: ../../../CONTRIBUTING.rst:49
 msgid "``dj generateresults ROUND [ROUND ROUND ...]``, which randomly generates results for all existing debates in the specified rounds. (You don't need to run this if you ran ``simulaterounds``, because that already does it.)"
-msgstr ""
+msgstr "``dj generateresults ROUND [ROUND ROUND ...]``, secara acak memberikan hasil untuk semua debat yang ada di babak tertentu. (Anda tidak memerlukan ini jika anda sudah menjalankan ``simulaterounds``, karena hal ini sudah termasuk di dalamnya.)"
 
 #: ../../../CONTRIBUTING.rst:51
 msgid "Rounds can be specified by sequence number (``seq``) or abbreviation. You can find more information about each of them by adding ``--help`` after the command name."
