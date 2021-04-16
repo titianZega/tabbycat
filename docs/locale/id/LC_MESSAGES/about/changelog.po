@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-16 11:57\n"
+"PO-Revision-Date: 2021-04-16 12:10\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -1414,7 +1414,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:518
 msgid "Added information about autosave status to the adjudicator allocations page"
-msgstr ""
+msgstr "Menambahkan informasi mengenai status penyimpanan otomatis pada halaman alokasi juri"
 
 #: ../../../CHANGELOG.rst:519
 msgid "Added configurable side names so that tournaments can use labels like \"Proposition\"/\"Opposition\" instead of \"Affirmative\"/\"Negative\""
@@ -1422,7 +1422,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:520
 msgid "Started work on basic infrastructure for translations"
-msgstr ""
+msgstr "Memulai pengerjaan untuk infrastruktur standar untuk terjemahan"
 
 #: ../../../CHANGELOG.rst:524
 msgid "1.1.7"
@@ -1430,19 +1430,19 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:525
 msgid "*Release date: 31 January 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 31 Januari 2017*"
 
 #: ../../../CHANGELOG.rst:527
 msgid "Yet more minor bug fixes"
-msgstr ""
+msgstr "Namun lebih banyak perbaikan kecil"
 
 #: ../../../CHANGELOG.rst:528
 msgid "The auto-allocation UI will now detail your minimum rating setting better"
-msgstr ""
+msgstr "Tampilan antarmuka yang teralokasi otomatis sekarang akan merinci pengaturan peringkat minimum anda dengan lebih baik"
 
 #: ../../../CHANGELOG.rst:529
 msgid "Added guidance on database backups to documentation"
-msgstr ""
+msgstr "Menambahkan panduan pada cadangan basisdata ke dokumentasi"
 
 #: ../../../CHANGELOG.rst:533
 msgid "1.1.6"
@@ -1450,15 +1450,15 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:534
 msgid "*Release date: 19 January 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 19 Januari 2017*"
 
 #: ../../../CHANGELOG.rst:536
 msgid "A number of minor bug fixes"
-msgstr ""
+msgstr "Sejumlah perbaikan masalah kecil"
 
 #: ../../../CHANGELOG.rst:537
 msgid "Added basic infrastructure for creating tabbycat translations"
-msgstr ""
+msgstr "Menambahkan infrastruktur standar untuk membuat terjemahan tabbycat"
 
 #: ../../../CHANGELOG.rst:541
 msgid "1.1.5"
@@ -1466,11 +1466,11 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:542
 msgid "*Release date: 12 January 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 12 Januari 2017*"
 
 #: ../../../CHANGELOG.rst:544
 msgid "A number of minor bug fixes and improvements to documentation"
-msgstr ""
+msgstr "Sejumlah perbaikan masalah kecil dan peningkatan ke dokumentasi"
 
 #: ../../../CHANGELOG.rst:548
 msgid "1.1.4"
@@ -1478,19 +1478,19 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:549
 msgid "*Release date: 25 November 2016*"
-msgstr ""
+msgstr "*Tanggal rilis: 25 November 2016*"
 
 #: ../../../CHANGELOG.rst:551
 msgid "Redesigned the footer area to better describe Tabbycat and to promote donations and related projects"
-msgstr ""
+msgstr "Desain ulang area footer agar mendeskripsikan Tabbycat lebih baik dan agar mempromosikan donasi dan proyek terkait"
 
 #: ../../../CHANGELOG.rst:552
 msgid "Slight tweaks to the site homepage and main menus to better accommodate the login/log out links"
-msgstr ""
+msgstr "Perbaikan kecil ke halaman utama situs dan menu utama untuk mengakomodasi tautan login/logout dengan lebih baik"
 
 #: ../../../CHANGELOG.rst:553
 msgid "A few minor bug fixes and improvements to error reporting"
-msgstr ""
+msgstr "Perbaikan masalah kecil dan peningkatan ke pelaporan masalah"
 
 #: ../../../CHANGELOG.rst:557
 msgid "1.1.3"
@@ -1498,23 +1498,23 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:558
 msgid "*Release date: 15 September 2016*"
-msgstr ""
+msgstr "*Tanggal rilis: 15 September 2016*"
 
 #: ../../../CHANGELOG.rst:560
 msgid "Fixed bug affecting some migrations from earlier versions"
-msgstr ""
+msgstr "Memperbaiki masalah yang mempengaruhi beberapa migrasi dari versi lebih lama"
 
 #: ../../../CHANGELOG.rst:561
 msgid "Made latest results show question mark rather than crash if a team is missing"
-msgstr ""
+msgstr "Membuat hasil terbaru menunjukkan tanda tanya, daripada crash jika sebuah tim hilang"
 
 #: ../../../CHANGELOG.rst:562
 msgid "Fixed bug affecting the ability to save motions"
-msgstr ""
+msgstr "Memperbaiki masalah yang mempengaruhi kemampuan untuk menyimpan mosi"
 
 #: ../../../CHANGELOG.rst:563
 msgid "Fixed bug preventing draw flags from being displayed"
-msgstr ""
+msgstr "Memperbaiki masalah yang mencegah bendera pengujian untuk ditampilkan"
 
 #: ../../../CHANGELOG.rst:567
 msgid "1.1.2"
@@ -1522,23 +1522,23 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:568
 msgid "*Release date: 14 September 2016*"
-msgstr ""
+msgstr "*Tanggal rilis: 14 September 2016*"
 
 #: ../../../CHANGELOG.rst:570
 msgid "Allow panels with even number of adjudicators (with warnings), by giving chair the casting vote"
-msgstr ""
+msgstr "Mengijinkan panelis dengan banyak juri secara genap (dengan peringatan), dengan memberikan ketua suara casting"
 
 #: ../../../CHANGELOG.rst:571
 msgid "Removed defunct person check-in, which hasn't been used since 2010"
-msgstr ""
+msgstr "Menghapus cek-in orang yang tidak berfungsi, yang mana belum pernah digunakan sejak 2010"
 
 #: ../../../CHANGELOG.rst:572
 msgid "Collapsed availability database models into a single model with Django content types"
-msgstr ""
+msgstr "Menciutkan ketersediaan model basis data menjadi model tunggal dengan tipe konten Django"
 
 #: ../../../CHANGELOG.rst:573
 msgid "Collapsed optional fields in action log entries into a single generic field using Django content types"
-msgstr ""
+msgstr "Menciutkan bidang opsional dalam entri log tindakan ke dalam satu bidang umum menggunakan tipe konten Django"
 
 #: ../../../CHANGELOG.rst:574
 msgid "Added better warnings when attempting to create an elimination round draw with fewer than two teams"
@@ -1782,7 +1782,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:659
 msgid "Add separate pro speakers tab"
-msgstr ""
+msgstr "Menambahkan pemisah tab pro pembicara"
 
 #: ../../../CHANGELOG.rst:664
 msgid "0.8.2"
@@ -1794,11 +1794,11 @@ msgstr "*Tanggal rilis: 20 Maret 2016*"
 
 #: ../../../CHANGELOG.rst:667
 msgid "Fixed issue where scores from individual ballots would be deleted when any other panel in the round was edited"
-msgstr ""
+msgstr "Memperbaiki masalah dimana skor dari kertas suara individu akan terhapus ketika panelis lainnya pada ronde tersebut diubah"
 
 #: ../../../CHANGELOG.rst:668
 msgid "Fixed issue where page crashes for URLs with \"tab\" in it but that aren't recognized tab pages"
-msgstr ""
+msgstr "Memperbaiki masalah halaman bermasalah untuk URL dengan \"tab\" di dalamnya tetapi halaman tab tidak dikenali"
 
 #: ../../../CHANGELOG.rst:672
 msgid "0.8.1"
