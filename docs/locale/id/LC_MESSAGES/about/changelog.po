@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-16 12:10\n"
+"PO-Revision-Date: 2021-04-16 12:18\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -1542,15 +1542,15 @@ msgstr "Menciutkan bidang opsional dalam entri log tindakan ke dalam satu bidang
 
 #: ../../../CHANGELOG.rst:574
 msgid "Added better warnings when attempting to create an elimination round draw with fewer than two teams"
-msgstr ""
+msgstr "Menambahkan peringatan yang lebih baik ketika mencoba untuk membuat eliminasi ronde undian dengan tim lebih sedikit dari dua"
 
 #: ../../../CHANGELOG.rst:575
 msgid "Added warnings in Edit Database view when editing debate teams"
-msgstr ""
+msgstr "Menambahkan peringatan di tampilan Ubah Basis Data ketika mengubah tim debat"
 
 #: ../../../CHANGELOG.rst:576
 msgid "Renamed \"AIDA pre-2015\" break rule to \"AIDA 1996\""
-msgstr ""
+msgstr "Mengubah pengaturan penamaan istirahat \"AIDA pre-2015\" menjadi \"AIDA 1996\""
 
 #: ../../../CHANGELOG.rst:580
 msgid "1.1.1"
@@ -1558,19 +1558,19 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:581
 msgid "*Release date: 8 September 2016*"
-msgstr ""
+msgstr "*Tanggal rilis: 8 September 2016*"
 
 #: ../../../CHANGELOG.rst:583
 msgid "Fixed a bug where the team standings and team tab would crash when some emoji were not set"
-msgstr ""
+msgstr "Memperbaiki masalah dimana klasemen tim dan tab tim akan crash ketika beberapa emoji tidak diatur"
 
 #: ../../../CHANGELOG.rst:587
 msgid "1.1.0 (Egyptian Mau)"
-msgstr ""
+msgstr "1.1.0 (Egyptian Mau)"
 
 #: ../../../CHANGELOG.rst:588
 msgid "*Release date: 3 September 2016*"
-msgstr ""
+msgstr "*Tanggal rilis: 3 September 2016*"
 
 #: ../../../CHANGELOG.rst:590
 msgid "Added support for the United Asian Debating Championships style"
