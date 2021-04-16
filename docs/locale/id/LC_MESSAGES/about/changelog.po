@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-16 12:39\n"
+"PO-Revision-Date: 2021-04-16 12:46\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -1257,19 +1257,19 @@ msgstr "Menambahkan 'Rata-rata Bicara per Ronde' ke halaman gambaran klasemen"
 
 #: ../../../CHANGELOG.rst:453
 msgid "Fixed issue where the Auto Allocator was forming panels of incorrect strengths in debates identified as less important"
-msgstr ""
+msgstr "Memperbaiki masalah dimana Alokasi Otomatis membuat panel dari kekuatan yang salah pada debat teridentifikasi sebagai kurang penting"
 
 #: ../../../CHANGELOG.rst:454
 msgid "Fixed issue where toggling iron-person speeches on and off wouldn't hide/unset the relevant checkboxes"
-msgstr ""
+msgstr "Memperbaiki masalah di mana mengaktifkan dan menonaktifkan pidato manusia-besi tidak akan menyembunyikan / menghapus centang pada kotak yang relevan"
 
 #: ../../../CHANGELOG.rst:455
 msgid "Fixed issue where VenueCategories could not be edited if they did not have Venues set"
-msgstr ""
+msgstr "Memperbaiki masalah dimana KategoriRuangan tidak dapat diubah jika mereka belum memiliki ruangan yang telah diatur"
 
 #: ../../../CHANGELOG.rst:456
 msgid "Various other small fixes and improvements"
-msgstr ""
+msgstr "Banyak perbaikan dan penyempurnaan lainnya"
 
 #: ../../../CHANGELOG.rst:460
 msgid "1.3.1"
@@ -1277,23 +1277,23 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:461
 msgid "*Release date: 26 May 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 26 Mei 2017*"
 
 #: ../../../CHANGELOG.rst:463
 msgid "Fixed bug that allowed duplicate emoji to be occasionally generated"
-msgstr ""
+msgstr "Memperbaiki masalah yang mengijinkan emoji duplikat kadang dihasilkan"
 
 #: ../../../CHANGELOG.rst:467
 msgid "1.3.0 (Genetta)"
-msgstr ""
+msgstr "1.3.0 (Genetta)"
 
 #: ../../../CHANGELOG.rst:468
 msgid "*Release date: 9 May 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 9 Mei 2017*"
 
 #: ../../../CHANGELOG.rst:470
 msgid "Added the ability to mark speeches as duplicates when entering ballots so that they will not show in speaker tabs, intended for use with 'iron-man' speeches and swing speakers"
-msgstr ""
+msgstr "Menambahkan kemampuan untuk menambahkan pembicara sebagai duplikat ketika memasuki kertas suara sehingga mereka tidak akan ditunjukkan di tab pembicara, dimaksudkan untuk digunakan dengan pembicara 'manusia-besi' dan pembicara ayun"
 
 #: ../../../CHANGELOG.rst:471
 msgid "Reworked venue constraints and venue display options by streamlining \"venue groups\" and \"venue constraint categories\" into a single \"venue category\" type, with options for how they are used and displayed"
