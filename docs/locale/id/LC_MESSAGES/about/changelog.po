@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-16 11:19\n"
+"PO-Revision-Date: 2021-04-16 11:28\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -369,7 +369,7 @@ msgstr "Mudah mudahan memperbaiki error yang dapat menyebabkan konflik antar Tim
 
 #: ../../../CHANGELOG.rst:129
 msgid "Thanks to Étienne for pull requests fixing rare bugs in the user creation form and break generation when rounds are not present"
-msgstr ""
+msgstr "Terimakasih pada Etienne untuk permintaan pull yang memperbaiki masalah jarang pada formulir pembuatan user dan penghasil istirahat ketika ronde tidak hadir"
 
 #: ../../../CHANGELOG.rst:133
 msgid "2.2.4"
@@ -393,11 +393,11 @@ msgstr "*Tanggal rilis: 28 September 2018*"
 
 #: ../../../CHANGELOG.rst:143
 msgid "*Literally* fix the issue causing public views of released scoresheets to throw errors (thanks for the pull request Étienne)"
-msgstr ""
+msgstr "*Secara harafiah* memperbaiki masalah yang menyebabkan lembar skor yang ditampilkan ke publik akan memberikan kesalahan (terimakasih untuk permintaan pull dari Etienne)"
 
 #: ../../../CHANGELOG.rst:144
 msgid "Fix minor spacing issues in printed ballots (thanks for the pull request Étienne)"
-msgstr ""
+msgstr "Memperbaiki masalah jarak kecil pada kertas suara yang telah dicetak (terimakasih untuk permintaan pull dari Etienne)"
 
 #: ../../../CHANGELOG.rst:145
 msgid "Fix issue where institution-less adjudicators would cause some draw views to crash (thanks for the pull request Étienne)"
@@ -441,11 +441,11 @@ msgstr "Mengimplementasikan arsitektur server yang baru di Heroku berikut dengan
 
 #: ../../../CHANGELOG.rst:167
 msgid "Add the `https://github.com/heroku/heroku-buildpack-nginx.git` build pack under the Settings area of the Heroku Dashboard and positioning it first"
-msgstr ""
+msgstr "Menambahkan build `https://github.com/heroku/heroku-buildpack-nginx.git` pada area Pengaturan dari Dasbor Heroku dan mengatur penempatannya terlebih dahulu"
 
 #: ../../../CHANGELOG.rst:168
 msgid "If your Heroku Stack is not \"heroku-16\" (noted under that same Settings page) it will need to be set as such using the Heroku CLI and the ``heroku stack:set heroku-16 --app APP_NAME`` command"
-msgstr ""
+msgstr "Jika Stack Heroku anda bukan \"heroku-16\" (ada pada halaman Pengaturan yang sama) maka itu akan membutuhkan untuk diatur juga menggunakan Heroku CLI dan perintah ``heroku stack:set heroku-16 --app APP_NAME``"
 
 #: ../../../CHANGELOG.rst:169
 msgid "Added a page to the documentation that details how to scale a Tabbycat site that is receiving large amounts of traffic; and another page that documents how to upgrade a Tabbycat site to a new version"
@@ -453,7 +453,7 @@ msgstr "Menambahkan sebuah halaman ke dokumentasi yang menjelaskan detil mengena
 
 #: ../../../CHANGELOG.rst:170
 msgid "Added support for Japanese and Portuguese. Let us know if you'd like to help contribute translations for either language (or a new one)!"
-msgstr ""
+msgstr "Menambahkan dukungan untuk bahasa Jepang dan Portugis. Beri tahu kami jika anda ingin membantu berkontribusi terjemahan untuk kedua bahasa (atau bahasa yang baru)!"
 
 #: ../../../CHANGELOG.rst:171
 msgid "The results-entry page now updates its data live, giving you a more up to date look at data entry progress and reducing the cases of old data leading people to enter new ballots when they meant to confirm them"
@@ -461,11 +461,11 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:178
 msgid "A huge thanks to Étienne Beaulé for contributing a number of major new features and bug fixes. Notably:"
-msgstr ""
+msgstr "Terimakasih banyak pada Etienne Beaule untuk kontribusinya pada banyak fitur baru dan perbaikan masalah. Tercatat:"
 
 #: ../../../CHANGELOG.rst:173
 msgid "Added a means to mark feedback as 'ignored' so that it still is recorded as having been submitted, but does not affect the targeted-adjudicator's feedback score"
-msgstr ""
+msgstr "Menambahkan maksud baru untuk menandakan umpan balik sebagai 'ditolak' sehingga itu masih dicatat sebagai sudah dikirim, namun tidak mempengaruhi skor umpan balik juri yang dimaksud"
 
 #: ../../../CHANGELOG.rst:174
 msgid "Added email notification to adjudicators on round release"
@@ -473,7 +473,7 @@ msgstr "Menambahkan notifikasi email untuk juri ketika rilis ronde"
 
 #: ../../../CHANGELOG.rst:175
 msgid "Implemented participant self-check-in through the use of their private URLs"
-msgstr ""
+msgstr "Peserta menerapkan check-in mandiri melalui penggunaan URL pribadi mereka"
 
 #: ../../../CHANGELOG.rst:176
 msgid "Gave all participants to a tournament a private URL key rather than being by team, and added a landing page for the participants using this key"
