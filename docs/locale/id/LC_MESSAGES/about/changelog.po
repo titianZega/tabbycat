@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-15 14:44\n"
+"PO-Revision-Date: 2021-04-16 10:57\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -217,7 +217,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:70
 msgid "Reworked how conflicts are determined to support double-past institutional conflicts:"
-msgstr ""
+msgstr "Memperbaiki bagaimana penentuan konflik untuk mendukung konflik dua-lembaga masa lalu:"
 
 #: ../../../CHANGELOG.rst:68
 msgid "Added a \"team-institution conflict\" model"
@@ -237,11 +237,11 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:72
 msgid "When printing scoresheets you can now edit the motions display just on that printing page. This allows you to use placeholder motions in Tabbycat (in order to prevent leaks) while still producing ballots with the correct motions"
-msgstr ""
+msgstr "Ketika mencetak lembar skor, sekarang anda dapat mengubah tampilan mosi hanya pada halaman pencetekan. Ini menyebabkan anda untuk dapat menggunakan tempat penempatan mosi di Tabbycat (untuk mencegah kebocoran) sementara anda sedang membuat kertas undian dengan mosi yang benar"
 
 #: ../../../CHANGELOG.rst:73
 msgid "Tabbycat no longer tracks which round is the 'current' round and instead tracks the completion of individual rounds. This change does not alter any existing workflows, but makes it easier to run simultaneous draws in out-rounds"
-msgstr ""
+msgstr "Tabbycat tidak lagi mencatat ronde mana yang merupakan ronde 'saat ini', dan sebaliknya mencatat kelengkapan dari ronde individual. Perubahan ini tidak mempengaruhi alur kerja yang sudah ada, namun mempermudah untuk menjalankan pengundian di ronde yang sudah keluar"
 
 #: ../../../CHANGELOG.rst:74
 msgid "Info-slides can now be split into paragraphs"
