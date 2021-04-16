@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-16 10:57\n"
+"PO-Revision-Date: 2021-04-16 11:10\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -225,15 +225,15 @@ msgstr "Menambahkan model \"konflik tim dengan institusi\""
 
 #: ../../../CHANGELOG.rst:69
 msgid "Like adjudicator-institution conflicts, team-institution conflicts are automatically created if you use the simple importer or the command-line importer; but if you edit the database, it's your responsibility to add/edit them"
-msgstr ""
+msgstr "Seperti pada konflik juri-institusi, konflik tim-institusi akan dibuat secara otomatis jika anda menggunakan importir simpel atau importir baris kode; namun jika anda mengubah basis datanya, itu adalah tanggung jawab anda untuk menambah/mengubah mereka"
 
 #: ../../../CHANGELOG.rst:70
 msgid "Institutional affiliations no longer matter for determining conflicts for either teams or adjudicators; only institutions listed in the team's or adjudicator's conflicts matter"
-msgstr ""
+msgstr "Hubungan institusional tidak lagi berpengaruh untuk menentukan konflik baik itu untuk tim atau juri; hanya institusi yang terdaftar di konflik tim atau juri yang berpengaruh"
 
 #: ../../../CHANGELOG.rst:71
 msgid "An adjudicator/team now conflicts with an adjudicator if *any* institution appears as an institutional conflict for both parties"
-msgstr ""
+msgstr "Sebuah juri/tim sekarang akan berkonflik dengan juri jika institusi *manapun* muncul sebagai konflik institusional untuk kedua belah pihak"
 
 #: ../../../CHANGELOG.rst:72
 msgid "When printing scoresheets you can now edit the motions display just on that printing page. This allows you to use placeholder motions in Tabbycat (in order to prevent leaks) while still producing ballots with the correct motions"
