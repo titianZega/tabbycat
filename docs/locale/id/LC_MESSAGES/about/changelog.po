@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-16 11:10\n"
+"PO-Revision-Date: 2021-04-16 11:19\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -253,11 +253,11 @@ msgstr "Halaman Check-in sekarang membedakan antar tim dengan 1 dan 2 orang yang
 
 #: ../../../CHANGELOG.rst:76
 msgid "Institutional caps in breaks can be based on the number of teams in the break. Thanks to Viran Weerasekera for this feature!"
-msgstr ""
+msgstr "Batas institusional saat istirahat dapat didasarkan pada banyak tim di waktu istirahat. Terimakasih pada Viran Weerasekera untuk fitur ini!"
 
 #: ../../../CHANGELOG.rst:77
 msgid "Several Tabbycat functions, adjudicator/venue allocation and email notifications, have been shifted to worker processes to help make them more reliable. If you are upgrading a Tabbycat instance that you will continue to use for new tournaments you will need to install the Heroku toolbelt and run ``heroku ps:scale worker=1``"
-msgstr ""
+msgstr "Beberapa fungsi Tabbycat, alokasi juri/ruangan dan pemberitahuan email, sudah dipindahkan ke proses pekerja untuk membantu mereka agar lebih andal. Jika anda memperbarui sebuah instansi Tabbycat bahwa anda akan mulai melanjutkan untuk menggunakan turnamen baru, anda akan membutuhkan untuk menginstal toolbelt Heroku dan menjalankan perintah ``heroku ps:scale worker=1``"
 
 #: ../../../CHANGELOG.rst:78
 msgid "Upgraded to Python 3.6, dropped support for Python 3.5 and below. Note that this will require you to upgrade your python versions if running locally."
@@ -277,7 +277,7 @@ msgstr "Memperbaiki tampilan jumlah umpan balik pada Halaman Gambaran Umpan Bali
 
 #: ../../../CHANGELOG.rst:86
 msgid "Fixed issue where 'ignored' feedback would hide the result from the feedback graph but not affect an adjudicator's current score. Thanks to Étienne for this fix"
-msgstr ""
+msgstr "Memperbaiki masalah dimana umpan balik yang 'ditolak' akan menyembunyikan hasilnya dari grafik umpan balik namun tidak mempengaruhi skor juri tersebut saat ini. Terimakasih pada Etienne untuk perbaikan ini"
 
 #: ../../../CHANGELOG.rst:90
 msgid "2.2.9"
@@ -289,11 +289,11 @@ msgstr "*Tanggal rilis: 24 Januari 2019*"
 
 #: ../../../CHANGELOG.rst:93
 msgid "Fixed an issue that could cause errors for tournaments when using an atypical number of rounds and break sizes. Thanks to Étienne for this fix"
-msgstr ""
+msgstr "Memperbaiki sebuah masalah yang dapat menyebabkan kesalahan untuk turnamen ketika menggunakan nomor atipikal untuk ukuran ronde dan istirahat. Terimakasih pada Etienne untuk perbaikan ini"
 
 #: ../../../CHANGELOG.rst:94
 msgid "Fixed an issue where the display of adjudicator's record links would display their name twice"
-msgstr ""
+msgstr "Memperbaiki sebuah masalah dimana tampilan dari tautan rekam juri akan menampilkan nama mereka dua kali"
 
 #: ../../../CHANGELOG.rst:98
 msgid "2.2.8"
@@ -321,7 +321,7 @@ msgstr "*Tanggal rilis: 16 November 2018*"
 
 #: ../../../CHANGELOG.rst:109
 msgid "Lock redis-py version to 2.10.6, as workaround for `compatibility issue between django-redis and redis-py <https://github.com/niwinz/django-redis/issues/342>`_"
-msgstr ""
+msgstr "Mengunci versi redis-py ke 2.10.6, sebagai perangkat kerja untuk `masalah kompatibilitas antara django-redis dan redis-py <https://github.com/niwinz/django-redis/issues/342>`_"
 
 #: ../../../CHANGELOG.rst:110
 msgid "Fix login link on page shown after a user logs out"
@@ -341,11 +341,11 @@ msgstr "Memperbaiki masalah dimana check-in tidak dapat dibatalkan"
 
 #: ../../../CHANGELOG.rst:118
 msgid "Fix issue where the standings overview 'dashboard' included scores from elimination rounds. Thanks to Étienne for this fix"
-msgstr ""
+msgstr "Memperbaiki masalah dimana ikhtisar klasemen `dashboard` menyertakan skor dari ronde eliminasi. Terimakasih pada Etienne untuk perbaikan ini"
 
 #: ../../../CHANGELOG.rst:119
 msgid "Fix issue where the Average Individual Speaker Score metric would fail to calculate in some circumstances. Thanks to Étienne for this fix"
-msgstr ""
+msgstr "Memperbaiki masalah dimana ukuran Rata-rata Skor Pembicara Individual akan gagal untuk dikalkulasi pada beberapa keadaan. Terimakasih untuk Etienne untuk perbaikan ini"
 
 #: ../../../CHANGELOG.rst:120
 msgid "Fix issue where draw emails would crash if venues were unspecified. Thanks, again, to Étienne for this fix!"
