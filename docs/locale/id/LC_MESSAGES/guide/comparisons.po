@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-16 13:28\n"
+"PO-Revision-Date: 2021-04-16 13:38\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -40,7 +40,7 @@ msgstr "Pada daftar fitur"
 
 #: ../../guide/comparisons.rst:16
 msgid "In the first draft of this document, we had a table that listed every feature we could think of, along with which software does and doesn't support it. This ended up not being a great idea, for a couple of reasons."
-msgstr ""
+msgstr "Pada draf pertama di dokumen ini, kami punya tabel dengan daftar tiap fitur yang bisa kami pikirkan, serta perangkat lunak mana yang bisa dan tidak bisa mendukungnya. Ini berakhir tidak menjadi ide yang baik, karna beberapa alasan."
 
 #: ../../guide/comparisons.rst:18
 msgid "Firstly, the largest feature disparities are for relatively niche features. All of the software discussed can do the basics necessary to run a tournament: generate draws, allocate adjudicators, enter results, etc. As a result, we will — like a good whip speech — be comparative and note key feature disparities when discussing each alternative software directly."
