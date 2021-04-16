@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-16 12:46\n"
+"PO-Revision-Date: 2021-04-16 12:58\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -1297,23 +1297,23 @@ msgstr "Menambahkan kemampuan untuk menambahkan pembicara sebagai duplikat ketik
 
 #: ../../../CHANGELOG.rst:471
 msgid "Reworked venue constraints and venue display options by streamlining \"venue groups\" and \"venue constraint categories\" into a single \"venue category\" type, with options for how they are used and displayed"
-msgstr ""
+msgstr "Mengerjakan ulang batasan tempat dan opsi tampilan tempat dengan menyederhanakan \"grup tempat\" dan \"kategori batasan tempat\" menjadi satu jenis \"kategori tempat\", dengan opsi bagaimana mereka digunakan dan ditampilkan"
 
 #: ../../../CHANGELOG.rst:472
 msgid "Relocated the Random (now renamed 'Private') URL pages to the Setup section and added pages for printing/emailing out the ballot submission URLs"
-msgstr ""
+msgstr "Memindahkan halaman URL Acak (sekarang bernama 'Pribadi') ke bagian Pengaturan dan menambahkan halaman untuk mencetak/mengemail keluar URL pengumpulan kertas suara"
 
 #: ../../../CHANGELOG.rst:473
 msgid "Reworked the simple data importer (formerly the visual importer) to improve its robustness"
-msgstr ""
+msgstr "Mengolah ulang importir data sederhana (sebelumnya importir visual) untuk meningkatkan ketahanannya"
 
 #: ../../../CHANGELOG.rst:474
 msgid "Improved guards against having no current round set, and added a new page for manually overriding the current round (under Configuration)"
-msgstr ""
+msgstr "Peningkatan penjaga agar tidak memiliki kumpulan ronde saat ini, dan menambahkan halaman baru untuk menimpa putaran saat ini secara manual (di bawah Konfigurasi)"
 
 #: ../../../CHANGELOG.rst:475
 msgid "Added a preference for controlling whether assistant users have access to pages that can reveal draw or motions information ahead of their public release"
-msgstr ""
+msgstr "Menambahkan preferensi untuk mengontrol apakah asisten pengguna memiliki akses ke halaman yang dapat mengungkapkan informasi pengundian atau informasi mosi sebelum rilis publik mereka"
 
 #: ../../../CHANGELOG.rst:476
 msgid "Added the ability to limit tab releases to a given number of ranks (*i.e.* only show the top 10 speakers)"
@@ -1345,7 +1345,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:486
 msgid "*Release date: 17 March 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 17 Maret 2017*"
 
 #: ../../../CHANGELOG.rst:488
 msgid "Improved the display of the admin ballot entry form on mobile devices"
