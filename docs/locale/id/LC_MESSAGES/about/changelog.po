@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-16 12:18\n"
+"PO-Revision-Date: 2021-04-16 12:27\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -1418,7 +1418,7 @@ msgstr "Menambahkan informasi mengenai status penyimpanan otomatis pada halaman 
 
 #: ../../../CHANGELOG.rst:519
 msgid "Added configurable side names so that tournaments can use labels like \"Proposition\"/\"Opposition\" instead of \"Affirmative\"/\"Negative\""
-msgstr ""
+msgstr "Menambahkan nama sisi yang dapat dikonfigurasi sehingga turnamen dapat menggunakan label seperti \"Proposisi/Oposisi\" daripada \"Afirmatif/Negatif\""
 
 #: ../../../CHANGELOG.rst:520
 msgid "Started work on basic infrastructure for translations"
@@ -1574,23 +1574,23 @@ msgstr "*Tanggal rilis: 3 September 2016*"
 
 #: ../../../CHANGELOG.rst:590
 msgid "Added support for the United Asian Debating Championships style"
-msgstr ""
+msgstr "Menambahkan dukungan untuk gaya United Asian Debating Championships"
 
 #: ../../../CHANGELOG.rst:591
 msgid "Added support for the World Schools Debating Championships style"
-msgstr ""
+msgstr "Menambahkan dukungan untuk gaya World Schools Debating Championships"
 
 #: ../../../CHANGELOG.rst:592
 msgid "Made Windows 8+ Emoji more colourful"
-msgstr ""
+msgstr "Membuat emoji Windows 8+ lebih berwarna"
 
 #: ../../../CHANGELOG.rst:593
 msgid "Fixed an incompatability between Vue and IE 10-11 which caused tables to not render"
-msgstr ""
+msgstr "Memperbaiki ketidak-cocokan antara Vue dan IE 10-11 yang menyebabkan tabel untuk tidak ditampilkan"
 
 #: ../../../CHANGELOG.rst:594
 msgid "Minor bug fixes and dependency updates"
-msgstr ""
+msgstr "Perbaikan masalah kecil dan pembaruan dependansi"
 
 #: ../../../CHANGELOG.rst:598
 msgid "1.0.1"
@@ -1598,27 +1598,27 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:599
 msgid "*Release date: 19 August 2016*"
-msgstr ""
+msgstr "*Tanggal rilis: 19 Agustus 2016*"
 
 #: ../../../CHANGELOG.rst:601
 msgid "Fixed a minor bug with the visual importer affecting similarly named institutions"
-msgstr ""
+msgstr "Memperbaiki masalah kecil dengan importir tampilan yang mempengaruhi institusi dengan nama yang mirip"
 
 #: ../../../CHANGELOG.rst:602
 msgid "Fixed error message when user tries to auto-allocate adjudicators on unconfirmed or released draw"
-msgstr ""
+msgstr "Memperbaiki pesan kesalahan ketika pengguna mencoba untuk mengalokasikan juri secara otomatis pada pengundian yang belum dirilis atau belum dikonfirmasi"
 
 #: ../../../CHANGELOG.rst:603
 msgid "Minor docs edits"
-msgstr ""
+msgstr "Pengubahan kecil pada dokumentasi"
 
 #: ../../../CHANGELOG.rst:607
 msgid "1.0.0 (Devon Rex)"
-msgstr ""
+msgstr "1.0.0 (Devon Rex)"
 
 #: ../../../CHANGELOG.rst:608
 msgid "*Release date: 16 August 2016*"
-msgstr ""
+msgstr "*Tanggal rilis: 16 Agustus 2016*"
 
 #: ../../../CHANGELOG.rst:613
 msgid "Redesigned and redeveloped adjudicator allocation page"
