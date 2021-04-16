@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-16 11:28\n"
+"PO-Revision-Date: 2021-04-16 11:37\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -477,7 +477,7 @@ msgstr "Peserta menerapkan check-in mandiri melalui penggunaan URL pribadi merek
 
 #: ../../../CHANGELOG.rst:176
 msgid "Gave all participants to a tournament a private URL key rather than being by team, and added a landing page for the participants using this key"
-msgstr ""
+msgstr "Memberikan semua peserta sebuah turnamen sebuah kunci URL pribadi daripada untuk tim, dan menambahkan halaman arahan untuk peserta menggunakan kunci ini"
 
 #: ../../../CHANGELOG.rst:177
 msgid "Implemented templated email notifications with ballot submission and round advance with the messages in a new settings panel. Private URL emails are now also customizable"
@@ -1185,7 +1185,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:430
 msgid "*Release date: 2 August 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 2 Agustus 2017*"
 
 #: ../../../CHANGELOG.rst:432
 msgid "Fixed bug that prevented edited matchups from being saved"
@@ -1197,11 +1197,11 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:437
 msgid "1.4.0 (Havana Brown)"
-msgstr ""
+msgstr "1.4.0 (Havana Brown)"
 
 #: ../../../CHANGELOG.rst:438
 msgid "*Release date: 26 July 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 26 Juli 2017*"
 
 #: ../../../CHANGELOG.rst:444
 msgid "Overhauled the adjudicator allocation, venue allocation, and matchups editing pages, including:"
@@ -1646,7 +1646,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:616
 msgid "Added record pages for teams and adjudicators"
-msgstr ""
+msgstr "Menambahkan halaman rekaman untuk tim dan juri"
 
 #: ../../../CHANGELOG.rst:617
 msgid "Added a diversity tab to display demographic information about participants and scoring"
@@ -1714,7 +1714,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:637
 msgid "*Release date: 13 June 2016*"
-msgstr ""
+msgstr "*Tanggal rilis: 13 Juli 2016*"
 
 #: ../../../CHANGELOG.rst:639
 msgid "Added a beta implementation of the break rounds workflow"
@@ -1862,61 +1862,61 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:692
 msgid "Moved data utility scripts to Django management commands"
-msgstr ""
+msgstr "Memindahkan skrip peralatan data ke perintah pengaturan Django"
 
 #: ../../../CHANGELOG.rst:693
 msgid "Changed emoji to Unicode characters"
-msgstr ""
+msgstr "Mengubah emoji ke karakter Unicode"
 
 #: ../../../CHANGELOG.rst:694
 msgid "Various other fixes and refinements"
-msgstr ""
+msgstr "Banyak perbaikan dan penyempurnaan lainnya"
 
 #: ../../../CHANGELOG.rst:698
 msgid "0.7.0 (Abyssinian)"
-msgstr ""
+msgstr "0.7.0 (Abyssinian)"
 
 #: ../../../CHANGELOG.rst:699
 msgid "*Release date: 31 July 2015*"
-msgstr ""
+msgstr "*Tanggal rilis: 31 Juli 2015*"
 
 #: ../../../CHANGELOG.rst:701
 msgid "Support for multiple tournaments"
-msgstr ""
+msgstr "Dukungan untuk beberapa turnamen"
 
 #: ../../../CHANGELOG.rst:702
 msgid "Improved and extensible tournament data importer"
-msgstr ""
+msgstr "Perbaikan dan perluasan importir data turnamen"
 
 #: ../../../CHANGELOG.rst:703
 msgid "Display gender, region, and break category in adjudicator allocation"
-msgstr ""
+msgstr "Menampilkan jenis kelamin, wilayah, dan kategori istirahat pada alokasi juri"
 
 #: ../../../CHANGELOG.rst:704
 msgid "New views for online adjudicator feedback"
-msgstr ""
+msgstr "Tampilan tambahan untuk umpan balik juri online"
 
 #: ../../../CHANGELOG.rst:705
 msgid "Customisable adjudicator feedback forms"
-msgstr ""
+msgstr "Formulir umpan balik untuk juri dapat disesuaikan"
 
 #: ../../../CHANGELOG.rst:706
 msgid "Randomised URLs for public submission"
-msgstr ""
+msgstr "Mengacak URL untuk pengumpulan publik"
 
 #: ../../../CHANGELOG.rst:707
 msgid "Customisable break categories"
-msgstr ""
+msgstr "Kategori istirahat dapat disesuaikan"
 
 #: ../../../CHANGELOG.rst:708
 msgid "Computerised break generation (break round draws not supported)"
-msgstr ""
+msgstr "Menghasilkan istirahat secara terkomputerisasi (tidak mendukung ronde istirahat pengundian)"
 
 #: ../../../CHANGELOG.rst:709
 msgid "Lots of fixes, interface touch-ups and performance enhancements"
-msgstr ""
+msgstr "Banyak perbaikan, penyempurnaan antarmuka dan peningkatan performa"
 
 #: ../../../CHANGELOG.rst:710
 msgid "Now requires Django 1.8 (and other package upgrades)"
-msgstr ""
+msgstr "Sekarang membutuhkan Django 1.8 (dan pembaruan paket lainnya)"
 
