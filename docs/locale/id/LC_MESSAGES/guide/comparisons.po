@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-16 14:07\n"
+"PO-Revision-Date: 2021-04-16 14:19\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -44,7 +44,7 @@ msgstr "Pada draf pertama di dokumen ini, kami punya tabel dengan daftar tiap fi
 
 #: ../../guide/comparisons.rst:18
 msgid "Firstly, the largest feature disparities are for relatively niche features. All of the software discussed can do the basics necessary to run a tournament: generate draws, allocate adjudicators, enter results, etc. As a result, we will — like a good whip speech — be comparative and note key feature disparities when discussing each alternative software directly."
-msgstr "Pertama, disparitas fitur terbesar ialah untuk fitur yang relatif khusus. Semua perangkat lunak yang telah didiskusikan dapat melakukan hal-hal dasar yang penting untuk menjalankan sebuah turnamen: membuat pengundian, mangalokasi juri, memasukkan hasil, dsb. Sebagai hasil, kami akan - seperti - menjadi komparatif dan mencatat perbedaan fitur kunci saat membahas tiap perangkat lunak alternatif langsung."
+msgstr "Pertama, disparitas fitur terbesar ialah untuk fitur yang relatif khusus. Semua perangkat lunak yang telah didiskusikan dapat melakukan hal-hal dasar yang penting untuk menjalankan sebuah turnamen: membuat pengundian, mangalokasi juri, memasukkan hasil, dsb. Sebagai hasil, kami akan - seperti \"whip speech\" yang baik - menjadi komparatif dan mencatat perbedaan fitur kunci saat membahas tiap perangkat lunak alternatif langsung."
 
 #: ../../guide/comparisons.rst:20
 msgid "Secondly, we felt that the 'checklist' approach to comparing tab software would do a disservice to the reasons you would actually choose one software over another. Except where a niche capability is essential, raw technical specifications rarely define the experience of using a product such as a phone, a car, or indeed, tabbing software. With Tabbycat, we've spent eight years continuously refining the tabbing workflow and smoothing out rough edges, and we believe you'll find the result extremely user-friendly and robust. As always, the best way to check this out is by :ref:`setting up a demo site and taking it for a spin <install-heroku>`!"
