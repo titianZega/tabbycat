@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-16 12:27\n"
+"PO-Revision-Date: 2021-04-16 12:39\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -1189,11 +1189,11 @@ msgstr "*Tanggal rilis: 2 Agustus 2017*"
 
 #: ../../../CHANGELOG.rst:432
 msgid "Fixed bug that prevented edited matchups from being saved"
-msgstr ""
+msgstr "Memperbaiki masalah yang mencegah penyimpanan pemasangan tim yang sudah diubah"
 
 #: ../../../CHANGELOG.rst:433
 msgid "Added flag to prevent retired sites from using the database for sessions"
-msgstr ""
+msgstr "Menambahkan bendera untuk mencegah situs yang sudah pensiun untuk menggunakan database untuk sesi"
 
 #: ../../../CHANGELOG.rst:437
 msgid "1.4.0 (Havana Brown)"
@@ -1205,55 +1205,55 @@ msgstr "*Tanggal rilis: 26 Juli 2017*"
 
 #: ../../../CHANGELOG.rst:444
 msgid "Overhauled the adjudicator allocation, venue allocation, and matchups editing pages, including:"
-msgstr ""
+msgstr "Mengulang pembuatan alokasi juri, alokasi ruangan, dan halaman pemasangan tim, termasuk:"
 
 #: ../../../CHANGELOG.rst:441
 msgid "Upgraded to Vue 2.0 and refactored the code so that each page better shares methods for displaying the draw, showing additional information, and dragging/dropping"
-msgstr ""
+msgstr "Pembaruan ke Vue 2.0 dan pemfaktoran ulang kode sehingga setiap halaman membagikan metode untuk menampilkan undian, menunjukkan informasi tambahan, dan drag/drop dengan lebih baik"
 
 #: ../../../CHANGELOG.rst:442
 msgid "When dragging/dropping, the changed elements now 'lock' in place to indicate that their saving is in-progress"
-msgstr ""
+msgstr "Ketika melakukan drag/drop, elemen yang sudah berubah sekarang terkunci pada tempatnya untuk mengindikasikan bahwa penyimpanan mereka sedang dilakukan"
 
 #: ../../../CHANGELOG.rst:443
 msgid "Added conflicts and recent histories to the slideovers shown for teams/adjudicators"
-msgstr ""
+msgstr "Menambahkan konflik dan sejarah terkini ke slideover yang ditunjukkan untuk tim/juri"
 
 #: ../../../CHANGELOG.rst:444
 msgid "Added 'ranking' toggles to visibly highlight adjudicator strengths and more easily identify unbalanced panels"
-msgstr ""
+msgstr "Menambahkan toggle 'peringkat' untuk menyoroti kekuatan juri sehingga terlihat dan lebih mudah untuk mengidentifikasi panelis yang tidak seimbang"
 
 #: ../../../CHANGELOG.rst:445
 msgid "Each interface's table is now sortable by a debate's importance, bracket, liveness, etc."
-msgstr ""
+msgstr "Setiap tabel antarmuka sekarang dapat dengan mudah diurutkan berdasarkan kepentingan debat, penggolongan, keaktifan, dan lain-lain."
 
 #: ../../../CHANGELOG.rst:446
 msgid "Added a new \"Tournament Logistics\" guide to the documentation that outlines some general best practices for tabbing tournaments. Thanks to Viran Weerasekera, Valerie Tierney, Molly Dale, Madeline Schultz, and Vail Bromberger for contributing to this document"
-msgstr ""
+msgstr "Menambahkan panduan baru dengan nama \"Logistik Turnamen\" ke dokumentasi yang memberikan garis besar beberapa contoh latihan untuk tabbing turnamen. Terimakasih pada Viran Weerasekera, Valerie Tierney, Molly Dale, Madeline Schultz, dan Vail Bromberger untuk kontribusinya pada dokumen ini"
 
 #: ../../../CHANGELOG.rst:447
 msgid "Added (basic) support for the Canadian Parliamentary format by allowing for consensus ballots and providing a preset. However note that only some of the common draw rules are supported (check our documentation for more information)"
-msgstr ""
+msgstr "Menambahkan dukungan (standar) untuk format Canadian Parliamentary dengan mengijinkan konsensus pengujian dan memberikan pengaturan. Namun, harap diingat bahwa hanya beberapa pengaturan pengundian yang didukung (periksa dokumentasi kami untuk informasi lebih lanjut)"
 
 #: ../../../CHANGELOG.rst:448
 msgid "Added an ESL/EFL tab release option and status field"
-msgstr ""
+msgstr "Menambahkan opsi rilis tab ESL/EFL dan bagian status"
 
 #: ../../../CHANGELOG.rst:449
 msgid "Added a chi-squared test to measure motion balance in the motion standings/balance. Thanks to Viran Weerasekera for contributing this"
-msgstr ""
+msgstr "Menambahkan uji chi-square untuk mengukur keseimbangan mosi di klasemen/keseimbangan mosi. Terimakasih pada Viran Weerasekera untuk kontribusinya pada bagian ini"
 
 #: ../../../CHANGELOG.rst:450
 msgid "The Auto Allocate function for adjudicators will now also allocate trainees to solo-chaired debates"
-msgstr ""
+msgstr "Fungsi Alokasi Otomatis untuk juri sekarang juga akan turut mengalokasi trainee ke debat yang dipimpin sendiri"
 
 #: ../../../CHANGELOG.rst:451
 msgid "Added a 'Tab Release' preset for easily releasing all standings/results pages after a tournament is finished"
-msgstr ""
+msgstr "Menambahkan pengaturan 'Rilis Tab\" untuk lebih mudah dalam merilis semua halaman klasemen/hasil setelah sebuah turnamen selesai"
 
 #: ../../../CHANGELOG.rst:452
 msgid "Added 'Average Speaks by Round' to the standings overview page"
-msgstr ""
+msgstr "Menambahkan 'Rata-rata Bicara per Ronde' ke halaman gambaran klasemen"
 
 #: ../../../CHANGELOG.rst:453
 msgid "Fixed issue where the Auto Allocator was forming panels of incorrect strengths in debates identified as less important"
