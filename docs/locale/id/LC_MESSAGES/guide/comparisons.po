@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-17 11:09\n"
+"PO-Revision-Date: 2021-04-17 13:34\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -84,7 +84,7 @@ msgstr "Karena tiap situs Tabbycat adalah mereka sendiri, anda akan perlu mengum
 
 #: ../../guide/comparisons.rst:40
 msgid "**Data privacy**. Conflicts are typically entered into the tab, and are sensitive information. Tabbie2's centralisation allows for conflicts to be self-nominated by users and stored in their user accounts. This, in theory, saves the need for users to report conflicts to tab directors and other tournament staff. In practice, however, only special \"super\" users on Tabbie2 have access to the stored conflicts of users (otherwise anyone could access a user's conflicts by creating a new tournament and adding that user as a participant), so many tournaments need to collect this information from participants anyway."
-msgstr ""
+msgstr "**Privasi data**. Konflik biasanya dimasukkan ke tabulasi, dan ialah informasi yang sensitif. Sentralisasi Tabbie2 membolehkan sebuah konflik agar bisa dicalonkan-sendiri oleh pengguna dan tersimpan di akun pengguna. Ini, dalam teori, memudahkan pengguna dengan tidak perlu melaporkan konflik ke direktur tabulasi dan staf turnamen. Namun, senyatanya, hanya pengguna \"super\" spesial di Tabbie2 punya akses untuk menyimpan konflik dari pengguna (kalau tidak siapapun dapat mengakses konflik seorang pengguna dengan membuat turnamen baru dan menambahkan pengguna tersebut sebagai peserta), banyak sekali turnamen yang tetap perlu mengumpulkan informasi ini dari peserta."
 
 #: ../../guide/comparisons.rst:42
 msgid "Tabbycat's decentralised model means that no-one will have access to conflict information except for the tab staff of each individual instance of Tabbycat. Unlike Tabbie2, Tabbycat's developers do not have any access to your tournament's data — conflicts or otherwise. However, to help us continually improve the software, Tabbycat does send error reports to its developers if there is a serious bug or crash in the code, which could potentially contain confidential information depending on which page triggered the report. As a result of Tabbycat's decentralised data storage, each tournament does need to collect and enter conflicts as part of their registration process."
