@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-12 11:30\n"
+"PO-Revision-Date: 2021-04-17 07:43\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -33,16 +33,16 @@ msgstr "URL privat untuk kertas suara dan/atau masukan umpan balik dari para pes
 
 #: privateurls/templates/private_urls.html:19
 msgid "Private URLs are used to allow participants to submit ballots and/or feedback online. You should use them if you have a means of distributing crazy-looking URLs to participants, and are too worried about fraud to use a publicly accessible page where <em>anyone</em> can enter <em>any</em> submission. The URLs will look something like this:"
-msgstr "URL privat dipakai untuk memungkinkan para peserta menyampaikan suara dan/atau umpan balik secara daring. Kamu sebaiknya memakainya bila bermaksud untuk membagikan URL-URL gila ke para peserta, dan terlalu khawatir terhadap penipuan menggunakan laman umum yang mudah diakses dimana <em>siapapun</em> bisa mencantumkan masukan <em>apapun</em>. URLnya akan terlihat seperti ini:"
+msgstr "URL privat dipakai untuk memungkinkan para peserta menyampaikan suara dan/atau umpan balik secara daring. Anda sebaiknya memakainya bila bermaksud untuk membagikan URL-URL gila ke para peserta, dan terlalu khawatir terhadap penipuan menggunakan laman umum yang mudah diakses dimana <em>siapapun</em> bisa mencantumkan masukan <em>apapun</em>. URLnya akan terlihat seperti ini:"
 
 #: privateurls/templates/private_urls.html:31
 msgid "Anyone with the URL can access the relevant data entry page. The idea is that it's hard to guess another key (the random-looking string), so you should make each URL accessible only to the participant in question. <a href=\"http://tabbycat.readthedocs.io/en/latest/features/data-entry.html#private-urls\"> Read more about private URLs.</a>"
-msgstr "Siapapun yang punya URL dapat mengakses laman data entri yang relevan. Idenya ialah sulit untuk menebak kunci lainnya (string yang terlihat aneh), sehingga kamu mesti membuat tiap URL mudah diakses hanya untuk peserta yang dibicarakan. <a href=\"http://tabbycat.readthedocs.io/en/latest/features/data-entry.html#private-urls\"> Baca lagi mengenai URL privat.</a>"
+msgstr "Siapapun yang punya URL dapat mengakses laman data entri yang relevan. Idenya ialah sulit untuk menebak kunci lainnya (string yang terlihat aneh), sehingga anda mesti membuat tiap URL mudah diakses hanya untuk peserta yang dibicarakan. <a href=\"http://tabbycat.readthedocs.io/en/latest/features/data-entry.html#private-urls\"> Baca lagi mengenai URL privat.</a>"
 
 #: privateurls/templates/private_urls.html:47
 #, python-format
 msgid "Neither <strong>participant ballot submissions</strong>, <strong>participant feedback submissions</strong>, nor <strong>participant self-checkins</strong> are configured to be from private URLs. Any generated URLs will not be useful unless you configure those settings accordingly on the <a href=\"%(data_entry_options_url)s\">tournament configuration page</a>."
-msgstr "Bukan <strong>masukan kotak suara peserta</strong>, <strong>masukan umpan balik peserta</strong>, maupun <strong>daftar-mandiri peserta</strong> telah terkonfigurasi menjadi dari URL privat. URL apapun yang dihasilkan tidak akan berguna kecuali bila kamu mengkonfigurasi pengaturan-pengaturan itu sedemikian rupa pada <a href=\"%(data_entry_options_url)s\">laman konfigurasi turnamen</a>."
+msgstr "Bukan <strong>masukan kotak suara peserta</strong>, <strong>masukan umpan balik peserta</strong>, maupun <strong>daftar-mandiri peserta</strong> telah terkonfigurasi menjadi dari URL privat. URL apapun yang dihasilkan tidak akan berguna kecuali bila anda mengkonfigurasi pengaturan-pengaturan itu sedemikian rupa pada <a href=\"%(data_entry_options_url)s\">laman konfigurasi turnamen</a>."
 
 #: privateurls/templates/private_urls.html:67
 msgid "There are no private URLs assigned."
@@ -118,11 +118,11 @@ msgstr "Lapor masuk"
 #: privateurls/templates/public_url_landing.html:49
 #, python-format
 msgid "You have been checked in at %(check_time)s"
-msgstr "Kamu telah dilaporkan masuk pada %(check_time)s"
+msgstr "Anda telah dilaporkan masuk pada %(check_time)s"
 
 #: privateurls/templates/public_url_landing.html:54
 msgid "You are not currently checked in."
-msgstr "Saat ini kamu belum lapor masuk."
+msgstr "Saat ini anda belum lapor masuk."
 
 #: privateurls/templates/public_url_landing.html:62
 #, python-format
@@ -160,7 +160,7 @@ msgstr "Juri"
 
 #: privateurls/views.py:119
 msgid "All participants already have private URLs. If you want to delete them, use the Edit Database area."
-msgstr "Semua para peserta sudah punya URL privat. Bila kamu ingin menghapusnya, pakai area Edit Basisdata."
+msgstr "Semua para peserta sudah punya URL privat. Bila anda ingin menghapusnya, pakai area Edit Basisdata."
 
 #: privateurls/views.py:126
 #, python-format
