@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-17 09:44\n"
+"PO-Revision-Date: 2021-04-17 10:43\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -76,7 +76,7 @@ msgstr "Untuk masukkan kertas suara-elektronik dan umpan balik-elektronik yang a
 
 #: ../../guide/comparisons.rst:36
 msgid "**Control over data**. Some participant information in Tabbie2 is shared between tournaments, like their names and conflicts (discussed below). This means participants can manage it directly through their user accounts, without needing to go through you. On the other hand, this requires your participants to co-operate in keeping their accounts up to date, and to provide the correct e-mail address during registration (you'd be surprised how many don't). Furthermore, participants may look to you for assistance, and your ability to help is limited to directing them through Tabbie2 channels—easy enough if they forget their password, but not so much if they forget their account's e-mail address."
-msgstr ""
+msgstr "**Kontrol atas data**. Beberapa informasi peserta di Tabbie2 dibagikan antar turnamen, seperti nama dan konflik mereka (didiskusikan di bawah). Ini berarti peserta bisa mengaturnya secara langsung lewat akun pengguna mereka, tanpa perlu lewat anda. Di sisi lain, ini membutuhkan peserta anda untuk berkooperasi dalam mempertahankan akun mereka ke yang terkini, dan untuk menyediakan alamat e-mail yang tepat saat registrasi (anda akan terkejut seberapa banyak yang tidak). Selanjutnya, peserta dapat meminta bantuan dari anda, dan kemampuan anda untuk membantu terbatas pada mengarahkan mereka lewat saluran Tabbie2 - yang cukup mudah bila mereka tidak lupa kata sandi mereka, tapi secukup bila mereka lupa alamat e-mail mereka."
 
 #: ../../guide/comparisons.rst:38
 msgid "Because each Tabbycat site is its own, you'll need to collect and import all participant details yourself. This might seem like more to do, but it also means there's no need to match your data to existing accounts, which can be time-consuming and prone to participant error. It also means you can freely change data, for example, to correct a participant's name or institution, or to add data like conflicts on an ad-hoc basis."
