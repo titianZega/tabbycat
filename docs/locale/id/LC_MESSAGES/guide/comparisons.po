@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-17 06:33\n"
+"PO-Revision-Date: 2021-04-17 07:03\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -64,7 +64,7 @@ msgstr "Tabbie2 dan Tabbycat sama-sama sistem berbasis-internet. Tabbie2 menguru
 
 #: ../../guide/comparisons.rst:30
 msgid "**User identification**. Tabbie2's centralised model allows for site-wide user accounts for all tournament participants. This means that they can use the same login information for all tournaments, and perform tasks such as submitting ballots and feedback through that unified account. If you're in an established circuit, most of your participants probably already have user accounts which are identified and collected (via e-mail addresses) during registration. If you're in a newer circuit, or one where Tabbie2 is rarely used, most of your participants will probably need to create an account — a process which Tabbie2 handles by e-mailing them a request to do so when that person is added to your tournament."
-msgstr ""
+msgstr "**Identifikasi pengguna**. Model terpusat milik Tabbie2 membolehkan akun pengguna site-wide untuk semua peserta turnamen. Ini artinya mereka bisa memakai informasi login sama untuk semua turnamen, dan melakukan perbuatan seperti memasukkan surat suara dan umpan balik lewat akun gabungan itu. Bila kamu dalam sirkuit yang telah terbentuk, kebanyakan pesertamu mungkin sudah punya akun pengguna yang telah teridentifikasi dan dikumpulkan (lewat alamat e-mail) saat registrasi. Bila kamu dalam sirkuit yang lebih baru, atau di tempat dimana Tabbie2 jarang digunakan, kebanyakan dari pesertamu pasti akan perlu membuat sebuah akun - proses dimana Tabbie2 menangani dengan meng-email mereka permintaan untuk melakukannya saat orang tersebut telah ditambahkan ke turnamenmu."
 
 #: ../../guide/comparisons.rst:32
 msgid "In Tabbycat's decentralised model, there is no persistent 'account' for tournament participants on each tab site or across different tab sites. Indeed, the only people who can log in to the site are those who have been given accounts by the tab director, such as tab staff and members of the adjudication core."
