@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-16 14:19\n"
+"PO-Revision-Date: 2021-04-17 06:14\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -48,15 +48,15 @@ msgstr "Pertama, disparitas fitur terbesar ialah untuk fitur yang relatif khusus
 
 #: ../../guide/comparisons.rst:20
 msgid "Secondly, we felt that the 'checklist' approach to comparing tab software would do a disservice to the reasons you would actually choose one software over another. Except where a niche capability is essential, raw technical specifications rarely define the experience of using a product such as a phone, a car, or indeed, tabbing software. With Tabbycat, we've spent eight years continuously refining the tabbing workflow and smoothing out rough edges, and we believe you'll find the result extremely user-friendly and robust. As always, the best way to check this out is by :ref:`setting up a demo site and taking it for a spin <install-heroku>`!"
-msgstr ""
+msgstr "Kedua, kami merasa pendekatan 'daftar periksa' untuk membandingkan tabulasi perangkat lunak akan bersifat merugikan untuk alasan bahwa kalian akan memilih sebuah perangkat lunak dan tidak yang satunya. Kecuali dimana kapabilitas khusus yang penting, spesifikasi teknis kasar jarang mengartikan pengalaman menggunakan produk seperti telepon, mobil, atau bahkan perangkat lunak tabulasi. Dengan Tabbycat, kami telah menghabiskan delapan tahun terus-menerus menyaring alur kerja dari tabulasi dan menghaluskan sisi-sisi kasar, dan kami percaya hasilnya akan sangat mudah-digunakan dan kuat. Seperti biasa, cara terbaik untuk memeriksa ialah dengan :ref:`memasang situs demo dan mencobanya <install-heroku>`!"
 
 #: ../../guide/comparisons.rst:23
 msgid "Comparison with Tabbie2"
-msgstr ""
+msgstr "Perbandingan dengan Tabbie2"
 
 #: ../../guide/comparisons.rst:26
 msgid "Centralised site vs individual sites"
-msgstr ""
+msgstr "Situs terpusat vs situs individual"
 
 #: ../../guide/comparisons.rst:28
 msgid "Tabbie2 and Tabbycat are both internet-based systems. Tabbie2 hosts all tournaments on a single site. However, when using Tabbycat, each tournament or organisation sets up its own site. Each model has its advantages and disadvantages in different areas:"
