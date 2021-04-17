@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-17 07:43\n"
+"PO-Revision-Date: 2021-04-17 08:44\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -68,7 +68,7 @@ msgstr "**Identifikasi pengguna**. Model terpusat milik Tabbie2 membolehkan akun
 
 #: ../../guide/comparisons.rst:32
 msgid "In Tabbycat's decentralised model, there is no persistent 'account' for tournament participants on each tab site or across different tab sites. Indeed, the only people who can log in to the site are those who have been given accounts by the tab director, such as tab staff and members of the adjudication core."
-msgstr ""
+msgstr "Pada model Tabbycat yang telah didesentralisasi, tidak ada 'akun' tetap untuk peserta turnamen pada tiap situs tabulasi atau seberang situs tabulasi yang berbeda. Tentu, orang yang hanya dapat login ke situs ialah mereka yang telah diberi akun oleh direktur tabulasi, seperti staf tabulasi dan anggota dari juri inti."
 
 #: ../../guide/comparisons.rst:34
 msgid "For secure e-ballot and e-feedback submissions, Tabbycat assigns a \"private URL\" to each adjudicator or team. This is essentially a password that allows a participant to only submit data that they should have access to in that specific tournament. This means participants don't need user accounts and you don't need to collect user account information; however if your tournament uses e-ballots or e-feedback you will need to distribute those private URLs to participants. Tabbycat can e-mail these to participants for you, or print them to give them to participants, or you could distribute the URLs using your own means."
