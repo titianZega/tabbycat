@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-17 10:43\n"
+"PO-Revision-Date: 2021-04-17 11:09\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -80,7 +80,7 @@ msgstr "**Kontrol atas data**. Beberapa informasi peserta di Tabbie2 dibagikan a
 
 #: ../../guide/comparisons.rst:38
 msgid "Because each Tabbycat site is its own, you'll need to collect and import all participant details yourself. This might seem like more to do, but it also means there's no need to match your data to existing accounts, which can be time-consuming and prone to participant error. It also means you can freely change data, for example, to correct a participant's name or institution, or to add data like conflicts on an ad-hoc basis."
-msgstr ""
+msgstr "Karena tiap situs Tabbycat adalah mereka sendiri, anda akan perlu mengumpulkan dan mengimpor semua detil peserta sendiri. Ini mungkin terlihat banyak hal yang mesti dilakukan, tapi ini juga berarti tidak perlu mencocokkan data anda dengan akun yang telah ada, yang mana bisa memakan waktu banyak dan rentan pada kesalahan peserta. Itu juga berarti anda bisa mengubah data dengan bebas, sebagai contoh, untuk mengoreksi nama seorang peserta atau institusi, atau menambahkan data seperti konflik pada basis ad-hoc."
 
 #: ../../guide/comparisons.rst:40
 msgid "**Data privacy**. Conflicts are typically entered into the tab, and are sensitive information. Tabbie2's centralisation allows for conflicts to be self-nominated by users and stored in their user accounts. This, in theory, saves the need for users to report conflicts to tab directors and other tournament staff. In practice, however, only special \"super\" users on Tabbie2 have access to the stored conflicts of users (otherwise anyone could access a user's conflicts by creating a new tournament and adding that user as a participant), so many tournaments need to collect this information from participants anyway."
