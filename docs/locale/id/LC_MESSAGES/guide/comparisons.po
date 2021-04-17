@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-17 13:34\n"
+"PO-Revision-Date: 2021-04-17 13:54\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -88,7 +88,7 @@ msgstr "**Privasi data**. Konflik biasanya dimasukkan ke tabulasi, dan ialah inf
 
 #: ../../guide/comparisons.rst:42
 msgid "Tabbycat's decentralised model means that no-one will have access to conflict information except for the tab staff of each individual instance of Tabbycat. Unlike Tabbie2, Tabbycat's developers do not have any access to your tournament's data — conflicts or otherwise. However, to help us continually improve the software, Tabbycat does send error reports to its developers if there is a serious bug or crash in the code, which could potentially contain confidential information depending on which page triggered the report. As a result of Tabbycat's decentralised data storage, each tournament does need to collect and enter conflicts as part of their registration process."
-msgstr ""
+msgstr "Model Tabbycat yang didesentralisasi berarti tak seorangpun akan punya akses ke informasi konflik kecuali bagi staf tabulasi untuk tiap instansi individu dari Tabbycat. Tidak seperti Tabbie2, developer Tabbycattidak punya akses ke data turnamen anda - konflik atau sebaliknya. Namun, untuk terus-menerus membantu kami mambaguskan perangkat lunaknya, Tabbycat tidak mengirim laporan kesalahan ke developernya jika ada masalah serius atau crash pada kodenya, yang dapat berpotensi mengandung informasi rahasia bergantung pada halaman mana yang memicu laporannya. Sebagai hasil dari penyimpanan data Tabbycat yang terdesentralisasi, tiap turnamen perlu mengumpulkan dan memasukkan konflik sebagai bagian dari proses registrasi."
 
 #: ../../guide/comparisons.rst:44
 msgid "**When things go wrong**. In our view, this is probably the most important factor. Obviously, we all hope you never have to fix things. But no software is perfect, and software developed by volunteers in their spare time (as both Tabbie2 and Tabbycat are) is especially imperfect. On occasion, glitches or edge cases occur, and fixing them requires you to directly edit the offending data in the database. Being able to do this without assistance can be the difference between a delay of minutes and a delay of hours."
