@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-17 13:54\n"
+"PO-Revision-Date: 2021-04-17 14:14\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -92,7 +92,7 @@ msgstr "Model Tabbycat yang didesentralisasi berarti tak seorangpun akan punya a
 
 #: ../../guide/comparisons.rst:44
 msgid "**When things go wrong**. In our view, this is probably the most important factor. Obviously, we all hope you never have to fix things. But no software is perfect, and software developed by volunteers in their spare time (as both Tabbie2 and Tabbycat are) is especially imperfect. On occasion, glitches or edge cases occur, and fixing them requires you to directly edit the offending data in the database. Being able to do this without assistance can be the difference between a delay of minutes and a delay of hours."
-msgstr ""
+msgstr "**Ketika ada yang salah**. Di pandangan kita, ini mungkin faktor yang paling penting. Tentunya, kita semua berharap anda tidak perlu memperbaiki banyak hal. Tapi tidak ada perangkat lunak yang sempurna, dan perangkat lunak terkembang oleh relawan di waktu luang mereka (seperti Tabbie2 dan Tabbycat) sudah tentu tidak sempurna. Kadang kala, glitch atau edge cases terjadi, dan memperbaikinya membutuhkan anda untuk secara langsung mengubah data yang salah di basisdata. Untuk bisa melakukan ini tanpa bantuan dapat menjadi perbedaan antara penundaan beberapa menit dan penundaan berjam-jam."
 
 #: ../../guide/comparisons.rst:46
 msgid "In Tabbycat, because it's your site, you have full control of the database, and can edit it through Tabbycat's \"Edit Database\" area. This allows you to fix things (or break things, if you're not careful!). Tabbie2's centralisation prevents this—for obvious reasons, only Tabbie2's developers have direct database access, which makes their intervention necessary if direct database access is required to resolve a problem."
