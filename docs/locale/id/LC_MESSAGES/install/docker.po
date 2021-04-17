@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-17 23:33\n"
+"PO-Revision-Date: 2021-04-17 23:43\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -33,11 +33,11 @@ msgstr "Dalam kebanyakan kasus, kami merekomendasikan melakukan: ref: `penginsta
 #: ../../install/docker.rst:12
 #, python-format
 msgid "If you need an offline copy of Tabbycat, installing using Docker should be simpler and quicker than using the \"Install Locally on…\" instructions for your operating system. However if a Docker installation doesn't work as outlined below, it's harder to address what isn't working. If you encounter any problems with Docker, we recommend using the \"Install Locally on…\" option as a fallback, but if you need to do so, `please also report the issue you're having on GitHub <https://github.com/TabbycatDebate/tabbycat/issues/new?labels=installation-docker&title=Docker%20installation%20problem&body=Please%20be%20sure%20to%20include%20your%20operating%20system%20and%20version,%20and%20please%20be%20as%20specific%20as%20you%20can%20about%20the%20problem%20you%20encountered%3A%0D%0D>`_ or :ref:`contact the developers <authors>`."
-msgstr ""
+msgstr "Jika Anda memerlukan salinan Tabbycat offline, menginstal menggunakan Docker seharusnya lebih sederhana dan lebih cepat daripada menggunakan petunjuk \"Install Locally on…\" untuk sistem operasi Anda. Namun jika instalasi Docker tidak berfungsi seperti yang diuraikan di bawah ini, lebih sulit untuk mengatasi apa yang tidak berfungsi. Jika Anda mengalami masalah apa pun dengan Docker, sebaiknya gunakan opsi \"Install Locally on…\" sebagai fallback, tetapi jika Anda perlu melakukannya, `harap laporkan juga masalah yang Anda alami di GitHub <https://github.com/TabbycatDebate/tabbycat/issues/new?labels=installation-docker&title=Docker%20installation%20problem&body=Please%20be%20sure%20to%20include%20your%20operating%20system%20and%20version,%20and%20please%20be%20as%20specific%20as%20you%20can%20about%20the%20problem%20you%20encountered%3A%0D%0D>`_ or :ref:`contact the developers <authors>`."
 
 #: ../../install/docker.rst:14
 msgid "Docker is an application that makes it very easy to load and run a specific collection of software. It allows us to bundle everything necessary to run Tabbycat into a single package rather than have users install everything needed step-by-step. Once set up, Docker will allow you to start and stop a webserver (that in turn runs Tabbycat) on your computer whenever you want and without the need for internet access."
-msgstr ""
+msgstr "Docker adalah aplikasi yang memudahkan untuk memuat dan menjalankan kumpulan perangkat lunak tertentu. Ini memungkinkan kita untuk menggabungkan semua yang diperlukan untuk menjalankan Tabbycat ke dalam satu paket daripada meminta pengguna menginstal semua yang diperlukan selangkah demi selangkah. Setelah diatur, Docker akan memungkinkan Anda untuk memulai dan menghentikan server web (yang menjalankan Tabbycat) di komputer Anda kapan pun Anda mau dan tanpa memerlukan akses internet."
 
 #: ../../install/docker.rst:18
 msgid "1. Download Tabbycat"
@@ -45,7 +45,7 @@ msgstr "1. Mengunduh Tabbycat"
 
 #: ../../install/docker.rst:20
 msgid "`Go to the page for our latest release <https://github.com/TabbycatDebate/tabbycat/releases/latest>`_."
-msgstr ""
+msgstr "Buka halaman untuk rilis terbaru kami <https://github.com/TabbycatDebate/tabbycat/releases/latest>`_."
 
 #: ../../install/docker.rst:22
 msgid "Download the zip or tar.gz file."
@@ -65,31 +65,31 @@ msgstr "Jika Mengunakan macOS atau Linux"
 
 #: ../../install/docker.rst:33
 msgid "Install the **Docker Community Edition (stable)** from the `Docker store page <https://store.docker.com/search?type=edition&offering=community>`_."
-msgstr ""
+msgstr "Instal **Docker Community Edition (stable)**dari halaman Docker store <https://store.docker.com/search?type=edition&offering=community>`_."
 
 #: ../../install/docker.rst:36
 msgid "If using Windows 10 Pro, Enterprise, or Education Edition"
-msgstr ""
+msgstr "Jika menggunakan Windows 10 Pro, Enterprose, or Education Edition"
 
 #: ../../install/docker.rst:40
 msgid "Install the ****Docker Community Edition (stable)*** from the `Docker store page <https://store.docker.com/search?type=edition&offering=community>`_."
-msgstr ""
+msgstr "Instal **** Docker Community Edition (stabil) *** dari halaman penyimpanan `Docker <https://store.docker.com/search?type=edition&offering=community>`_."
 
 #: ../../install/docker.rst:41
 msgid "Before or shortly after installing it, Docker may ask you to enable hypervisor and restart your PC. If it asks you this follow the prompts and restart as asked."
-msgstr ""
+msgstr "Sebelum atau segera setelah menginstalnya, Docker mungkin meminta Anda untuk mengaktifkan hypervisor dan melakukan restart pada PC Anda. Jika diminta, ikuti petunjuknya dan mulai ulang seperti yang diminta."
 
 #: ../../install/docker.rst:42
 msgid "Once Docker has finished installing, open up the newly-installed Docker application, then right-click the app's icon (the whale) in the Taskbar."
-msgstr ""
+msgstr "Setelah Docker selesai diinstal, buka aplikasi Docker yang baru diinstal, lalu klik kanan ikon aplikasi (bergambar ikan paus) di Taskbar."
 
 #: ../../install/docker.rst:43
 msgid "From there, hit *Settings* in the menu and *Shared Drives* in the sidebar. Tick the checkbox next to your hardrive and then click *Apply*. After that has applied exit and reopen the docker app (ie right-click the taskbar icon and hit exit) and verify that the checkbox is still there."
-msgstr ""
+msgstr "Dari sana, tekan *Setting* di menu dan *Shared Drive* di sisi bar. Centang kotak di samping hardrive Anda, lalu klik *Apply*. Setelah itu telah diterapkan keluar dan buka kembali aplikasi Docker (yaitu klik kanan ikon taskbar dan tekan keluar) dan verifikasi bahwa kotak centang masih ada."
 
 #: ../../install/docker.rst:49
 msgid "If using Windows 7, Windows 8, or Windows 10 Home Edition"
-msgstr ""
+msgstr "Jika menggunakan Windows 7, Windows 8, atau Windows 10 Home Edition"
 
 #: ../../install/docker.rst:51
 msgid "Install the **Docker Toolbox** from the `Docker Toolbox downloads page <https://www.docker.com/products/docker-toolbox>`_."
