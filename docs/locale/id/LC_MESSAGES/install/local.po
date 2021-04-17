@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2020-07-23 04:45\n"
+"PO-Revision-Date: 2021-04-17 23:54\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -20,39 +20,39 @@ msgstr ""
 
 #: ../../install/local.rst:5
 msgid "Local Installations"
-msgstr ""
+msgstr "Instalasi Lokal"
 
 #: ../../install/local.rst:8
 msgid "What is a local installation?"
-msgstr ""
+msgstr "Apa itu instalasi local?"
 
 #: ../../install/local.rst:10
 msgid "Tabbycat is a web-based system: it's designed to run as a web site. However, instead of installing it on a web server, you can install it on your computer, serving web pages to yourself. This is called a local installation."
-msgstr ""
+msgstr "Tabbycat adalah sistem berbasis web: ini dirancang untuk dijalankan sebagai situs web. Namun, daripada menginstalnya di server web, Anda dapat menginstalnya di komputer Anda, menyajikan halaman web untuk Anda sendiri. Ini disebut instalasi lokal."
 
 #: ../../install/local.rst:12
 msgid "Then, when you open your browser, you can use Tabbycat like any other web site. The only difference is that this one is on **your** computer, not some computer in a data centre in a far-away land. In effect, you are getting your computer to behave like a web server."
-msgstr ""
+msgstr "Kemudian, saat Anda membuka browser, Anda dapat menggunakan Tabbycat seperti situs web lainnya. Satu-satunya perbedaan adalah bahwa ini ada di **komputer Anda**, bukan komputer di pusat data di tempat yang jauh. Akibatnya, Anda membuat komputer Anda berperilaku seperti server web."
 
 #: ../../install/local.rst:17
 msgid "Should I use a local installation?"
-msgstr ""
+msgstr "Haruskah saya menggunakan instalasi lokal?"
 
 #: ../../install/local.rst:19
 msgid "In most cases, you should make an online Tabbycat installation by :ref:`setting up an instance on Heroku <install-heroku>`. This has a number of major advantages:"
-msgstr ""
+msgstr "Dalam kebanyakan kasus, Anda harus membuat instalasi Tabbycat online dengan :ref:`mengatur sebuah instance di Heroku <install-heroku>`. Ini memiliki sejumlah keuntungan utama:"
 
 #: ../../install/local.rst:21
 msgid "The installation process is easier."
-msgstr ""
+msgstr "Proses instalasinya lebih mudah."
 
 #: ../../install/local.rst:22
 msgid "You can enter ballots and manage your tournament from multiple computers."
-msgstr ""
+msgstr "Anda dapat memasukkan balot dan mengelola turnamen Anda dari banyak komputer."
 
 #: ../../install/local.rst:23
 msgid "Participants can access the draw, motions, results and more online."
-msgstr ""
+msgstr "Peserta dapat mengakses undian, gerakan, hasil, dan lainnya secara online."
 
 #: ../../install/local.rst:24
 msgid "Heroku's data centers are less likely to fail than your computer is."
