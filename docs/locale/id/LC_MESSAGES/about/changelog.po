@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 10:44\n"
+"PO-Revision-Date: 2021-04-18 10:53\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -1021,7 +1021,7 @@ msgstr "Antarmuka yang lebih baik pada perangkat mobil dan tablet, termasuk bila
 
 #: ../../../CHANGELOG.rst:365
 msgid "More explicit and obvious calls-to-action for the key tasks necessary to running a round, with better interface alerts and text to help users understand when and why to perform crucial actions"
-msgstr ""
+msgstr "Ajakan untuk bertindak yang lebih eksplisit dan jelas untuk tugas-tugas utama yang diperlukan untuk menjalankan ronde, dengan peringatan dan teks antarmuka yang lebih baik untuk membantu pengguna memahami kapan dan mengapa harus melakukan tindakan penting"
 
 #: ../../../CHANGELOG.rst:366
 msgid "Redesigned motions tab page that gives a better idea of the sample size and distribution of results in both two- and four- team formats"
@@ -1029,47 +1029,47 @@ msgstr "Mendesain ulang halaman tab mosi yang memberikan ide lebih baik untuk uk
 
 #: ../../../CHANGELOG.rst:368
 msgid "Improved handling of Break Rounds ballots and sides allocation"
-msgstr ""
+msgstr "Memperbaiki penanganan kertas suara dan alokasi sisi pada ronde istirahat"
 
 #: ../../../CHANGELOG.rst:368
 msgid "The positions of teams within a break round are now created by the initial draw generation in an 'unset' state in recognition that most tournaments assign these manually (through say a coin toss). This should help clarify when showing break rounds draws when sides are or are not finalised"
-msgstr ""
+msgstr "Posisi tim pada ronde istirahat sekarang dibuat oleh pembuatan undian awal dalam keadaan 'tidak ditentukan' karena sebagian besar turnamen menetapkan ini secara manual (misalnya lempar koin). Ini akan membantu memperjelas saat menunjukkan undian babak istirahat ketika sisi sedang atau belum diselesaikan"
 
 #: ../../../CHANGELOG.rst:369
 msgid "Break rounds ballots for formats where scores are not typically entered (i.e. BP) will only specify that you nominate the teams advancing rather than enter in all of the speakers' scores"
-msgstr ""
+msgstr "Kertas suara ronde istirahat untuk format dimana skor biasanya tidak dimasukkan (seperti BP), hanya akan menentukan bahwa anda menominasikan tim yang maju daripada memasukkan semua skor pembicara"
 
 #: ../../../CHANGELOG.rst:370
 msgid "Now, like Break Categories, you can define arbitrary Categories such as 'Novice' or 'ESL' to create custom Speaker tabs for groups of Speakers"
-msgstr ""
+msgstr "Sekarang, seperti Kategori Istirahat, anda dapat menentukan Kategori sesuka anda seperti 'Novice' atau 'ESL' untuk membuat tab Pembicara khusus untuk grup Pembicara"
 
 #: ../../../CHANGELOG.rst:371
 msgid "You can now release an Adjudicators Tab showing test scores, final scores, and/or per-round feedback averages"
-msgstr ""
+msgstr "Sekarang anda dapat merilis sebuah Tab Juri yang menunjukkan skor pengujian, skor akhir, dan/atau rata-rata umpan balik per ronde"
 
 #: ../../../CHANGELOG.rst:372
 msgid "Information Slides can now be added to the system; either for showing to an auditorium within Tabbycat or for displaying alongside the public list of motions and/or the motions tab"
-msgstr ""
+msgstr "Slide Informasi sekarang dapat ditambahkan ke sistem; baik untuk ditampilkan ke auditorium dalam Tabbycat atau untuk ditampilkan di samping daftar mosi publik dan/atau tab mosi"
 
 #: ../../../CHANGELOG.rst:373
 msgid "Teams and adjudicators are no longer required to have institutions; something that should be very useful when setting up small IVs and the like"
-msgstr ""
+msgstr "Tim dan juri tidak lagi diwajibkan untuk memiliki institusi; sesuatu yang akan sangat berguna ketika melakukan pengaturan IV kesil dan sejenisnya"
 
 #: ../../../CHANGELOG.rst:374
 msgid "Private URLs can now be incrementally generated. Records of sent mail are now also kept by Tabbycat, so that emails can be incrementally sent to participants as registration data changes"
-msgstr ""
+msgstr "URL pribadi sekarang dapat dibuat secara bertahap. Catatan email terkirim juga sekarang disimpan oleh Tabbycat, sehingga email dapat secara bertahap dikirim ke peserta seiring perubahan data pendaftaran"
 
 #: ../../../CHANGELOG.rst:376
 msgid "After creating a new tournament you will now be prompted to apply a basic rules and public information preset"
-msgstr ""
+msgstr "Setelah membuat turnamen baru, anda akan diminta untuk menerapkan peraturan standar dan pengaturan informasi publik"
 
 #: ../../../CHANGELOG.rst:377
 msgid "Better handling of errors that arise when a debate team is missing or where two teams have been assigned the same side"
-msgstr ""
+msgstr "Penanganan yang lebih baik untuk masalah yang muncul ketika tim debat menghilang atau dimana kedua tim dimasukkan pada sisi yang sama"
 
 #: ../../../CHANGELOG.rst:378
 msgid "Fixed issue where the adjudicator feedback graphs would not sort along with their table"
-msgstr ""
+msgstr "Memperbaiki masalah dimana grafik umpan balik juri tidak terurut sesuai tabel mereka"
 
 #: ../../../CHANGELOG.rst:379
 msgid "The Feedback Overview page now makes it more clear how the score is determined, the current distribution of scores, and how scores affect the distribution of chairs, panellists, and trainees"
