@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 11:54\n"
+"PO-Revision-Date: 2021-04-18 12:05\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -96,7 +96,7 @@ msgstr "**Ketika ada yang salah**. Di pandangan kita, ini mungkin faktor yang pa
 
 #: ../../guide/comparisons.rst:46
 msgid "In Tabbycat, because it's your site, you have full control of the database, and can edit it through Tabbycat's \"Edit Database\" area. This allows you to fix things (or break things, if you're not careful!). Tabbie2's centralisation prevents this—for obvious reasons, only Tabbie2's developers have direct database access, which makes their intervention necessary if direct database access is required to resolve a problem."
-msgstr ""
+msgstr "Di Tabbycat, karna situs anda, anda punya kontrol penuh terhadap basisdata, dan bisa mengeditnya lewat area \"Edit Basisdata\" Tabbycat. Ini memungkinkan anda untuk memperbaiki (atau merusak, bila anda tidak berhati-hati!). Sentralisasi Tabbie2 mencegah ini-karna alasan yang jelas, hanya developer Tabbie2 punya akses langsung ke basisdata, yang membuat campur tangan mereka lebih penting bila akses basisdata langsung dibutuhkan untuk menyelesaikan suatu masalah."
 
 #: ../../guide/comparisons.rst:49 ../../guide/comparisons.rst:138
 msgid "Running your tournament"
