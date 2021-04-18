@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 10:24\n"
+"PO-Revision-Date: 2021-04-18 10:33\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -785,11 +785,11 @@ msgstr "Halaman klasemen tim saat ini sekarang menampilkan hasil babak diam jika
 
 #: ../../../CHANGELOG.rst:271
 msgid "The Consensus vs Voting options for how ballots work has now been split into two settings: one option for preliminary rounds and one option for elimination rounds"
-msgstr ""
+msgstr "Opsi Konsensus vs Voting tentang cara kerja kertas suara kini telah dibagi menjadi dua pengaturan: satu opsi untuk babak penyisihan, dan satu opsi untuk babak eliminasi"
 
 #: ../../../CHANGELOG.rst:272
 msgid "Speaker scores now show as integers (without decimals) where the tournament format would not allow decimals"
-msgstr ""
+msgstr "Skor pembicara sekarang ditunjukkan sebagai integer (tanpa desimal) dimana format turnamen tidak mengijinkan desimal"
 
 #: ../../../CHANGELOG.rst:273
 msgid "Added a page showing a list of institutions in the tournament"
@@ -797,15 +797,15 @@ msgstr "Menambahkan sebuah halaman yang menunjukkan daftar institusi pada turnam
 
 #: ../../../CHANGELOG.rst:274
 msgid "On the assistant \"enter results\" page, pressing \"/\" jumps to the \"Find in Table\" box, so data entry can be done entirely from your keyboard"
-msgstr ""
+msgstr "Pada halaman asisten \"masukkan hasil\", menekan \"/\" akan melompat ke kotak \"Temukan di Tabel\" sehingga entri data dapat dilakukan sepenuhnya dari keyboard anda"
 
 #: ../../../CHANGELOG.rst:276
 msgid "Switched to using a Websockets/Channels based infrastructure to better allow for asynchronous updates. This should also ameliorate cases where the Memcachier plugin expired due to inactivity which would then crash a site. Notes for those upgrading:"
-msgstr ""
+msgstr "Beralih menggunakan infrastruktur berbasis Websockets / Channels untuk memungkinkan pembaruan asinkron dengan lebih baik. Ini juga harus memperbaiki kasus dimana plugin Memcachier kadaluwarsa karena tidak aktif yang kemudian akan membuat situs bermasalah. Catatan untuk peningkatan tersebut:"
 
 #: ../../../CHANGELOG.rst:276
 msgid "On Heroku: You should remove the Memcachier plugin and instead add 'heroku-redis' to any instances being upgraded"
-msgstr ""
+msgstr "Pada Heroku: Anda sebaiknya membuang plugin Memcachier dan sebaliknya, menambahkan 'heroku-redis' ke instansi apapun yang sedang diperbarui"
 
 #: ../../../CHANGELOG.rst:277
 msgid "Locally: You should recreate your `local_settings.py` from the `local_settings.example` file"
@@ -829,7 +829,7 @@ msgstr "*Tanggal rilis: 13 April 2018*"
 
 #: ../../../CHANGELOG.rst:286
 msgid "Fixed an issue preventing draws with pre-allocate sides generating"
-msgstr ""
+msgstr "Memperbaiki masalah yang mencegah pengundian dengan sisi yang sudah di alokasi sebelumnya dihasilkan"
 
 #: ../../../CHANGELOG.rst:290
 msgid "2.0.6"
@@ -873,15 +873,15 @@ msgstr "Memperbaiki masalah dimana pengundian dengan tipe \"manual\" tidak dihas
 
 #: ../../../CHANGELOG.rst:311
 msgid "Fixed issue where a ballot's speaker names dropdown would contain both team's speakers when using formats with side selection"
-msgstr ""
+msgstr "Memperbaiki masalah dimana dropdown kertas suara nama pembicara akan berisi kedua pembicara tim saat menggunakan format dengan pemilihan samping"
 
 #: ../../../CHANGELOG.rst:312
 msgid "Fixed issue where scoresheets would not show correctly under some configurations"
-msgstr ""
+msgstr "Memperbaiki masalah dimana lembar skor tidak ditampilkan dengan benar pada beberapa konfigurasi"
 
 #: ../../../CHANGELOG.rst:313
 msgid "Improved display of really long motions when using the inbuilt motion-showing page"
-msgstr ""
+msgstr "Memperbaiki tampilan dari mosi yang sangat panjang ketika menggunakan halaman penampil-mosi bawaan"
 
 #: ../../../CHANGELOG.rst:318
 msgid "2.0.3"
@@ -893,11 +893,11 @@ msgstr "*Tanggal rilis: 3 Desember 2017*"
 
 #: ../../../CHANGELOG.rst:321
 msgid "Fixed issue where the 'prefix team name with institution name' checkbox would not be correctly saved when using the Simple Importer"
-msgstr ""
+msgstr "Memperbaiki masalah dimana kotak centang 'nama tim awalan dengan nama institusi' tidak disimpan dengan benar ketika menggunakan Importir Sederhana"
 
 #: ../../../CHANGELOG.rst:322
 msgid "Removed the scroll speed / text size buttons on mobile draw views that were making it difficult to view the table"
-msgstr ""
+msgstr "Menghapus tombol gulir ukuran teks/kecepatan pada tampilan gambar mobile yang membuatnya sulit untuk melihat tabel"
 
 #: ../../../CHANGELOG.rst:323
 msgid "Improved the display of the motions tab page on mobile devices and fixed an issue where it appeared as if only half the vetoes were made"
