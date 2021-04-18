@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 07:04\n"
+"PO-Revision-Date: 2021-04-18 07:26\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -129,7 +129,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:45
 msgid "By using the existing per-debate priority system, and by giving pre-formed panels their own priority, this workflow allows for very fine amounts of control over exactly how preformed panels are allocated as compared to a more simple top-down transposition of panels. Adjudication cores can easily target general areas of the draw (e.g. break-threshold brackets); control adjudicator strength within and across panels; and still account for special cases where a debate requires a particularly strong panel. At the same time, our existing options for automatic prioritisation and automatic allocation apply to all steps of this process so that preformed panels can be created and deployed rapidly"
-msgstr ""
+msgstr "Dengan menggunakan sistem prioritas pre-debat yang sudah ada, dan dengan memberikan prioritas untuk panel yang sudah dibentuk sebelumnya, alur kerja ini memungkinkan jumlah kontrol yang sangat baik mengenai bagaimana panel yang sudah dibentuk sebelumnya dialokasikan sebagai perbandingan transposisi panel atas-bawah yang lebih sederhana. Juri inti dapat dengan mudah menargetkan area umum pengundian (seperti tanda kurung ambang batas istirahat); mengatur kekuatan juri dalam dan diantara panel, dan masih memperhitungkan kasus khusus dimana sebuah debat membutuhkan beberapa panel yang kuat. Pada waktu yang sama, pilihan kami yang ada untuk prioritas otomatis dan alokasi otomatis berlaku untuk semua langkah dari proses ini sehingga panel yang sudah dibentuk sebelumnya dapat dibuat dan disebarkan dengan lebih cepat"
 
 #: ../../../CHANGELOG.rst:50
 msgid "Rewrote the Edit Adjudication, Venues, and Teams pages to enable a number of enhancements"
@@ -509,11 +509,11 @@ msgstr "Menambahkan sebuah peringatan ketika pengguna sudah mendekati ke limit b
 
 #: ../../../CHANGELOG.rst:184
 msgid "Added ``exportconfig`` and ``importconfig`` management commands to export and import tournament configurations to a JSON file"
-msgstr ""
+msgstr "Menambahkan perintah manajemen ``exportconfig`` dan ``importconfig`` ke pengaturan ekspor dan impor konfigurasi turnamen ke file JSON"
 
 #: ../../../CHANGELOG.rst:185
 msgid "Upgraded `django-dynamic-preferences <https://github.com/EliotBerriot/django-dynamic-preferences>`_ to version 1.6"
-msgstr ""
+msgstr "Memperbarui `django-synamic-preferences <https://github.com/EliotBerriot/django-dynamic-preferences>`_ ke versi 1.6"
 
 #: ../../../CHANGELOG.rst:187
 msgid "This won't affect most users, but advanced users previously having problems with a stray ``dynamic_preferences_users_userpreferencemodel`` table who are upgrading an existing instance may wish to run the SQL command ``DROP TABLE dynamic_preferences_users_userpreferencemodel;`` to remove this stray table. When this table was present, it caused an inconsistency between migration state and database schema that in turned caused the ``python manage.py flush`` command to fail. More information is available in the `django-dynamic-preferences changelog <https://django-dynamic-preferences.readthedocs.io/en/latest/history.html#migration-cleanup>`_"
@@ -529,27 +529,27 @@ msgstr "*Tanggal rilis: 21 Agustus 2018*"
 
 #: ../../../CHANGELOG.rst:194
 msgid "Added an alert for British Parliamentary format grand-final ballots that explains the workaround needed to nominate a sole winner"
-msgstr ""
+msgstr "Menambahkan sebuah peringatan untuk format pengundian grand-final British Parliamentary yang menjelaskan solusi yang dibutuhkan untuk menominasi pemenang tunggal"
 
 #: ../../../CHANGELOG.rst:195
 msgid "Improved display of images shown when sharing Tabbycat links on social media"
-msgstr ""
+msgstr "Memperbaiki tampilan gambar yang ditunjukkan ketika membagikan tautan Tabbycat di media sosial"
 
 #: ../../../CHANGELOG.rst:196
 msgid "Optimised the performance of several commonly-loaded pages. Thanks to Étienne Beaulé for the pull request!"
-msgstr ""
+msgstr "Memperbaiki performa dari beberapa halaman yang biasa dimuat. Terimakasih pada Etienne Beaule untuk permintaan pullnya!"
 
 #: ../../../CHANGELOG.rst:197
 msgid "Prevented the entry of integer-scale feedback questions without the required min/max attributes"
-msgstr ""
+msgstr "Mencegah masukannya pertanyaan umpan balik skala integer tanpa atribut min/max yang dibutuhkan"
 
 #: ../../../CHANGELOG.rst:198
 msgid "Provided a shortcut link to editing a round's feedback weight"
-msgstr ""
+msgstr "Menyediakan tautan jalan pintas untuk mengubah beban umpan balik sebuah ronde"
 
 #: ../../../CHANGELOG.rst:199
 msgid "Prevented standings from crashing when only a single standings metric is set"
-msgstr ""
+msgstr "Mencegah klasemen dari masalah ketika hanya satu metrik klasemen yang diatur"
 
 #: ../../../CHANGELOG.rst:203
 msgid "2.1.2"
@@ -561,27 +561,27 @@ msgstr "*Tanggal rilis: 14 Juli 2018*"
 
 #: ../../../CHANGELOG.rst:206
 msgid "Fixed an error caused when calculating breaks including teams without institutions"
-msgstr ""
+msgstr "Memperbaiki masalah yang disebabkan ketika melakukan penghitungan istirahat pada tim tanpa institusi"
 
 #: ../../../CHANGELOG.rst:207
 msgid "Improved display of long motions and info slides"
-msgstr ""
+msgstr "Memperbaiki tampilan dari mosi yang panjang dan slide informasi"
 
 #: ../../../CHANGELOG.rst:208
 msgid "Fixed bug in feedback progress tracking with UADC-style adjudication"
-msgstr ""
+msgstr "Memperbaiki masalah pada pencatatan progress umpan baik dengan gaya juri UADC"
 
 #: ../../../CHANGELOG.rst:209
 msgid "Fixed bug where the public checks page would cause large amounts of failing requests"
-msgstr ""
+msgstr "Memperbaiki masalah dimana halaman pemeriksaan publik menyebabkan banyak request yang gagal"
 
 #: ../../../CHANGELOG.rst:210
 msgid "Fixed visual issue with adjudicator lists wrapping poorly on mobile devices"
-msgstr ""
+msgstr "Memperbaiki masalah tampilan dengan daftar juri yang dibungkus dengan jelek pada perangkat mobile"
 
 #: ../../../CHANGELOG.rst:211
 msgid "Limited the time it takes to serve requests to match Heroku's in-built limit; this may help improve the performance of sites under heavy load"
-msgstr ""
+msgstr "Membatasi waktu yang dibutuhkan untuk melayani permintaan request untuk mengimbangi batasan buatan Heroku; hal ini mungkin akan memperbaiki performa situs pada beban yang penuh"
 
 #: ../../../CHANGELOG.rst:215
 msgid "2.1.1"
@@ -593,15 +593,15 @@ msgstr "*Tanggal rilis: 19 Mei 2018*"
 
 #: ../../../CHANGELOG.rst:218
 msgid "The Scan Identifiers page now orders check-ins from top to bottom"
-msgstr ""
+msgstr "Halaman Identifikasi Scan sekarang memerintahkan check-in dari atas ke bawah"
 
 #: ../../../CHANGELOG.rst:219
 msgid "The Scan Identifiers now plays different sounds for failed check-ins"
-msgstr ""
+msgstr "Halaman Identifikasi Scan sekarang memutar lagu yang berbeda untuk check-in yang gagal"
 
 #: ../../../CHANGELOG.rst:220
 msgid "The Scan Identifiers now has a toggle for sounds; allowing it to work in browsers like Safari that block auto-playing audio"
-msgstr ""
+msgstr "Halaman Identifikasi Pindai sekarang memiliki pengaturan untuk suara; memungkinkan itu untuk beroperasi pada browser yang memblokir pemutar musik otomatis seperti Safari"
 
 #: ../../../CHANGELOG.rst:224
 msgid "2.1.0 (Japanese Bobtail)"
@@ -809,15 +809,15 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:277
 msgid "Locally: You should recreate your `local_settings.py` from the `local_settings.example` file"
-msgstr ""
+msgstr "Secara Lokal: Anda sebaiknya membuat ulang file `local_settings.py` anda dari file `local_settings.example`"
 
 #: ../../../CHANGELOG.rst:280
 msgid "Upgraded to Django 2.0"
-msgstr ""
+msgstr "Sudah diperbarui ke Django 2.0"
 
 #: ../../../CHANGELOG.rst:279
 msgid "Converted most raw SQL queries to use the new ``filter`` keyword in annotations"
-msgstr ""
+msgstr "Mengubah banyak kueri SQL mentah untuk menggunakan kata kunci ``filter`` yang baru pada anotasi"
 
 #: ../../../CHANGELOG.rst:283
 msgid "2.0.7"
@@ -909,7 +909,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:328
 msgid "*Release date: 27 November 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 27 November 2017*"
 
 #: ../../../CHANGELOG.rst:333
 msgid "Fixes and improvements to diversity overview"
