@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 09:14\n"
+"PO-Revision-Date: 2021-04-18 09:34\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -517,7 +517,7 @@ msgstr "Memperbarui `django-synamic-preferences <https://github.com/EliotBerriot
 
 #: ../../../CHANGELOG.rst:187
 msgid "This won't affect most users, but advanced users previously having problems with a stray ``dynamic_preferences_users_userpreferencemodel`` table who are upgrading an existing instance may wish to run the SQL command ``DROP TABLE dynamic_preferences_users_userpreferencemodel;`` to remove this stray table. When this table was present, it caused an inconsistency between migration state and database schema that in turned caused the ``python manage.py flush`` command to fail. More information is available in the `django-dynamic-preferences changelog <https://django-dynamic-preferences.readthedocs.io/en/latest/history.html#migration-cleanup>`_"
-msgstr ""
+msgstr "Ini tidak akan mempengaruhi kebanyakan pengguna, namun pengguna tingkat lanjut sebelumnya mengalami masalah dengan tabel nyasar ``dynamic_preferences_users_userpreferencemodel`` yang memperbarui instansi yang sudah ada, dapat menjalankan perintah SQL ``DROP TABLE dynamic_preferences_users_userpreferencemodel;`` untuk membuang tabel nyasar ini. Ketika tabel ini ada, ia menyebabkan ketidak-konsistenan antara status migrasi dan skema basisdata yang kemudian menyebabkan perintah ``python manage.py flush`` untuk gagal. Informasi lebih lanjut berada pada `catatan perubahan django-dynamic-preferences <https://django-dynamic-preferences.readthedocs.io/en/latest/history.html#migration-cleanup>`_"
 
 #: ../../../CHANGELOG.rst:191
 msgid "2.1.3"
@@ -613,23 +613,23 @@ msgstr "*Tanggal rilis: 7 Mei 2018*"
 
 #: ../../../CHANGELOG.rst:227
 msgid "Added an introductory modal for the adjudicator allocation page to help outline how the features and workflow operate"
-msgstr ""
+msgstr "Menambahkan modal pengantar untuk halaman alokasi juri untuk membantu menjelaskan bagaimana fitur dan alur kerja beroperasi"
 
 #: ../../../CHANGELOG.rst:228
 msgid "Added an automated method for assigning importances to debates using their bracket or 'liveness'. This should allow smaller tournaments to more easily assign importances and save time for larger tournaments that do so"
-msgstr ""
+msgstr "Menambahkan metode otomatis untuk menetapkan kepentingan ke debat dengan menggunakan braket atau `kehidupan`. Ini memungkinkan turnamen yang lebih kecil untuk lebih mudah menetapkan kepentingan dan menghemat waktu untuk turnamen besar yang melakukannya"
 
 #: ../../../CHANGELOG.rst:230
 msgid "Added the ability to switch between using 'team codes' and standard team names"
-msgstr ""
+msgstr "Menambahkan kemampuan untuk berpindah menggunakan `kode tim` dan tim nama standar"
 
 #: ../../../CHANGELOG.rst:230
 msgid "By default team codes are set to match that team's emoji, but team codes are editable and can be imported like standard data"
-msgstr ""
+msgstr "Secara bawaan, kode tim diatur agar sesuai dengan emoji tim tersebut, namun kode tim dapat diedit dan dapat diimpor seperti data standar"
 
 #: ../../../CHANGELOG.rst:231
 msgid "Team codes can be swapped in an out for standard team names at will, with precise control over the contexts in which either is used — i.e. in public-facing pages, in admin-facing pages, in tooltips, *etc.*"
-msgstr ""
+msgstr "Kode tim dapat ditukar dengan nama tim standar sesuka anda, dengan kontrol yang tepat atas konteks dimana keduanya digunakan - yaitu di halaman yang dilihat publik, di halaman yang dilihat admin, pada tips perangkat, *dll.*"
 
 #: ../../../CHANGELOG.rst:235
 msgid "Added a range of 'check-in' functionality"
