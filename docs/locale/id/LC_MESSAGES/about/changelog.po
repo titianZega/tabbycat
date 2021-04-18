@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 09:34\n"
+"PO-Revision-Date: 2021-04-18 09:54\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -637,31 +637,31 @@ msgstr "Menambahkan fungsionalitas rentang dari 'check-in'"
 
 #: ../../../CHANGELOG.rst:233
 msgid "This includes barcode assignment, printing, and scanning. Scanning methods are optimised both for manual entry, entry with barcodes scanners, and for a 'live' scanning view that uses your phone's camera!"
-msgstr ""
+msgstr "Ini termasuk penetapan barcode, pencetakan, dan pemindaian. Metode pemindaian dioptimalkan, baik untuk entri manual, entri dengan pemindai barcode, dan untuk tampilan pemindaian 'langsung' yang menggunakan kamera ponsel anda!"
 
 #: ../../../CHANGELOG.rst:234
 msgid "This includes new people and venue status pages that show an overview of check-in status and allow for easy manual check-ins; ideal for a roll-calls!. This page can also be made public"
-msgstr ""
+msgstr "Ini termasuk halaman status orang dan ruangan baru yang menunjukkan gambaran umum status check-in dan memungkinkan check-in manual yang mudah; idel untuk roll-call! Halaman ini juga dapat dipublikasikan"
 
 #: ../../../CHANGELOG.rst:235
 msgid "Ballot check-ins have been converted to this new method, and now all printed ballots will contain the barcodes needed to scan them"
-msgstr ""
+msgstr "Check-in untuk kertas suara dapat dikonversi ke metode ini, dan sekarang semua kertas suara yang sudah dicetak akan memuat barcode yang dibutuhkan untuk memindai mereka"
 
 #: ../../../CHANGELOG.rst:236
 msgid "Venue check-ins have been added alongside the standard 'person' check-ins to allow you to track a room's status at the start of the day or round-by-round"
-msgstr ""
+msgstr "Check-in ruangan sudah ditambahkan bersamaan dengan check-in orang standar untuk memungkinkan anda melacak status ruangan pada permulaan hari atau ronde-demi-ronde"
 
 #: ../../../CHANGELOG.rst:239
 msgid "Added (partial) translations in French, Spanish and Arabic"
-msgstr ""
+msgstr "Menambahkan (sebagian) terjemahan untuk bahasa Prancis, Spanyol, dan Arab"
 
 #: ../../../CHANGELOG.rst:238
 msgid "Users can now use a link in the footer to switch the site's language into French, Spanish, or Arabic. By default Tabbycat should also match your browser's language and so automatically apply those languages if it matches"
-msgstr ""
+msgstr "Pengguna sekarang dapat menggunakan tautan pada foot untuk mengganti bahasa situs menjadi bahasa Prancis, Spanyol, dan Arab. Secara bawaan, Tabbycat akan mengikuti bahasa browser anda dan akan langsung mengaplikasikan bahasa tersebut jika cocok"
 
 #: ../../../CHANGELOG.rst:239
 msgid "Our translations are generously provided by volunteers, but (so far) do not cover all of the interface text within Tabbycat. If you're interested in helping to translate new or existing languages please get in touch!"
-msgstr ""
+msgstr "Terjemahan kami disediakan dengan baik hati oleh sukarelawan, namun (sejauh ini) belum mencakup semua teks antarmuka pada Tabbycat. Jika anda tertarik untuk membantu menerjemahkan bahasa yang baru maupun yang sudah ada, tolong hubungi kami!"
 
 #: ../../../CHANGELOG.rst:240
 msgid "Thanks to the excellent team at QatarDebate for contributing the Arabic translations, and to Alejandro, Hernando, Julian and Zoe for contributing the Spanish translations."
