@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 13:09\n"
+"PO-Revision-Date: 2021-04-18 13:43\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -108,7 +108,7 @@ msgstr "Tabbie2 dan Tabbycat punya alur kerja yang mirip secara luas untuk menja
 
 #: ../../guide/comparisons.rst:53
 msgid "**Data import**. Tabbie2 takes CSV files for import. Tabbycat has a CSV file importer, but it's (for now) only accessible through a command-line interface and is only expected to be used for large tournaments by experienced tab directors. As a more user-friendly alternative, Tabbycat also has an import wizard that's designed to make it easy to copy and paste CSV data. This works well for small and medium scale tournaments, but is cumbersome for large ones."
-msgstr "**Impor data**. Tabbie2 mengambil berkas CSV untuk diimpor. Tabbycat punya pengimpor berkas CSV, tapi itu (untuk sekarang) hanya dapat diakses lewat antarmuka command-line dan hanya terkira dipakai untuk turnamen besar oleh direktur tabulasi yang berpengalaman. Sebagai alternatif yang mudah-digunakan, Tabbycat juga punya 'import wizard' yang terdesain untuk lebih mudah untuk menyalin dan menempel data CSV. Ini berkerja dengan baik dengan turnamen dengan skala kecil dan sedang, tapi rumit bagi yang besar."
+msgstr "**Impor data**. Tabbie2 mengambil berkas CSV untuk diimpor. Tabbycat punya pengimpor berkas CSV, tapi itu (untuk sekarang) hanya dapat diakses lewat antarmuka command-line dan hanya terkira dipakai untuk turnamen besar oleh direktur tabulasi yang berpengalaman. Sebagai alternatif yang mudah-digunakan, Tabbycat juga punya wizard impor yang terdesain untuk lebih mudah untuk menyalin dan menempel data CSV. Ini berkerja dengan baik dengan turnamen dengan skala kecil dan sedang, tapi rumit bagi yang besar."
 
 #: ../../guide/comparisons.rst:55
 msgid "**Public interface**. Tabbycat can optionally publish the entire draw, as well as current team point standings and results of previous rounds, online. Tabbie2 shows to a logged-in user information about the debate that user is in for that round, but doesn't allow people to check up on people who are not themselves."
