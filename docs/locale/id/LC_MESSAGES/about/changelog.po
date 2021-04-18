@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 05:43\n"
+"PO-Revision-Date: 2021-04-18 05:54\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -961,39 +961,39 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:345
 msgid "*Release date: 21 November 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 21 November 2017*"
 
 #: ../../../CHANGELOG.rst:347
 msgid "Fixed issue where results submission would crash if sides are unconfirmed"
-msgstr ""
+msgstr "Memperbaiki masalah dimana pengiriman hasil akan bermasalah jika sisi tidak terkonfirmasi"
 
 #: ../../../CHANGELOG.rst:348
 msgid "Fixed issue where scoresheets would not display properly for adjudicators who lack institutions"
-msgstr ""
+msgstr "Memperbaiki masalah dimana lembar skor untuk juri yang tidak memiliki institusi tidak ditampilkan dengan benar"
 
 #: ../../../CHANGELOG.rst:349
 msgid "Fixed issue where the round history indicators in the Edit Adjudicators page would sometimes omit the \"rounds ago\" indicator"
-msgstr ""
+msgstr "Memperbaiki masalah dimana indikator riwayat ronde pada halaman Ubah Juri terkadang menampilkan indikator \"ronde sebelumnya\""
 
 #: ../../../CHANGELOG.rst:353
 msgid "2.0.0 (Iberian Lynx)"
-msgstr ""
+msgstr "2.0.0 (Iberian Lynx)"
 
 #: ../../../CHANGELOG.rst:354
 msgid "*Release date: 13 November 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 13 November 2017*"
 
 #: ../../../CHANGELOG.rst:358
 msgid "British Parliamentary support"
-msgstr ""
+msgstr "Dukungan untuk Britih Parliamentary"
 
 #: ../../../CHANGELOG.rst:357
 msgid "Full support for British Parliamentary format has been added and we're incredibly excited to see Tabbycat's unique features and design (finally) available as an option for those tabbing in the predominant global format"
-msgstr ""
+msgstr "Format dukungan penuh untuk British Parliamentary sudah ditambahkan dan kami sangat bersemangat untuk melihat fitur unik dan desain Tabbycat (akhirnya) tersedia sebagai opsi bagi mereka yang melakukan tab dalam format global utama"
 
 #: ../../../CHANGELOG.rst:358
 msgid "As part of the implementation of this format we've made significant improvements over existing tab software on how sides are allocated within BP draws. This means that teams are less likely to have 'imbalanced' proportions of side allocations (for example having many more debates as Opening Government than Closing Opposition)"
-msgstr ""
+msgstr "Sebagai bagian dari implementasi format ini, kami sudah membuat peningkatan yang signifikan pada perangkat lunak tab yang ada mengenai bagaimana mengalokasikan sisi pada saat pengundian BP. Ini berarti kecil kemungkinan bagi tim untuk memiliki proporsi yang tidak seimbang pada alokasi sisi (sebagai contoh memiliki debat pembuka lebih banyak dibandingkan debat penutup)"
 
 #: ../../../CHANGELOG.rst:359
 msgid "We've added a new \"Comparisons\" page added to the documentation to outline some of the key differences between Tabbycat and other software in the context of BP tabbing"
@@ -1622,23 +1622,23 @@ msgstr "*Tanggal rilis: 16 Agustus 2016*"
 
 #: ../../../CHANGELOG.rst:613
 msgid "Redesigned and redeveloped adjudicator allocation page"
-msgstr ""
+msgstr "Mengatur dan memperbaiki ulang halaman alokasi juri"
 
 #: ../../../CHANGELOG.rst:611
 msgid "Redesigned interface, featuring clearer displays of conflict and diversity information"
-msgstr ""
+msgstr "Mendesain ulang antarmuka, menampilkan tampilan yang lebih jelas informasi konflik dan perbedaan"
 
 #: ../../../CHANGELOG.rst:612
 msgid "Changes to importances and panels are now automatically saved"
-msgstr ""
+msgstr "Perubahan pada panel dan kepentingan sekarang disimpan secara otomatis"
 
 #: ../../../CHANGELOG.rst:613
 msgid "Added debate \"liveness\" to help identify critical rooms—many thanks to Thevesh Theva"
-msgstr ""
+msgstr "Menambahkan \"kehidupan\" debat untuk membantu mengidentifikasi ruang kritis - terimakasih banyak pada Thevesh Theva"
 
 #: ../../../CHANGELOG.rst:614
 msgid "Panel score calculations performed live to show strength of voting majorities"
-msgstr ""
+msgstr "Perhitungan skor panel dilakukan secara langsung untuk menunjukkan kekuatan dari mayoritas suara"
 
 #: ../../../CHANGELOG.rst:616
 msgid "New features"
