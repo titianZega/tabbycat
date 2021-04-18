@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 12:53\n"
+"PO-Revision-Date: 2021-04-18 13:09\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -112,7 +112,7 @@ msgstr "**Impor data**. Tabbie2 mengambil berkas CSV untuk diimpor. Tabbycat pun
 
 #: ../../guide/comparisons.rst:55
 msgid "**Public interface**. Tabbycat can optionally publish the entire draw, as well as current team point standings and results of previous rounds, online. Tabbie2 shows to a logged-in user information about the debate that user is in for that round, but doesn't allow people to check up on people who are not themselves."
-msgstr ""
+msgstr "**Antarmuka publik**. Tabbycat dapat menerbitkan seluruh undian secara opsional, begitu juga dengan urutan poin tim saat ini dan hasil dari ronde sebelumnya, secara daring. Tabbie2 menunjukkan ke pengguna yang telah masuk informasi tentang debat yang pengguna tersebut sedang berada, tapi tidak memperbolehkan seseorang untuk mengecek orang lain yang bukan dirinya sendiri."
 
 #: ../../guide/comparisons.rst:57
 msgid "**Position rotation**. Tabbie2 uses an algorithm known as the \"Silver Line algorithm\", which keeps swapping pairs of teams until no further improvement is found. Because it stops at any 'local optimum', this method isn't guaranteed to be the best possible distribution of positions, and for large tournaments it often isn't. Tabbycat instead uses the `Hungarian algorithm <https://en.wikipedia.org/wiki/Hungarian_algorithm>`_, an well-known algorithm that finds the (globally) optimal allocation of positions. (One might describe this algorithm, in technical terms, as 'powerful'.) Tabbycat also produces a position balance report, so that in every round you can see which teams have unbalanced position histories."
