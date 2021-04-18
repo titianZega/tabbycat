@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 10:33\n"
+"PO-Revision-Date: 2021-04-18 10:44\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -901,7 +901,7 @@ msgstr "Menghapus tombol gulir ukuran teks/kecepatan pada tampilan gambar mobile
 
 #: ../../../CHANGELOG.rst:323
 msgid "Improved the display of the motions tab page on mobile devices and fixed an issue where it appeared as if only half the vetoes were made"
-msgstr ""
+msgstr "Memperbaiki tampilan dari halaman tab mosi pada perangkat mobile dan memperbaiki sebuah masalah dimana itu ditampilkan seolah-olah hanya setengah dari veto yang dibuat"
 
 #: ../../../CHANGELOG.rst:327
 msgid "2.0.2"
@@ -913,47 +913,47 @@ msgstr "*Tanggal rilis: 27 November 2017*"
 
 #: ../../../CHANGELOG.rst:333
 msgid "Fixes and improvements to diversity overview"
-msgstr ""
+msgstr "Perbaikan dan peningkatan pada gambaran perbedaan"
 
 #: ../../../CHANGELOG.rst:331
 msgid "Fixed average feedback rating from teams, it was previously (incorrectly) showing the average feedback rating from all adjudicators"
-msgstr ""
+msgstr "Memperbaiki rata rata rating umpan balik dari tim, sebelumnya ia (dengan tidak benar) telah menampilkan rata rata rating umpan balik dari semua juri"
 
 #: ../../../CHANGELOG.rst:332
 msgid "Gender splits for average feedback rating now go by target adjudicator; this was previously source adjudicator"
-msgstr ""
+msgstr "Pembagian jenis kelamin untuk rating umpan balik rata-rata sekarang dilakukan oleh juri target, sebelumnya ini dilakukan juri sumber"
 
 #: ../../../CHANGELOG.rst:333
 msgid "Persons with unknown gender are now shown in counts (but not score/rating averages); a bug had previously caused them to be incorrectly counted as zero"
-msgstr ""
+msgstr "Orang dengan jenis kelamin yang tidak diketahui sekarang ditampilkan dengan perhitungan (bukan dengan rata-rata skor/rating); sebuah masalah yang sebelumnya menyebabkan mereka untuk ditampilkan sebagai 0 dengan tidak benar"
 
 #: ../../../CHANGELOG.rst:334
 msgid "Improved query efficiency of the page"
-msgstr ""
+msgstr "Memperbaiki efisiensi kueri dari halaman"
 
 #: ../../../CHANGELOG.rst:335
 msgid "Improved the BP motions tab for out-rounds by specifying advancing teams as \"top/bottom ½\" rather than as 1st/4th and removed the average-points-per-position graphs that were misleading"
-msgstr ""
+msgstr "Memperbaiki tab mosi BP untuk ronde luar dengan menentukan tim yang maju sebagai \"atas/bawah ½\", bukan sebagai ke-1/ke-4 dan menghapus grafik poin rata-rata per posisi yang menyesatkan"
 
 #: ../../../CHANGELOG.rst:336
 msgid "Improved handling of long motions in the motion display interface"
-msgstr ""
+msgstr "Memperbaiki penanganan dari mosi yang panjang pada antarmuka tampilan mosi"
 
 #: ../../../CHANGELOG.rst:337
 msgid "Fixed issue where creating BP tournaments using the wizard would create an extra break round given the size of the break specified"
-msgstr ""
+msgstr "Memperbaiki masalah dimana membuat turnamen BP dengan menggunakan wizard akan menyebabkan tambahan ronde istirahat dari ronde istirahat yang sudah ditentukan"
 
 #: ../../../CHANGELOG.rst:338
 msgid "Fixed auto-allocation in consensus panels where there are fewer judges than debates in the round"
-msgstr ""
+msgstr "Memperbaiki alokasi otomatis pada panel konsensus dimana jumlah juri lebih sedikit daripada debat di babak tersebut"
 
 #: ../../../CHANGELOG.rst:339
 msgid "Fixed reply speaker validity check when speeches are marked as duplicate"
-msgstr ""
+msgstr "Memperbaiki pemeriksaan validitas pembicara balasan ketika pidato ditandai sebagai duplikat"
 
 #: ../../../CHANGELOG.rst:340
 msgid "Prohibit assignment of teams to break categories of other tournaments in Edit Database area"
-msgstr ""
+msgstr "Melarang penugasan tim untuk membagi kategori turnamen lain di area Ubah Basisdata"
 
 #: ../../../CHANGELOG.rst:344
 msgid "2.0.1"
