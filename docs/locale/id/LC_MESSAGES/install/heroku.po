@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 00:14\n"
+"PO-Revision-Date: 2021-04-18 00:23\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -184,19 +184,19 @@ msgstr "Langkah 4 sama dengan proses yang dijelaskan di: ref: `importtournament-
 
 #: ../../install/heroku.rst:135
 msgid "Place your CSV files in ``data/yourtournamentname``, as described in :ref:`importing-initial-data`."
-msgstr ""
+msgstr "Tempatkan file CSV Anda di ``data/yourtournamentname``, seperti yang dijelaskan di :ref:`importing-initial-data`."
 
 #: ../../install/heroku.rst:137
 msgid "Create a new, blank local database::"
-msgstr ""
+msgstr "Buat database lokal baru dan kosong::"
 
 #: ../../install/heroku.rst:141
 msgid "It's normally easiest to name your local database after your app name, so that if you have multiple sites, you know which one relates to which."
-msgstr ""
+msgstr "Biasanya paling mudah memberi nama database lokal Anda setelah nama aplikasi Anda, sehingga jika Anda memiliki banyak situs, Anda tahu mana yang terkait dengan situs mana."
 
 #: ../../install/heroku.rst:143
 msgid "Reconfigure ``DATABASES`` in your settings_local.py file to point to this new database."
-msgstr ""
+msgstr "Konfigurasi ulang ``DATABASES'' di file settings_local.py Anda untuk diarahkan ke database baru ini."
 
 #: ../../install/heroku.rst:145
 msgid "Activate your virtual environment::"
@@ -204,19 +204,19 @@ msgstr "Aktifkan lingkungan virtual anda::"
 
 #: ../../install/heroku.rst:149
 msgid "Run initial migrations on your blank local database::"
-msgstr ""
+msgstr "Jalankan migrasi awal pada database lokal kosong Anda::"
 
 #: ../../install/heroku.rst:154
 msgid "Import your tournament data into your blank local database::"
-msgstr ""
+msgstr "Impor data turnamen Anda ke database lokal kosong Anda::"
 
 #: ../../install/heroku.rst:158
 msgid "If your data's not clean, it might take a few attempts to get this right. We recommend either destroying and recreating the database (``dropdb``, ``createdb``), or wiping it using ``dj flush``, before retrying."
-msgstr ""
+msgstr "Jika data Anda tidak bersih, mungkin perlu beberapa upaya untuk memperbaikinya. Kami merekomendasikan untuk menghancurkan dan membuat ulang database (``dropdb``, ``createb``), atau menghapusnya menggunakan ``dj flush``, sebelum mencoba lagi."
 
 #: ../../install/heroku.rst:160
 msgid "Check it looks like how you expect it to look, by starting your local installation::"
-msgstr ""
+msgstr "Periksa tampilannya seperti yang Anda harapkan, dengan memulai instalasi lokal Anda::"
 
 #: ../../install/heroku.rst:165
 msgid "5. Push the local database to Heroku"
@@ -224,11 +224,11 @@ msgstr "5. mengirim basisdata lokal ke heroku"
 
 #: ../../install/heroku.rst:167
 msgid "Once you're happy with how your local import went, you can push the local database to Heroku."
-msgstr ""
+msgstr "Setelah Anda puas dengan cara impor lokal Anda, Anda dapat memasukkan database lokal ke Heroku."
 
 #: ../../install/heroku.rst:169
 msgid "This step wipes the Heroku database clean, and replaces it with the contents of your local database. If you have any data on the Heroku site that isn't also in your local database, **that data will be lost** and will not be recoverable."
-msgstr ""
+msgstr "Langkah ini menghapus database Heroku hingga bersih, dan menggantinya dengan konten database lokal Anda. Jika Anda memiliki data di situs Heroku yang tidak juga ada di database lokal Anda, **data tersebut akan hilang** dan tidak dapat dipulihkan."
 
 #: ../../install/heroku.rst:171
 msgid "If you have multiple Heroku sites, you may find that the ``heroku`` commands refuse to run, prompting you to specify an app. If so, add ``--app yourappname`` to each ``heroku`` command."
@@ -240,31 +240,31 @@ msgstr ""
 
 #: ../../install/heroku.rst:177
 msgid "Reset the database. (Caution: This permanently deletes all information on your Heroku database!)"
-msgstr ""
+msgstr "Setel ulang database. (Perhatian: Ini secara permanen menghapus semua informasi di database Heroku Anda!)"
 
 #: ../../install/heroku.rst:183
 msgid "Push your local database to Heroku::"
-msgstr ""
+msgstr "Push database lokal Anda ke Heroku::"
 
 #: ../../install/heroku.rst:187
 msgid "You might need to specify your local PostgreSQL credentials by adding ``PGUSER=yourusername PGPASSWORD=******** PGHOST=localhost`` to the *beginning* of that command. (This sets environment variables to those values for the duration of that one command.)"
-msgstr ""
+msgstr "Anda mungkin perlu menentukan kredensial PostgreSQL lokal Anda dengan menambahkan ``PGUSER=yourusername PGPASSWORD = ******** PGHOST = localhost`` ke *awal* perintah itu. (Ini menetapkan variabel lingkungan ke nilai tersebut selama durasi satu perintah itu.)"
 
 #: ../../install/heroku.rst:189
 msgid "Disable maintenance mode::"
-msgstr ""
+msgstr "Nonaktifkan mode pemeliharaan::"
 
 #: ../../install/heroku.rst:195
 msgid "Heroku options you may want to change"
-msgstr ""
+msgstr "Opsi Heroku yang mungkin ingin Anda ubah"
 
 #: ../../install/heroku.rst:197
 msgid "If you have a large tournament, you may want to customize your Heroku app. This section provides some guidance on upgrades and settings you may wish to consider. Some of these configurations require you to have the `Heroku Command Line Interface (CLI) <https://devcenter.heroku.com/articles/heroku-cli>`_ installed."
-msgstr ""
+msgstr "Jika Anda memiliki turnamen besar, Anda mungkin ingin menyesuaikan aplikasi Heroku Anda. Bagian ini memberikan beberapa panduan tentang peningkatan dan pengaturan yang mungkin ingin Anda pertimbangkan. Beberapa konfigurasi ini mengharuskan Anda memasang `Heroku Command Line Interface (CLI) <https://devcenter.heroku.com/articles/heroku-cli>` _."
 
 #: ../../install/heroku.rst:202
 msgid "Upgrading your database size"
-msgstr ""
+msgstr "Meningkatkan ukuran database Anda"
 
 #: ../../install/heroku.rst:204
 msgid "The free plan of `Heroku Postgres <https://elements.heroku.com/addons/heroku-postgresql>`_, \"Hobby Dev\", should work for most small tournaments. For large tournaments, however, you may find that you exceed the 10,000-row limit of this plan. It's difficult to give general guidance on how many rows you're likely to use, because it depends on which features of Tabbycat you use (*e.g.*, if you use adjudicator feedback). But to give some idea:"
@@ -272,7 +272,7 @@ msgstr ""
 
 #: ../../install/heroku.rst:206
 msgid "Australs 2016, which had 74 teams, 8 preliminary rounds and heavily used adjudicator feedback, ended up at around 30,000 rows."
-msgstr ""
+msgstr "Australs 2016, yang memiliki 74 tim, 8 babak penyisihan dan umpan balik juri yang sangat banyak digunakan, berakhir di sekitar 30.000 baris."
 
 #: ../../install/heroku.rst:207
 #, python-format
@@ -293,7 +293,7 @@ msgstr ""
 
 #: ../../install/heroku.rst:215
 msgid "Custom domain names"
-msgstr ""
+msgstr "Nama domain kustom"
 
 #: ../../install/heroku.rst:217
 msgid "Your Heroku app will be available at ``yourappname.herokuapp.com``. You may want it to be a subdomain of your tournament's website, like ``tab.australasians2015.org``. If so, you'll need to configure your custom domain and SSL. Instructions for both are in the Heroku Dev Center:"
@@ -329,7 +329,7 @@ msgstr ""
 
 #: ../../install/heroku.rst:234
 msgid "Time zone"
-msgstr ""
+msgstr "Zona waktu"
 
 #: ../../install/heroku.rst:236
 msgid "If you want to change the time zone you nominated during deployment, you can do so by going to the `Heroku Dashboard <https://dashboard.heroku.com/>`_, clicking on your app, going to the **Settings** tab, clicking **Reveal Config Vars** and changing the value of the ``TIME_ZONE`` variable. This value must be one of the names in the IANA tz database, *e.g.* ``Pacific/Auckland``, ``America/Mexico_City``, ``Asia/Kuala_Lumpur``.  You can find a `list of these on Wikipedia <https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List>`_ in the 'TZ\\*' column."
@@ -337,7 +337,7 @@ msgstr ""
 
 #: ../../install/heroku.rst:239
 msgid "SendGrid account details"
-msgstr ""
+msgstr "Sunting rincian akun"
 
 #: ../../install/heroku.rst:241
 msgid "By default, Heroku will automatically create a SendGrid account for you. For small tournaments, this should work fine. For larger ones, though, SendGrid typically doesn't allow new accounts to send so many emails without additional vetting. This vetting is separate to the verification you did for your Heroku account, and as far as we're aware, it can't be done until you send your first email, by which time it's probably too late."
@@ -385,7 +385,7 @@ msgstr ""
 
 #: ../../install/heroku.rst:268
 msgid "Upgrading an existing Heroku app"
-msgstr ""
+msgstr "Meningkatkan aplikasi Heroku yang sudah ada"
 
 #: ../../install/heroku.rst:270
 msgid "For most users, we recommend starting a new site for every tournament, when you set up the tab for that tournament. There's generally not a pressing need to upgrade Tabbycat after a tournament is concluded, and every time you deploy a new site, you'll be using the latest version at the time of deployment."
@@ -409,7 +409,7 @@ msgstr ""
 
 #: ../../install/heroku.rst:280
 msgid "Take a backup of your database::"
-msgstr ""
+msgstr "Buat cadangan database Anda::"
 
 #: ../../install/heroku.rst:284
 msgid "If you haven't already, clone our Git repository and check out the master branch::"
@@ -425,21 +425,21 @@ msgstr ""
 
 #: ../../install/heroku.rst:300
 msgid "If you do, the name of the remote will be on the left (``heroku`` in the above example), and the URL of your Git repository will be on the right. In the example above, our Tabbycat site URL would be ``mytournament2018.herokuapp.com``; the Git remote URL is then ``https://git.heroku.com/mytournament2018.git``."
-msgstr ""
+msgstr "Jika Anda melakukannya, nama remote akan berada di sebelah kiri (``heroku`` pada contoh di atas), dan URL dari repositori Git Anda akan berada di sebelah kanan. Pada contoh di atas, URL situs Tabbycat kami adalah ``mytournament2018.herokuapp.com``; URL jarak jauh Git kemudian menjadi ``https://git.heroku.com/mytournament2018.git``."
 
 #: ../../install/heroku.rst:302
 msgid "If a Git remote URL for your Tabbycat site *doesn't* appear, then create one::"
-msgstr ""
+msgstr "Jika URL jarak jauh Git untuk situs Tabbycat Anda *tidak* muncul, buatlah satu::"
 
 #: ../../install/heroku.rst:307
 msgid "If you tab many tournaments, it'll probably be helpful to use a name other than ``heroku`` (say, ``mytournament2018``), so that you can manage multiple tournaments."
-msgstr ""
+msgstr "Jika Anda menonton banyak turnamen, mungkin akan membantu jika menggunakan nama selain ``heroku`` (katakanlah,`` mytournament2018''), sehingga Anda dapat mengelola banyak turnamen."
 
 #: ../../install/heroku.rst:309
 msgid "Push to Heroku::"
-msgstr ""
+msgstr "Kirim ke Heroku::"
 
 #: ../../install/heroku.rst:313
 msgid "This will take a while to complete."
-msgstr ""
+msgstr "Ini akan memakan waktu cukup lama untuk diselesaikan."
 
