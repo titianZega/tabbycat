@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-16 12:58\n"
+"PO-Revision-Date: 2021-04-18 05:33\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -1317,27 +1317,27 @@ msgstr "Menambahkan preferensi untuk mengontrol apakah asisten pengguna memiliki
 
 #: ../../../CHANGELOG.rst:476
 msgid "Added the ability to limit tab releases to a given number of ranks (*i.e.* only show the top 10 speakers)"
-msgstr ""
+msgstr "Menambahkan kemampuan untuk membatasi tab rilis ke batasan peringkat yang ditentukan (*misalnya* hanya menunjukkan 10 besar pembicara)"
 
 #: ../../../CHANGELOG.rst:477
 msgid "Added the ability to redact individual person's identifying details from speaker tabs"
-msgstr ""
+msgstr "Menambahkan kemampuan untuk menyunting detail identitas individu dari tab pembicara"
 
 #: ../../../CHANGELOG.rst:478
 msgid "Added the ability for user passwords to be easily reset"
-msgstr ""
+msgstr "Menambahkan kemampuan untuk mempermudah pengaturan ulang kata sandi pengguna"
 
 #: ../../../CHANGELOG.rst:479
 msgid "Added a minimal set of default feedback questions to newly created Tournaments"
-msgstr ""
+msgstr "Menambahkan sekumpulan pertanyaan umpan balik bawaan ke Turnamen yang baru dibuat"
 
 #: ../../../CHANGELOG.rst:480
 msgid "When a tournament's current round is set, redirect to a page where it can be set, rather than crashing"
-msgstr ""
+msgstr "Ketika ronde turnamen saat ini sudah ditetapkan, alihkan ke halaman tempat pengaturan itu dapat diatur, daripada bermasalah"
 
 #: ../../../CHANGELOG.rst:481
 msgid "A number of other minor bug fixes and enhancements"
-msgstr ""
+msgstr "Beberapa perbaikan kecil dan penyempurnaan lainnya"
 
 #: ../../../CHANGELOG.rst:485
 msgid "1.2.3"
@@ -1349,12 +1349,12 @@ msgstr "*Tanggal rilis: 17 Maret 2017*"
 
 #: ../../../CHANGELOG.rst:488
 msgid "Improved the display of the admin ballot entry form on mobile devices"
-msgstr ""
+msgstr "Memperbaiki tampilan dari masukan formulir kertas suara admin pada perangkat mobile"
 
 #: ../../../CHANGELOG.rst:489 ../../../CHANGELOG.rst:497
 #: ../../../CHANGELOG.rst:505
 msgid "A number of other minor bug fixes"
-msgstr ""
+msgstr "Sejumlah perbaikan masalah kecil lainnya"
 
 #: ../../../CHANGELOG.rst:493
 msgid "1.2.2"
@@ -1362,7 +1362,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:494
 msgid "*Release date: 4 March 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 4 Maret 2017*"
 
 #: ../../../CHANGELOG.rst:496
 msgid "Protected debate-team objects from cascaded deletion, and added warning messages with guidance when users would otherwise do this"
@@ -1374,7 +1374,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:502
 msgid "*Release date: 25 February 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 25 Februari 2017*"
 
 #: ../../../CHANGELOG.rst:504
 msgid "Printable feedback forms will now display the default rating scale, any configured introduction text, and better prompt you to add additional questions"
@@ -1382,11 +1382,11 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:509
 msgid "1.2.0 (Foldex)"
-msgstr ""
+msgstr "1.2.0 (Foldex)"
 
 #: ../../../CHANGELOG.rst:510
 msgid "*Release date: 15 February 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 15 Februari 2017*"
 
 #: ../../../CHANGELOG.rst:512
 msgid "Changed the core workflow by splitting display- and motion- related activities into separate pages to simplify each stage of running a round"
