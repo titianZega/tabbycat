@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 06:54\n"
+"PO-Revision-Date: 2021-04-18 07:04\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -117,7 +117,7 @@ msgstr "Menambahkan sistem panel yang telah dibentuk sebelumnya yang memberikan 
 
 #: ../../../CHANGELOG.rst:42
 msgid "Shadow draw systems allow an adjudication core to form panels prior to a round being drawn. For example, the panels for Round 4 could be formed while Round 3 is taking place. Most implementations do so by having the tab system create a copy of the Round 3 draw, form new panels on top of it, and then transpose these panels onto Round 4. In large tournaments this workflow allows an adjudication core much more time to consider panel formation"
-msgstr ""
+msgstr "Sistem gambar bayangan memungkinkan juri inti untuk membentuk panel sebelum ronde ditarik. Sebagai contoh, panel untuk Ronde 4 dapat dibentuk selama Ronde 3 sedang berlangsung. Sebagian besar implementasi melakukannya dengan meminta sistem tab menyalin undian untuk Ronde 3, membentuk panel baru diatasnya, lalu mengubah susunan panel tersebut ke Ronde 4. Dalam turnamen besar, alur kerja ini memungkinkan juri inti memiliki lebih banyak waktu untuk mempertimbangkan pembentukan panel"
 
 #: ../../../CHANGELOG.rst:43
 msgid "Tabbycat's preformed panels are formed per-round under a section available under the Setup menu. This interface looks like the standard Edit Adjudicators interface, but the 'debates' shown are based on a simulation of that round's results. These fake debates can then be prioritised"
@@ -169,7 +169,7 @@ msgstr "Salin ``tabbycat/settings/local.example`` untuk menjadi ``local.py`` (da
 
 #: ../../../CHANGELOG.rst:55
 msgid "Optional: repeat the same copying procedure for ``development.example`` and set the ``LOCAL_DEVELOPMENT`` environmental variable to ``True`` if you would like to use the settings designed to aid local development"
-msgstr ""
+msgstr "Opsional: ulangi prosedur penyalinan yang sama untuk ``development.example`` dan atur variabel ``LOCAL_DEVELOPMENT`` ke ``True`` jika anda ingin menggunakan pengaturan yang sudah didesain untuk membantu pengembangan secara lokal"
 
 #: ../../../CHANGELOG.rst:61
 msgid "A range of improvements to the email notifications contributed by Étienne Beaulé:"
