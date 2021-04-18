@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 06:14\n"
+"PO-Revision-Date: 2021-04-18 06:24\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -1013,11 +1013,11 @@ msgstr "Tahap \"Mosi\" dari cara kerja setiap ronde sekarang sudah dimasukkan ke
 
 #: ../../../CHANGELOG.rst:363
 msgid "Sidebar menu items now display all sub-items within a section, such as for Feedback, Standings, and Breaks"
-msgstr ""
+msgstr "Item menu bilah sisi sekarang menampilkan semua sub-item pada setiap bagian, seperti untuk Umpan Balik, Klasemen, Dan Istirahat"
 
 #: ../../../CHANGELOG.rst:364
 msgid "Better tablet and mobile interfaces; including a fully responsive sidebar for the admin area that maximises the content area"
-msgstr ""
+msgstr "Antarmuka yang lebih baik pada perangkat mobil dan tablet, termasuk bilah sisi yang sepenuhnya responsif untuk area admin yang memaksimalkan area konten"
 
 #: ../../../CHANGELOG.rst:365
 msgid "More explicit and obvious calls-to-action for the key tasks necessary to running a round, with better interface alerts and text to help users understand when and why to perform crucial actions"
@@ -1025,7 +1025,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:366
 msgid "Redesigned motions tab page that gives a better idea of the sample size and distribution of results in both two- and four- team formats"
-msgstr ""
+msgstr "Mendesain ulang halaman tab mosi yang memberikan ide lebih baik untuk ukuran sampel dan persebaran hasil pada kedua format dua dan empat tim"
 
 #: ../../../CHANGELOG.rst:368
 msgid "Improved handling of Break Rounds ballots and sides allocation"
@@ -1105,7 +1105,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:390
 msgid "*Release date: 23 October 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 23 Oktober 2017*"
 
 #: ../../../CHANGELOG.rst:392
 msgid "Fixed issue where speaker standings with a large amount of non-ranking speakers would cause the page to load slowly or time-out."
