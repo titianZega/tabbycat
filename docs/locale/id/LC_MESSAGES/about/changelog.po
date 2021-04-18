@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 09:03\n"
+"PO-Revision-Date: 2021-04-18 09:14\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -497,11 +497,11 @@ msgstr "Menambahkan kemampuan untuk menyembunyikan mosi pada kertas suara yang t
 
 #: ../../../CHANGELOG.rst:181
 msgid "Added the ability to unconfirm feedback from any of the views that show it"
-msgstr ""
+msgstr "Menambahkan kemampuan untuk membatalkan konfirmasi umpan balik dari salah satu tampilan yang menunjukkannya"
 
 #: ../../../CHANGELOG.rst:182
 msgid "BP motion statistics now also show average points split by bench and half"
-msgstr ""
+msgstr "Statistik mosi BP sekarang menunjukkan skor rata-rata yang dipisahkan dengan bangku dan setengah"
 
 #: ../../../CHANGELOG.rst:183
 msgid "Added a warning when users are close to their free-tier database limit on Heroku that makes it clear not to create new tournaments"
