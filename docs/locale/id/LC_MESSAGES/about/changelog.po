@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 05:33\n"
+"PO-Revision-Date: 2021-04-18 05:43\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -1366,7 +1366,7 @@ msgstr "*Tanggal rilis: 4 Maret 2017*"
 
 #: ../../../CHANGELOG.rst:496
 msgid "Protected debate-team objects from cascaded deletion, and added warning messages with guidance when users would otherwise do this"
-msgstr ""
+msgstr "Melindungi objek tim debat dari penghapusan bertingkat, dan menambahkan pesan peringatan dengan panduan saat pengguna akan melakukannya"
 
 #: ../../../CHANGELOG.rst:501
 msgid "1.2.1"
@@ -1378,7 +1378,7 @@ msgstr "*Tanggal rilis: 25 Februari 2017*"
 
 #: ../../../CHANGELOG.rst:504
 msgid "Printable feedback forms will now display the default rating scale, any configured introduction text, and better prompt you to add additional questions"
-msgstr ""
+msgstr "Formulir umpan balik yang dapat dicetak sekarang akan menampilkan skala peringkat default, semua teks pendahuluan yang dikonfigurasi, dan meminta Anda menambahkan pertanyaan tambahan dengan lebih baik"
 
 #: ../../../CHANGELOG.rst:509
 msgid "1.2.0 (Foldex)"
@@ -1390,27 +1390,27 @@ msgstr "*Tanggal rilis: 15 Februari 2017*"
 
 #: ../../../CHANGELOG.rst:512
 msgid "Changed the core workflow by splitting display- and motion- related activities into separate pages to simplify each stage of running a round"
-msgstr ""
+msgstr "Mengubah alur kerja inti dengan membagi aktivitas yang terkait dengan tampilan dan gerakan menjadi halaman terpisah untuk menyederhanakan setiap tahap dalam putaran"
 
 #: ../../../CHANGELOG.rst:513
 msgid "Added support for Docker-based installations to make local/offline installations much more simple"
-msgstr ""
+msgstr "Menambahkan dukungan untuk instalasi berbasis Docker untuk membuat instalasi lokal/ offline menjadi lebih simpel"
 
 #: ../../../CHANGELOG.rst:514
 msgid "Added a \"Tabbykitten\" version of Tabbycat that can be deployed to Heroku without a needing a credit/debit card"
-msgstr ""
+msgstr "Menambahkan versi \"Tabbykitten\" dari Tabbycat yang dapat dideploy ke Heroku tanpa membutuhkan kartu kredit/debit"
 
 #: ../../../CHANGELOG.rst:515
 msgid "Added button to load a demo tournament on the 'New Tournament' page so it is easier to test-run Tabbycat"
-msgstr ""
+msgstr "Menambahkan tombol untuk memuat demo turnamen pada halaman 'Turnamen Baru' sehingga mempermudah untuk menguji-menjalankan Tabbycat"
 
 #: ../../../CHANGELOG.rst:516
 msgid "Changed venue groups to be separate to venue constraint categories"
-msgstr ""
+msgstr "Mengubah grup ruangan agar terpisah dengan kategori batasan tempat"
 
 #: ../../../CHANGELOG.rst:517
 msgid "Modified the licence to clarify that donations are required for some tournaments and added a more explicit donations link and explanation page"
-msgstr ""
+msgstr "Memodifikasi lisensi untuk mengklarifikasi bahwa donasi diperlukan untuk beberapa turnamen dan menambahkan tautan donasi dan halaman penjelasan yang lebih eksplisit"
 
 #: ../../../CHANGELOG.rst:518
 msgid "Added information about autosave status to the adjudicator allocations page"
@@ -1642,7 +1642,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:616
 msgid "New features"
-msgstr ""
+msgstr "Fitur baru"
 
 #: ../../../CHANGELOG.rst:616
 msgid "Added record pages for teams and adjudicators"
