@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 07:44\n"
+"PO-Revision-Date: 2021-04-18 08:54\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -481,7 +481,7 @@ msgstr "Memberikan semua peserta sebuah turnamen sebuah kunci URL pribadi daripa
 
 #: ../../../CHANGELOG.rst:177
 msgid "Implemented templated email notifications with ballot submission and round advance with the messages in a new settings panel. Private URL emails are now also customizable"
-msgstr ""
+msgstr "Mengimplementasikan template notifikasi email dengan pengiriman kertas suara dan ronde sebelumnya dengan pesan di panel pengaturan baru. Email URL pribadi juga dapat disesuaikan"
 
 #: ../../../CHANGELOG.rst:178
 msgid "Added the \"average individual speaker score\" metric which averages the scores of all substantive speeches by the team within preliminary rounds. The old \"average speaker score\" metric has been renamed to to \"average total speaker score\""
