@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 06:24\n"
+"PO-Revision-Date: 2021-04-18 06:43\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -48,11 +48,11 @@ msgstr "Memindahkan item menu 'Ubah Basisdata' ke dropdown dengan logo pada bagi
 
 #: ../../../CHANGELOG.rst:13
 msgid "Pull-ups can now be restricted to teams with the lowest draw strength (by speaker or team points) of their bracket"
-msgstr ""
+msgstr "Pull-up sekarang dapat dibatasi untuk tim dengan kekuatan undian yang paling rendah (berdasarkan pembicara atau poin tim) dari braket mereka"
 
 #: ../../../CHANGELOG.rst:14
 msgid "The number of pull-ups and draw strength by speaker score are now available as team standing metrics"
-msgstr ""
+msgstr "Banyak pull-up dan kekuatan pengundian berdasarkan skor pembicara sekarang terdapat di metrik klasemen tim"
 
 #: ../../../CHANGELOG.rst:15
 msgid "Added the new emoji that come along with Unicode 11 — thanks to Viran Weerasekera for this addition!"
@@ -1109,7 +1109,7 @@ msgstr "*Tanggal rilis: 23 Oktober 2017*"
 
 #: ../../../CHANGELOG.rst:392
 msgid "Fixed issue where speaker standings with a large amount of non-ranking speakers would cause the page to load slowly or time-out."
-msgstr ""
+msgstr "Memperbaiki masalah dimana klasemen pembicara dengan sejumlah besar pembicara non-peringkat menyebabkan halaman untuk dimuat dengan sangat lambat atau time-out."
 
 #: ../../../CHANGELOG.rst:396
 msgid "1.4.5"
@@ -1117,15 +1117,15 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:397
 msgid "*Release date: 14 October 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 14 Oktober 2017*"
 
 #: ../../../CHANGELOG.rst:399
 msgid "Added warning message when adjudicator scores are outside the expected range"
-msgstr ""
+msgstr "Menambahkan pesan peringata ketika skor juri diluar batas yang diijinkan"
 
 #: ../../../CHANGELOG.rst:400
 msgid "Fixed handling of uniqueness failure in simple importer for teams"
-msgstr ""
+msgstr "Memperbaiki penanganan dari kegagalan yang unik pada importir simpel untuk tim"
 
 #: ../../../CHANGELOG.rst:404
 msgid "1.4.4"
@@ -1133,15 +1133,15 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:405
 msgid "*Release date: 27 September 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 27 September 2017*"
 
 #: ../../../CHANGELOG.rst:407
 msgid "Fixed Vue dependency issue preventing Heroku installs after a dependency release"
-msgstr ""
+msgstr "Memperbaiki masalah dependansi Vue yang menghambat instalasi Heroku sesudah rilis dependansi"
 
 #: ../../../CHANGELOG.rst:408
 msgid "Fixed issue with formatting non-numeric standings metrics"
-msgstr ""
+msgstr "Memperbaiki masalah dengan format metrik non-angka pada klasemen"
 
 #: ../../../CHANGELOG.rst:409
 msgid "Fixed behaviour of public tabs when all rounds are silent"
@@ -1153,11 +1153,11 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:414
 msgid "*Release date: 9 September 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 9 September 2017*"
 
 #: ../../../CHANGELOG.rst:416
 msgid "A number of improvements to error handling and logging"
-msgstr ""
+msgstr "Beberapa perbaikan untuk menangani masalah dan pencatatan"
 
 #: ../../../CHANGELOG.rst:417
 msgid "Changed the \"previous round\" of an elimination round to point to the last one in the same break category"
@@ -1165,7 +1165,7 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:418
 msgid "Other minor bug fixes"
-msgstr ""
+msgstr "Perbaikan masalah minor lainnya"
 
 #: ../../../CHANGELOG.rst:422
 msgid "1.4.2"
@@ -1173,11 +1173,11 @@ msgstr ""
 
 #: ../../../CHANGELOG.rst:423
 msgid "*Release date: 23 August 2017*"
-msgstr ""
+msgstr "*Tanggal rilis: 23 Agustus 2017*"
 
 #: ../../../CHANGELOG.rst:425
 msgid "Minor bug fixes and error logging improvements"
-msgstr ""
+msgstr "Perbaikan masalah kecil dan peningkatan masalah pencatatan"
 
 #: ../../../CHANGELOG.rst:429
 msgid "1.4.1"
