@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 05:54\n"
+"PO-Revision-Date: 2021-04-18 06:04\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -997,15 +997,15 @@ msgstr "Sebagai bagian dari implementasi format ini, kami sudah membuat peningka
 
 #: ../../../CHANGELOG.rst:359
 msgid "We've added a new \"Comparisons\" page added to the documentation to outline some of the key differences between Tabbycat and other software in the context of BP tabbing"
-msgstr ""
+msgstr "Kami menambahkan halaman \"Perbandingan\" yang baru ke dokumentasi agar secara garis besar perbedaan antara Tabbycat dengan software lainnya dengan konteks tabbing BP dapat terlihat"
 
 #: ../../../CHANGELOG.rst:365
 msgid "Refreshed interface design"
-msgstr ""
+msgstr "Desain antarmuka yang lebih segar"
 
 #: ../../../CHANGELOG.rst:361
 msgid "The basic graphic elements of Tabbycat have had a their typography, icons,  colours, forms, and more redesign for a more distinctive and clear look. We also now have an official logo!"
-msgstr ""
+msgstr "Elemen grafis standar dari Tabbycat sudah memiliki tipografi, ikon, warna, formulir, dan perubahan desain lainnya untuk tampilan yang lebih khas dan jelas. Kami juga sekarang sudah memiliki logo resmi!"
 
 #: ../../../CHANGELOG.rst:362
 msgid "The \"Motions\" stage of the per-round workflow has now been rolled into the Display area to better accommodate BP formats and consolidate the Draw/Motion 'release' process"
