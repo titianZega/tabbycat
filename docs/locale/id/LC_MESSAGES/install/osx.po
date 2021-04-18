@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-17 23:43\n"
+"PO-Revision-Date: 2021-04-18 00:21\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -164,7 +164,7 @@ msgstr ""
 
 #: ../../install/osx.rst:104
 msgid "Navigate to your Tabbycat directory::"
-msgstr ""
+msgstr "Arahkan ke direktori Tabbycat Anda::"
 
 #: ../../install/osx.rst:108
 msgid "Copy **settings/local.example** to **settings/local.py**. Find this part in your new **local.py**, and fill in the blanks as indicated:"
