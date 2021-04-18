@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 10:14\n"
+"PO-Revision-Date: 2021-04-18 10:24\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -709,39 +709,39 @@ msgstr "Administrator sekarang dapat melihat halaman seolah-olah mereka adalah A
 
 #: ../../../CHANGELOG.rst:251
 msgid "Fixed χ² test in motion statistics, and refactored the motion statistics page"
-msgstr ""
+msgstr "Memperbaiki pengujian χ² pada statistik mosi, dan memfaktorkan ulang halaman statistik mosi"
 
 #: ../../../CHANGELOG.rst:252
 msgid "Teams, like adjudicators, no longer need to have an institution"
-msgstr ""
+msgstr "Tim, seperti juri, tidak lagi harus memiliki institusi"
 
 #: ../../../CHANGELOG.rst:253
 msgid "Added a page allowing for bulk updates to adjudicator scores"
-msgstr ""
+msgstr "Menambahkan halaman yang memungkinkan pembaruan massal untuk skor juri"
 
 #: ../../../CHANGELOG.rst:254
 msgid "Added break categories to team standings, and new team standings pages for break categories"
-msgstr ""
+msgstr "Menambahkan kategori istirahat ke klasemen tim, dan halaman klasemen tim baru untuk kategori istirahat"
 
 #: ../../../CHANGELOG.rst:259
 msgid "Made speaker standings more configurable"
-msgstr ""
+msgstr "Membuat klasemen pembicara lebih mudah untuk diatur"
 
 #: ../../../CHANGELOG.rst:256
 msgid "Second-order metrics can now be specified"
-msgstr ""
+msgstr "Metrik order kedua sekarang dapat ditentukan"
 
 #: ../../../CHANGELOG.rst:257
 msgid "Added trimmed mean (also known as high-low drop)"
-msgstr ""
+msgstr "Menambahkan rata-rata terpangkas (juga dikenal sebagai penurunan tinggi-rendah)"
 
 #: ../../../CHANGELOG.rst:258
 msgid "Added ability to set no limit for number of missed debates"
-msgstr ""
+msgstr "Menambahkan kemampuan untuk tidak membatasi jumlah debat yang terlewat"
 
 #: ../../../CHANGELOG.rst:259
 msgid "Standard deviation is now the population standard deviation (was previously sample), and ranks in ascending order if used to rank speakers."
-msgstr ""
+msgstr "Standar deviasi sekarang adalah standar deviasi dari populasi (sebelumnya sampel), dan peringkat meningkat ke bawah jika digunakan untuk menentukan peringkat pembicara."
 
 #: ../../../CHANGELOG.rst:273 ../../../CHANGELOG.rst:386
 msgid "Quality of life improvements"
@@ -761,27 +761,27 @@ msgstr "Menambahkan \"pemohon\" dan \"responden\" ke opsi nama samping"
 
 #: ../../../CHANGELOG.rst:265
 msgid "Added a two new columns to the feedback overview page: one that displays the current difference between an adjudicator's test score and their current weighted score; another the displays the standard deviation of an adjudicator's feedback scores"
-msgstr ""
+msgstr "Menambahkan 2 kolom baru ke halaman gambaran umpan balik: yang menampilkan perbedaan terkini antara skor uji juri dan skor tertimbang mereka saat ini; yang lain menampilkan standar deviasi dari skor umpan balik juri"
 
 #: ../../../CHANGELOG.rst:266
 msgid "Added an 'important feedback' page that highlights feedback significantly above or below an adjudicator's test score"
-msgstr ""
+msgstr "Menambahkan halaman 'umpan balik penting' yang menyoroti umpan balik secara signifikan di atas atau di bawah skor tes juri"
 
 #: ../../../CHANGELOG.rst:267
 msgid "Added a means to bulk-import adjudicator scores (for example from a CSV) to make it easier to work with external feedback processing"
-msgstr ""
+msgstr "Menambahkan sarana untuk mengimpor massal skor juri (misalnya dari CSV) untuk mempermudah bekerja dengan pemrosesan umpan balik eksternal"
 
 #: ../../../CHANGELOG.rst:268
 msgid "Speakers and speaker's emails in the simple importer can now be separated by commas or tabs in addition to new lines"
-msgstr ""
+msgstr "Email pembicara dan pembicara di importir sederhana sekarang dapat dipisahkan dengan koma atau tab di samping baris baru"
 
 #: ../../../CHANGELOG.rst:269
 msgid "The \"shared\" checkbox in the simple importer is now hidden unless the relevant tournament option is enabled"
-msgstr ""
+msgstr "Kotak centang \"bersama\" di importir sederhana sekarang disembunyikan kecuali opsi turnamen yang relevan diaktifkan"
 
 #: ../../../CHANGELOG.rst:270
 msgid "Current team standings page now shows silent round results if \"Release all round results to public\" is set"
-msgstr ""
+msgstr "Halaman klasemen tim saat ini sekarang menampilkan hasil babak diam jika \"Rilis semua hasil babak ke publik\" disetel"
 
 #: ../../../CHANGELOG.rst:271
 msgid "The Consensus vs Voting options for how ballots work has now been split into two settings: one option for preliminary rounds and one option for elimination rounds"
