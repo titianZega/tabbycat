@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 16:13\n"
+"PO-Revision-Date: 2021-04-18 16:24\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -236,7 +236,7 @@ msgstr "Jika Anda memiliki beberapa situs Heroku, Anda mungkin menemukan bahwa p
 
 #: ../../install/heroku.rst:173
 msgid "Enable maintenance mode. This takes the site offline, to ensure that no-one can possibly create or change any data on the site while you're pushing a new database up::"
-msgstr ""
+msgstr "Aktifkan mode pemeliharaan. Ini membuat situs offline, untuk memastikan bahwa tidak ada yang bisa membuat atau mengubah data apa pun di situs saat Anda mendorong database baru ke atas::"
 
 #: ../../install/heroku.rst:177
 msgid "Reset the database. (Caution: This permanently deletes all information on your Heroku database!)"
@@ -268,7 +268,7 @@ msgstr "Meningkatkan ukuran database Anda"
 
 #: ../../install/heroku.rst:204
 msgid "The free plan of `Heroku Postgres <https://elements.heroku.com/addons/heroku-postgresql>`_, \"Hobby Dev\", should work for most small tournaments. For large tournaments, however, you may find that you exceed the 10,000-row limit of this plan. It's difficult to give general guidance on how many rows you're likely to use, because it depends on which features of Tabbycat you use (*e.g.*, if you use adjudicator feedback). But to give some idea:"
-msgstr ""
+msgstr "Paket gratis `Heroku Postgres <https://elements.heroku.com/addons/heroku-postgresql>` _, \"Hobby Dev\",seharusnya dapat jalankan untuk sebagian besar turnamen kecil. Namun, untuk turnamen besar, Anda mungkin mendapati bahwa Anda melebihi batas 10.000 baris dari rencana ini. Sulit untuk memberikan panduan umum tentang berapa banyak baris yang kemungkinan besar akan Anda gunakan, karena hal ini bergantung pada fitur Tabbycat yang Anda gunakan (contohnya Jika Anda menggunakan umpan balik adjudicator). Tetapi untuk memberi beberapa ide:"
 
 #: ../../install/heroku.rst:206
 msgid "Australs 2016, which had 74 teams, 8 preliminary rounds and heavily used adjudicator feedback, ended up at around 30,000 rows."
@@ -277,19 +277,19 @@ msgstr "Australs 2016, yang memiliki 74 tim, 8 babak penyisihan dan umpan balik 
 #: ../../install/heroku.rst:207
 #, python-format
 msgid "The Asia BP championships 2017 had 100 teams, 6 preliminary rounds, and mandatory feedback (i.e. 100% return rates) used 15,000 rows."
-msgstr ""
+msgstr "Kejuaraan Asia BP 2017 memiliki 100 tim, 6 babak penyisihan, dan umpan balik wajib (yaitu tingkat pengembalian 100%) menggunakan 15.000 baris."
 
 #: ../../install/heroku.rst:208
 msgid "A 3 vs 3 tournament with 54 teams, 5 preliminary rounds, and which only lightly used adjudicator feedback ended up using around 4,500 rows"
-msgstr ""
+msgstr "Turnamen 3 vs 3 dengan 54 tim, 5 babak penyisihan, dan yang hanya menggunakan sedikit umpan balik juri berakhir dengan menggunakan sekitar 4.500 baris"
 
 #: ../../install/heroku.rst:210
 msgid "If you need more than 10,000 rows, you'll need to upgrade to a paid Heroku Postgres Plan. The 10,000,000 rows allowed in the lowest paid plan, \"Hobby Basic\", should certainly be more than sufficient."
-msgstr ""
+msgstr "Jika Anda membutuhkan lebih dari 10.000 baris, Anda harus meningkatkan ke Paket Heroku Postgres berbayar. 10.000.000 baris yang diizinkan dalam paket berbayar terendah, \"Hobby Basic\", tentunya sudah lebih dari cukup."
 
 #: ../../install/heroku.rst:212
 msgid "If you're not sure, you can always start at Hobby Dev—just be prepared to `upgrade <https://devcenter.heroku.com/articles/upgrade-heroku-postgres-with-pgbackups>`_ during the tournament if you run close to capacity."
-msgstr ""
+msgstr "Jika tidak yakin, Anda selalu dapat memulai di Hobby Dev — bersiaplah untuk `mengupgrade <https://devcenter.heroku.com/articles/upgrade-heroku-postgres-with-pgbackups>`_ selama turnamen jika Anda hampir mencapai kapasitas."
 
 #: ../../install/heroku.rst:215
 msgid "Custom domain names"
@@ -297,19 +297,19 @@ msgstr "Nama domain kustom"
 
 #: ../../install/heroku.rst:217
 msgid "Your Heroku app will be available at ``yourappname.herokuapp.com``. You may want it to be a subdomain of your tournament's website, like ``tab.australasians2015.org``. If so, you'll need to configure your custom domain and SSL. Instructions for both are in the Heroku Dev Center:"
-msgstr ""
+msgstr "Aplikasi Heroku Anda akan tersedia di `` yourappname.herokuapp.com``. Anda mungkin menginginkannya menjadi subdomain dari situs web turnamen Anda, seperti `` tab.australasians2015.org``. Jika demikian, Anda harus mengonfigurasi domain khusus dan SSL Anda. Petunjuk untuk keduanya ada di Heroku Dev Center:"
 
 #: ../../install/heroku.rst:219
 msgid "`Custom Domain Names for Apps <https://devcenter.heroku.com/articles/custom-domains>`_"
-msgstr ""
+msgstr "`Nama Domain Khusus untuk Aplikasi <https://devcenter.heroku.com/articles/custom-domains>`_"
 
 #: ../../install/heroku.rst:220
 msgid "`Heroku SSL <https://devcenter.heroku.com/articles/ssl>`_"
-msgstr ""
+msgstr "`Heroku SSL <https://devcenter.heroku.com/articles/ssl>`_"
 
 #: ../../install/heroku.rst:222
 msgid "The custom domain name basically requires two things: a DNS ``CNAME`` entry on your website targeting ``yourappname.herokuapp.com``, and the custom domain configured on Heroku using ``heroku domains:add tab.yourwebsite.com``.  You'll also need to provide an SSL certificate for your custom domain and add it using the ``heroku certs:add`` command."
-msgstr ""
+msgstr "Nama domain khusus pada dasarnya membutuhkan dua hal: entri DNS ``CNAME'' di situs web Anda yang menargetkan ``namaaplikasianda.herokuapp.com'', dan domain khusus yang dikonfigurasi di Heroku menggunakan ``domain heroku: tambahkan tab.situs webanda.com``. Anda juga harus memberikan sertifikat SSL untuk domain kustom Anda dan menambahkannya menggunakan perintah ``heroku certs: add``."
 
 #: ../../install/heroku.rst:225
 msgid "HTTPS"
@@ -317,11 +317,11 @@ msgstr ""
 
 #: ../../install/heroku.rst:227
 msgid "All Tabbycat sites deployed to Heroku redirect all traffic to HTTPS by default."
-msgstr ""
+msgstr "Semua situs Tabbycat yang diterapkan ke Heroku mengalihkan semua lalu lintas ke HTTPS secara default."
 
 #: ../../install/heroku.rst:229
 msgid "For a myriad of reasons, we strongly advise against disabling this. But if for some reason you need to run on plain HTTP, you can do this by setting the ``DISABLE_HTTPS_REDIRECTS`` config variable in Heroku to ``disable`` (see `Heroku documentation on config vars <https://devcenter.heroku.com/articles/config-vars>`_). The value of the config var must be ``disable``; if it's anything else, HTTPS redirects will remain in place."
-msgstr ""
+msgstr "Untuk berbagai alasan, kami sangat menyarankan agar tidak menonaktifkan ini. Tetapi jika karena alasan tertentu Anda perlu menjalankan HTTP biasa, Anda dapat melakukannya dengan mensetting variabel config ``DISABLE_HTTPS_REDIRECTS`` di Heroku ke ``disable'' (lihat `` Dokumentasi Heroku tentang config vars <https://devcenter.heroku.com/articles/config-vars>`_). Nilai dari config var harus ``disable''; jika ada hal lain, pengalihan HTTPS akan tetap diterapkan."
 
 #: ../../install/heroku.rst:231
 msgid "Most modern browsers, after having been redirected by a site to HTTPS once, remember that that site requires HTTPS and go there for all subsequent visits even if the user typed in a plain http\\:// address. It may do this because it cached the HTTP 301 permanent redirect, stored an HSTS entry and/or tagged its session cookie to require HTTPS. If, after disabling HTTPS on your Tabbycat site, you find that you're still being redirected to HTTPS, first try a browser or computer that *hasn't* visited the site before. If that works, then remove the relevant entry from your (original) browser's cache, HSTS set and cookies, and try again."
