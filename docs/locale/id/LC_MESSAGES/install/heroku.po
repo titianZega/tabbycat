@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 00:04\n"
+"PO-Revision-Date: 2021-04-18 00:14\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -28,7 +28,7 @@ msgstr "Saat menjalankan Tabbycat di internet, kami mengaturnya di `Heroku <http
 
 #: ../../install/heroku.rst:9
 msgid "There are two ways to do this: a **short way** and a **long way**. Most people should use the short way. The long way requires some familiarity with command-line interfaces and Git, and requires a :ref:`local installation <install-local>` as a prerequisite, but makes it easier to :ref:`upgrade versions <upgrade-heroku>` later on and (unlike the short way) allows you to import data from CSV files."
-msgstr ""
+msgstr "Ada dua cara untuk melakukannya: **jalan pendek** dan **jalan panjang**. Kebanyakan orang harus menggunakan jalan pintas. Cara yang panjang membutuhkan beberapa pengetahuan tentang antarmuka baris perintah dan Git, dan membutuhkan :ref:`local installation <install-local>` sebagai prasyarat, tetapi membuatnya lebih mudah untuk :ref:`mengupgrade versi <upgrade-heroku>` nanti dan (tidak seperti cara singkat) memungkinkan Anda mengimpor data dari file CSV."
 
 #: ../../install/heroku.rst:12
 msgid "The short way"
@@ -40,19 +40,19 @@ msgstr "Tekan tombol ini:"
 
 #: ../../install/heroku.rst:18
 msgid "This is the easiest way to deploy an instance of Tabbycat online. It requires no technical background."
-msgstr ""
+msgstr "Ini adalah cara termudah untuk menerapkan instance Tabbycat online. Ini tidak membutuhkan latar belakang teknis."
 
 #: ../../install/heroku.rst:20
 msgid "If you don't already have a Heroku account, it'll prompt you to create one. Once you're logged in to Heroku, choose a name for your installation, then scroll down and click **Deploy**. Once it's finished, click **View** and follow the prompts. Once finished, open the site and from there you can easily set up a demo data set (if you just want to learn Tabbycat) or use the data importer to set up a real tournament."
-msgstr ""
+msgstr "Jika Anda belum memiliki akun Heroku, Anda akan diminta untuk membuatnya. Setelah Anda masuk ke Heroku, pilih nama untuk instalasi Anda, lalu gulir ke bawah dan klik **Deploy**. Setelah selesai, klik **View** dan ikuti petunjuknya. Setelah selesai, buka situs dan dari sana Anda dapat dengan mudah mengatur kumpulan data demo (jika Anda hanya ingin belajar Tabbycat) atau menggunakan pengimpor data untuk menyiapkan turnamen nyata."
 
 #: ../../install/heroku.rst:22
 msgid "During the setup process, Heroku will ask you to verify your account by adding a credit card. A standard Tabbycat site *will not charge* your card — charges only accrue if you deliberately add a paid service in the Heroku dashboard."
-msgstr ""
+msgstr "Selama proses penyiapan, Heroku akan meminta Anda untuk memverifikasi akun Anda dengan menambahkan kartu kredit. Situs Tabbycat standar *tidak akan menagih* ke kartu Anda - biaya hanya bertambah jika Anda dengan sengaja menambahkan layanan berbayar di dasbor Heroku."
 
 #: ../../install/heroku.rst:24
 msgid "If you can't access a credit card, you can instead install a limited version, which we call \"Tabbykitten\". However, Tabbykitten cannot send any e-mails or handle as much public traffic. We therefore strongly recommend it only as a last resort, and even then only for small tournaments.  `Use this link to set up a Tabbykitten site <https://heroku.com/deploy?template=https://github.com/TabbycatDebate/tabbycat/tree/kitten>`_."
-msgstr ""
+msgstr "Jika Anda tidak dapat mengakses kartu kredit, Anda dapat menginstal versi terbatas, yang kami sebut \"Tabbykitten\". Namun, Tabbykitten tidak dapat mengirim email atau menangani lalu lintas publik sebanyak mungkin. Oleh karena itu kami sangat merekomendasikannya hanya sebagai pilihan terakhir, dan bahkan hanya untuk turnamen kecil. `Gunakan tautan ini untuk menyiapkan situs Tabbykitten <https://heroku.com/deploy?template=https://github.com/TabbycatDebate/tabbycat/tree/kitten>` _."
 
 #: ../../install/heroku.rst:27
 msgid "The long way"
@@ -60,23 +60,23 @@ msgstr "Cara yang panjang"
 
 #: ../../install/heroku.rst:28
 msgid "The long way sets you up with more control over your environment.  Because you'll clone `our GitHub repository`_, it'll be easier for you to :ref:`upgrade your app <upgrade-heroku>` when a new version is released.  You'll also have the flexibility to make and contribute updates to the source code.  We recommend it if you have experience with Git.  It's also easier with this method to import CSV files using the command-line importer, so if you have a very large tournament, this might make importing initial data easier."
-msgstr ""
+msgstr "Jalan panjang membuat Anda memiliki kontrol lebih besar atas lingkungan Anda. Karena Anda akan menggandakan `repositori GitHub kami`_, akan lebih mudah bagi Anda untuk :ref:`mengupgrade aplikasi Anda <upgrade-heroku> `saat versi baru dirilis. Anda juga akan memiliki fleksibilitas untuk membuat dan memberikan kontribusi pembaruan pada kode sumber. Kami merekomendasikannya jika Anda memiliki pengalaman dengan Git. Metode ini juga lebih mudah untuk mengimpor file CSV menggunakan pengimpor baris perintah, jadi jika Anda memiliki turnamen yang sangat besar, ini mungkin membuat pengimporan data awal menjadi lebih mudah."
 
 #: ../../install/heroku.rst:30
 msgid "We've tested these instructions successfully on Windows, Linux and macOS."
-msgstr ""
+msgstr "Kami telah berhasil menguji instruksi ini di Windows, Linux, dan macOS."
 
 #: ../../install/heroku.rst:33
 msgid "Requisite technical background"
-msgstr ""
+msgstr "Latar belakang teknis yang diperlukan"
 
 #: ../../install/heroku.rst:35
 msgid "You need to have at least a passing familiarity with command-line interfaces to get through the longer traditional method. We'll talk you through the rest."
-msgstr ""
+msgstr "Anda harus memiliki setidaknya pemahaman yang baik dengan antarmuka baris perintah untuk melewati metode tradisional yang lebih lama. Kami akan membahas sisanya."
 
 #: ../../install/heroku.rst:37
 msgid "When we say \"command shell\", on Windows we mean **Command Prompt**, and on Linux and macOS we mean **Terminal** (or your favourite command shell)."
-msgstr ""
+msgstr "Saat kami mengatakan \"command shell\", di Windows yang kami maksud adalah **Command Prompt**, dan di Linux dan macOS yang kami maksud adalah **Terminal** (atau pada command shell favorit Anda)."
 
 #: ../../install/heroku.rst:39 ../../install/heroku.rst:100
 msgid "Advanced users"
@@ -84,19 +84,19 @@ msgstr "Pengguna tingkat lanjut"
 
 #: ../../install/heroku.rst:42
 msgid "Tabbycat is a `Django <https://www.djangoproject.com/>`_ project. As such, it can be installed on any web platform that supports Django, using any SQL system that Django supports. Just be aware that we haven't tried any other platform."
-msgstr ""
+msgstr "Tabbycat adalah proyek `Django <https://www.djangoproject.com/>` _. Dengan demikian, dapat dipasang pada platform web manapun yang mendukung Django, menggunakan sistem SQL apapun yang didukung Django. Ketahuilah bahwa kami belum mencoba platform lain."
 
 #: ../../install/heroku.rst:45
 msgid "Short version of the long way"
-msgstr ""
+msgstr "Versi pendek dari jalan panjang"
 
 #: ../../install/heroku.rst:47
 msgid "We provide a \"short version\" for experienced users. Don't just copy and paste these commands before you understand what they do! If things aren't set up perfectly they can fail, so it's important to supervise them the first time you do them. If this is all new to you, read the long version of the instructions below."
-msgstr ""
+msgstr "Kami menyediakan \"versi pendek\" untuk pengguna berpengalaman. Jangan hanya menyalin dan menempelkan perintah ini sebelum Anda memahami fungsinya! Jika segala sesuatunya tidak diatur dengan sempurna, mereka bisa gagal, jadi penting untuk mengawasinya saat pertama kali Anda melakukannya. Jika ini semua baru bagi Anda, baca instruksi versi panjang di bawah ini."
 
 #: ../../install/heroku.rst:56
 msgid "If you want to :ref:`import tournament data <importing-initial-data>` from CSV files, :ref:`install Tabbycat locally <install-local>`, put your CSV files in ``data/yourtournamentname``, then::"
-msgstr ""
+msgstr "Jika Anda ingin :ref:`import data turnamen <importing-initial-data>` dari file CSV, :ref:`install Tabbycat secara lokal <install-local>`, letakkan file CSV Anda di ``data/yourtournamentname``, kemudian::"
 
 #: ../../install/heroku.rst:68
 msgid "1. Install dependencies"
@@ -104,27 +104,27 @@ msgstr "1. instal depedensi"
 
 #: ../../install/heroku.rst:70
 msgid "Install the `Heroku Command Line Interface (CLI) <https://devcenter.heroku.com/articles/heroku-cli>`_, then log in with the command ``heroku login``."
-msgstr ""
+msgstr "Instal `Heroku Command Line Interface (CLI) <https://devcenter.heroku.com/articles/heroku-cli>` _, lalu login dengan perintah `` heroku login``."
 
 #: ../../install/heroku.rst:72
 msgid "If you don't already have **Git**, follow the `instructions on the GitHub website <https://help.github.com/articles/set-up-git>`_ to set up Git."
-msgstr ""
+msgstr "Jika Anda belum memiliki **Git**, ikuti `petunjuk di situs GitHub <https://help.github.com/articles/set-up-git>` _ untuk menyiapkan Git."
 
 #: ../../install/heroku.rst:75
 msgid "2. Set up a local installation"
-msgstr ""
+msgstr "2. Siapkan instalasi lokal"
 
 #: ../../install/heroku.rst:77
 msgid "If you don't already have a local installation, follow the instructions on the page for your operating system, listed below, to set up a local installation."
-msgstr ""
+msgstr "Jika Anda belum memiliki penginstalan lokal, ikuti petunjuk di halaman untuk sistem operasi Anda, yang tercantum di bawah ini, untuk menyiapkan penginstalan lokal."
 
 #: ../../install/heroku.rst:79
 msgid "When downloading the source code, you **must** take the option involving cloning the GitHub repository using Git. In the macOS and Windows instructions, this means the option described in the \"Advanced users\" box. To do so, use these commands:"
-msgstr ""
+msgstr "Saat mengunduh kode sumber, Anda ** harus ** mengambil opsi yang melibatkan penggandaan repositori GitHub menggunakan Git. Dalam instruksi macOS dan Windows, ini berarti opsi yang dijelaskan di kotak \"Pengguna tingkat lanjut\". Untuk melakukannya, gunakan perintah ini:"
 
 #: ../../install/heroku.rst:86
 msgid "Do not download the .tar.gz or .zip file and extract it."
-msgstr ""
+msgstr "Jangan mengunduh file .tar.gz atau .zip dan mengekstraknya."
 
 #: ../../install/heroku.rst:88
 msgid ":ref:`install-linux`"
@@ -144,11 +144,11 @@ msgstr ""
 
 #: ../../install/heroku.rst:93
 msgid "If you do already have a local installation, update to the latest version using:"
-msgstr ""
+msgstr "Jika Anda sudah memiliki penginstalan lokal, perbarui ke versi terbaru menggunakan:"
 
 #: ../../install/heroku.rst:103
 msgid "It's not *strictly* necessary to have a fully functional local installation if you don't want to import data from CSV files. But it certainly helps."
-msgstr ""
+msgstr "Tidak *benar-benar* perlu memiliki penginstalan lokal yang berfungsi penuh jika Anda tidak ingin mengimpor data dari file CSV. Tapi itu pasti membantu."
 
 #: ../../install/heroku.rst:106
 msgid "3. Deploy to Heroku"
@@ -156,31 +156,31 @@ msgstr "3. Terapkan ke Heroku"
 
 #: ../../install/heroku.rst:110
 msgid "Navigate to your Tabbycat directory::"
-msgstr ""
+msgstr "Arahkan ke direktori Tabbycat Anda::"
 
 #: ../../install/heroku.rst:114
 msgid "Run the script to deploy the app to Heroku. Replace ``yourappname`` with your preferred URL. Your website will be at ``yourappname.herokuapp.com``."
-msgstr ""
+msgstr "Jalankan skrip untuk menerapkan aplikasi ke Heroku. Ganti ``nama aplikasi Anda'' dengan URL pilihan Anda. Situs web Anda akan berada di ``nama aplikasi nada.herokuapp.com``."
 
 #: ../../install/heroku.rst:120
 msgid "This script has other options that you might find useful. Run ``python deploy_heroku.py --help`` for details."
-msgstr ""
+msgstr "Skrip ini memiliki opsi lain yang mungkin berguna bagi Anda. Jalankan ``python deploy_heroku.py --help`` untuk detailnya."
 
 #: ../../install/heroku.rst:122
 msgid "When this script finishes, it will open the app in your browser. It should look something like this:"
-msgstr ""
+msgstr "Ketika skrip ini selesai, itu akan membuka aplikasi di browser Anda. Seharusnya terlihat seperti ini:"
 
 #: ../../install/heroku.rst:127
 msgid "4. Import tournament data locally"
-msgstr ""
+msgstr "4. Impor data turnamen secara lokal"
 
 #: ../../install/heroku.rst:129
 msgid "Steps 4 and 5 are optional; there are other methods of :ref:`importing data <importing-initial-data>`. However the following method is most useful for large tournaments where manual entry would be tedious."
-msgstr ""
+msgstr "Langkah 4 dan 5 adalah opsional; ada metode lain untuk :ref:`import data <importing-initial-data>`. Namun metode berikut paling berguna untuk turnamen besar di mana entri manual akan membosankan."
 
 #: ../../install/heroku.rst:131
 msgid "Step 4 is the same as the process described in :ref:`importtournament-command`."
-msgstr ""
+msgstr "Langkah 4 sama dengan proses yang dijelaskan di: ref: `importtournament-command`."
 
 #: ../../install/heroku.rst:135
 msgid "Place your CSV files in ``data/yourtournamentname``, as described in :ref:`importing-initial-data`."
