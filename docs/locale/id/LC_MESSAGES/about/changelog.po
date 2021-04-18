@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 10:04\n"
+"PO-Revision-Date: 2021-04-18 10:14\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -673,39 +673,39 @@ msgstr "Menambahkan sebuah fitur (beta): alokasi 'sharding'"
 
 #: ../../../CHANGELOG.rst:242
 msgid "Sharding allows you to split up the Adjudicator Allocation screen into a defined subset of the draw. This has been designed so that you can have multiple computers doing allocations simultaneously; allowing the adjudication core to split itself and tackle allocations in parallel."
-msgstr ""
+msgstr "Sharding memungkinkan anda untuk membagi layar Alokasi Juri menjadi subset undian yang ditentukan. Ini telah dirancang agar anda dapat memiliki banyak komputer yang melakukan alokasi secara bersamaan; memungkinkan juri inti untuk memisahkan dirinya sendiri dan menangani alokasi secara paralel."
 
 #: ../../../CHANGELOG.rst:243
 msgid "Shards can be assigned into defined fractions (i.e. halves or fifths) according to specific criteria (i.e. bracket or priority) and following either a top-to-bottom sorting or a mixed sorting that ensures each bracket has an even proportion of each criteria."
-msgstr ""
+msgstr "Pecahan dapat ditetapkan ke dalam pecahan tertentu (yaitu, separuh atau seperlima) menurut kriteria tertentu (seperti tanda kurung atau prioritas) dan mengikuti baik itu pengurutan dari atas ke bawah maupun pengurutan campuran yang memastikan setiap tanda kurung memiliki proporsi yang sama dari setiap kriteria."
 
 #: ../../../CHANGELOG.rst:244
 msgid "Added an option to show a \"Confirm Digits\" option to pre-printed ballots that asks adjudicators to confirm their scores in a manner that may help clarify instances or bad handwriting. This can be enabled in the \"Data Entry\" settings area."
-msgstr ""
+msgstr "Menambahkan pilihan untuk menunjukkan opsi \"Konfirmasikan Digit\" ke kertas suara yang belum dicetak yang meminta juri untuk mengkonfirmasi skor mereka dengan cara tertentu yang mungkin membantu mengklarifikasi instansi atau tulisan yang jelek. Ini dapat diaktifkan pada area pengaturan \"Masukan Data\"."
 
 #: ../../../CHANGELOG.rst:245
 msgid "Added a 'liveness' calculator for BP that will estimate whether each team has, can, or can't break in each of their categories (as previously existed for 2-team formats)"
-msgstr ""
+msgstr "Menambahkan penghitungan \"kehidupan\" untuk BP yang akan mengestimasi apakah setiap tim memiliki, dapat, atau tidak dapat beristirahat pada setiap kategori mereka (seperti sudah ada sebelumnya untuk format 2-tim)"
 
 #: ../../../CHANGELOG.rst:246
 msgid "Added draw pull-up option: pull up from middle"
-msgstr ""
+msgstr "Menambahkan opsi pull-up pengundian: pull-up dari tengah"
 
 #: ../../../CHANGELOG.rst:247
 msgid "Added new draw option: choose pull-up from teams who have been pulled up the fewest times so far"
-msgstr ""
+msgstr "Menambahkan opsi pengundian baru: memilih pull-up dari tim yang sebelumnya paling sedikit melakukan pull-up"
 
 #: ../../../CHANGELOG.rst:248
 msgid "Added the ability to have different 'ballots-per-debates' for in/out rounds; accommodating tournaments like Australian Easters that use consensus for preliminary rounds but voting for elimination rounds."
-msgstr ""
+msgstr "Menambahkan kemampuan untuk memiliki 'kertas suara-per-debat' yang berbeda untuk ronde masuk/keluar; mengakomodasi turnamen seperti Australian Easters yang menggunakan konsensus untuk babak penyisihan namun memilih babak eliminasi."
 
 #: ../../../CHANGELOG.rst:249
 msgid "Added time zone support to the locations where times are displayed"
-msgstr ""
+msgstr "Menambahkan dukungan zona waktu untuk lokasi dimana waktu ditampilkan"
 
 #: ../../../CHANGELOG.rst:250
 msgid "Administrators can now view pages as if they were Assistants; allowing them to (for example) use the data entry forms that enforce double-checking without needed to create a separate account"
-msgstr ""
+msgstr "Administrator sekarang dapat melihat halaman seolah-olah mereka adalah Asisten, memungkinkan mereka untuk (misalnya) menggunakan formulir entri data yang memberlakukan pemeriksaan ganda tanpa perlu membuat akun terpisah"
 
 #: ../../../CHANGELOG.rst:251
 msgid "Fixed χ² test in motion statistics, and refactored the motion statistics page"
