@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 00:23\n"
+"PO-Revision-Date: 2021-04-18 16:13\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -232,7 +232,7 @@ msgstr "Langkah ini menghapus database Heroku hingga bersih, dan menggantinya de
 
 #: ../../install/heroku.rst:171
 msgid "If you have multiple Heroku sites, you may find that the ``heroku`` commands refuse to run, prompting you to specify an app. If so, add ``--app yourappname`` to each ``heroku`` command."
-msgstr ""
+msgstr "Jika Anda memiliki beberapa situs Heroku, Anda mungkin menemukan bahwa perintah ``heroku'' tidak dapat dijalankan, meminta Anda untuk menentukan aplikasi. Jika demikian, tambahkan ``--app aplikasianda'' ke setiap perintah ``heroku``."
 
 #: ../../install/heroku.rst:173
 msgid "Enable maintenance mode. This takes the site offline, to ensure that no-one can possibly create or change any data on the site while you're pushing a new database up::"
@@ -369,11 +369,11 @@ msgstr ""
 
 #: ../../install/heroku.rst:257
 msgid "Set the following config vars in Heroku Dashboard (or using the Heroku CLI, if you have it):"
-msgstr ""
+msgstr "Setting config vars berikut di Dasbor Heroku (atau gunakan Heroku CLI, jika Anda memilikinya):"
 
 #: ../../install/heroku.rst:259
 msgid "``SENDGRID_USERNAME`` should be set to ``apikey`` (not your username)."
-msgstr ""
+msgstr "``SENDGRID_USERNAME'' harus setting ke \"apikey`` (bukan nama pengguna Anda)."
 
 #: ../../install/heroku.rst:260
 msgid "``SENDGRID_PASSWORD`` should be set to your API key, which will start with ``SG*******``."
@@ -417,11 +417,11 @@ msgstr ""
 
 #: ../../install/heroku.rst:289
 msgid "If you've already cloned our Git repository, don't forget to pull so you're up to date::"
-msgstr ""
+msgstr "Jika Anda sudah mengkloning repositori Git kami, jangan lupa untuk menarik agar Anda terbarui::"
 
 #: ../../install/heroku.rst:294
 msgid "Check to see if you have a Git remote already in place::"
-msgstr ""
+msgstr "Periksa untuk melihat apakah Anda sudah memiliki remote Git::"
 
 #: ../../install/heroku.rst:300
 msgid "If you do, the name of the remote will be on the left (``heroku`` in the above example), and the URL of your Git repository will be on the right. In the example above, our Tabbycat site URL would be ``mytournament2018.herokuapp.com``; the Git remote URL is then ``https://git.heroku.com/mytournament2018.git``."
