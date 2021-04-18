@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 07:33\n"
+"PO-Revision-Date: 2021-04-18 07:44\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -125,7 +125,7 @@ msgstr "Pada Tabbycat, panel yang sudah dibuat dibentuk setiap ronde pada bagian
 
 #: ../../../CHANGELOG.rst:44
 msgid "Adjudicators can then be allocated to those fake debates in order to create a pre-formed panel. When the real draw is ready to be created, the priority of each preformed panel will be matched to the priority of the real debates"
-msgstr ""
+msgstr "Para juri kemudian dabat dialokasikan untuk debat palsu tersebut untuk membuat panel yang telah dibentuk sebelumnya. Ketika undian sebenarnya siap dibuat, prioritas setiap panel yang telah dibentuk sebelumnya akan disesuaikan dengan prioritas debat sebenarnya"
 
 #: ../../../CHANGELOG.rst:45
 msgid "By using the existing per-debate priority system, and by giving pre-formed panels their own priority, this workflow allows for very fine amounts of control over exactly how preformed panels are allocated as compared to a more simple top-down transposition of panels. Adjudication cores can easily target general areas of the draw (e.g. break-threshold brackets); control adjudicator strength within and across panels; and still account for special cases where a debate requires a particularly strong panel. At the same time, our existing options for automatic prioritisation and automatic allocation apply to all steps of this process so that preformed panels can be created and deployed rapidly"
@@ -213,7 +213,7 @@ msgstr "Halaman arahan pribadi sekarang akan menampilkan status check-in (jika m
 
 #: ../../../CHANGELOG.rst:66
 msgid "Current and former draw assignments will display along with submitted ballots (for adjudicators) on landing pages"
-msgstr ""
+msgstr "Tugas pengundian saat ini dan sebelumnya akan ditampilkan berikut dengan kertas suara yang telah dikumpulkan (untuk juri) pada halaman arahan"
 
 #: ../../../CHANGELOG.rst:70
 msgid "Reworked how conflicts are determined to support double-past institutional conflicts:"
@@ -457,7 +457,7 @@ msgstr "Menambahkan dukungan untuk bahasa Jepang dan Portugis. Beri tahu kami ji
 
 #: ../../../CHANGELOG.rst:171
 msgid "The results-entry page now updates its data live, giving you a more up to date look at data entry progress and reducing the cases of old data leading people to enter new ballots when they meant to confirm them"
-msgstr ""
+msgstr "Halaman input-hasil sekarang melakukan pembaruan data mereka secara langsung, memberikan anda pemasukan data yang lebih terkini dan memperkecil kemungkinan data yang lama menyebabkan orang untuk memasukkan undian yang baru ketika mereka bermaksud untuk mengkonfirmasi mereka"
 
 #: ../../../CHANGELOG.rst:178
 msgid "A huge thanks to Étienne Beaulé for contributing a number of major new features and bug fixes. Notably:"
