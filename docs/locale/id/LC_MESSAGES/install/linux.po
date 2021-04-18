@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 16:24\n"
+"PO-Revision-Date: 2021-04-18 16:34\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -141,11 +141,11 @@ msgstr "Pilih salah satu dari dua metode berikut."
 
 #: ../../install/linux.rst:117
 msgid "Method 1 (Git clone)"
-msgstr ""
+msgstr "Metode 1 (Git clone)"
 
 #: ../../install/linux.rst:119
 msgid "If you have Git, life will be easier if you clone `our GitHub repository`_:"
-msgstr ""
+msgstr "Jika Anda memiliki Git, hidup akan lebih mudah jika Anda mengkloning `repositori GitHub Anda`_:"
 
 #: ../../install/linux.rst:126
 msgid "(You can find out if you have Git using ``git --version``. If you don't, you can install it using ``sudo apt install git``.)"
@@ -161,7 +161,7 @@ msgstr ""
 
 #: ../../install/linux.rst:136
 msgid "Method 2 (tarball)"
-msgstr ""
+msgstr "Metode 2 (tarball)"
 
 #: ../../install/linux.rst:138
 msgid "If you don't want to use Git, simply download and extract:"
@@ -169,7 +169,7 @@ msgstr ""
 
 #: ../../install/linux.rst:147
 msgid "3. Set up a new database"
-msgstr ""
+msgstr "3. Siapkan database baru"
 
 #: ../../install/linux.rst:149
 msgid "You can skip step 1 if this is not your first installation. Every Tabbycat installation requires its own database, but they can use the same login role if you like."
@@ -189,11 +189,11 @@ msgstr ""
 
 #: ../../install/linux.rst:167
 msgid "4. Install Tabbycat"
-msgstr ""
+msgstr "4. Instal Tabbycat"
 
 #: ../../install/linux.rst:168
 msgid "Almost there!"
-msgstr ""
+msgstr "Hampir sampai!"
 
 #: ../../install/linux.rst:170
 msgid "Navigate to your Tabbycat directory::"
@@ -225,7 +225,7 @@ msgstr ""
 
 #: ../../install/linux.rst:219
 msgid "Start Tabbycat!"
-msgstr ""
+msgstr "Mulai program Tabbycat!"
 
 #: ../../install/linux.rst:225
 msgid "It should show something like this::"
@@ -241,7 +241,7 @@ msgstr ""
 
 #: ../../install/linux.rst:237
 msgid "Starting up an existing Tabbycat instance"
-msgstr ""
+msgstr "Memulai instance Tabbycat yang ada"
 
 #: ../../install/linux.rst:238
 msgid "To start your Tabbycat instance up again next time you use your computer::"
