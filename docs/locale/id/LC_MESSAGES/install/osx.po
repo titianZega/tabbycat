@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 00:21\n"
+"PO-Revision-Date: 2021-04-18 16:24\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -104,7 +104,7 @@ msgstr ""
 
 #: ../../install/osx.rst:62
 msgid "2. Get the source code"
-msgstr ""
+msgstr "2. Dapatkan source codenya"
 
 #: ../../install/osx.rst:64
 msgid "`Go to the page for our latest release <https://github.com/TabbycatDebate/tabbycat/releases/latest>`_."
