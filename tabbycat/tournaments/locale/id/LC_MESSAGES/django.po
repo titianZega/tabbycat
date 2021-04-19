@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-19 04:34\n"
+"PO-Revision-Date: 2021-04-19 04:43\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -372,15 +372,15 @@ msgstr ""
 
 #: tournaments/templates/configure_tournament.html:20
 msgid "To finish creating your tournament select a basic configuration options. Note that these can always be changed later (and with more precise control) if needed."
-msgstr "Untuk menyelesaikan membuat pertandingan Anda pilihlah sebuah pilihan konfigurasi dasar. Catat bahwa hal ini selalu dapat diubah nantinya (dan dengan kontrol yang lebih tepat) jika dibutuhkan."
+msgstr "Untuk menyelesaikan pembuatan turnamen Anda pilih pilihan konfigurasi dasar. Ingat bahwa hal ini dapat selalu diubah nanti (dan dengan kontrol yang presisi) jika dibutuhkan."
 
 #: tournaments/templates/configure_tournament.html:25
 msgid "Configure Tournament"
-msgstr "Konfigurasi Pertandingan"
+msgstr "Konfigurasi Turnamen"
 
 #: tournaments/templates/create_tournament.html:4
 msgid "Create New Tournament"
-msgstr "Membuat Pertandingan Baru"
+msgstr "Buat Turnamen Baru"
 
 #: tournaments/templates/create_tournament.html:15
 #, python-format
