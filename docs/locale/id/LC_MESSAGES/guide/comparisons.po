@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-19 11:46\n"
+"PO-Revision-Date: 2021-04-19 11:56\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -164,7 +164,7 @@ msgstr "**Antarmuka alokasi juri**. Selama kedua antarmuka menggunakan interaksi
 
 #: ../../guide/comparisons.rst:77
 msgid "Clashes are shown directly in the interface when they apply, but dragging an adjudicator will also show you the potential conflicts that would occur if they were relocated in a new panel. This can make it much easier to avoid creating new clashes when shifting adjudicators around the draw."
-msgstr ""
+msgstr "Bentrokan diperlihatkan secara langsung di antarmuka saat mereka diterapkan, tapi menyeret sebuah juri juga akan menunjukkan anda potensi konflik yang mungkin terjadi bila mereka direlokasi di panel baru. Ini bisa membuat menghindari pembuatan bentrokan jadi lebih mudah saat menggeser juri sekitar pengundian."
 
 #: ../../guide/comparisons.rst:78
 msgid "An inline display of an estimate of whether a team is 'live' for each of their break categories — i.e. whether they are 'safe' (have enough points to break); 'dead' (cannot gain enough points to break); or 'live' (still in contention)."
