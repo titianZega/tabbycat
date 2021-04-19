@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-19 07:25\n"
+"PO-Revision-Date: 2021-04-19 07:46\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -72,7 +72,7 @@ msgstr "Pada model Tabbycat yang telah didesentralisasi, tidak ada 'akun' tetap 
 
 #: ../../guide/comparisons.rst:34
 msgid "For secure e-ballot and e-feedback submissions, Tabbycat assigns a \"private URL\" to each adjudicator or team. This is essentially a password that allows a participant to only submit data that they should have access to in that specific tournament. This means participants don't need user accounts and you don't need to collect user account information; however if your tournament uses e-ballots or e-feedback you will need to distribute those private URLs to participants. Tabbycat can e-mail these to participants for you, or print them to give them to participants, or you could distribute the URLs using your own means."
-msgstr "Untuk masukan kertas suara-elektronik dan umpan balik-elektronik yang aman, Tabbycat menetapkan \"URL privat\" untuk tiap peserta. Ini pada dasarnya sebuah kata sandi yang memungkinkan peserta untuk hanya memasukkan data yang mereka punya akses pada turnamen spesifik itu. Ini artinya peserta tidak memerlukan akun pengguna dan anda tidak perlu mengumpulkan informasi akun pengguna; akan tetapi bila turnamen anda memakai kertas suara-elektronik atau umpan balik-elektronik anda perlu mendistribusikan URL privat itu ke peserta-peserta. Tabbycat bisa meng-email peserta-peserta ini untuk anda, atau mencetaknya dan memberi ke peserta, atau anda bisa mendistribusikan URL dengan sarana sendiri."
+msgstr "Untuk masukan kertas kertas suara elektronik dan umpan balik-elektronik yang aman, Tabbycat menetapkan \"URL privat\" untuk tiap peserta. Ini pada dasarnya sebuah kata sandi yang memungkinkan peserta untuk hanya memasukkan data yang mereka punya akses pada turnamen spesifik itu. Ini artinya peserta tidak memerlukan akun pengguna dan anda tidak perlu mengumpulkan informasi akun pengguna; akan tetapi bila turnamen anda memakai kertas kertas suara elektronik atau umpan balik-elektronik anda perlu mendistribusikan URL privat itu ke peserta-peserta. Tabbycat bisa meng-email peserta-peserta ini untuk anda, atau mencetaknya dan memberi ke peserta, atau anda bisa mendistribusikan URL dengan sarana sendiri."
 
 #: ../../guide/comparisons.rst:36
 msgid "**Control over data**. Some participant information in Tabbie2 is shared between tournaments, like their names and conflicts (discussed below). This means participants can manage it directly through their user accounts, without needing to go through you. On the other hand, this requires your participants to co-operate in keeping their accounts up to date, and to provide the correct e-mail address during registration (you'd be surprised how many don't). Furthermore, participants may look to you for assistance, and your ability to help is limited to directing them through Tabbie2 channels—easy enough if they forget their password, but not so much if they forget their account's e-mail address."
@@ -124,11 +124,11 @@ msgstr "**Alokasi tempat**. Tabbie2 dan Tabbycat sama-sama memungkinkan tempat d
 
 #: ../../guide/comparisons.rst:61
 msgid "**Ballot entry**. Both Tabbie2 and Tabbycat support entering ballots online ('e-ballots') and entering ballots from paper from the tab room. Tabbie2 was built with e-ballots in mind, while Tabbycat was originally built for tab room staff, and the ballot entry paradigms reflect that. Both are flexible, just a little different—the best way to understand the difference is to try a demo of each. Also, Tabbycat takes note of the order in which speakers in a team spoke (i.e. who was PM and who was DPM), whereas Tabbie2 just records scores."
-msgstr "**Masukan suara**. Tabbie2 dan Tabbycat sama-sama mendukung memasukkan suara secara daring ('suara-elektronik') dan memasukkan kertas suara dari kertas dari ruang tabulasi. Tabbie2 dibangun dengan suara-elektronik di benak, selama Tabbycat awalnya dikembangkan untuk staf ruang tabulasi, dan paradigma masukan kertas suara mencerminkan itu. Keduanya fleksibel, hanya sedikit berbeda-cara terbaik untuk mengerti perbedaannya ialah dengan mencoba tiap masing-masing demo. Tabbycat juga mengambil catatan dari urutan pembicara dalam sebuah tim berbicara (misalkan, siapa PM dan siapa DPM), sedangkan Tabbie2 hanya menyimpan nilai."
+msgstr "**Masukan suara**. Tabbie2 dan Tabbycat sama-sama mendukung memasukkan suara secara daring ('kertas suara elektronik') dan memasukkan kertas suara dari kertas dari ruang tabulasi. Tabbie2 dibangun dengan kertas suara elektronik di benak, selama Tabbycat awalnya dikembangkan untuk staf ruang tabulasi, dan paradigma masukan kertas suara mencerminkan itu. Keduanya fleksibel, hanya sedikit berbeda-cara terbaik untuk mengerti perbedaannya ialah dengan mencoba tiap masing-masing demo. Tabbycat juga mengambil catatan dari urutan pembicara dalam sebuah tim berbicara (misalkan, siapa PM dan siapa DPM), sedangkan Tabbie2 hanya menyimpan nilai."
 
 #: ../../guide/comparisons.rst:63
 msgid "As discussed earlier in *User identification*; Tabbie2's e-ballots are tied to unified user accounts, whereas Tabbycat's e-ballots are tied to per-tournament and per-adjudicator 'private URLs'."
-msgstr "Seperti yang sudah didiskusikan sebelumnya pada Identifikasi Pengguna; suara-elektronik Tabbie2 terikat dengan gabungan akun-akun pengguna, dimana suara-elektronik Tabbycat terikat dengan 'URL privat' tiap-turnamen dan tiap-juri."
+msgstr "Seperti yang sudah didiskusikan sebelumnya pada Identifikasi Pengguna; kertas suara elektronik Tabbie2 terikat dengan gabungan akun-akun pengguna, dimana kertas suara elektronik Tabbycat terikat dengan 'URL privat' tiap-turnamen dan tiap-juri."
 
 #: ../../guide/comparisons.rst:65
 msgid "**Break and speaker categories**. Tabbie2 has ESL, EFL and novice markers, which you can enable in a tournament's settings. Tabbycat supports user-defined break and speaker categories, so if your tournament has ESL, EFL, novice or any other form of category, you can define and customise those categories as needed."
