@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-19 03:55\n"
+"PO-Revision-Date: 2021-04-19 04:05\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -246,7 +246,7 @@ msgstr "Penyisihan = inrounds, eliminasi = outrounds"
 
 #: tournaments/models.py:326
 msgid "draw type"
-msgstr "jenis gambar"
+msgstr "jenis undian"
 
 #: tournaments/models.py:327
 msgid "Which draw method to use"
@@ -258,7 +258,7 @@ msgstr "kategori break"
 
 #: tournaments/models.py:331
 msgid "If elimination round, which break category"
-msgstr "Jika babak penyisihan, yang mentransisi kategori"
+msgstr "Jika ronde penyisihan, kategori break-nya apa"
 
 #: tournaments/models.py:334
 msgid "draw status"
@@ -266,7 +266,7 @@ msgstr "status undian"
 
 #: tournaments/models.py:335
 msgid "The status of this round's draw"
-msgstr "Status dari penarikan babak ini"
+msgstr "Status dari undian ronde ini"
 
 #: tournaments/models.py:338
 msgid "feedback weight"
@@ -275,7 +275,7 @@ msgstr "bobot umpan balik"
 #: tournaments/models.py:340
 #, no-python-format
 msgid "The extent to which each adjudicator's overall score depends on feedback vs their base score. At 0, it is 100% drawn from their base score, at 1 it is 100% drawn from feedback."
-msgstr "Sejauh mana skor keseluruhan masing-masing juri bergantung pada imbal balik dibandingkan dengan nilai dasar mereka. Pada 0, 100% diambil dari nilai dasar mereka, pada 1 100% diambil dari imbal balik."
+msgstr "Sejauh mana nilai keseluruhan masing-masing juri bergantung pada umpan balik dibandingkan dengan nilai awal mereka. Jika 0, 100% diambil dari nilai awal mereka, jika 1 100% diambil dari umpan balik."
 
 #. Translators: A silent round is a round for which results are not disclosed once the round is over.
 #: tournaments/models.py:343
