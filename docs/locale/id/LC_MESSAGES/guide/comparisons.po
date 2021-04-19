@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-18 13:43\n"
+"PO-Revision-Date: 2021-04-19 05:04\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -116,7 +116,7 @@ msgstr "**Antarmuka publik**. Tabbycat dapat menerbitkan seluruh undian secara o
 
 #: ../../guide/comparisons.rst:57
 msgid "**Position rotation**. Tabbie2 uses an algorithm known as the \"Silver Line algorithm\", which keeps swapping pairs of teams until no further improvement is found. Because it stops at any 'local optimum', this method isn't guaranteed to be the best possible distribution of positions, and for large tournaments it often isn't. Tabbycat instead uses the `Hungarian algorithm <https://en.wikipedia.org/wiki/Hungarian_algorithm>`_, an well-known algorithm that finds the (globally) optimal allocation of positions. (One might describe this algorithm, in technical terms, as 'powerful'.) Tabbycat also produces a position balance report, so that in every round you can see which teams have unbalanced position histories."
-msgstr ""
+msgstr "**Rotasi posisi**. Tabbie2 memakai algoritma yang dikenal sebagai \"Algoritma Silver Line\", yang terus menukar pasangan tim sampai tidak ada perbaikan lebih lanjut yang ditemukan. Karena berhenti saat 'optimum lokal' apapun, metode ini tidak terjamin jadi distribusi posisi terbaik, dan untuk turnamen besar biasanya tidak. Tabbycat justru memakai `Algoritna Hungarian <https://en.wikipedia.org/wiki/Hungarian_algorithm>`_, sebuah algoritma terkenal yang mencarikan alokasi posisi optimal (secara global). (algoritma ini bisa dikatakan, dalam istilah teknis, sebagai 'kuat'.) Tabbycat juga membuat laporan posisi seimbang, supaya dalam tiap ronde anda bisa melihat tim mana yang memiliki sejarah posisi tak seimbang."
 
 #: ../../guide/comparisons.rst:59
 msgid "**Venue allocations**. Both Tabbie2 and Tabbycat allow for debate venues to be automatically assigned and manually edited. Tabbycat also allows you to specify 'venue constraints' that can automatically match particular participants with their accessibility requirements, or alternatively allow for tournament staff, such as a convenor or chief adjudicator, to be allocated rooms close to the briefing hall or tab room."
