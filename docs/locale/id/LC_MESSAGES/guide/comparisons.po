@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-19 12:50\n"
+"PO-Revision-Date: 2021-04-19 13:06\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -180,15 +180,15 @@ msgstr "Tiap juri tersedia sebagai menempati posisi tertentu (ketua, panelis, tr
 
 #: ../../guide/comparisons.rst:81
 msgid "Chairs can be 'swapped' by dragging adjudicators on top of each other, and an 'unallocated' area can be used to view and store adjudicators that have not been allocated."
-msgstr ""
+msgstr "Ketua dapat 'menukarkan' dengan menyeret juri di atas satu sama lain, dan area 'tidak teralokasikan' bisa dipakai untuk melihat dan menyimpan juri yang belum dialokasikan."
 
 #: ../../guide/comparisons.rst:83
 msgid "**Adjudicator feedback customisation**. Both Tabbie2 and Tabbycat have built-in adjudicator feedback forms, and allow you to specify the questions on the feedback form. Notable differences:"
-msgstr ""
+msgstr "**Kustomasi umpan balik juri**. Tabbie2 dan Tabbycat sama-sama punya formulir umpan balik juri bawaan, dan memungkinkan anda untuk menentukan pertanyaan pada formulir umpan balik. Perbedaan penting:"
 
 #: ../../guide/comparisons.rst:85
 msgid "Setting up questions is painless on neither system. Tabbycat requires you to use the Edit Database area; Tabbie2 makes you click through a slightly more opaque maze of pages and forms."
-msgstr ""
+msgstr "Memasang pertanyaan ialah mudah untuk tidak kedua system. Tabbycat butuh anda untuk menggunakan area Edit Basisdata; Tabbie2 membuat anda mengeklik melewati lebih banyak labirin halaman dan formulir yang buram."
 
 #: ../../guide/comparisons.rst:86
 msgid "Tabbycat allows for a richer range of types of questions than Tabbie2 does."
