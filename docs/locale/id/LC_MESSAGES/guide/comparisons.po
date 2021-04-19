@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-19 11:36\n"
+"PO-Revision-Date: 2021-04-19 11:46\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -160,7 +160,7 @@ msgstr "Tabbie2 secara otomatis mengkalkulasi kepentingan dari sebuah ruang berd
 
 #: ../../guide/comparisons.rst:75
 msgid "**Adjudicator allocation interface**. While both interfaces use drag and drop interactions, and allow for color highlights to help identify adjudicators by gender, region, and feedback rating, Tabbycat's allocation interface was designed to be usable on both small screens and projectors, and has a number of extra features that can help inform allocations. These features include:"
-msgstr ""
+msgstr "**Antarmuka alokasi juri**. Selama kedua antarmuka menggunakan interaksi seret dan lepas, dan memungkinkan sorotan warna membantu mengenali juri dari jenis kelamin, wilayah, dan rating umpan balik, antarmuka alokasi Tabbycat didesain agar dapat digunakan pada layar kecil dan juga proyektor, dan mempunyai beberapa fitur tambahan yang dapat membantu memberitahukan alokasi. Fitur tersebut berupa:"
 
 #: ../../guide/comparisons.rst:77
 msgid "Clashes are shown directly in the interface when they apply, but dragging an adjudicator will also show you the potential conflicts that would occur if they were relocated in a new panel. This can make it much easier to avoid creating new clashes when shifting adjudicators around the draw."
