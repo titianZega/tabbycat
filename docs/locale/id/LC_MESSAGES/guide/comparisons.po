@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-19 11:09\n"
+"PO-Revision-Date: 2021-04-19 11:16\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -152,7 +152,7 @@ msgstr "Biaya fungsi Tabbycat lebih sederhana dan lebih naif. Di sisi lain, Tabb
 
 #: ../../guide/comparisons.rst:72
 msgid "Tabbie2 allows for single-gender panels to be charged an additional cost. Tabbycat's algorithm doesn't, but the interface does provide a way to easily check for this visually."
-msgstr ""
+msgstr "Tabbie2 memungkinkan untuk panel jenis kelamin-tunggal untuk dibebankan biaya tambahan. Algoritma Tabbycat tidak, tapi antarmukanya menyediakan cara untuk mengecek ini secara visual dengan mudah."
 
 #: ../../guide/comparisons.rst:73
 msgid "Tabbie2 automatically calculates the importance of a room based on its bracket (team points). In Tabbycat, debate importance can be assigned for all debates automatically based on on a room's bracket or the quantity of live break categories inside it. Instead of — or subsequent to — automatic classification any importance  value can be manually tweaked as desired. These options mean there is a greater flexibility in determining which debates the allocation algorithm should prioritise."
