@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-19 10:31\n"
+"PO-Revision-Date: 2021-04-19 10:49\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -144,7 +144,7 @@ msgstr "Tabbie2 memakai simulasi proses anil, yang tidak menjamin jadi optimal d
 
 #: ../../guide/comparisons.rst:70
 msgid "On the other hand, the Hungarian algorithm can't account for relationships between adjudicators on a panel, so adjudicator-adjudicator conflicts aren't considered by Tabbycat's algorithm (though they are highlighted in the interface)."
-msgstr ""
+msgstr "Di sisi lain, algoritma Hungarian tidak bisa menjelaskan hubungan antar juri pada panel, jadi konflik juri-juri tidak dipertimbangkan dengan algoritma Tabbycat (walau mereka disoroti di antarmuka)."
 
 #: ../../guide/comparisons.rst:71
 msgid "Tabbycat's cost function is simpler and more naive. On the other hand, Tabbie2's is more complicated and can be rather opaque (even if you read its source code)."
