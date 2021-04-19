@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-19 07:46\n"
+"PO-Revision-Date: 2021-04-19 09:39\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -132,7 +132,7 @@ msgstr "Seperti yang sudah didiskusikan sebelumnya pada Identifikasi Pengguna; k
 
 #: ../../guide/comparisons.rst:65
 msgid "**Break and speaker categories**. Tabbie2 has ESL, EFL and novice markers, which you can enable in a tournament's settings. Tabbycat supports user-defined break and speaker categories, so if your tournament has ESL, EFL, novice or any other form of category, you can define and customise those categories as needed."
-msgstr ""
+msgstr "**Kategori break dan pembicara**. Tabbie2 punya ESL, EFL dan marker pemula, yang anda bisa aktifkan di pengaturan turnamen. Tabbycat mendukung break yang ditetapkan pengguna dan kategori pembicara, jadi bila turnamen anda punya ESL, EFL, pemula atau bentuk kategori lainnya, anda bisa menetapkan dan merubah kategori itu sesuai kebutuhan."
 
 #: ../../guide/comparisons.rst:67
 msgid "**Adjudicator allocation algorithm**. Both Tabbie2 and Tabbycat use an algorithm to recommend an initial allocation of adjudicators to debates. In principle, they both work by assigning \"costs\" to allocations, and trying to find the minimum-cost assignment. Some notable differences:"
