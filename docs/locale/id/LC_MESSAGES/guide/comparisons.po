@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-19 13:06\n"
+"PO-Revision-Date: 2021-04-19 13:17\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -192,11 +192,11 @@ msgstr "Memasang pertanyaan ialah mudah untuk tidak kedua system. Tabbycat butuh
 
 #: ../../guide/comparisons.rst:86
 msgid "Tabbycat allows for a richer range of types of questions than Tabbie2 does."
-msgstr ""
+msgstr "Tabbycat memungkinkan jarak tipe pertanyaan yang lebih kaya dari Tabbie2."
 
 #: ../../guide/comparisons.rst:87
 msgid "Tabbie2 allows you to specify different questionnaires for team-on-chair, chair-on-panellist and panellist-on-chair. Tabbycat only differentiates between team-on-adjudicator and adjudicator-on-adjudicator."
-msgstr ""
+msgstr "Tabbie2 memungkinkan anda untuk menentukan kuesioner berbeda untuk tim-pada-ketua, ketua-pada-panelis dan panelis-pada-ketua. Tabbycat hanya membedakan antar tim-pada-juri dan juri-pada-juri."
 
 #: ../../guide/comparisons.rst:88
 msgid "Tabbycat gives you more control over who is expected to submit feedback on whom; e.g. whether teams submit on panellists, and whether panellists submit on each other. In Tabbie2, you can effect this with blank questionnaires, but only for the three options listed above."
