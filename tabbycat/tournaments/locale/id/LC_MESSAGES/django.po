@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-19 04:15\n"
+"PO-Revision-Date: 2021-04-19 04:26\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -304,7 +304,7 @@ msgstr "bobot"
 
 #: tournaments/models.py:352
 msgid "A factor for the points received in the round. For example, if 2, all points are doubled."
-msgstr "Sebuah faktor untuk nilai yang didapatkan pada babak. Sebagai contoh, jika 2, semua nilai digandakan."
+msgstr "Sebuah faktor untuk nilai yang didapatkan pada ronde. Sebagai contoh, jika 2, semua nilai digandakan."
 
 #: tournaments/models.py:355
 msgid "round"
@@ -312,23 +312,23 @@ msgstr "ronde"
 
 #: tournaments/models.py:356
 msgid "rounds"
-msgstr "babak"
+msgstr "ronde"
 
 #: tournaments/models.py:369
 msgid "A round in the elimination stage must have its draw type set to \"Elimination\"."
-msgstr "Sebuah babak di tahap eliminasi harus mengatur tipe pengambilan sebagai \"Eliminasi\"."
+msgstr "Sebuah ronde di tahap eliminasi harus memiliki tipe undian \"Eliminasi\"."
 
 #: tournaments/models.py:372
 msgid "A round in the preliminary stage cannot have its draw type set to \"Elimination\"."
-msgstr "Sebuah babak di tahap pre-eliminasi tidak bisa mengatur tipe pengambilannya sebagai \"Eliminasi\"."
+msgstr "Sebuah ronde di tahap penyisihan tidak boleh memiliki tipe undian \"Eliminasi\"."
 
 #: tournaments/models.py:377
 msgid "Elimination rounds must have a break category."
-msgstr "Babak eliminasi harus memiliki sebuah kategori istirahat."
+msgstr "Ronde eliminasi harus memiliki sebuah kategori break."
 
 #: tournaments/templates/assistant_tournament_index.html:4
 msgid "Dashboard"
-msgstr "Pengaturan"
+msgstr "Dasbor"
 
 #: tournaments/templates/assistant_tournament_index.html:5
 msgid "Overview"
@@ -337,7 +337,7 @@ msgstr "Tinjauan"
 #: tournaments/templates/assistant_tournament_index.html:8
 #, python-format
 msgid "current round: %(round)s, status: %(status)s"
-msgstr "babak sekarang: %(round)s, status: %(status)s"
+msgstr "ronde saat ini: %(round)s, status: %(status)s"
 
 #: tournaments/templates/blank_site_start.html:7
 #: tournaments/templates/blank_site_start.html:20
