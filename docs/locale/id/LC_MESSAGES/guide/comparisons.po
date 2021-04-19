@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-19 06:04\n"
+"PO-Revision-Date: 2021-04-19 06:44\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -124,7 +124,7 @@ msgstr "**Alokasi tempat**. Tabbie2 dan Tabbycat sama-sama memungkinkan tempat d
 
 #: ../../guide/comparisons.rst:61
 msgid "**Ballot entry**. Both Tabbie2 and Tabbycat support entering ballots online ('e-ballots') and entering ballots from paper from the tab room. Tabbie2 was built with e-ballots in mind, while Tabbycat was originally built for tab room staff, and the ballot entry paradigms reflect that. Both are flexible, just a little different—the best way to understand the difference is to try a demo of each. Also, Tabbycat takes note of the order in which speakers in a team spoke (i.e. who was PM and who was DPM), whereas Tabbie2 just records scores."
-msgstr ""
+msgstr "**Masukan suara**. Tabbie2 dan Tabbycat sama-sama mendukung memasukkan suara secara daring ('suara-elektronik') dan memasukkan kertas suara dari kertas dari ruang tabulasi. Tabbie2 dibangun dengan suara-elektronik di benak, selama Tabbycat awalnya dikembangkan untuk staf ruang tabulasi, dan paradigma masukan kertas suara mencerminkan itu. Keduanya fleksibel, hanya sedikit berbeda-cara terbaik untuk mengerti perbedaannya ialah dengan mencoba tiap masing-masing demo. Tabbycat juga mengambil catatan dari urutan pembicara dalam sebuah tim berbicara (misalkan, siapa PM dan siapa DPM), sedangkan Tabbie2 hanya menyimpan nilai."
 
 #: ../../guide/comparisons.rst:63
 msgid "As discussed earlier in *User identification*; Tabbie2's e-ballots are tied to unified user accounts, whereas Tabbycat's e-ballots are tied to per-tournament and per-adjudicator 'private URLs'."
