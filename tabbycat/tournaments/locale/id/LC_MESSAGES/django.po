@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-19 03:14\n"
+"PO-Revision-Date: 2021-04-19 03:25\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -109,11 +109,11 @@ msgstr "Ada masalah dengan data untuk turnamen %(tournament)s. Hubungi direktur 
 
 #: tournaments/mixins.py:130
 msgid "You've been redirected to this page because of a problem with how teams are assigned to sides in a debate."
-msgstr "Anda dialihkan ke laman ini karena ada masalah dengan bagaiamana penentuan posisi tim dalam sebuah debat."
+msgstr "Anda dialihkan ke laman ini karena ada masalah dengan bagaiamana tim dialokasikan ke sisi dalam sebuah debat."
 
 #: tournaments/mixins.py:137
 msgid "There's a problem with how teams are assigned to sides in a debate. The tab director will need to resolve this issue."
-msgstr "Ada masalah dengan bagaimana regu-regu diarahkan ke sisi pada sebuah debat. Direksi tab akan perlu menyelesaikan permasalahan ini."
+msgstr "Ada masalah dengan bagaimana tim dialokasikan ke sisi pada sebuah debat. Direktur tabulasi perlu menyelesaikan masalah ini."
 
 #: tournaments/mixins.py:232 tournaments/templates/round_complete_check.html:8
 #, python-format
@@ -122,11 +122,11 @@ msgstr "untuk %(round)s"
 
 #: tournaments/mixins.py:433
 msgid "Return to Draw"
-msgstr "Kembali ke Penarikan"
+msgstr "Kembali ke Undian"
 
 #: tournaments/models.py:26
 msgid "You can't use this as a tournament slug, because it's reserved for a Tabbycat system URL. Please try another one."
-msgstr "Anda tidak dapat menggunakan ini sebagai suatu TOURNAMENT SLUG, karena ini sudah dipesan untuk sebuah sistem URL Tabbycat. Cobalah yang lain."
+msgstr "Anda tidak dapat menggunakan slug ini sebagai slug turnamen, karena slug ini sudah dialokasikan untuk URL sistem Tabbycat. Coba yang lain."
 
 #: tournaments/models.py:33 tournaments/models.py:320
 msgid "name"
