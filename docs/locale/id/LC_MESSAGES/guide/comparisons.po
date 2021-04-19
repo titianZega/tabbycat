@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-19 13:17\n"
+"PO-Revision-Date: 2021-04-19 13:42\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -200,7 +200,7 @@ msgstr "Tabbie2 memungkinkan anda untuk menentukan kuesioner berbeda untuk tim-p
 
 #: ../../guide/comparisons.rst:88
 msgid "Tabbycat gives you more control over who is expected to submit feedback on whom; e.g. whether teams submit on panellists, and whether panellists submit on each other. In Tabbie2, you can effect this with blank questionnaires, but only for the three options listed above."
-msgstr ""
+msgstr "Tabbycat memberi anda lebih banyak kontrol terhadap siapa yang terduga untuk menyerahkan umpan balik pada siapa; misalkan apakah tim menyampaikan pada panelis, dan apakah panel menyampaikan pada satu sama lain. Di Tabbie2, anda bisa mempengaruhi ini dengan kuesioner kosong, tapi hanya untuk tiga pilihan yang terdaftar diatas."
 
 #: ../../guide/comparisons.rst:89
 msgid "Tabbycat can, optionally, automatically incorporate feedback into adjudicator scores using a naive weighted average with the adjudicator base score. This can be disabled by simply setting feedback weight to zero, as some adjudication cores prefer. Tabbie2 has no ability to automatically incorporate feedback."
