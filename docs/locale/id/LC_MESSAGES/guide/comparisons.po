@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-19 14:08\n"
+"PO-Revision-Date: 2021-04-20 12:28\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -220,7 +220,7 @@ msgstr "Pertimbangan lainnya"
 
 #: ../../guide/comparisons.rst:97
 msgid "**Offline availability**. If you like, you can also install Tabbycat on your own computer, rather than host it as website on a server. This means that you can use it offline. However installing Tabbycat in this manner will require the (at least brief) use of a command line interface."
-msgstr ""
+msgstr "**Ketersediaan Luring**. Bila anda mau, anda dapat juga menginstall Tabbycat di komputer sendiri, dibandingkan mengehost situs web pada sebuah server. Ini berarti anda dapat menggunakannya di luar jaringan. Akan tetapi menginstall Tabbycat dengan cara ini akan membutuhkan (pada saat terakhir) penggunaan antarmuka command line."
 
 #: ../../guide/comparisons.rst:99
 msgid "**Cost**. Tabbie2 is free to use. Tabbycat is free to use for not-for-profit, not-for-fundraising tournaments; tournaments for profit or fundraising must make a donation of A$1 per team. In addition, larger tournaments that run on Tabbycat's recommended web host (Heroku) may need to purchase an upgraded database service (the free tier has storage limits) which will cost around ~US$3 to use for the duration of a week-long tournament."
