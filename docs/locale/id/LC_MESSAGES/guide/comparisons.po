@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-22 07:56\n"
+"PO-Revision-Date: 2021-04-22 08:14\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -262,7 +262,7 @@ msgstr "Tabbycat punya proses instalasi klik-sekali yang simpel bila anda mendep
 
 #: ../../guide/comparisons.rst:119
 msgid "**Online features**. Because Tournaman runs fully offline, it naturally can't support many internet-based features: electronic ballots, online publication of draws and live team standings, and integrated tab release. Typically, if you wanted to publish anything online from Tournaman, you'd do so by publishing the files that Tournaman generates locally. In Tabbycat, all of these are built in, so there's a single website for all tab information."
-msgstr ""
+msgstr "**Fitur daring**. Karena turnamen beroperasi sepenuhnya luring, maka ia tak bisa mendukung fitur berbasis-internet yang banyak: kertas suara elektronik, publikasi pengundian daring dan urutan tim secara langsung. Biasanya, bila anda ingin menerbitkan apapun daring dari Turnamen, anda akan melakukannya dengan menerbitkan berkas yang dihasilkan Turnamen itu secara lokal. Di Tabbycat, ini semua sudah ada di dalamnya, jadi situs web tunggal untuk semua informasi tabulasi."
 
 #: ../../guide/comparisons.rst:121
 msgid "**Multi-user access**. Tournaman can be configured to allow networked ballot entry, but in order to set it up, you need to be comfortable with basic computer networking. This works best on small isolated networks that you control directly, e.g. a dedicated router set up in the tab room. It's not a great idea to set this up on computers connected to a university-wide network: many IT departments won't permit it, and even if they do, it's insecure, since anyone on the network can access it."
