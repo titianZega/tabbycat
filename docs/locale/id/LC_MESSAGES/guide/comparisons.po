@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-22 07:27\n"
+"PO-Revision-Date: 2021-04-22 07:36\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -249,11 +249,11 @@ msgstr "Aplikasi asli vs aplikasi web"
 
 #: ../../guide/comparisons.rst:113
 msgid "The crucial strength — and limitation — of Tournaman is that it is a Windows desktop application. Naturally, being a desktop app limits the features it can offer, relative to web apps like Tabbycat or Tabbie2, since it can't offer any online access. On the other hand, working with a desktop app can often be simpler than a web app."
-msgstr ""
+msgstr "Kekuatan penting - dan limitasi - dari Turnamen ialah itu sendiri merupakan aplikasi desktop Windows. Secara alamiah, menjadi aplikasi desktop membatasi fitur yang dapat dibagikan, relatif dengan aplikasi web seperti Tabbycat atau Tabbie2, karna tak bisa menawarkan akses daring apapun. Di sisi lain, menggunakan aplikasi desktop bisa jadi lebih simpel daripada aplikasi web."
 
 #: ../../guide/comparisons.rst:115
 msgid "**Installation**. You'll need to run (or emulate) a Windows machine to run Tournaman. Assuming you're using Windows, Tournaman's installation process is easy and familiar."
-msgstr ""
+msgstr "**Instalasi**. Anda akan perlu menjalankan (atau mengemulasi) sebuah mesin Windows dan menjalankan Turnamen. Mengasumsikan anda memakai Windows, proses instalasi Turnamen mudah dan familier."
 
 #: ../../guide/comparisons.rst:117
 #, python-format
