@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-28 11:48\n"
+"PO-Revision-Date: 2021-04-28 12:30\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -233,7 +233,7 @@ msgstr "**Dokumentasi**. Tabbycat punya `dokumentasi yang relatif luas <http://t
 #: ../../guide/comparisons.rst:103
 #, python-format
 msgid "**Hosting location**. Tabbycat recommends using Heroku, an established cloud platform service for deploying web applications. Heroku is in turn hosted on Amazon Web Services (AWS). Both Heroku and AWS are highly reliable and widely used; downtime for both has historically been (at worst) less than 0.05% over an annual period. Tabbie2 is hosted on `Uberspace <https://uberspace.de/>`_; a pay-what-you-want web hosting service. To the best of our knowledge, uptime statistics are not available."
-msgstr ""
+msgstr "**Lokasi Hosting**. Tabbycat merekomendasikan memakai Heroku, sebuah layanan platform cloud yang mapan untuk menyebarkan aplikasi web. Heroku pada gilirannya dihosting pada Layanan Web Amazon (LWA). Heroku dan LWA sangat terandalkan dan banyak digunakan; downtime untuk keduanya secara historis (paling buruknya) kurang dari 0,05% dalam periode tahunan. Tabbie2 dihosting pada `Uberspace <https://uberspace.de/>`_; sebuah layanan hosting web bayar-sesuai-keinginan-anda. Sepengetahuan kami, statistik uptime tidak tersedia."
 
 #: ../../guide/comparisons.rst:105
 msgid "**Multi-format support**. If you are interested in tabbing both four- and two- team formats there may be some value in using and learning Tabbycat as it will let you use the same software in both settings."
@@ -334,5 +334,5 @@ msgstr "Hand Tabbing mudah, sampai tidak. Biasanya, menggunakan spreadsheet tela
 
 #: ../../guide/comparisons.rst:162
 msgid "However, hand tabbing does require you to have a good working knowledge of how your format's rules work and how your spreadsheet software of choice can be made to work them. That process might be easy for you, or it might not be. But, either way, we'd like to think that Tabbycat offers a better alternative to hand-tabbing; regardless of how well you can actually hand-tab. The setup costs of creating a copy of Tabbycat are pretty low and you can speed through the process of draw creation, adjudicator allocation, and result entry at a pace. It's still not going to be as fast a spreadsheet for a small tournament, but we think it's getting pretty close. And in exchange for a little speed you get a much stronger guarantee of your draws being correct, options for online data entry, a more comprehensive and shareable final tab, and much more. Give it a shot!"
-msgstr ""
+msgstr "Meskipun demikian, menabulasi dengan tangan memang mengharuskan anda punya pengetahuan kerja yang bagus mengenai bagaimana format Anda bekerja dan bagaimana perangkat lunak spreadsheet pilihan anda dapat dibuat untuk menjalankannya. Itu mungkin proses yang mudah bagi Anda, atau mungkin tidak. Tapi, bagaimanapun juga, kami ingin Tabbycat menawarkan alternatif yang lebih baik untuk menabulasi dengan tangan; terlepas dari seberapa baik anda menabulasi dengan tangan. Biaya penyiapan untuk membuat salinan dari Tabbycat cukup rendah dan anda bisa mempercepat proses pembuatan pengundian, alokasi juri, dan hasil entri dengan cepat. Ini masih tidak akan secepat spreadsheet untuk turnamen kecil, tapi kami pikir itu sudah cukup mendekati. Dan sebagai pengganti sedikit kecepatan, anda dapat jaminan lebih kuat bahwa hasil undian anda akan tepat, pilihan untuk masukan data daring, tabulasi akhir yang lebih komprehensif dan dapat dibagikan, dan banyak lainnya. Silahkan dicoba!"
 
