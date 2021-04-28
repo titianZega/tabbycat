@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-28 10:21\n"
+"PO-Revision-Date: 2021-04-28 10:29\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -306,7 +306,7 @@ msgstr "**Alokasi juri**. Tournaman memiliki skala ranking juri yang tetap dan (
 
 #: ../../guide/comparisons.rst:144
 msgid "As with the discussion of allocation interfaces vis-à-vis Tabbie2, there are a number of features in the Tabbycat allocation interface that mean it is more easily used in a collaborative setting and can display additional information to inform draws."
-msgstr ""
+msgstr "Seperti diskusi mengenai alokasi antarmuka Tabbie2 vis-à-vis, ada sejumlah fitur pada antarmuka alokasi Tabbycat yang berarti lebih mudah digunakan pada pengaturan kolaboratif dan dapat menampilkan informasi tambahan untuk memberitahu pengundian."
 
 #: ../../guide/comparisons.rst:146
 msgid "**Flexibility in draw rules**. As we've said, all major tab systems are WUDC-compliant. But if you want to deviate from WUDC rules, Tournaman has a few more options. Whereas Tabbycat allows you to use intermediate brackets (rather than pull-ups), Tournaman allows you to sacrifice power-pairing integrity for position balance (though this generally isn't necessary to achieve position balance), fold within brackets and avoid teams hitting their own institution. On the other hand, Tabbycat allows you to tune how position balance trades off between teams (which the WUDC constitution doesn't precisely specify)."
