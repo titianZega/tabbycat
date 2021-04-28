@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-28 11:22\n"
+"PO-Revision-Date: 2021-04-28 11:35\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -224,7 +224,7 @@ msgstr "**Ketersediaan Luring**. Bila anda mau, anda dapat juga menginstall Tabb
 
 #: ../../guide/comparisons.rst:99
 msgid "**Cost**. Tabbie2 is free to use. Tabbycat is free to use for not-for-profit, not-for-fundraising tournaments; tournaments for profit or fundraising must make a donation of A$1 per team. In addition, larger tournaments that run on Tabbycat's recommended web host (Heroku) may need to purchase an upgraded database service (the free tier has storage limits) which will cost around ~US$3 to use for the duration of a week-long tournament."
-msgstr "**Biaya**. Tabbie2 gratis digunakan. Tabbycat gratis digunakan untuk turnamen bukan-untuk-profit, turnamen bukan-untuk-penggalangan dana; turnamen untuk profit atau penggalangan dana mesti membuat donasi A$1 untuk tiap tim. Sebagai tambahan, turnamen yang lebih besar yang dijalankan di host situs rekomendasi Tabbycat (Heroku) mungkin perlu membeli servis basisdata yang telah ditingkatkan (tingkat gratis punya batas penyimpanan) yang mungkin berharga sekitar ~US$3 untuk digunakan selama durasi turnamen seminggu."
+msgstr "**Biaya**. Tabbie2 gratis digunakan. Tabbycat gratis digunakan untuk turnamen nirlaba, turnamen bukan-penanggalangan-dana; turnamen untuk profit atau penanggalangan-dana mesti membuat donasi sebanyak A$1 per tim. Sebagai tambahan, turnamen yang lebih besar yang dijalankan di situs host rekomendasi Tabbycat (Heroku) mungkin perlu membeli layanan basisdata yang telah ditingkatkan (tingkat gratis punya batas penyimpanan) yang mungkin sekitar ~US$3 untuk digunakan selama durasi turnamen seminggu."
 
 #: ../../guide/comparisons.rst:101
 msgid "**Documentation**. Tabbycat has `relatively extensive documentation <http://tabbycat.readthedocs.io/en/stable/>`_ that can be useful for learning how to use a particular feature or understanding what is happening at a technical level."
@@ -318,11 +318,11 @@ msgstr "**Stabilitas dan perkembangan**. Tournaman telah digunakan selama lebih 
 
 #: ../../guide/comparisons.rst:153
 msgid "**Cost**. Tournaman is free to use. Tabbycat is free to use for not-for-profit, not-for-fundraising tournaments; tournaments for profit or fundraising must make a donation of A$1 per team. In addition, larger tournaments that run on Tabbycat's recommended web host (Heroku) may need to purchase an upgraded database service (the free tier has storage limits) which will cost around ~US$3 to use for the duration of a week-long tournament."
-msgstr ""
+msgstr "**Biaya**. Tournaman gratis digunakan. Tabbycat gratis digunakan untuk turnamen nirlaba, turnamen bukan-penanggalangan-dana; turnamen untuk profit atau penanggalangan-dana mesti membuat donasi sebanyak A$1 per tim. Sebagai tambahan, turnamen yang lebih besar yang berjalan di situs host rekomendasi Tabbycat (Heroku) mungkin perlu membeli layanan basisdata yang telah ditingkatkan (tingkat gratis punya batas penyimpanan) yang mungkin sekitar ~US$3 untuk digunakan selama durasi turnamen seminggu."
 
 #: ../../guide/comparisons.rst:155
 msgid "**Availability of source code**. Tournaman's code is closed-source, meaning it is not publicly available. If you do not have any coding experience this is probably not relevant to you, but if you do, having access to the source of Tabbycat can help you understand how the program works and customise it as needed."
-msgstr ""
+msgstr "**Ketersediaan kode asal**. Kode Tournaman ialah sumber-tertutup, yang berarti tidak tersedia untuk umum. Bila anda tidak memiliki pengalaman koding apapun ini mungkin tidak relevan bagi anda, tapi bila ya, punya akses ke sumber Tabbycat bisa membantu anda memahami bagaimana cara kerja programnya dan menyesuaikannya sesuai kebutuhan."
 
 #: ../../guide/comparisons.rst:158
 msgid "Comparison with hand tabbing"
