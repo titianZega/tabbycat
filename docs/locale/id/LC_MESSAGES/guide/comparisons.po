@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-28 09:18\n"
+"PO-Revision-Date: 2021-04-28 09:50\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -290,11 +290,11 @@ msgstr "Penyimpanan data Tournaman sebagai berkas XML membuat penyimpanan jadi m
 
 #: ../../guide/comparisons.rst:133
 msgid "As for Tabbycat, in online installations, backups can be taken easily using Heroku's `database backup capability <http://tabbycat.readthedocs.io/en/stable/features/backups.html>`_. However, restoring backups requires you to have the Heroku command line interface installed. In offline installations, PostgreSQL's \"dump\" and \"restore\" commands are recommended, and may require some perseverance to get going reliability, particularly if you don't have prior SQL experience."
-msgstr ""
+msgstr "Seperti untuk Tabbycat, pada instalasi daring, cadangan dapat dijalankan dengan mudah menggunakan `kapabilitas cadangan basisdata Heroku <http://tabbycat.readthedocs.io/en/stable/features/backups.html>`_. Akan tetapi, memulihkan cadangan mengharuskan anda untuk menginstall antarmuka baris kode. Pada instalasi luring, perintah \"buang\" dan \"pulih\" PostgreSQL direkomendasikan, dan mungkin membutuhkan beberapa ketekunan untuk mewujudkannya, terutama bila anda tidak punya pengalaman SQL sebelumnya."
 
 #: ../../guide/comparisons.rst:135
 msgid "Generally there is no need for data portability when working with an online copy of Tabbycat — the website can be accessed anywhere. However if working with an offline/local copy, a tab can be transferred between machines by creating a backup of the database and restoring it to the other machine's database (doing so requires technical knowledge)."
-msgstr ""
+msgstr "Pada umumnya portabilitas data tidak dibutuhkan saat berurusan dengan jiplakan daring Tabbycat - situs webnya dapat diakses darimanapun. Tetapi bila berurusan dengan jiplakan yang luring, sebuah tabulasi dapat ditransfer antar mesin dengan membuat cadangan basisdata dan memungkinkannya ke basisdata mesin lain (melakukannya membutuhkan pengetahuan teknis)."
 
 #: ../../guide/comparisons.rst:140
 msgid "**Adjudicator feedback**. Tournaman lets you assign judges rankings, however it does not directly manage or assist the process of collecting judge feedback. As such tab directors generally need to run a parallel feedback system, and then manually copy over changes to an adjudicator's ranking into Tournaman itself. In contrast, Tabbycat has integrated methods for collecting judge feedback that allow it to be more easily issued, collected, viewed, and automatically translated into modifications to an adjudicator's rank."
