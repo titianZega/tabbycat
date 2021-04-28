@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-28 08:28\n"
+"PO-Revision-Date: 2021-04-28 08:47\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -278,7 +278,7 @@ msgstr "Bila anda memilih untuk menginstall Tabbycat secara luring (daripada di 
 
 #: ../../guide/comparisons.rst:127
 msgid "**Backups and portability**. Both Tournaman and Tabbycat (unlike Tabbie2) store data in a way that is completely accessible to you. Tournaman does this by saving files on your computer's hard drive, while Tabbycat stores data in a SQL database that belongs to you."
-msgstr ""
+msgstr "**Cadangan dan portabilitas**. Tournaman dan Tabbycat (tidak seperti Tabbie2) menyimpan data dengan cara yang dapat anda akses sepenuhnya. Tournaman dapat melakukan ini dengan menyimpan berkas pada hard drive komputer, sedangkan Tabbycat menyimpan data pada basisdata SQL milik anda sendiri."
 
 #: ../../guide/comparisons.rst:129
 msgid "It should be emphasized that in both Tournaman and Tabbycat, actually needing to revert to a backup is extremely rare. Almost always, any glitch or error that breaks the tab can be resolved by editing data directly, without needing to \"roll back\" to a previous state. In Tournaman, this is done by editing the files that it writes to your hard drive (they're just XML files). In Tabbycat, this is done through the \"Edit Database\" area."
