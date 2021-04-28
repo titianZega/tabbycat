@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-28 09:09\n"
+"PO-Revision-Date: 2021-04-28 09:18\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -286,7 +286,7 @@ msgstr "Perlu ditekankan bahwa pada Tournaman dan Tabbycat, sangat jarang mengha
 
 #: ../../guide/comparisons.rst:131
 msgid "Tournaman's storage of data as XML files makes backups easy, although effort should be made to have backups stored on other computers or the cloud  (e.g. on Dropbox) in case the tab computer breaks or is lost. Restoring data from those backups (or transferring the tab to a different computer) is typically a simple process of copying the files back to the original location."
-msgstr ""
+msgstr "Penyimpanan data Tournaman sebagai berkas XML membuat penyimpanan jadi mudah, walaupun usaha harus dilakukan agar cadangan tersimpan pada komputer lain atau cloud (misalkan pada Dropbox) jikalau tabulasi komputernya rusak atau hilang. Memulihkan data dari cadangan tersebut (atau mentransfer tabulasinya ke komputer yang berbeda) biasanya proses penyalinan simpel terhadap berkas-berkas kembali ke lokasinya yang awal."
 
 #: ../../guide/comparisons.rst:133
 msgid "As for Tabbycat, in online installations, backups can be taken easily using Heroku's `database backup capability <http://tabbycat.readthedocs.io/en/stable/features/backups.html>`_. However, restoring backups requires you to have the Heroku command line interface installed. In offline installations, PostgreSQL's \"dump\" and \"restore\" commands are recommended, and may require some perseverance to get going reliability, particularly if you don't have prior SQL experience."
