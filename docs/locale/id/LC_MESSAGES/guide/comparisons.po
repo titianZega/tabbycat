@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-28 10:29\n"
+"PO-Revision-Date: 2021-04-28 11:22\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -310,11 +310,11 @@ msgstr "Seperti diskusi mengenai alokasi antarmuka Tabbie2 vis-à-vis, ada sejum
 
 #: ../../guide/comparisons.rst:146
 msgid "**Flexibility in draw rules**. As we've said, all major tab systems are WUDC-compliant. But if you want to deviate from WUDC rules, Tournaman has a few more options. Whereas Tabbycat allows you to use intermediate brackets (rather than pull-ups), Tournaman allows you to sacrifice power-pairing integrity for position balance (though this generally isn't necessary to achieve position balance), fold within brackets and avoid teams hitting their own institution. On the other hand, Tabbycat allows you to tune how position balance trades off between teams (which the WUDC constitution doesn't precisely specify)."
-msgstr ""
+msgstr "**Fleksibilitas pada aturan pengundian**. Seperti yang telah kami katakan, semua sistem tabulasi utama sesuai dengan KDITU. Namun bila anda ingin menyimpang dari aturan KDITU, Tournaman punya beberapa pilihan. Sedangkan Tabbycat memungkinkan anda untuk menggunakan intermediate brackets (dibanding pull-up), Tournaman memungkinkan anda mengorbankan integritas power-pairing untuk keseimbangan posisi (meskipun ini umumnya tidak perlu untuk mencapai keseimbangan posisi), lipatan dalam brackets dan menghindari tim mengenai institusinya sendiri. Di sisi lain, Tabbycat memungkinkan anda menyesuaikan bagaimana keseimbangan posisi saling berkorban antar tim (yang tidak ditentukan dengan tepat oleh konstitusi KDITU)."
 
 #: ../../guide/comparisons.rst:151
 msgid "**Stability and development**. Tournaman has been in use for over a decade and is generally considered to be stable and reliable. However, new features are relatively rarely added, and its being a native app means that it doesn't boast as many features as Tabbycat or Tabbie2."
-msgstr ""
+msgstr "**Stabilitas dan perkembangan**. Tournaman telah digunakan selama lebih dari satu dekade dan umumnya dianggap stabil dan terandalkan. Namun, fitur baru relatif jarang ditambahkan, dan menjadi aplikasi asli berarti tidak membanggakan fitur sebanyak Tabbycat atau Tabbie2."
 
 #: ../../guide/comparisons.rst:153
 msgid "**Cost**. Tournaman is free to use. Tabbycat is free to use for not-for-profit, not-for-fundraising tournaments; tournaments for profit or fundraising must make a donation of A$1 per team. In addition, larger tournaments that run on Tabbycat's recommended web host (Heroku) may need to purchase an upgraded database service (the free tier has storage limits) which will cost around ~US$3 to use for the duration of a week-long tournament."
