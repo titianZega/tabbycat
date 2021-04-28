@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-28 08:47\n"
+"PO-Revision-Date: 2021-04-28 09:09\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -282,7 +282,7 @@ msgstr "**Cadangan dan portabilitas**. Tournaman dan Tabbycat (tidak seperti Tab
 
 #: ../../guide/comparisons.rst:129
 msgid "It should be emphasized that in both Tournaman and Tabbycat, actually needing to revert to a backup is extremely rare. Almost always, any glitch or error that breaks the tab can be resolved by editing data directly, without needing to \"roll back\" to a previous state. In Tournaman, this is done by editing the files that it writes to your hard drive (they're just XML files). In Tabbycat, this is done through the \"Edit Database\" area."
-msgstr ""
+msgstr "Perlu ditekankan bahwa pada Tournaman dan Tabbycat, sangat jarang mengharuskan untuk kembali ke sebuah cadangan. Hampir selalu, tiap glitch atau kesalahan lain yang merusak tabulasinya dapat diselesaikan dengan mengedit datanya secara langsung, tanpa harus \"kembali\" ke keadaan sebelumnya. Di Tournaman, ini dilakukan dengan mengedit berkas yang ditulisnya ke hard drive anda (hanyalah berkas XML). Di Tabbycat, ini dilakukan dengan area \"Edit Basisdata\"."
 
 #: ../../guide/comparisons.rst:131
 msgid "Tournaman's storage of data as XML files makes backups easy, although effort should be made to have backups stored on other computers or the cloud  (e.g. on Dropbox) in case the tab computer breaks or is lost. Restoring data from those backups (or transferring the tab to a different computer) is typically a simple process of copying the files back to the original location."
