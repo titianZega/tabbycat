@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-08 06:14\n"
+"PO-Revision-Date: 2021-05-08 06:23\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -64,7 +64,7 @@ msgstr "Seharusnya tidak perlu menambah jumlah dino 'worker'. Meskipun dyno 'web
 
 #: ../../guide/scaling.rst:34
 msgid "At large tournaments you should always upgrade your existing '**Free**' dyno to a '**Hobby**'-level dyno. This upgrade is crucial as it will enable a \"Metrics\" tab on your Heroku dashboard that provides statistics which are crucial to understanding how your site is performing and how to improve said performance. If you are at all unsure about how your site will perform it is a good idea to do this pre-emptively and keep an eye on these metrics over the course of the tournament."
-msgstr ""
+msgstr "Pada turnamen besar anda mesti selalu meningkatkan dyno '**Gratis**' anda yang telah ada ke dyno level-'**Hobi**'. Peningkatan ini krusial karena akan memungkinkan sebuah tabulasi \"Metrik\" pada dasbor Heroku anda yang menyediakan statistik yang penting untuk mengerti cara situs anda bekerja dan bagaimana cara meningkatkan performanya. Bila anda belum yakin mengenai bagaimana situs anda akan berjalan sebaiknya melakukan ini terlebih dahulu dan memperhatikan mertrik ini selama turnamen berlangsung."
 
 #: ../../guide/scaling.rst:38
 msgid "If pages are not loading it could be due to two things: your site being overloaded with traffic, or a bug in Tabbycat itself. Generally, if you see a generic or Heroku-branded 'application error' page that means it is the former problem, whereas a Tabbycat-branded page indicates the latter."
