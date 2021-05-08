@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-08 10:44\n"
+"PO-Revision-Date: 2021-05-08 10:54\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -116,11 +116,11 @@ msgstr "Graf ini menunjukkan seberapa baik dynos Anda digunakan. Ini diskalakan 
 
 #: ../../guide/scaling.rst:73
 msgid "If this bar graph is hitting the top it will usually mean that a site that is slow or failing to load pages — if each dyno is busy it can't serve a new page until it is finished. This issue can often compound, with more traffic coming in than it is possible to serve and clear."
-msgstr ""
+msgstr "Bila graf batang ini mencapai bagian atas, biasanya itu berarti situsnya lambat atau gagal memuat halaman - jika setiap dyno sibuk, dyno tidak dapat menampilkan halaman baru sampai selesai. Masalah ini sering kali menjadi rumit, dengan banyak lalu lintas yang masuk daripada yang dapat dilayani dan dibersihkan."
 
 #: ../../guide/scaling.rst:75
 msgid "If your average, rather than maximum, dyno load is approaching the upper limit of however many dynos you are running now (remember the y-axis will often exceed however many dynos you are currently running) that is a very good sign that you should increase the quantity of dynos being run. Continue adding dynos and evaluate how this effects load so that the bar is not hitting its limit."
-msgstr ""
+msgstr "Jika rata-rata anda, daripda maksimum, pemuatan dyno mendekati batas atas berapapun banyak dynos yang anda jalankan sekarang (ingat sumbu y akan sering melebihi seberapa banyak dynos yang anda jalankan saat ini) itu pertanda baik bahwa anda harus meningkatkan jumlah dynos yang dijalankan. Terus tambahkan dynos dan evaluasi bagaimana efek ini dimuat agar batangnya tidak mencapai batasnya."
 
 #: ../../guide/scaling.rst:77
 msgid "If you are consistently needing to scale things (or having previously had issues and are expecting a very heavy burst of traffic) it may be worth upgrading to the **Performance-M** dyno type, which will then allow you to enable the *Auto-scaling* feature. This will automatically add dynos as needed to cope with traffic, and remove them when they become unnecessary. This is very effective; however, note that this dyno-type is $250/month per dyno and will self-add dynos (within an upper limit you can specify). While this is not a huge price on a per hour/minute basis (even running 10 for an hour is only $4) you definitely want to ensure you keep a close eye on it and turn it off when it is not necessary. Note that it also tends to be quite aggressive in how many dynos it 'thinks' you need — you may want to increase the default response time threshold to prevent it scaling so quickly."
