@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-08 05:34\n"
+"PO-Revision-Date: 2021-05-08 05:44\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -24,23 +24,23 @@ msgstr "Penyekalaan & Performa pada Heroku"
 
 #: ../../guide/scaling.rst:7
 msgid "If you expect your Tabbycat site to gain lots of traffic — either because it has lots of participants or will be followed by lots of people online — there are a number of strategies to ensure that it will remain fast despite this attention. This is typically only necessary for very large tournaments that will display information on the public-facing version of your Tabbycat site; and even then only minor amounts of 'scaling' are needed at particular moments. However, if your site does become slow you want to know what to do and how to do it ahead of time in order to prevent disruptions."
-msgstr "Jika kamu mengharapkan situs Tobbycatmu mendapatkan banyak kunjungan (lalu lintas) -- baik karena memiliki banyak partisipan ataupun akan diikuti oleh banyak orang secara daring -- ada banyak strategi untuk memastikan bahwa situs akan tetap cepat meskipun terdapat perhatian ini. Hal ini biasanya hanya perlu untuk turnamen yang sangat besar yang akan menampilkan informasi pada versi \"public-facing\" situs Tobbycatmu; bahkan hanya sejumlah kecil dari 'scaling' yang dibutuhkan pada saat-saat tertentu. Meskipun demikian, jika situsmu menjadi lambat, kamu mau tau apa yang harus dilakukan dan bagaimana melakukannya untuk mencegah gangguan."
+msgstr "Jika kamu mengharapkan situs Tabbycat anda mendapatkan banyak kunjungan -- baik karena memiliki banyak partisipan ataupun akan diikuti oleh banyak orang secara daring -- ada banyak strategi untuk memastikan bahwa situs akan tetap cepat meskipun terdapat perhatian ini. Hal ini biasanya hanya perlu untuk turnamen yang sangat besar yang akan menampilkan informasi pada versi situs publik Tabbycat anda; bahkan hanya sejumlah kecil dari 'scaling' yang dibutuhkan pada saat-saat tertentu. Meskipun demikian, jika situsmu menjadi lambat, kamu mau tau apa yang harus dilakukan dan bagaimana melakukannya untuk mencegah gangguan."
 
 #: ../../guide/scaling.rst:9
 msgid "By default, a Tabbycat installation runs on Heroku's free tier. This is a resource-constrained environment and improving performance will typically require paying for higher levels of Heroku services. These services are billed on a per-minute (not monthly) basis, meaning that if you make use of any upgrades mentioned below, you will only be billed for the actual duration used — i.e. if an upgrade is listed at $100/month, but you only use it for 4 hours, the final bill will be around $0.50. As such you can make use of high-performing resources just when they are needed, without needing to pay the full monthly price to maintain the resource indefinitely."
-msgstr ":Dalam setelan dasar, sebuah instalasi Tobbycat beroperasi pada \"tingkatan gratis\" dari Heroku. Ini adalah sebuah lingkungan dengan sumber daya yang terbatas dan peningkatan performa biasanya akan membutuhkan layanan Heroku dengan level lebih tinggi. Layanan-layanan ini ditagih setiap menit (bukan setiap bulan), yang artinya jika kamu menggunakan \"upgrade\" apapun yang disebutkan di bawah ini, kau hanya akan ditagih berdasarkan durasi yang sebenarnya digunakan -- misalkan terdapat \"upgrade\" dengan harga $100/bulan, tetapi kamu hanya menggunakannya selama 4 jam, tagihan akhirnya akan berkisar $0.50. Karena itu, kamu bisa memanfaatkan sumber-sumber dengan performasi tinggi hanya saat dibutuhkan, tanpa harus membayar harga bulanan penuh untuk mempertahankan sumber tanpa batas."
+msgstr "Secara bawaan, sebuah instalasi Tabbycat beroperasi pada tingkatan gratis pada Heroku. Ini adalah sebuah lingkungan dengan sumber daya yang terbatas dan peningkatan performa biasanya akan membutuhkan layanan Heroku dengan level lebih tinggi. Layanan-layanan ini ditagih setiap menit (bukan setiap bulan), yang artinya jika kamu menggunakan peningkatan apapun yang disebutkan di bawah ini, kau hanya akan ditagih berdasarkan durasi yang sebenarnya digunakan -- misalkan terdapat sebuah peningkatan dengan harga $100/bulan, tetapi kamu hanya menggunakannya selama 4 jam, tagihan akhirnya akan berkisar $0.50. Karena itu, kamu bisa memanfaatkan sumber-sumber dengan performasi tinggi hanya saat dibutuhkan, tanpa harus membayar harga bulanan penuh untuk mempertahankan sumber tanpa batas."
 
 #: ../../guide/scaling.rst:13
 msgid "This page was largely written before a number of improvements in the ``2.2`` release of Tabbycat that have significantly increased traffic capacity. Its recommendations may be overly cautious given these improvements."
-msgstr "Laman ini sebagian besar ditulis sebelum sejumlah perbaikan dalam rilis \"2.2\" dari Tabbycat yang telah meningkatkan kapasitas lalu lintas secara signifikan. Rekomendasinya mungkin terlalu berhati-hati mengingat peningkatan ini."
+msgstr "Laman ini sebagian besar ditulis sebelum sejumlah perbaikan dalam rilis ``2.2`` dari Tabbycat yang telah meningkatkan kapasitas lalu lintas secara signifikan. Rekomendasinya mungkin terlalu berhati-hati mengingat peningkatan ini."
 
 #: ../../guide/scaling.rst:17
 msgid "Scaling for performance reasons is a separate issue to that of `upgrading the database capacity <install-heroku#upgrading-your-database-size>`_ of your tab which just provides the ability to store data. That said, typically only tournaments that are large enough to need an upgraded database will be the ones that ever need to consider scaling for performance anyway."
-msgstr "Penskalaan untuk alasan performa adalah isu berbeda dari 'mengupgrade kapasitas basis data <install-heroku # upgrading-your-database-size>` _ tab kamu yang hanya menyediakan kemampuan untuk menyimpan data. Meskipun demikian, biasanya hanya turnamen yang cukup besar memerlukan basis data yang ditingkatkan yang akan menjadi sesuatu yang perlu pertimbang \"penskalaan kinerja\"."
+msgstr "Penyekalaan untuk alasan performa adalah isu berbeda dari meningkatkan kapasitas basisdata <install-heroku#upgrading-your-database-size>`_ dari tabulasi anda yang hanya menyediakan kemampuan untuk menyimpan data. Meskipun demikian, biasanya hanya turnamen yang cukup besar memerlukan basis data yang telah ditingkatkan yang akan menjadi sesuatu yang perlu pertimbang penyekalaan untuk performa."
 
 #: ../../guide/scaling.rst:20
 msgid "Introduction to Scaling"
-msgstr "Pengantar Penskalaan"
+msgstr "Pengantar untuk Penyekalaan"
 
 #: ../../guide/scaling.rst:22
 msgid "Heroku's primary resource is that of a 'dyno'. Each dyno can be thought of as running a copy of Tabbycat. Following the 'many hands make light work' principle, running a greater number of dynos will generally improve the ability of your site to serve lots of pages simultaneously because traffic is divided up amongst all of the available dynos. In normal circumstances most Tabbycat pages on the public site are served by Heroku in under a second; however they can take noticeably longer than that when the quantity of incoming traffic exceeds the capacity of the existing dyno(s) to serve it. In such cases the delay accrues because the excess page loads need to first wait for an available dyno in addition to the standard wait for a page to be processed and transferred to the user."
