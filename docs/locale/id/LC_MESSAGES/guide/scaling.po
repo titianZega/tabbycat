@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-08 05:44\n"
+"PO-Revision-Date: 2021-05-08 06:04\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -48,7 +48,7 @@ msgstr "Sumber daya utama Heroku adalah 'dyno'. Setiap dyno dapat dianggap menja
 
 #: ../../guide/scaling.rst:24
 msgid "Thus scaling is almost always a process of increasing *throughput* in order to decrease the chance that any page load needs to wait in order to be served by a dyno. On the flip side, having extra dynos or upgraded dynos won't make Tabbycat itself run any faster in general — they are essentially wasted unless there is sufficient large amounts of traffic that a single dyno cannot serve all of it without creating a queue."
-msgstr "Jadi penskalaan hampir selalu merupakan proses peningkatan *throughput* untuk mengurangi kemungkinan pemuatan halaman apa pun perlu menunggu untuk dilayani oleh dyno. Di sisi lain, memiliki dyno ekstra atau dynos yang telah ditingkatkan tidak akan membuat Tabbycat itu sendiri berjalan lebih cepat secara umum - mereka pada dasarnya sia-sia kecuali ada lalu lintas dalam jumlah yang cukup besar sehingga satu dyno tidak dapat melayani semuanya tanpa membuat sebuah antrian."
+msgstr "Jadi penyekalaan hampir selalu merupakan proses peningkatan *sepanjang* untuk mengurangi kemungkinan pemuatan halaman apa pun perlu menunggu untuk dilayani oleh dyno. Di sisi lain, memiliki dyno ekstra atau dynos yang telah ditingkatkan tidak akan membuat Tabbycat itu sendiri berjalan lebih cepat secara umum - mereka pada dasarnya sia-sia kecuali ada lalu lintas dalam jumlah yang cukup besar sehingga satu dyno tidak dapat melayani semuanya tanpa membuat sebuah antrian."
 
 #: ../../guide/scaling.rst:26
 msgid "Dynos can be scaled by adding more dynos ('horizontally') or by adding upgraded dynos ('vertically'). In general, horizontal scaling should be the first and most effective strategy — the problem traffic causes is due to *concurrency* or lots of people loading lots of pages all at once. The traffic on Tabbycat sites typically fluctuates a lot, with moments of high intensity clustering around draw releases, round advances, and the final tab release. As such you generally only need to scale your dynos for very short periods of time."
