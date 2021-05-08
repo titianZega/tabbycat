@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-08 10:54\n"
+"PO-Revision-Date: 2021-05-08 11:04\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -124,11 +124,11 @@ msgstr "Jika rata-rata anda, daripda maksimum, pemuatan dyno mendekati batas ata
 
 #: ../../guide/scaling.rst:77
 msgid "If you are consistently needing to scale things (or having previously had issues and are expecting a very heavy burst of traffic) it may be worth upgrading to the **Performance-M** dyno type, which will then allow you to enable the *Auto-scaling* feature. This will automatically add dynos as needed to cope with traffic, and remove them when they become unnecessary. This is very effective; however, note that this dyno-type is $250/month per dyno and will self-add dynos (within an upper limit you can specify). While this is not a huge price on a per hour/minute basis (even running 10 for an hour is only $4) you definitely want to ensure you keep a close eye on it and turn it off when it is not necessary. Note that it also tends to be quite aggressive in how many dynos it 'thinks' you need — you may want to increase the default response time threshold to prevent it scaling so quickly."
-msgstr ""
+msgstr "Jika anda secara konsisten butuh penyekalaan (atau sebelumnya pernah mengalami masalah dan mengharapkan banyak lonjakan lalu lintas) mungkin ada baiknya untuk meningkatkan ke tipe dyno **Performa-M**, yang akan memungkinkan anda untuk mengaktifkan fitur *Penyekalaan otomatis*. Ini secara otomatis akan menambahkan dynos yang diperlukan untuk mengurus lalu lintas, dan menghapusnya saat tidak diperlukan. Ini sangat efektif; namun, perhatikan bahwa tipe dyno ini adalah $250/bulan per dyno dan akan menambahkan sendiri dynos (dalam batas atas yang dapat anda tentukan). Meskipun ini bukan harga yang besar untuk tiap jam/menit (bahkan menjalankan 10 untuk sejam hanya $4) anda pasti ingin memastikan anda terus mengawasinya dan mematikan saat tidak diperlukan. Perhatikan bahwa itu juga cenderung cukup agresif dalam berapa banyak dynos yang 'menurut' dynos itu sendiri akan anda butuhkan - Anda mungkin ingin meningkatkan ambang waktu respon bawaan untuk mencegahnya menskalakan dengan begitu cepat."
 
 #: ../../guide/scaling.rst:80
 msgid "Memory Usage"
-msgstr ""
+msgstr "Penggunaan Memori"
 
 #: ../../guide/scaling.rst:84
 msgid "It is very rare that Tabbycat sites will hit the memory limits of the Free or Hobby level dynos — its almost always hovering around 256MB of the (standard dyno) limit of 512MB. However, if the graph is approaching the dashed line you may want to first restart the dynos (in the *More* dropdown in the upper-right) and see if that resolves it."
