@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-08 09:34\n"
+"PO-Revision-Date: 2021-05-08 09:54\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -100,7 +100,7 @@ msgstr "Anda dapat mengubah persentil di grafik ini. Masalah akan lebih parah ji
 
 #: ../../guide/scaling.rst:62
 msgid "Closely related to this is the **Throughput** graph (further down) which shows how many pages your site is serving per second. Normally this is not particularly interesting, however note that the red part of the bar graph shows the amount of failed page requests. Like the **Response Time** graph, this can indicate issues with the site — normally this red portion should be well below 1rps (and ideally 0rps). If it is above 0.5 it represents a site that is producing a significant number of failed page loads."
-msgstr ""
+msgstr "Hal yang paling terkait dengan ini ialah graf **Hasil** (lebih ke bawah) yang menunjukkan berapa banyak situs anda menayangkan halaman per detiknya. Biasanya ini tidak menarik, namun perhatikan bahwa bagian merah dari batang graf menunjukkan jumlah permintaan halaman yang gagal. Seperti graf **Waktu Respons**, ini dapat menandakan masalah pada situs tersebut - biasanya bagian merah ini harus jauh di bawah 1ppd (dan idealnya 0ppd). Jika nilainya di atas 0,5, ini menunjukkan situs yang menghasilkan sejumlah besar pemuatan halaman yang gagal."
 
 #: ../../guide/scaling.rst:64
 msgid "You can verify if pages are not being served to users by checking the **Events** graph and looking for H12 errors, although occasionally they are not reported properly. A large amount of H13 errors can also be a cause for concern."
