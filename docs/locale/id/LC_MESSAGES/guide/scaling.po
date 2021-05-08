@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-08 06:23\n"
+"PO-Revision-Date: 2021-05-08 06:44\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -68,15 +68,15 @@ msgstr "Pada turnamen besar anda mesti selalu meningkatkan dyno '**Gratis**' and
 
 #: ../../guide/scaling.rst:38
 msgid "If pages are not loading it could be due to two things: your site being overloaded with traffic, or a bug in Tabbycat itself. Generally, if you see a generic or Heroku-branded 'application error' page that means it is the former problem, whereas a Tabbycat-branded page indicates the latter."
-msgstr ""
+msgstr "Bila halaman tidak memuat itu mungkin dikarenakan dua hal: situs anda dipenuhi dengan lalu lintas, atau sebuah bug dalam Tabbycat itu sendiri. Umumnya, bila anda melihat halaman 'kesalahan aplikasi' biasa atau yang bermerek Heroku, itu berarti masalah sebelumnya, sedangkan halaman bermerek Heroku berarti yang terakhir."
 
 #: ../../guide/scaling.rst:41
 msgid "Scaling Dynos"
-msgstr ""
+msgstr "Penyekalaan Dynos"
 
 #: ../../guide/scaling.rst:43
 msgid "Once you have upgraded your dyno to the **Hobby** level, the metrics tab provides a number of graphs that can be used to help identify how your site is performing. The first graph, **Events** provides an overview of any problems that are occurring:"
-msgstr ""
+msgstr "Setelah anda meningkatkan dyno ke tingkat **Hobi**, tabulasi metrik menyediakan sejumlah grafik yang dapat digunakan untuk membantu mengidentifikasi bagaimana peforma situs anda. Grafik pertama, **Kejadian** memberikan gambaran umum tentang masalah apa pun yang terjadi:"
 
 #: ../../guide/scaling.rst:47
 msgid "Red marks, or those labelled *Critical* typically indicate some sort of problem. H13 errors are a good measure of the amount of pages failing to load during heavy traffic, however they can be triggered under normal conditions — you want to check how many are occurring within a given time period and ensure its more than a handful."
