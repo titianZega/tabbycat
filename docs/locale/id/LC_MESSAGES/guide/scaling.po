@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-08 09:54\n"
+"PO-Revision-Date: 2021-05-08 10:15\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -104,11 +104,11 @@ msgstr "Hal yang paling terkait dengan ini ialah graf **Hasil** (lebih ke bawah)
 
 #: ../../guide/scaling.rst:64
 msgid "You can verify if pages are not being served to users by checking the **Events** graph and looking for H12 errors, although occasionally they are not reported properly. A large amount of H13 errors can also be a cause for concern."
-msgstr ""
+msgstr "Anda dapat memverifikasi apakah halaman tidak ditampilkan pada pengguna dengan memeriksa graf **Kejadian** dan mencari kesalahan H12, meskipun terkadang tidak dilaporkan dengan benar. Sejumlah besar kesalahan H13 juga bisa menjadi perhatian."
 
 #: ../../guide/scaling.rst:67
 msgid "Dyno Load"
-msgstr ""
+msgstr "Pemuatan Dyno"
 
 #: ../../guide/scaling.rst:71
 msgid "This graph shows how well your dynos are being utilised. It is scaled relative to the total number of dynos you are running (or have run previously). So if you have 10 dynos and the bar graph is near the '10' this shows that each dyno is being utilised 100% (either on average over a 1-minute period or as the maximum use over a 1-minute period)."
