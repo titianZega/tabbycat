@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-08 10:15\n"
+"PO-Revision-Date: 2021-05-08 10:44\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -112,7 +112,7 @@ msgstr "Pemuatan Dyno"
 
 #: ../../guide/scaling.rst:71
 msgid "This graph shows how well your dynos are being utilised. It is scaled relative to the total number of dynos you are running (or have run previously). So if you have 10 dynos and the bar graph is near the '10' this shows that each dyno is being utilised 100% (either on average over a 1-minute period or as the maximum use over a 1-minute period)."
-msgstr ""
+msgstr "Graf ini menunjukkan seberapa baik dynos Anda digunakan. Ini diskalakan relatif terhadap jumlah total dynos yang anda jalankan (atau telah dijalankan sebelumnya). Jadi, jika anda memiliki 10 dynos dan graf batang mendekati '10', ini menunjukkan bahwa setiap dyno sedang digunakan 100% (baik rata-rata selama periode 1 menit atau sebagai penggunaan maksimum selama periode 1 menit)."
 
 #: ../../guide/scaling.rst:73
 msgid "If this bar graph is hitting the top it will usually mean that a site that is slow or failing to load pages — if each dyno is busy it can't serve a new page until it is finished. This issue can often compound, with more traffic coming in than it is possible to serve and clear."
