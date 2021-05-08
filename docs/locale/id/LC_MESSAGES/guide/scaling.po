@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-08 09:04\n"
+"PO-Revision-Date: 2021-05-08 09:25\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -96,7 +96,7 @@ msgstr "Heroku dynos punya waktu respons maksimum 30 detik, pada saat itu mereka
 
 #: ../../guide/scaling.rst:60
 msgid "You can toggle the percentiles in this graph. Problems are much more severe if it affects the 50th percentile which represents a site that is probably not loading for the majority of its users. There are also a couple of Tabbycat functions (like automatic adjudicator allocation) that naturally take 10-20 seconds which means that the maximum or 99th percentile metrics are not very reflective of general traffic."
-msgstr ""
+msgstr "Anda dapat mengubah persentil di grafik ini. Masalah akan lebih parah jika memengaruhi persentil ke-50 yang mewakili situs yang mungkin tidak memuat sebagian besar penggunanya. Ada juga beberapa fungsi Tabbycat (seperti alokasi juri otomatis) yang tentunya membutuhkan waktu 10-20 detik yang berarti metrik persentil maksimum atau ke-99 tidak terlalu mencerminkan lalu lintas umum."
 
 #: ../../guide/scaling.rst:62
 msgid "Closely related to this is the **Throughput** graph (further down) which shows how many pages your site is serving per second. Normally this is not particularly interesting, however note that the red part of the bar graph shows the amount of failed page requests. Like the **Response Time** graph, this can indicate issues with the site — normally this red portion should be well below 1rps (and ideally 0rps). If it is above 0.5 it represents a site that is producing a significant number of failed page loads."
