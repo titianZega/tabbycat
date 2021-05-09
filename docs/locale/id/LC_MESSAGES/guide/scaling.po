@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-08 11:04\n"
+"PO-Revision-Date: 2021-05-09 13:44\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -132,7 +132,7 @@ msgstr "Penggunaan Memori"
 
 #: ../../guide/scaling.rst:84
 msgid "It is very rare that Tabbycat sites will hit the memory limits of the Free or Hobby level dynos — its almost always hovering around 256MB of the (standard dyno) limit of 512MB. However, if the graph is approaching the dashed line you may want to first restart the dynos (in the *More* dropdown in the upper-right) and see if that resolves it."
-msgstr ""
+msgstr "Situs Tabbycat sangat jarang mencapai batas memori dari level dynos Gratis atau Hobi - hampir selalu di sekitar 256MB dari batas (dyno standar) 512MB. Namun, jika grafik mendekati garis putus-putus, anda mungkin ingin memulai ulang dynos terlebih dahulu (di dropdown *Lainnya* di kanan-atas) dan lihat apakah itu menyelesaikannya."
 
 #: ../../guide/scaling.rst:86
 msgid "You can also confirm that memory limits are causing the app to fail by checking for the presence of R14 errors in the Events chart. If your site continues to come very close to that memory limit you will want to upgrade your dynos to the higher level dynos which have increased memory."
