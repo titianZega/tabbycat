@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-09 13:44\n"
+"PO-Revision-Date: 2021-05-09 13:53\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -136,11 +136,11 @@ msgstr "Situs Tabbycat sangat jarang mencapai batas memori dari level dynos Grat
 
 #: ../../guide/scaling.rst:86
 msgid "You can also confirm that memory limits are causing the app to fail by checking for the presence of R14 errors in the Events chart. If your site continues to come very close to that memory limit you will want to upgrade your dynos to the higher level dynos which have increased memory."
-msgstr ""
+msgstr "Anda juga dapat mengonfirmasi bila batas memori yang menyebabkan aplikasi gagal dengan memeriksa adanya kesalahan R14 di bagan Peristiwa. Jika situs anda terus mendekati batas memori tersebut, anda akan ingin mengupgrade dynos anda ke dynos tingkat yang lebih tinggi yang mempunyai memori yang telah ditambahkan."
 
 #: ../../guide/scaling.rst:89
 msgid "Alerts"
-msgstr ""
+msgstr "Peringatan"
 
 #: ../../guide/scaling.rst:91
 msgid "If the site is really struggling to perform its usually relatively obvious. However, if you want to be pre-warned of this, or just ensure things are as fast as possible, you can use the \"Configure Alerts\" feature on the Metrics page to receive emails when things are getting slow. We would recommend creating a Response Time Threshold warning of ``15000ms`` and a Response Requests Percentage Threshold of ``5%``."
