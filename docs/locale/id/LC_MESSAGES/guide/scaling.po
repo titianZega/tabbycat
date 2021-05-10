@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-10 05:25\n"
+"PO-Revision-Date: 2021-05-10 05:34\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -152,11 +152,11 @@ msgstr "Memahami Caching"
 
 #: ../../guide/scaling.rst:96
 msgid "When a page is 'cached' it means that Tabbycat has stored a copy of the final output of the page. It can then send that copy directly to a user who is loading that page without needing to go through the normal process of fetching the data from the database, running any calculations, and formatting the results. Pages that are cached will serve quickly — if a page is taking more than a few seconds to load it usually means that page has not been cached (or your site is having too much traffic to serve pages quickly in general). The downside is that changes to the underlying data won't update until the cache has 'expired' and is regenerated. So, for example, a cached copy of the draw will not immediately reflect change to panels and a newly-release motion or tab page will not show up in the menu immediately."
-msgstr ""
+msgstr "Ketika sebuah halaman 'di-cache' itu berarti Tabbycat telah menyimpan salinan hasil akhir halaman. Kemudian bisa mengirim salinan itu langsung ke pengguna yang memuat halaman tersebut tanpa perlu melalui proses normal untuk mengambil data dari database, menjalankan penghitungan apa pun, dan memformat hasil. Halaman yang di-cache akan ditayangkan dengan cepat - jika halaman membutuhkan waktu lebih dari beberapa detik untuk memuat, biasanya itu berarti halaman tersebut belum di-cache (atau situs anda memiliki terlalu banyak lalu lintas untuk menyajikan halaman dengan cepat secara umum). Kelemahannya adalah perubahan pada data yang pokok tidak akan diperbarui hingga cache telah 'kedaluwarsa' dan dibuat ulang. Jadi, misalkan, salinan undian dalam cache tidak akan langsung mencerminkan perubahan pada panel dan mosi yang baru dirilis atau halaman tabulasi tidak akan segera muncul di menu."
 
 #: ../../guide/scaling.rst:98
 msgid "By default Tabbycat caches public pages according to three levels: a 1-minute timeout, a 3.5-minute timeout, and a 2-hour timeout. The only pages on the 2-hour timeout are those that come with a full tab release — such as speaker standings, the motions tab, etc. Public pages that need to update quickly, such as the draw and homepage, are on the 1-minute timeout to ensure data is up to date. Public pages that update less frequently such as Standings, Results, Participants, and Breaks are on the 3.5-minute timeout."
-msgstr ""
+msgstr "Secara bawaan Tabbycat menyimpan halaman publik berdasarkan tiga level: batas waktu 1 menit, batas waktu 3.5 menit, dan batas waktu 2 jam. Satu-satunya halaman pada batas waktu 2 jam adalah yang datang dengan rilis tabulasi penuh - seperti klasemen pembicara, tabulasi mosi, dll. Halaman publik yang perlu diperbarui dengan cepat, seperti undian dan beranda, ada di 1- batas waktu menit untuk memastikan data selalu terbaru. Halaman publik yang lebih jarang diperbarui seperti Klasemen, Hasil, Peserta, dan Istirahat berada pada batas waktu 3.5 menit."
 
 #: ../../guide/scaling.rst:100
 msgid "Caching means that a Tabbycat site should actually perform *faster* when it is being viewed by many people at once, as the caches are constantly up-to-date and can be used to serve the majority of requests. When there is less traffic the caches are more likely to be regenerated each time someone goes to a page resulting in slower page loads. Most often performance problems come when a popular page, such as a newly-released draw gains a large amount of traffic suddenly (such as by people constantly refreshing the draw). If the page hasn't finished caching it has to do a full page calculation for each of those new loads, which will spike the amount of resource use until the page load queue is cleared."
