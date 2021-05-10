@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-10 05:44\n"
+"PO-Revision-Date: 2021-05-10 05:54\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -156,7 +156,7 @@ msgstr "Ketika sebuah halaman 'di-cache' itu berarti Tabbycat telah menyimpan sa
 
 #: ../../guide/scaling.rst:98
 msgid "By default Tabbycat caches public pages according to three levels: a 1-minute timeout, a 3.5-minute timeout, and a 2-hour timeout. The only pages on the 2-hour timeout are those that come with a full tab release — such as speaker standings, the motions tab, etc. Public pages that need to update quickly, such as the draw and homepage, are on the 1-minute timeout to ensure data is up to date. Public pages that update less frequently such as Standings, Results, Participants, and Breaks are on the 3.5-minute timeout."
-msgstr "Secara bawaan Tabbycat menyimpan halaman publik berdasarkan tiga level: batas waktu 1 menit, batas waktu 3.5 menit, dan batas waktu 2 jam. Satu-satunya halaman pada batas waktu 2 jam adalah yang datang dengan rilis tabulasi penuh - seperti klasemen pembicara, tabulasi mosi, dll. Halaman publik yang perlu diperbarui dengan cepat, seperti undian dan beranda, ada di 1- batas waktu menit untuk memastikan data selalu terbaru. Halaman publik yang lebih jarang diperbarui seperti Klasemen, Hasil, Peserta, dan Istirahat berada pada batas waktu 3.5 menit."
+msgstr "Secara bawaan Tabbycat menyimpan halaman publik berdasarkan tiga level: waktu-berhenti 1-menit, waktu-berhenti 3.5-menit, dan waktu-berhenti 2-jam. Satu-satunya halaman pada waktu-berhenti 2-jam adalah yang datang dengan rilis tabulasi penuh - seperti klasemen pembicara, tabulasi mosi, dll. Halaman publik yang perlu diperbarui dengan cepat, seperti undian dan beranda, ada di waktu-berhenti 1-menit untuk memastikan data selalu terbaru. Halaman publik yang lebih jarang diperbarui seperti Klasemen, Hasil, Peserta, dan Istirahat berada pada waktu-berhenti 3.5-menit."
 
 #: ../../guide/scaling.rst:100
 msgid "Caching means that a Tabbycat site should actually perform *faster* when it is being viewed by many people at once, as the caches are constantly up-to-date and can be used to serve the majority of requests. When there is less traffic the caches are more likely to be regenerated each time someone goes to a page resulting in slower page loads. Most often performance problems come when a popular page, such as a newly-released draw gains a large amount of traffic suddenly (such as by people constantly refreshing the draw). If the page hasn't finished caching it has to do a full page calculation for each of those new loads, which will spike the amount of resource use until the page load queue is cleared."
@@ -164,7 +164,7 @@ msgstr "Caching berarti sebuah situs Tabbycat seharusnya bekerja *lebih cepat* s
 
 #: ../../guide/scaling.rst:102
 msgid "One way to help mitigate this is to try and load those pages first yourself to ensuring the cache is populated before other people access it. To do so you would generally open a new private browsing tab, and navigate to the specific page(s) immediately after you have enabled them. This may require going to the URL directly rather than relying on the homepage or menu (which may not have been updated to show the new information). In the case of draw releases, this can also be mitigated by not release online draws until they have been first shown on a projector (so that people aren't trying to get draw information ahead of time)."
-msgstr ""
+msgstr "Salah satu cara untuk membantu mengurangi ini ialah dengan mencoba dan memuat halaman-halaman itu sendiri terlebih dahulu untuk memastikan cache terisi sebelum orang lain mengaksesnya. Untuk melakukannya, anda biasanya akan membuka tab browser pribadi baru, dan menavigasi ke halaman tertentu segera setelah anda mengaktifkannya. Ini mungkin perlu membuka URL secara langsung daripada mengandalkan beranda atau menu (yang mungkin belum diperbarui untuk menampilkan informasi baru). Dalam kasus rilis undian, ini juga dapat dikurangi dengan tidak merilis undian online sampai mereka pertama kali ditampilkan di proyektor (sehingga orang-orang tidak mencoba mendapatkan informasi gambar terlebih dahulu)."
 
 #: ../../guide/scaling.rst:104
 msgid "You can also increase the 1-minute timeout for the pages that are popular during the in-rounds, by going to the **Settings** section of your Heroku dashboard, clicking *Reveal Config Vars*, and creating a new key/value of ``PUBLIC_FAST_CACHE_TIMEOUT`` and ``180`` (to set the timeout to be 3 minutes i.e. 180 seconds). This should only be necessary as a last resort. Turning off public pages is also an option."
