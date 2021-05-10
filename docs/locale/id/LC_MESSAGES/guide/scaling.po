@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-10 06:04\n"
+"PO-Revision-Date: 2021-05-10 06:14\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -172,15 +172,15 @@ msgstr "Anda juga dapat menambah waktu-berhenti 1-menit untuk halaman yang popul
 
 #: ../../guide/scaling.rst:106
 msgid "If you ever need to clear the cache (say to force the site to quickly show an update to the speaker tab) you can install `Heroku's Command Line Interface <https://devcenter.heroku.com/articles/heroku-cli>`_ and run the following command, replacing ``YOUR_APP`` with your site's name in the Heroku dashboard::"
-msgstr ""
+msgstr "Jika Anda perlu membersihkan cache (misalkan untuk memaksa situs agar segera menampilkan pembaruan ke tab pembicara), Anda dapat menginstal `Antarmuka Command Line Heroku <https://devcenter.heroku.com/articles/heroku-cli>`_ dan jalankan perintah berikut, ganti ``YOUR_APP`` dengan nama situs anda di dasbor Heroku::"
 
 #: ../../guide/scaling.rst:111
 msgid "Postgres Limits"
-msgstr ""
+msgstr "Batas Postgres"
 
 #: ../../guide/scaling.rst:113
 msgid "The free tier of the Postgres database services has a limit of 20 'connections'. As with Redis, it is rare that a Tabbycat site will exceed this limit; most Australs-sized tournaments will see a maximum of 12 connections at any point in time."
-msgstr ""
+msgstr "Tingkat gratis dari layanan database Postgres memiliki batas 20 'koneksi'. Seperti halnya Redis, jarang sekali situs Tabbycat melebihi batas ini; sebagian besar turnamen seukuran-Australia akan mempunyai maksimal 12 koneksi pada titik waktu mana pun."
 
 #: ../../guide/scaling.rst:117
 msgid "You can monitor this in your Heroku Dashboard by going to the **Resources** tab and clicking on the purple Postgres link. The **Connections** graph here will show you how close you are to the limit. The first tier up from the 'free' Hobby tiers (i.e. ``Standard-0``) has a connection limit of 120 which can be used to overcome these limits if you do encounter them."
