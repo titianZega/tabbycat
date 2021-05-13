@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-13 04:44\n"
+"PO-Revision-Date: 2021-05-13 04:53\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -224,19 +224,19 @@ msgstr "1x ``Rencana Hobi Postgres Dasar`` ($9/bulan) berjalan sepanjang hari se
 
 #: ../../guide/scaling.rst:140
 msgid "A tournament of this size will require an upgraded database tier for the time when you are adding new data; i.e. during registration and rounds. Once the tab is released (and no further data changes needed) however you can downgrade it back to the ``Hobby Dev`` tier."
-msgstr ""
+msgstr "Turnamen sebesar ini akan membutuhkan tingkat database yang telah ditingkatkan pada saat anda menambahkan data baru; yaitu selama pendaftaran dan putaran. Setelah tabulasi dilepaskan (dan tidak diperlukan perubahan data lebih lanjut), Anda dapat menurunkannya kembali ke tingkat ``Hobi Dev``."
 
 #: ../../guide/scaling.rst:141
 msgid "1x ``Hobby Dyno`` ($7/month each) run all day for 7 days = ~$2"
-msgstr ""
+msgstr "1x ``Hobi Dyno`` (masing-masing $7/bulan) berjalan sepanjang hari selama 7 hari = ~$2"
 
 #: ../../guide/scaling.rst:142
 msgid "As recommended, 1 hobby dyno should be run as a baseline in order to see the metrics dashboard; but this can be downgraded a day or so after the tab has been released and traffic is sparse."
-msgstr ""
+msgstr "Seperti yang direkomendasikan, 1 hobi dyno harus dijalankan sebagai baseline untuk melihat metrik dasbor; tapi ini dapat diturunkan satu atau dua hari setelah tabulasi dilepaskan dan lalu lintas menjadi jarang."
 
 #: ../../guide/scaling.rst:143
 msgid "3x ``Standard 1X Dyno`` ($25/month each) run 10 hours a day for 4 days = ~$4"
-msgstr ""
+msgstr "3x ``Standard 1X Dyno`` (masing-masing $25/bulan) berjalan 10 jam sehari selama 4 hari = ~$4"
 
 #: ../../guide/scaling.rst:144
 msgid "This higher quantity of dynos should only be necessary during traffic spikes (i.e. draw releases, immediately after round advances, and tab release) but unless you want to be constantly turning things on/off its usually easier just to upgrade them at the start of each day of in-rounds (or when the tab is published) and downgrade them at the end of each day. As mentioned earlier, you should occasionally check the *Dyno Load* in the Metrics area and adjust the number of dynos as needed."
