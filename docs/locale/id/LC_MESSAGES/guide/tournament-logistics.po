@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-04-15 05:35\n"
+"PO-Revision-Date: 2021-05-13 05:14\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -20,11 +20,11 @@ msgstr ""
 
 #: ../../guide/tournament-logistics.rst:5
 msgid "Tournament Logistics"
-msgstr ""
+msgstr "Logistik Turnamen"
 
 #: ../../guide/tournament-logistics.rst:7
 msgid "Unlike the rest of our documentation, this section does not deal with particular features or technical concerns with Tabbycat itself. Instead it is an attempt to outline the logistics of tab direction and aims to be of general relevance for people running major tournaments. At present, it is organised by the various ‘stages' of tabbing a tournament, and most of the content takes the form of check-lists or comments designed to highlight and provide guidance on common issues."
-msgstr ""
+msgstr "Tidak seperti dokumentasi kami lainnya, bagian ini tidak membahas fitur tertentu atau masalah teknis dengan Tabbycat itu sendiri. Melainkan, upaya untuk menguraikan logistik arah tabulasi dan bertujuan agar menjadi relevan secara umum bagi orang-orang yang menjalankan turnamen besar. Saat ini, ini diatur oleh berbagai 'tahapan' dari menabulasi sebuah turnamen, dan sebagian besar konten berbentuk daftar-periksa atau komentar yang dirancang untuk menyoroti dan memberikan panduan tentang masalah umum."
 
 #: ../../guide/tournament-logistics.rst:9
 msgid "Whilst it aims for general relevance, we should note that this guide is relatively opinionated and mostly written from the perspective of people whose primary experience is tabbing at Australasian tournaments using Tabbycat. That said, we welcome feedback and additions that can account for different format and regional considerations. In the future, if the guide becomes more general and more extensive, it could be spun off into a separate project."
