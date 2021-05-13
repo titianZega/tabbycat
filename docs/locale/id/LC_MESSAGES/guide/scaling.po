@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-13 04:13\n"
+"PO-Revision-Date: 2021-05-13 04:34\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -204,7 +204,7 @@ msgstr "Untuk melakukannya, anda akan menerapkan salinan baru Tabbycat di Heroku
 
 #: ../../guide/scaling.rst:130
 msgid "Here, make a copy of the ``DATABASE_URL`` and ``REDIS_URL`` values. They should look like ``postgres://`` or ``redis://`` followed by a long set of numbers and characters. Once you have those, go to the *Settings* tab of the Heroku dashboard for your *mirror* tab site. Click **Reveal Config Vars**. There should be no set ``DATABASE_URL`` or ``REDIS_URL`` values here — if there are check you are on the right app and that the add-ons were removed as instructed earlier. If they are not set, then add in those values, with ``DATABASE_URL`` on the left, and that Postgres URL from earlier on the right. Do the same for ``REDIS_URL`` and the Redis URL. Then restart the app using the link under **More** in the top right."
-msgstr ""
+msgstr "Di sini, buat salinan nilai ``DATABASE_URL`` dan ``REDIS_URL``. Jadinya akan terlihat seperti ``postgres://`` atau ``redis://`` diikuti dengan serangkaian angka dan karakter. Setelah ada, buka tab *Pengaturan* di dasbor Heroku untuk situs tab *mirror* anda. Klik **Tampilkan Vars Konfig**. Seharusnya tidak ada nilai ``DATABASE_URL`` atau ``REDIS_URL`` di sini - jika ada, pemeriksaan anda berada di aplikasi yang benar dan add-on telah dihapus seperti yang diinstruksikan sebelumnya. Jika tidak diatur, tambahkan nilai tersebut, dengan ``DATABASE_URL`` di sebelah kiri, dan URL Postgres dari sebelumnya di sebelah kanan. Lakukan hal yang sama untuk ``REDIS_URL`` dan URL Redis. Kemudian mulai ulang aplikasi menggunakan tautan di bawah **Lainnya** di kanan atas."
 
 #: ../../guide/scaling.rst:132
 msgid "Once you visit the mirror site it should be setup just like the original one, with changes made to one site also affecting the other as if they were just a single site."
