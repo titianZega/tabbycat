@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-13 04:34\n"
+"PO-Revision-Date: 2021-05-13 04:44\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -208,19 +208,19 @@ msgstr "Di sini, buat salinan nilai ``DATABASE_URL`` dan ``REDIS_URL``. Jadinya 
 
 #: ../../guide/scaling.rst:132
 msgid "Once you visit the mirror site it should be setup just like the original one, with changes made to one site also affecting the other as if they were just a single site."
-msgstr ""
+msgstr "Setelah mengunjungi situs mirrornya, maka akan disiapkan seperti yang asli, dengan perubahan yang dilakukan pada satu situs, juga memengaruhi situs lainnya seakan-akan situs hanya satu situs."
 
 #: ../../guide/scaling.rst:135
 msgid "Estimated Costs"
-msgstr ""
+msgstr "Estimasi Biaya"
 
 #: ../../guide/scaling.rst:137
 msgid "As a quick and rough benchmark, here is a list of typical prices you would encounter if scaling to meet the performance needs of a high-team-count high-traffic tournament at the approximate scale of an Australs (~100 teams) or above. This is a probably an overly-conservative estimate in that it is based on tournaments run on the ``2.1`` version of Tabbycat. Versions ``2.2`` and above should perform dramatically better and thus have less need to scale using Standard and Performance dynos."
-msgstr ""
+msgstr "Sebagai patokan cepat dan kasar, berikut adalah daftar harga biasa yang akan anda temui jika penskalaan untuk memenuhi kebutuhan kinerja turnamen lalu lintas-tinggi dengan jumlah-tim-tinggi pada skala perkiraan Australia (~100 tim) atau lebih tinggi. Ini mungkin perkiraan yang terlalu konservatif karena didasarkan pada turnamen yang dijalankan pada Tabbycat versi ``2.1``. Versi ``2.2`` dan yang lebih baru mesti bekerja jauh lebih baik dan oleh karena itu tidak perlu melakukan penskalaan menggunakan standar dan kinerja dynos."
 
 #: ../../guide/scaling.rst:139
 msgid "1x ``Hobby Basic Postgres Plan`` ($9/month) run all day for 14 days = ~$4"
-msgstr ""
+msgstr "1x ``Rencana Hobi Postgres Dasar`` ($9/bulan) berjalan sepanjang hari selama 14 hari = ~$4"
 
 #: ../../guide/scaling.rst:140
 msgid "A tournament of this size will require an upgraded database tier for the time when you are adding new data; i.e. during registration and rounds. Once the tab is released (and no further data changes needed) however you can downgrade it back to the ``Hobby Dev`` tier."
