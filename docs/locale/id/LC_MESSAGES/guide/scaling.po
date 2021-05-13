@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-13 04:03\n"
+"PO-Revision-Date: 2021-05-13 04:13\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -200,7 +200,7 @@ msgstr "Ini membutuhkan beberapa pengetahuan teknis untuk menyiapkannya dan belu
 
 #: ../../guide/scaling.rst:126
 msgid "To do so you would deploy a new copy of Tabbycat on Heroku as you normally would. Once the site has been setup, go to it in the Heroku Dashboard, click through to the **Resources** tab and remove the Postgres and Redis Add-ons. Using the `Heroku Command Line Interface <https://devcenter.heroku.com/articles/heroku-cli>`_ run this command, substituting ``YOUR_APP`` with your *primary* tab site's name (i.e. the app that you had initially setup before this)::"
-msgstr ""
+msgstr "Untuk melakukannya, anda akan menerapkan salinan baru Tabbycat di Heroku seperti biasa. Setelah situs telah disiapkan, buka di Dasbor Heroku, klik ke tab **Sumber Daya** dan hapus tambahan add-on Postgres dan Redis. Menggunakan `Antarmuka Command Line Heroku <https://devcenter.heroku.com/articles/heroku-cli>`_ jalankan perintah ini, gantikan ``YOUR_APP`` dengan nama situs tab *utama* anda (yaitu aplikasi yang anda gunakan awalnya, disiapkan sebelum ini)::"
 
 #: ../../guide/scaling.rst:130
 msgid "Here, make a copy of the ``DATABASE_URL`` and ``REDIS_URL`` values. They should look like ``postgres://`` or ``redis://`` followed by a long set of numbers and characters. Once you have those, go to the *Settings* tab of the Heroku dashboard for your *mirror* tab site. Click **Reveal Config Vars**. There should be no set ``DATABASE_URL`` or ``REDIS_URL`` values here — if there are check you are on the right app and that the add-ons were removed as instructed earlier. If they are not set, then add in those values, with ``DATABASE_URL`` on the left, and that Postgres URL from earlier on the right. Do the same for ``REDIS_URL`` and the Redis URL. Then restart the app using the link under **More** in the top right."
