@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-13 04:53\n"
+"PO-Revision-Date: 2021-05-13 05:04\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -240,11 +240,11 @@ msgstr "3x ``Standard 1X Dyno`` (masing-masing $25/bulan) berjalan 10 jam sehari
 
 #: ../../guide/scaling.rst:144
 msgid "This higher quantity of dynos should only be necessary during traffic spikes (i.e. draw releases, immediately after round advances, and tab release) but unless you want to be constantly turning things on/off its usually easier just to upgrade them at the start of each day of in-rounds (or when the tab is published) and downgrade them at the end of each day. As mentioned earlier, you should occasionally check the *Dyno Load* in the Metrics area and adjust the number of dynos as needed."
-msgstr ""
+msgstr "Jumlah dino yang lebih tinggi ini seharusnya hanya diperlukan selama lonjakan lalu lintas (seperti rilis undian, segera setelah kemajuan ronde, dan rilis tabulasi) kecuali jika anda ingin terus-menerus menyalakan/mematikan sesuatu, biasanya lebih mudah hanya untuk memutakhirkannya di awal tiap hari dalam-ronde (atau saat tabulasi dipublikasikan) kemudian menurunkan versinya di akhir tiap hari. Seperti yang disebutkan sebelumnya, anda harus sesekali memeriksa *Beban Dyno* di area Metrik dan menyesuaikan jumlah dino sesuai kebutuhan."
 
 #: ../../<generated>:1
 msgid "``Autoscaled Performance M Dynos`` ($250/month each) average of 5 run for 1 hour = ~$2"
-msgstr ""
+msgstr "``Autoscaled Performance M Dynos`` (masing-masing $250/bulan) rata-rata 5 kali berjalan selama 1 jam = ~$2"
 
 #: ../../guide/scaling.rst:146
 msgid "For just round 1 it is a good idea to upgrade to the ``Performance M`` tier so you can enable auto-scaling and thus have the site automatically adjust the number of dynos to the amount of traffic it's getting (rather than having to guess the number of dynos needed ahead of time). Doing so ensures that the first round runs smoothly and means that you can then review the Metrics graphs to see what your 'peak' load looks like and resume using whatever quantity of ``Standard 1X Dyno`` will accommodate this peak load in future rounds."
