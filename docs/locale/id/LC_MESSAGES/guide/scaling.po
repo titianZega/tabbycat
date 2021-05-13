@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-13 03:34\n"
+"PO-Revision-Date: 2021-05-13 04:03\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -196,7 +196,7 @@ msgstr "Jika anda *benar-benar* menginginkan keamanan, atau tidak mampu menyeles
 
 #: ../../guide/scaling.rst:124
 msgid "This requires some technical knowledge to setup and hasn't been rigorously tested. It works fine in our experience but we haven't tested it extensively. If using this make sure you backup (and now how to restore backups) before setting one up."
-msgstr ""
+msgstr "Ini membutuhkan beberapa pengetahuan teknis untuk menyiapkannya dan belum diuji secara teliti. Ini berfungsi dengan baik dalam pengalaman kami tapi kami belum mengujinya secara ekstensif. Jika menggunakan ini, pastikan anda mencadangkan (dan tau cara memulihkan cadangan) sebelum menyiapkannya."
 
 #: ../../guide/scaling.rst:126
 msgid "To do so you would deploy a new copy of Tabbycat on Heroku as you normally would. Once the site has been setup, go to it in the Heroku Dashboard, click through to the **Resources** tab and remove the Postgres and Redis Add-ons. Using the `Heroku Command Line Interface <https://devcenter.heroku.com/articles/heroku-cli>`_ run this command, substituting ``YOUR_APP`` with your *primary* tab site's name (i.e. the app that you had initially setup before this)::"
