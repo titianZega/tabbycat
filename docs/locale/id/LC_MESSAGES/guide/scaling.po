@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-13 05:04\n"
+"PO-Revision-Date: 2021-05-13 05:14\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -248,5 +248,5 @@ msgstr "``Autoscaled Performance M Dynos`` (masing-masing $250/bulan) rata-rata 
 
 #: ../../guide/scaling.rst:146
 msgid "For just round 1 it is a good idea to upgrade to the ``Performance M`` tier so you can enable auto-scaling and thus have the site automatically adjust the number of dynos to the amount of traffic it's getting (rather than having to guess the number of dynos needed ahead of time). Doing so ensures that the first round runs smoothly and means that you can then review the Metrics graphs to see what your 'peak' load looks like and resume using whatever quantity of ``Standard 1X Dyno`` will accommodate this peak load in future rounds."
-msgstr ""
+msgstr "Untuk ronde 1 saja, ide yang baik untuk meningkatkan ke tingkat ``Peforma M`` sehingga anda dapat mengaktifkan penyekalaan-otomatis dan dengan demikian membuat situs secara otomatis menyesuaikan jumlah dynos dengan jumlah lalu lintas yang didapatnya (daripada harus menebak jumlah dino yang dibutuhkan sebelumnya). Melakukannya akan menjamin bahwa ronde pertama berjalan dengan lancar dan berarti anda kemudian dapat meninjau graf Metrik untuk melihat seperti apa beban 'puncak' yang terlihat dan melanjutkan menggunakan jumlah ``Standar 1X Dyno`` yang akan mengakomodasi beban puncak ini di ronde mendatang."
 
