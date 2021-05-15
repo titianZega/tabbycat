@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-15 04:53\n"
+"PO-Revision-Date: 2021-05-15 05:06\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -40,19 +40,19 @@ msgstr "Perencanaan dan Persiapan"
 
 #: ../../guide/tournament-logistics.rst:16
 msgid "This section aims to outline concerns that occur in the months before the tournament: after you have agreed to help with tabbing and while the organising committee and adjudication core are deciding how they want to run key processes such as registration and feedback. It is organised in terms of who you should coordinate with in order to plan for a well-tabbed tournament."
-msgstr ""
+msgstr "Bagian ini bertujuan untuk menguraikan masalah yang terjadi pada bulan-bulan sebelum turnamen: setelah anda setuju untuk membantu tabbing dan selama panitia penyelenggara dan juri inti sedang memutuskan bagaimana mereka ingin menjalankan proses utama seperti pendaftaran dan umpan balik. Ini diatur dalam hal, dengan siapa anda harus berkoordinasi agar dapat merencanakan turnamen yang telah ditabulasi dengan baik."
 
 #: ../../guide/tournament-logistics.rst:19
 msgid "General Notes"
-msgstr ""
+msgstr "Catatan Umum"
 
 #: ../../guide/tournament-logistics.rst:21
 msgid "You should avoid being the sole person responsible for that tab unless it is a small tournament. There are many cases where you want to be in several places at once and the easiest way to accommodate that is by having co-directors or trusted assistants. Few tab decisions require a single source of authority; it is far better to have multiple people available to share responsibilities around."
-msgstr ""
+msgstr "Anda harus menghindari jadi satu-satunya orang yang bertanggung jawab atas tabulasi tersebut kecuali jika sebuah turnamen kecil. Ada banyak kasus di mana anda ingin berada di beberapa tempat sekaligus dan cara termudah untuk mengakomodasi itu adalah dengan memiliki rekan direktur atau asisten tepercaya. Beberapa keputusan tab membutuhkan satu sumber otoritas; jauh lebih baik untuk punya banyak orang tersedia agar bisa berbagi tanggung jawab."
 
 #: ../../guide/tournament-logistics.rst:23
 msgid "In a similar manner, it is worth considering how you can use the tournament to help train other people. Typically, knowledge of tabbing is concentrated in relatively few people and gained mostly through on-the-ground experience; meaning that every tournament should be approached as rare opportunity to help spread knowledge about tabbing more widely in a circuit. Consider reaching out to institutions or the tournament as a whole to see if they have anyone who would be interested in helping out."
-msgstr ""
+msgstr "Dengan cara yang sama, ada baiknya mempertimbangkan bagaimana anda dapat menggunakan turnamen untuk membantu melatih orang lain. Biasanya, pengetahuan tentang tabulasi terkonsentrasi pada relatif sedikit orang dan sebagian besar diperoleh melalui pengalaman di lapangan; Artinya, setiap turnamen harus ditangani sebagai kesempatan langka untuk membantu menyebarkan pengetahuan tentang tabulasi secara lebih luas di sebuah sirkuit. Pertimbangkan menghubungi institusi atau turnamen secara keseluruhan untuk mengetahui apakah mereka memiliki seseorang yang tertarik untuk membantu."
 
 #: ../../guide/tournament-logistics.rst:26
 msgid "Convenors"
