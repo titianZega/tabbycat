@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-16 14:04\n"
+"PO-Revision-Date: 2021-05-16 14:24\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -104,7 +104,7 @@ msgstr "Bagaimana informasi penting akan dikomunikasikan kepada peserta? Pertimb
 
 #: ../../guide/tournament-logistics.rst:42
 msgid "How will critical information be shared between the tab team, adjudication core, and logistics/convening teams? For smaller/medium sized tournaments a group chat augmented by phone calls (assuming everyone knows everyone else's number) can be sufficient, but even then, you need to ensure that any critical information conveyed privately (i.e. in a call or in person) is conveyed back to the group channel. At very large tournaments (or if you have the resources) walkie-talkies are an excellent way to manage communication — just make sure you have (ahead of time) reserve the different channels to a distinct and known purpose (i.e. general discussion; just the tab team & adjudication core; just convenors)."
-msgstr ""
+msgstr "Bagaimana informasi penting akan dibagikan antara tim tabulasi, juri inti, dan tim logistik/penyelenggara? Untuk turnamen berukuran lebih kecil/sedang, obrolan grup yang ditambah dengan panggilan telepon (dengan asumsi semua orang tahu nomor orang lain) dapat mencukupi, tetapi meskipun demikian, anda perlu pastikan bahwa informasi penting apa pun yang disampaikan secara pribadi (yaitu lewat panggilan atau secara langsung) disampaikan kembali ke saluran grup. Pada turnamen yang sangat besar (atau jika anda memiliki sumber daya) walkie-talkie adalah cara terbaik untuk mengelola komunikasi - pastikan anda (sebelumnya) memesan saluran yang berbeda untuk tujuan yang berbeda dan yang diketahui (yaitu diskusi umum; hanya tim tabulasi & juri inti; hanya penyelenggara)."
 
 #: ../../guide/tournament-logistics.rst:43
 msgid "As part of this it is ideal if the organising committees can procure local SIM cards for members of the tab team and adjudication core who are not local. These should be relatively generous in their plans — you don't want to worry about running out of minutes or data if on a critical call or using a hotspot to make critical allocation adjustments."
