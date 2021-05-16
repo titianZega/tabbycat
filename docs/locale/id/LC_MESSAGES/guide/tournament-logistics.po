@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-15 05:23\n"
+"PO-Revision-Date: 2021-05-16 10:15\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -64,7 +64,7 @@ msgstr "Ini mungkin terdengar jelas tapi akan bermanfaat untuk melakukan percaka
 
 #: ../../guide/tournament-logistics.rst:32
 msgid "Whether internet access will be available and whether participants can be presumed to have smart phones. This has an obvious impact on how online feedback, ballots, and draw release is done. Note that Eduroam is not necessarily a reliable guarantee of access; many participants will come from universities who don't have access to it or will need to follow a setup process that is onerous or requires them to be at their home institution."
-msgstr ""
+msgstr "Apakah akses internet akan tersedia dan apakah peserta dapat dianggap mempunyai smartphone. Ini berdampak jelas pada bagaimana umpan balik, surat suara, dan rilis undian dilakukan secara daring. Perhatikan bahwa Eduroam belum tentu merupakan jaminan akses yang andal; banyak peserta akan datang dari universitas yang tidak punya akses ke sana atau harus mengikuti proses penyiapan yang berat atau mengharuskan mereka berada di institusi asal mereka."
 
 #: ../../guide/tournament-logistics.rst:33
 msgid "What kind of room is the tab room going to be? Is it possible to optimize its placement when the bookings for rooms are made? Key details include: How large is it? Does it have a sufficient amount of desk space (for data entry)? Does it have a good projector (for allocations)?"
