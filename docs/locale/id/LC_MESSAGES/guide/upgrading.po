@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-16 11:44\n"
+"PO-Revision-Date: 2021-05-16 11:53\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -36,7 +36,7 @@ msgstr "Meningkatkan Salinan Lokal"
 
 #: ../../guide/upgrading.rst:16
 msgid "Assuming you haven't made any changes to the Tabbycat code, upgrading a locally installed copy should just be a matter of `downloading the latest source code <https://github.com/TabbycatDebate/tabbycat/releases/latest>`_ and replacing the existing files with the new ones. If you used git to download these files initially you can just pull down the latest copy of the master branch to do this."
-msgstr "Dengan asumsi Anda belum membuat perubahan apa pun pada kode Tabbycat, memutakhirkan salinan yang diinstal secara lokal seharusnya hanya masalah `mengunduh kode sumber terbaru <https://github.com/TabbycatDebate/tabbycat/releases/latest>` _ dan mengganti file yang ada dengan yang baru. Jika Anda menggunakan git untuk mengunduh file-file ini pada awalnya, Anda dapat menarik salinan terbaru dari cabang master untuk melakukannya."
+msgstr "Dengan asumsi Anda belum membuat perubahan apa pun pada kode Tabbycat, memutakhirkan salinan yang diinstal secara lokal seharusnya hanya masalah `mengunduh kode sumber terbaru <https://github.com/TabbycatDebate/tabbycat/releases/latest>` _ dan mengganti berkas yang ada dengan yang baru. Jika Anda menggunakan git untuk mengunduh berkas-berkas ini pada awalnya, Anda dapat menarik salinan terbaru dari cabang master untuk melakukannya."
 
 #: ../../guide/upgrading.rst:18
 msgid "You would then repeat the \"Install Tabbycat\" instructions for your original installation method."
@@ -44,17 +44,17 @@ msgstr "Anda kemudian akan mengulangi petunjuk \"Instal Tabbycat\" untuk metode 
 
 #: ../../guide/upgrading.rst:21
 msgid "Upgrading on Heroku"
-msgstr ""
+msgstr "Meningkatkan di Heroku"
 
 #: ../../guide/upgrading.rst:23
 msgid "The easiest way to upgrade a Heroku site is to create an account on Github and then to `'fork' <https://help.github.com/articles/fork-a-repo/>`_ the `Tabbycat repository <https://github.com/TabbycatDebate/tabbycat>`_."
-msgstr ""
+msgstr "Cara termudah untuk meningkatkan situs Heroku adalah dengan membuat akun di Github dan kemudian ke \"'fork' <https://help.github.com/articles/fork-a-repo/>` _ the `Repositori Tabbycat <https: //github.com/TabbycatDebate/tabbycat> `_."
 
 #: ../../guide/upgrading.rst:25
 msgid "Once you have done this you can login to your Heroku Dashboard, go to your app, and then navigate to the Deploy tab. In this tab, adjacent to *Deployment method* select the GitHub option. This will bring up a new 'Connect to GitHub' section where you can search for 'Tabbycat' to find the copy of the repository you made earlier and connect it."
-msgstr ""
+msgstr "Setelah Anda melakukan ini, Anda dapat masuk ke Dasbor Heroku Anda, pergi ke aplikasi Anda, dan kemudian arahkan ke tab Penyebaran. Di tab ini, di sebelah * Metode penyebaran * pilih opsi GitHub. Ini akan memunculkan bagian 'Hubungkan ke GitHub' baru di mana Anda dapat mencari 'Tabbycat' untuk menemukan salinan repositori yang Anda buat sebelumnya dan menghubungkannya."
 
 #: ../../guide/upgrading.rst:29
 msgid "Once connected a new *Manual deploy* section will appear. Make sure you select the *master* branch (not develop) and then click *Deploy Branch*. This will then show the app deploying and notify you when it has finished; which may take several minutes."
-msgstr ""
+msgstr "Setelah terhubung, bagian * Penyebaran manual * baru akan muncul. Pastikan Anda memilih cabang * master * (bukan mengembangkan) lalu klik * Menyebarkan Cabang *. Ini kemudian akan menunjukkan penerapan aplikasi dan memberi tahu Anda ketika telah selesai; yang mungkin membutuhkan waktu beberapa menit."
 
