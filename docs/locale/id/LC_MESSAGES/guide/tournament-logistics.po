@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-16 13:44\n"
+"PO-Revision-Date: 2021-05-16 14:04\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -100,7 +100,7 @@ msgstr "Akankah tim Swing tersedia? Anda mesti merencanakan untuk setidaknya mem
 
 #: ../../guide/tournament-logistics.rst:41
 msgid "How will critical information be communicated to participants? Consider that in general, Facebook announcements do not reach many people, although paying to boost the posts is often a very cheap way of dramatically raising their effectiveness. In particular also ensure or check how you manage to get in touch with teams or adjudicators who go missing: will they have reliable phone numbers? Can you get a list of institutional reps who can be reliably called? You want to have processes in place for chasing up adjudicators who do things such as make scoring mistakes as soon as possible in order to minimise delays."
-msgstr ""
+msgstr "Bagaimana informasi penting akan dikomunikasikan kepada peserta? Pertimbangkan bahwa secara umum, pengumuman Facebook tidak menjangkau banyak orang, meskipun membayar untuk menyebarkan posting seringkali sebuah cara yang sangat murah untuk meningkatkan efektivitasnya secara dramatis. Khususnya, pastikan juga atau periksa bagaimana anda berhasil menghubungi tim atau juri yang hilang: apa mereka mempunyai nomor telepon yang dapat diandalkan? Bisakah anda mendapatkan daftar perwakilan institusional yang dapat dihubungi dengan andal? Anda akan ingin memiliki proses untuk mengejar juri yang mungkin membuat kesalahan penilaian secepat mungkin untuk meminimalkan penundaan."
 
 #: ../../guide/tournament-logistics.rst:42
 msgid "How will critical information be shared between the tab team, adjudication core, and logistics/convening teams? For smaller/medium sized tournaments a group chat augmented by phone calls (assuming everyone knows everyone else's number) can be sufficient, but even then, you need to ensure that any critical information conveyed privately (i.e. in a call or in person) is conveyed back to the group channel. At very large tournaments (or if you have the resources) walkie-talkies are an excellent way to manage communication — just make sure you have (ahead of time) reserve the different channels to a distinct and known purpose (i.e. general discussion; just the tab team & adjudication core; just convenors)."
