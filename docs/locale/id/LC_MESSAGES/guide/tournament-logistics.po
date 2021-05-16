@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-16 13:14\n"
+"PO-Revision-Date: 2021-05-16 13:24\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -88,11 +88,11 @@ msgstr "Relawan seperti apa yang akan tersedia? Berapa banyak, dan bagaimana tin
 
 #: ../../guide/tournament-logistics.rst:38
 msgid "Will the tournament make a donation to whoever maintains the tabbing software you are using? Depending on the license of your tabbing software and the nature of your tournament (for profit vs not for profit) this may be required. Also, if your tab is self-hosted or independently hosted (such as how Tabbycat is generally deployed on Heroku) accounting officers should also be aware that there will be some costs associated with hosting the tab."
-msgstr ""
+msgstr "Akankah turnamen memberikan sumbangan kepada siapa pun yang mengelola perangkat lunak tabulasi yang anda gunakan? Bergantung pada lisensi perangkat lunak tabulasi anda dan sifat turnamen anda (untuk untung vs nirlaba) ini mungkin diperlukan. Selain itu, jika tabulasi anda dihosting sendiri atau dihosting secara independen (seperti bagaimana Tabbycat umumnya diterapkan di Heroku), petugas akuntansi juga harus mengetahui bahwa akan ada beberapa biaya yang terkait dengan hosting tabulasi tersebut."
 
 #: ../../guide/tournament-logistics.rst:39
 msgid "You should also ensure that people helping with the tab are fairly compensated for their flights, registration, etc and that any volunteers are invited along to socials and/or given some other recompense."
-msgstr ""
+msgstr "Anda juga harus memastikan bahwa orang yang membantu tabulasi mendapatkan kompensasi yang adil untuk penerbangan, pendaftaran, dll. Dan setiap sukarelawan diundang ke acara sosial dan/atau diberi imbalan lain."
 
 #: ../../guide/tournament-logistics.rst:40
 msgid "Will Swing teams be available? You should plan to have at least one more than you need. For example, with 39 teams, you should have both an 40th swing team to fill in the draw, and the option to easily assemble an 41st swing team in case a team goes missing. At very large tournaments (say over 150 teams) you should plan for even more swing team capacity — it's not unheard of for say three teams to vanish all in a single round. In these cases, you should try and ensure that the swing teams are always ready to go — i.e. that that they are pre-formed, you have a clear communication channel with them, and that they distributed/waiting near the debating rooms so they can fill in at a moment's notice (often you will only find out that teams are missing right as debates are scheduled to start)."
