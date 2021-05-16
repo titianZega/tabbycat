@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-16 10:15\n"
+"PO-Revision-Date: 2021-05-16 10:44\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -68,7 +68,7 @@ msgstr "Apakah akses internet akan tersedia dan apakah peserta dapat dianggap me
 
 #: ../../guide/tournament-logistics.rst:33
 msgid "What kind of room is the tab room going to be? Is it possible to optimize its placement when the bookings for rooms are made? Key details include: How large is it? Does it have a sufficient amount of desk space (for data entry)? Does it have a good projector (for allocations)?"
-msgstr ""
+msgstr "Ruangan seperti apa ruang tabulasi itu? Apakah mungkin untuk mengoptimalkan penempatannya saat pemesanan ruang telah dibuat? Detail utamanya meliputi: Seberapa besar? Apakah ada cukup ruang meja (untuk entri data)? Apakah memiliki proyektor yang bagus (untuk alokasi)?"
 
 #: ../../guide/tournament-logistics.rst:34
 msgid "If they have the resources, having an adjacent room available for just the adjudication core to use can also be useful. While you want to work closely with the adjudication core, they may want to discuss sensitive information (motions, equity) in a space without volunteers present; or they might at times get in the way of things, such as by eating lunch in the middle of a frenetic ballot entry process."
