@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-16 14:24\n"
+"PO-Revision-Date: 2021-05-17 03:34\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -108,23 +108,23 @@ msgstr "Bagaimana informasi penting akan dibagikan antara tim tabulasi, juri int
 
 #: ../../guide/tournament-logistics.rst:43
 msgid "As part of this it is ideal if the organising committees can procure local SIM cards for members of the tab team and adjudication core who are not local. These should be relatively generous in their plans — you don't want to worry about running out of minutes or data if on a critical call or using a hotspot to make critical allocation adjustments."
-msgstr ""
+msgstr "Sebagai bagian dari ini, idealnya bila panitia dapat menyediakan kartu SIM lokal untuk anggota tim tabulasi dan juri inti yang tidak lokal. Ini harus relatif murah dalam perencanaannya - Anda tidak ingin khawatir kehabisan menit atau data jika dalam panggilan kritis atau menggunakan hotspot untuk penyesuaian alokasi yang penting."
 
 #: ../../guide/tournament-logistics.rst:44
 msgid "At major tournaments you want to arrive at least a day before check-in; and ideally whenever it is that the adjudication core is arriving for their own preparation."
-msgstr ""
+msgstr "Di turnamen besar, anda ingin datang setidaknya sehari sebelum cek-in; dan idealnya setiap kali juri inti tiba untuk persiapan mereka sendiri."
 
 #: ../../guide/tournament-logistics.rst:47
 msgid "Registration"
-msgstr ""
+msgstr "Registrasi"
 
 #: ../../guide/tournament-logistics.rst:49
 msgid "Having effective registration systems and processes is one of the most important aspects of preparing to tab a large tournament. Bad registration data *will* make setting up a tab extremely painful and introduces the chance for mistakes or inconsistencies in tab data that will only come to light in the first round. As such:"
-msgstr ""
+msgstr "Memiliki sistem dan proses pendaftaran yang efektif ialah salah satu aspek terpenting dalam persiapan untuk mengikuti turnamen besar. Data pendaftaran yang buruk *akan* membuat pengaturan tabulasi sangat menyusahkan dan menimbulkan kemungkinan kesalahan atau ketidakkonsistenan dalam data tabulasi yang hanya akan terungkap di ronde pertama. Dengan demikian:"
 
 #: ../../guide/tournament-logistics.rst:53
 msgid "You should check in with the registration team and see what they plan to do as soon as possible after being brought on-board. As part of this you should make it clear that you should be consulted on any decisions they make about what data to collect, when to collect it, and how to collect it."
-msgstr ""
+msgstr "Anda harus cek-in dengan tim pendaftaran dan melihat apa yang mereka rencanakan secepat mungkin setelah bergabung. Sebagai bagian dari ini, anda harus jelaskan bahwa anda harus diberi tahu tentang keputusan apa pun yang mereka buat mengenai data apa yang harus dikumpulkan, kapan harus mengumpulkannya, dan bagaimana cara mengumpulkannya."
 
 #: ../../guide/tournament-logistics.rst:54
 msgid "Registration data should be collected into a shared and live-updating source, such as a Google Sheet. There should be as few canonical sources (ideally one) of data as possible; i.e. there should be a single sheet for individual details, a single sheet for team details, etc; and these should be maintained all the way through to check-in. For both you, and the registration team, having multiple conflicting or outdated copies of data will lead to errors. However, for the registration team these errors can usually be easily sorted out in person (at check-in) but for you that information always needs to be reliable and up to date otherwise what is imported into the tab cannot be trusted."
