@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-16 11:53\n"
+"PO-Revision-Date: 2021-05-17 02:54\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -24,7 +24,7 @@ msgstr "Meningkatkan Tabbycat"
 
 #: ../../guide/upgrading.rst:7
 msgid "Generally only want to upgrade copies of tab sites that are used on an ongoing basis for multiple tournaments, or if there is a bugfix release between when you setup your site and when the tournament is running."
-msgstr "Umumnya hanya ingin meningkatkan salinan situs tab yang digunakan secara berkelanjutan untuk beberapa turnamen, atau jika ada rilis perbaikan bug antara saat Anda mengatur situs dan saat turnamen berjalan."
+msgstr "Umumnya hanya ingin meningkatkan salinan situs tab yang digunakan secara berkelanjutan untuk beberapa turnamen, atau jika ada rilis perbaikan bug antara saat anda mengatur situs dan saat turnamen berjalan."
 
 #: ../../guide/upgrading.rst:11
 msgid "Going from any version of Tabbycat 1 to any version of Tabbycat 2 won't work with the below instructions — check out the CHANGELOG for the 2.0 version for details of how to perform this upgrade."
@@ -36,11 +36,11 @@ msgstr "Meningkatkan Salinan Lokal"
 
 #: ../../guide/upgrading.rst:16
 msgid "Assuming you haven't made any changes to the Tabbycat code, upgrading a locally installed copy should just be a matter of `downloading the latest source code <https://github.com/TabbycatDebate/tabbycat/releases/latest>`_ and replacing the existing files with the new ones. If you used git to download these files initially you can just pull down the latest copy of the master branch to do this."
-msgstr "Dengan asumsi Anda belum membuat perubahan apa pun pada kode Tabbycat, memutakhirkan salinan yang diinstal secara lokal seharusnya hanya masalah `mengunduh kode sumber terbaru <https://github.com/TabbycatDebate/tabbycat/releases/latest>` _ dan mengganti berkas yang ada dengan yang baru. Jika Anda menggunakan git untuk mengunduh berkas-berkas ini pada awalnya, Anda dapat menarik salinan terbaru dari cabang master untuk melakukannya."
+msgstr "Dengan asumsi anda belum membuat perubahan apa pun pada kode Tabbycat, memutakhirkan salinan yang diinstal secara lokal seharusnya hanya masalah `mengunduh kode sumber terbaru <https://github.com/TabbycatDebate/tabbycat/releases/latest>` _ dan mengganti berkas yang ada dengan yang baru. Jika anda menggunakan git untuk mengunduh berkas-berkas ini pada awalnya, anda dapat menarik salinan terbaru dari cabang master untuk melakukannya."
 
 #: ../../guide/upgrading.rst:18
 msgid "You would then repeat the \"Install Tabbycat\" instructions for your original installation method."
-msgstr "Anda kemudian akan mengulangi petunjuk \"Instal Tabbycat\" untuk metode penginstalan asli Anda."
+msgstr "Anda kemudian akan mengulangi petunjuk \"Instal Tabbycat\" untuk metode penginstalan asli anda."
 
 #: ../../guide/upgrading.rst:21
 msgid "Upgrading on Heroku"
