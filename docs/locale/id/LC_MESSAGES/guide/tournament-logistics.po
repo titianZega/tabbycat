@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-17 03:34\n"
+"PO-Revision-Date: 2021-05-18 10:02\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -128,11 +128,11 @@ msgstr "Anda harus cek-in dengan tim pendaftaran dan melihat apa yang mereka ren
 
 #: ../../guide/tournament-logistics.rst:54
 msgid "Registration data should be collected into a shared and live-updating source, such as a Google Sheet. There should be as few canonical sources (ideally one) of data as possible; i.e. there should be a single sheet for individual details, a single sheet for team details, etc; and these should be maintained all the way through to check-in. For both you, and the registration team, having multiple conflicting or outdated copies of data will lead to errors. However, for the registration team these errors can usually be easily sorted out in person (at check-in) but for you that information always needs to be reliable and up to date otherwise what is imported into the tab cannot be trusted."
-msgstr ""
+msgstr "Data pendaftaran harus dikumpulkan ke dalam sumber yang dibagikan dan diperbarui secara langsung, seperti Google Spreadsheet. Harus ada sesedikit mungkin data sumber kanonik (idealnya satu); yaitu, harus ada satu lembar untuk detail individu, satu lembar untuk detail tim, dll; dan ini harus dijaga hingga cek-in. Bagi anda, dan tim pendaftaran, memiliki beberapa salinan data yang bentrok atau kedaluwarsa akan menyebabkan kesalahan. Namun, untuk tim pendaftaran kesalahan ini biasanya dapat diselesaikandengan mudah secara langsung (saat ceck-in) tapi bagi anda informasi itu harus selalu dapat diandalkan dan mutakhir, kalau tidak, apa yang diimpor ke tabulasi tidak dapat dipercaya."
 
 #: ../../guide/tournament-logistics.rst:56
 msgid "At this point our recommendation is to, in most cases, not use specialised registration systems as they are somewhat less intuitive and less flexible than setting up good Google Forms/Sheets."
-msgstr ""
+msgstr "Pada titik ini, rekomendasi kami ialah, untuk banyak kasus, tidak menggunakan sistem pendaftaran khusus karena sistem tersebut kurang intuitif dan kurang fleksibel daripada menyiapkan Google Formulir/Sheets yang baik."
 
 #: ../../guide/tournament-logistics.rst:58
 msgid "If, for whatever reason, the registration team are not able to give you 'live' access to the data they have on hand, make sure they send you copies of it (even if it is incomplete) well before you need it to setup the tab itself. You want to be able to verify what data is actually being collected and how it is formatted well in advance."
