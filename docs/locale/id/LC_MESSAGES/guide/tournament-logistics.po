@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-18 10:02\n"
+"PO-Revision-Date: 2021-05-18 10:13\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -136,11 +136,11 @@ msgstr "Pada titik ini, rekomendasi kami ialah, untuk banyak kasus, tidak menggu
 
 #: ../../guide/tournament-logistics.rst:58
 msgid "If, for whatever reason, the registration team are not able to give you 'live' access to the data they have on hand, make sure they send you copies of it (even if it is incomplete) well before you need it to setup the tab itself. You want to be able to verify what data is actually being collected and how it is formatted well in advance."
-msgstr ""
+msgstr "Jika, karena alasan tertentu, tim pendaftaran tidak bisa memberi anda akses 'langsung' ke data yang mereka miliki, pastikan mereka mengirimkan salinannya (meskipun tidak lengkap) sebelum anda memerlukannya untuk menyiapkan tabulasi itu sendiri. Anda ingin dapat memverifikasi data apa yang sebenarnya dikumpulkan dan bagaimana data diformat dengan baik dahulu."
 
 #: ../../guide/tournament-logistics.rst:60
 msgid "You should have access to *all* of the data collected; often registration teams will make (false) assumptions about what you do or do not need. It is better to have everything and then selectively filter out what is not relevant to the tab."
-msgstr ""
+msgstr "Anda harus punya akses ke *semua* data yang dikumpulkan; sering kali tim pendaftaran akan membuat asumsi (salah) tentang apa yang anda butuhkan atau tidak butuhkan. Lebih baik memiliki semuanya dan kemudian secara selektif menyaring apa yang tidak relevan dengan tabulasi."
 
 #: ../../guide/tournament-logistics.rst:61
 msgid "It is critical that the registration team should check in with you before setting up forms asking for information. Every additional time that registration asks for data there will be less and less participation in the process, so you should aim to gather all that you need at the first opportunity; typically during the canonical individual registration phase. Particular information that should not be overlooked for tab purposes:"
