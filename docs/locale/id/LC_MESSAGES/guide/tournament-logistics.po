@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-18 10:13\n"
+"PO-Revision-Date: 2021-05-18 11:48\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -144,15 +144,15 @@ msgstr "Anda harus punya akses ke *semua* data yang dikumpulkan; sering kali tim
 
 #: ../../guide/tournament-logistics.rst:61
 msgid "It is critical that the registration team should check in with you before setting up forms asking for information. Every additional time that registration asks for data there will be less and less participation in the process, so you should aim to gather all that you need at the first opportunity; typically during the canonical individual registration phase. Particular information that should not be overlooked for tab purposes:"
-msgstr ""
+msgstr "Tim pendaftaran harus menghubungi anda sebelum menyiapkan formulir yang butuh informasi. Tiap tambahan waktu saat pendaftaran meminta data, partisipasi akan semakin berkurang seiring proses itu, jadi anda harus berusaha mengumpulkan semua yang anda butuhkan pada kesempatan pertama; biasanya selama fase pendaftaran individu kanonik. Informasi khusus yang tidak boleh diabaikan demi tujuan tabulasi:"
 
 #: ../../guide/tournament-logistics.rst:63
 msgid "Individual registration should ask whether a participant is a speaker or an adjudicator."
-msgstr ""
+msgstr "Pendaftaran individu harus menanyakan apakah peserta seorang pembicara atau seorang juri."
 
 #: ../../guide/tournament-logistics.rst:64
 msgid "If that person is a speaker it should ask for their team name/number (reconciling these later is painful)."
-msgstr ""
+msgstr "Jika orang tersebut adalah seorang pembicara, ia harus menanyakan nama/nomor tim mereka (jika salah menyesuaikannya nanti akan sangat sulit)."
 
 #: ../../guide/tournament-logistics.rst:65
 msgid "Individual registration should ask for any accessibility requirements of both adjudicators and speakers."
