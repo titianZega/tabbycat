@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-12-31 10:38-0400\n"
-"PO-Revision-Date: 2021-05-18 11:48\n"
+"PO-Revision-Date: 2021-05-18 11:57\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "MIME-Version: 1.0\n"
@@ -156,19 +156,19 @@ msgstr "Jika orang tersebut adalah seorang pembicara, ia harus menanyakan nama/n
 
 #: ../../guide/tournament-logistics.rst:65
 msgid "Individual registration should ask for any accessibility requirements of both adjudicators and speakers."
-msgstr ""
+msgstr "Pendaftaran individu harus menanyakan persyaratan aksesibilitas apapun dari juri dan pembicara."
 
 #: ../../guide/tournament-logistics.rst:66
 msgid "Individual registration should ask for the previous institutions of both adjudicators and speakers."
-msgstr ""
+msgstr "Pendaftaran individu harus menanyakan institusi juri dan pembicara sebelumnya."
 
 #: ../../guide/tournament-logistics.rst:67
 msgid "Individual registration should ask for the email addresses of all participants."
-msgstr ""
+msgstr "Pendaftaran individu harus menanyakan alamat email semua peserta."
 
 #: ../../guide/tournament-logistics.rst:68
 msgid "Individual registration should ask for the phone numbers of adjudicators."
-msgstr ""
+msgstr "Pendaftaran individu harus menanyakan nomor telepon juri."
 
 #: ../../guide/tournament-logistics.rst:69
 msgid "Individual registration should ask for the gender identity of both adjudicators and speakers. Even if you are not *planning* on using this to inform processes, such as adjudicator allocations, you want it on hand in case plans change."
