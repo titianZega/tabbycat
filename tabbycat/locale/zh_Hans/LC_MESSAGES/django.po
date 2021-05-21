@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-02 04:50\n"
+"PO-Revision-Date: 2021-05-21 01:44\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -19,12 +19,12 @@ msgstr ""
 
 #: api/apps.py:7
 msgid "Application Programming Interface"
-msgstr ""
+msgstr "应用程序接口"
 
 #: checkins/apps.py:7 templates/nav/admin_nav.html:117
 #: templates/nav/assistant_nav.html:38 templates/nav/public_nav.html:105
 msgid "Check-Ins"
-msgstr ""
+msgstr "签到"
 
 #: checkins/consumers.py:73
 msgid "Sent checkin identifier doesn't exist"
@@ -61,11 +61,11 @@ msgstr "人"
 
 #: checkins/models.py:55
 msgid "person identifier"
-msgstr ""
+msgstr "人员标识符"
 
 #: checkins/models.py:56
 msgid "person identifiers"
-msgstr ""
+msgstr "人员标识符"
 
 #: checkins/models.py:64
 msgid "debate"
@@ -73,11 +73,11 @@ msgstr "辩论"
 
 #: checkins/models.py:67
 msgid "debate identifier"
-msgstr ""
+msgstr "辩论标识符"
 
 #: checkins/models.py:68
 msgid "debate identifiers"
-msgstr ""
+msgstr "辩论标识符"
 
 #: checkins/models.py:79
 msgid "room identifier"
@@ -93,7 +93,7 @@ msgstr ""
 
 #: checkins/models.py:90
 msgid "check-in time"
-msgstr ""
+msgstr "签到时间"
 
 #: checkins/models.py:92
 msgid "tournament"
@@ -101,11 +101,11 @@ msgstr "比赛"
 
 #: checkins/models.py:95
 msgid "check-in event"
-msgstr ""
+msgstr "签到事件"
 
 #: checkins/models.py:96
 msgid "check-in events"
-msgstr ""
+msgstr "签到事件"
 
 #: checkins/templates/checkin_ids.html:18
 msgid "With identifiers"
@@ -113,7 +113,7 @@ msgstr ""
 
 #: checkins/templates/checkin_ids.html:30
 msgid "View as barcodes"
-msgstr ""
+msgstr "以条形码方式显示"
 
 #: checkins/templates/checkin_ids.html:36
 msgid "Generate missing identifiers"
