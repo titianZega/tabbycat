@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-01-14 04:50+1100\n"
-"PO-Revision-Date: 2021-04-08 04:55\n"
+"PO-Revision-Date: 2021-05-23 18:44\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -365,27 +365,27 @@ msgstr "Check-Ins yang Tepat"
 
 #: templates/tables/CheckboxTables.vue:
 msgid "Set people as available only if they have a check-in and are currently unavailable — i.e. it will not overwrite any existing availabilities."
-msgstr ""
+msgstr "Set orang sebagai tersedia hanya jika mereka memiliki check-in dan saat ini tidak tersedia - yaitu tidak akan menimpa ketersediaan yang ada."
 
 #: templates/tables/CheckboxTables.vue:47
 msgid "Copy From Check-Ins"
-msgstr ""
+msgstr "Salin dari Check in"
 
 #: tournaments/templates/TournamentOverviewContainer.vue:
 msgid "Ballots Status"
-msgstr ""
+msgstr "Status balot"
 
 #: tournaments/templates/TournamentOverviewContainer.vue:
 msgid "Latest Actions"
-msgstr ""
+msgstr "Tindakan Terbaru"
 
 #: tournaments/templates/TournamentOverviewContainer.vue:
 msgid "No Actions Yet"
-msgstr ""
+msgstr "Belum ada tindakan sama sekali"
 
 #: tournaments/templates/TournamentOverviewContainer.vue:
 msgid "Latest Results"
-msgstr ""
+msgstr "Hasil terbaru"
 
 #: tournaments/templates/TournamentOverviewContainer.vue:
 msgid "No Confirmed Results Yet"
