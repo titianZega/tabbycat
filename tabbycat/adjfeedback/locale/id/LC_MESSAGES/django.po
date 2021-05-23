@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-02 04:48\n"
+"PO-Revision-Date: 2021-05-23 06:54\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -378,7 +378,7 @@ msgstr "pilihan"
 
 #: adjfeedback/models.py:177
 msgid "Permissible choices for select one/multiple fields (ignored for other fields)"
-msgstr ""
+msgstr "Pilihan yang diizinkan untuk memilih satu / beberapa bidang (diabaikan untuk bidang lain)"
 
 #: adjfeedback/models.py:182
 msgid "adjudicator feedback question"
@@ -679,12 +679,12 @@ msgstr "<a href=\"%(option_url)s\" class=\"alert-link\">Konfigurasi Penilaian </
 #: adjfeedback/templates/feedback_overview.html:14
 #, python-format
 msgid "The current <a href=\"%(option_url)s\" class=\"alert-link\">feedback configuration</a> allows and expects both chairs and panellists to submit feedback on each other, and also chairs to submit feedback on trainees."
-msgstr ""
+msgstr "<a href=\"%(option_url)s\" class=\"alert-link\"> Konfigurasi umpan balik </a> saat ini memungkinkan dan mengharapkan baik ketua maupun panelis untuk saling mengirimkan umpan balik, dan juga ketua untuk mengirimkan umpan balik pada peserta pelatihan.umpan balik."
 
 #: adjfeedback/templates/feedback_overview.html:18
 #, python-format
 msgid "The current <a href=\"%(option_url)s\" class=\"alert-link\">feedback configuration</a> allows and expects both panellists and trainees to submit feedback on chairs, and chairs to submit feedback on every other member of the panel (including trainees)."
-msgstr ""
+msgstr "<a href=\"%(option_url)s\" class=\"alert-link\"> Konfigurasi umpan balik </a> saat ini memungkinkan dan mengharapkan baik panelis maupun peserta pelatihan untuk mengirimkan umpan balik mengenai kursi, dan kursi untuk mengirimkan umpan balik kepada setiap anggota lain dari panel (termasuk peserta pelatihan)."
 
 #: adjfeedback/templates/feedback_overview.html:22
 #, python-format
