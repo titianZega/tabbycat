@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-04-02 04:48\n"
+"PO-Revision-Date: 2021-05-23 18:55\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -386,7 +386,7 @@ msgstr "Menggunakan aplikasi yang didesain untuk mengukur waktu debat membuat be
 
 #: templates/footer.html:51
 msgid "Our Organisation"
-msgstr ""
+msgstr "Organisasi Kami"
 
 #: templates/footer.html:53
 msgid "Tabbycat is supported by the <a href=\"http://tabbycat-debate.org/\">Tabbycat Debate Association</a>, a non-profit for advancing open debate technology."
@@ -488,7 +488,7 @@ msgstr "Rancangan Panel"
 
 #: templates/nav/admin_nav.html:97
 msgid "Export XML"
-msgstr ""
+msgstr "Ekspor XML"
 
 #: templates/nav/admin_nav.html:107 templates/nav/public_nav.html:160
 msgid "Sides"
