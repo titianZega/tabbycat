@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-05-24 05:55\n"
+"PO-Revision-Date: 2021-05-24 06:06\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -647,7 +647,7 @@ msgstr "Email telah dikirim."
 
 #: tournaments/templates/round_complete_check.html:23
 msgid "Email Team Wins/Losses"
-msgstr ""
+msgstr "Kirim email kemenangan/kekalahan tim"
 
 #: tournaments/templates/round_complete_check.html:25
 msgid "Email Team Points"
