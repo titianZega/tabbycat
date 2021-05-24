@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-05-24 05:45\n"
+"PO-Revision-Date: 2021-05-24 05:55\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -630,12 +630,12 @@ msgstr "Berikan Penilaian"
 
 #: tournaments/templates/public_tournament_index.html:217
 msgid "Tournament Staff"
-msgstr ""
+msgstr "Staf Turnamen"
 
 #: tournaments/templates/round_complete_check.html:4
 #: tournaments/templates/round_complete_check.html:6
 msgid "Confirm Round Completion"
-msgstr ""
+msgstr "Konfirmasi Ronde Selesai"
 
 #: tournaments/templates/round_complete_check.html:13
 msgid "Enter Results"
@@ -643,7 +643,7 @@ msgstr "Masukkan Hasil"
 
 #: tournaments/templates/round_complete_check.html:18
 msgid "Emails have already been sent."
-msgstr ""
+msgstr "Email telah dikirim."
 
 #: tournaments/templates/round_complete_check.html:23
 msgid "Email Team Wins/Losses"
