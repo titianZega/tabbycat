@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-05-24 03:44\n"
+"PO-Revision-Date: 2021-05-24 04:04\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -428,12 +428,12 @@ msgstr "Menyumbang ke Tabbycat akan membantu pengelola memenuhi biaya berulang d
 
 #: tournaments/templates/donations.html:24
 msgid "We suggest that tournaments budget for a donation of A$1 (Australian dollar) per team. For tournaments run for fundraising or for profit, whether partly or solely, this payment is <strong>required</strong> and your licence to use Tabbycat is conditional upon it. General donations from individuals or organisations are of course also much appreciated."
-msgstr "Kami menyarankan anggaran pertandingan untuk sebuah donasi sebesar A$1 (dollar Australia) per regu. Untuk pertandingan yang diselenggarakan untuk penggalangan dana dan untuk keuntungan, baik sebagian atau seluruhnya, pembayaran ini <strong>diperlukan</strong> dan lisensi Anda untuk mengunakan Tabbycat bergantung pada itu. Donasi umum dari individual atau organisasi tentu saja lebih dihargai juga."
+msgstr "Kami menyarankan anggaran turnamen untuk sebuah donasi sebesar A$1 (dollar Australia) per tim. Untuk turnamen yang diselenggarakan untuk fundraising dan profit, baik sebagian atau keseluruhan, pembayaran ini <strong>bersifat wajib</strong> dan lisensi Anda untuk mengunakan Tabbycat bergantung pada kewajiban tersebut. Donasi umum dari individu atau organisasi tentu saja sangat dihargai."
 
 #: tournaments/templates/donations.html:34
 #, python-format
 msgid "Our suggested donation from %(tournament)s, based on its size, is <strong>A$%(nteams)s</strong>. The easiest way to donate is <a href=\"http://PayPal.Me/tabbycatproject/%(nteams)saud\">via Paypal</a>, but please don’t hesitate to <a href=\"http://tabbycat.readthedocs.io/en/stable/about/support.html#email\">email us</a> if other methods would work better for you. Also, feel free to get in touch if you require an invoice or receipt for the payment."
-msgstr "Donasi yang kami sarangkan dari %(tournament)s, berdasarkan ukurannya, adalah <strong>A$%(nteams)s</strong>. Cara termudh untuk berdonasi adalah <a href=\"http://PayPal.Me/tabbycatproject/%(nteams)saud\">via Paypal</a>, tetapi tolong jangan segan-segan untuk<a href=\"http://tabbycat.readthedocs.io/en/stable/about/support.html#email\">mengirim surel kepada kami</a>jika metode lain akan bekerja lebih baik untuk Anda. Juga, jangan ragu untuk menghubungi kami jika Anda membutuhkan faktur atau tanda terima untuk pembayaran tersebut."
+msgstr "Donasi yang kami sarangkan untuk %(tournament)s, berdasarkan ukuran turnamen, adalah <strong>A$%(nteams)s</strong>. Cara mudah untuk mendonasi adalah <a href=\"http://PayPal.Me/tabbycatproject/%(nteams)saud\">melalui Paypal</a>, tetapi jangan segan-segan untuk<a href=\"http://tabbycat.readthedocs.io/en/stable/about/support.html#email\">mengirim email kepada kami</a>jika ada metode lain yang lebih mudah untuk Anda. Demikian pula, jangan ragu untuk menghubungi kami jika Anda membutuhkan faktur atau tanda terima untuk pembayaran tersebut."
 
 #: tournaments/templates/donations.html:46
 msgid "The easiest way to donate is <a href=\"http://PayPal.Me/tabbycatproject/0aud\">via Paypal</a>. Please <a href=\"http://tabbycat.readthedocs.io/en/stable/about/support.html\">contact us</a> if you require other options."
