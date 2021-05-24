@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-05-24 05:05\n"
+"PO-Revision-Date: 2021-05-24 05:15\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -473,12 +473,12 @@ msgstr "<strong>Simpan</strong> perubahan."
 
 #: tournaments/templates/fix_debate_teams.html:62
 msgid "Once you've fixed all the debates, you should then be able to return to whatever page you were originally on without the error reoccurring."
-msgstr "Jika Anda sudah menetapkan semua debatnya, Anda kemudian harus bisa kembali ke halaman manapun dimana sebelumnya anda berada tanpa terjadi kesalahan."
+msgstr "Jika Anda sudah memperbaiki semua debat, Anda seharusnya bisa kembali ke laman apapun di mana Anda semula berada tanpa terjadi masalah."
 
 #: tournaments/templates/fix_debate_teams.html:68
 #, python-format
 msgid "You can also see all the debates in the <a href=\"%(edit_debates_url)s\" target=\"_blank\">Debates section of the Edit Database Area</a>."
-msgstr "Anda juga dapat melihat semua debat di <a href=\"%(edit_debates_url)s\" target=\"_blank\">bagian Debat dari Area Sunting Basisdata</a>."
+msgstr "Anda juga dapat melihat semua debat di <a href=\"%(edit_debates_url)s\" target=\"_blank\">seksi Debat dari Area Sunting Basisdata</a>."
 
 #: tournaments/templates/fix_debate_teams.html:82
 msgid "Debate ID"
