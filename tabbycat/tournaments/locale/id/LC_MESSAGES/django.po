@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-05-24 04:15\n"
+"PO-Revision-Date: 2021-05-24 04:35\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -445,11 +445,11 @@ msgstr "Tim Debat Tidak Ada"
 
 #: tournaments/templates/fix_debate_teams.html:16
 msgid "Tabbycat always requires that, in every debate, one and only one team is assigned to each side. When that is not the case, this error occurs. Usually, this is the result of debates having been manually edited."
-msgstr "Tabbycat selalu mensyaratkan bahwa, pada setiap debat, satu dan hanya satu regu yang ditugaskan untuk setiap sisi. Jika hal tersebut buka kasusnya, kesalahan ini terjadi. Biasanya, hal ini adalah hasil dari debat-debat yang disunting secara manual."
+msgstr "Tabbycat selalu mewajibkan bahwa, untuk setiap debat, satu dan hanya satu tim yang dialokasikan untuk setiap sisi. Ketika hal tersebut tidak diikuti, kesalahan ini terjadi. Biasanya, hal ini merupakan akibat dari debat-debat disunting secara manual."
 
 #: tournaments/templates/fix_debate_teams.html:24
 msgid "A list of offending debates is presented below. To fix them, you'll need to do the following:"
-msgstr "Sebuah daftar dari perdebatan yang menyinggung disajikan di bawah ini. Untuk memperbaiki mereka, Anda harus melalkukan hal berikut:"
+msgstr "Daftar dari debat yang salah ditampilkan di bawah ini. Untuk memperbaikinya, Anda harus melakukan hal berikut:"
 
 #. Translators: This is in a list of instructions.
 #: tournaments/templates/fix_debate_teams.html:33
