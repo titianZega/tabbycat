@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-05-24 06:06\n"
+"PO-Revision-Date: 2021-05-24 06:26\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -109,7 +109,7 @@ msgstr "Ada masalah dengan data untuk turnamen %(tournament)s. Hubungi direktur 
 
 #: tournaments/mixins.py:130
 msgid "You've been redirected to this page because of a problem with how teams are assigned to sides in a debate."
-msgstr "Anda dialihkan ke laman ini karena ada masalah dengan bagaiamana tim dialokasikan ke sisi dalam sebuah debat."
+msgstr "Anda dialihkan ke laman ini karena ada masalah dengan bagaimana tim dialokasikan ke sisi dalam sebuah debat."
 
 #: tournaments/mixins.py:137
 msgid "There's a problem with how teams are assigned to sides in a debate. The tab director will need to resolve this issue."
