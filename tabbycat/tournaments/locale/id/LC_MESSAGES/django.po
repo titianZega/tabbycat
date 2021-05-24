@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-05-24 06:34\n"
+"PO-Revision-Date: 2021-05-24 07:06\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -626,7 +626,7 @@ msgstr "Masukkan Balot untuk %(round)s"
 
 #: tournaments/templates/public_tournament_index.html:195
 msgid "Enter Feedback"
-msgstr "Berikan Penilaian"
+msgstr "Berikan Umpan Balik"
 
 #: tournaments/templates/public_tournament_index.html:217
 msgid "Tournament Staff"
@@ -647,16 +647,16 @@ msgstr "Email telah dikirim."
 
 #: tournaments/templates/round_complete_check.html:23
 msgid "Email Team Wins/Losses"
-msgstr "Kirim email kemenangan/kekalahan tim"
+msgstr "Kirim Email Kemenangan/Kekalahan tim"
 
 #: tournaments/templates/round_complete_check.html:25
 msgid "Email Team Points"
-msgstr ""
+msgstr "Kirim Email Poin Tim"
 
 #: tournaments/templates/round_complete_check.html:34
 #, python-format
 msgid "Mark %(round)s as Completed"
-msgstr ""
+msgstr "Tandai %(round)s telah Selesai"
 
 #: tournaments/templates/round_complete_check.html:41
 #, python-format
