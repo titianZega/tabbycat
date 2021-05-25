@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-05-25 07:27\n"
+"PO-Revision-Date: 2021-05-25 08:01\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -682,13 +682,13 @@ msgstr[0] "Berikut ialah ronde sebelumnya yang belum diselesaikan: %(prior_round
 #: tournaments/templates/round_complete_check.html:77
 #, python-format
 msgid "All ballots from %(round)s are confirmed. You should be good to go!"
-msgstr ""
+msgstr "Semua balot dari %(round)s sudah dikonfirmasi. Anda bisa lanjut tanpa masalah!"
 
 #: tournaments/templates/round_complete_check.html:83
 #, python-format
 msgid "There is still %(num_unconfirmed)s ballot that is not confirmed. You should <strong>not</strong> proceed to the next round until all ballots are confirmed."
 msgid_plural "There are still %(num_unconfirmed)s ballots that are not confirmed. You should <strong>not</strong> proceed to the next round until all ballots are confirmed."
-msgstr[0] ""
+msgstr[0] "Masih ada %(num_unconfirmed)s balot yang belum dikonfirmasi. Sebaiknya Anda <strong>tidak</strong> melanjutkan ke ronde berikutnya sebelum semua balot terkonfirmasi."
 
 #: tournaments/templates/round_complete_check.html:99
 #, python-format
