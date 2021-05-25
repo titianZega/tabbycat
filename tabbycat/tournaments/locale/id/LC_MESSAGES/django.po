@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-05-25 08:55\n"
+"PO-Revision-Date: 2021-05-25 09:09\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -771,11 +771,11 @@ msgstr "Dapatkan Token API/Ubah Kata Sandi (%(user)s)"
 #: tournaments/templates/site_index.html:76
 #, python-format
 msgid "Log Out (%(user)s)"
-msgstr ""
+msgstr "Keluar (%(user)s)"
 
 #: tournaments/templates/site_index.html:82
 msgid "Log In as Admin"
-msgstr ""
+msgstr "Masuk sebagai Admin"
 
 #: tournaments/templates/tournament_index.html:8
 #, python-format
