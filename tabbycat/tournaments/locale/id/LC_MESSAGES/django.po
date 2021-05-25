@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-05-25 09:18\n"
+"PO-Revision-Date: 2021-05-25 09:38\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -788,47 +788,47 @@ msgstr "Selamat Datang di Turnamen baru Anda!"
 
 #: tournaments/templates/tournament_index.html:26
 msgid "The next step is to import your initial tournament data: the institutions, teams, adjudicators and rooms that are in your tournament. There are a number of ways to do this. For small-to-medium tournaments, the simple importer is your best bet."
-msgstr ""
+msgstr "Langkah selanjutnya ialah impor data awal dari turnamen Anda: institusi, tim, juri dan ruangan yang akan ada pada turnamen Anda. Terdapat beberapa cara untuk melakukan hal ini. Untuk turnamen kecil-ke-menengah, importir sederhana ialah cara paling baik."
 
 #. Translators: The documentation where the link goes to is in English; translations should mention this with "(in English)" after the link.
 #: tournaments/templates/tournament_index.html:33
 #, python-format
 msgid "For more information, please consult our <a href=\"https://tabbycat.readthedocs.io/en/%(readthedocs_version)s/use/importing-data.html\" class=\"alert-link\" target=\"_blank\"> documentation on importing initial data</a>."
-msgstr ""
+msgstr "Untuk informasi lebih lanjut, silahkan periksa <a href=\"https://tabbycat.readthedocs.io/en/%(readthedocs_version)s/use/importing-data.html\" class=\"alert-link\" target=\"_blank\"> dokumentasi Kami tentang mengimpor data awal</a>."
 
 #: tournaments/templates/tournament_index.html:43
 msgid "Use the simple importer to add your initial data."
-msgstr ""
+msgstr "Gunakan importir sederhana untuk menambahkan data awal Anda."
 
 #: tournaments/templates/tournament_index.html:49
 #, python-format
 msgid "Go to the checkins area to begin creating a draw for %(round)s"
-msgstr ""
+msgstr "Pindah ke area check in untuk mulai membuat undian untuk %(round)s"
 
 #: tournaments/templates/tournament_index.html:57
 #, python-format
 msgid "Go to the draw area to allocate adjudicators for %(round)s"
-msgstr ""
+msgstr "Pindah ke area undian untuk mengalokasi juri untuk %(round)s"
 
 #: tournaments/templates/tournament_index.html:65
 #, python-format
 msgid "Go to the results area to begin entering ballots for %(round)s"
-msgstr ""
+msgstr "Pindah ke area hasil untuk mulai memasukkan balot untuk %(round)s"
 
 #: tournaments/templates/tournament_index_links.html:10
 #, python-format
 msgid "Administrator area for <strong>%(tn)s</strong>"
-msgstr ""
+msgstr "Area Administrator untuk <strong>%(tn)s</strong>"
 
 #: tournaments/templates/tournament_index_links.html:17
 #, python-format
 msgid "Assistant area for <strong>%(tn)s</strong>"
-msgstr ""
+msgstr "Area Asisten untuk <strong>%(tn)s</strong>"
 
 #: tournaments/templates/tournament_index_links.html:22
 #, python-format
 msgid "Public area for <strong>%(tn)s</strong>"
-msgstr ""
+msgstr "Area Publik untuk <strong>%(tn)s</strong>"
 
 #: tournaments/utils.py:12
 msgid "affirmative"
@@ -840,87 +840,87 @@ msgstr "negatif"
 
 #: tournaments/utils.py:14
 msgid "affirmative team"
-msgstr ""
+msgstr "tim afirmatif"
 
 #: tournaments/utils.py:15
 msgid "negative team"
-msgstr ""
+msgstr "tim negatif"
 
 #: tournaments/utils.py:16
 msgid "Aff"
-msgstr ""
+msgstr "Afi"
 
 #: tournaments/utils.py:17
 msgid "Neg"
-msgstr ""
+msgstr "Neg"
 
 #: tournaments/utils.py:20
 msgid "government"
-msgstr ""
+msgstr "pemerintah"
 
 #: tournaments/utils.py:21 tournaments/utils.py:29
 msgid "opposition"
-msgstr ""
+msgstr "oposisi"
 
 #: tournaments/utils.py:22
 msgid "government team"
-msgstr ""
+msgstr "tim pemerintah"
 
 #: tournaments/utils.py:23 tournaments/utils.py:31
 msgid "opposition team"
-msgstr ""
+msgstr "tim oposisi"
 
 #: tournaments/utils.py:24
 msgid "Gov"
-msgstr ""
+msgstr "Pem"
 
 #: tournaments/utils.py:25 tournaments/utils.py:33
 msgid "Opp"
-msgstr ""
+msgstr "Opo"
 
 #: tournaments/utils.py:28
 msgid "proposition"
-msgstr ""
+msgstr "proposisi"
 
 #: tournaments/utils.py:30
 msgid "proposition team"
-msgstr ""
+msgstr "tim proposisi"
 
 #: tournaments/utils.py:32
 msgid "Prop"
-msgstr ""
+msgstr "Prop"
 
 #: tournaments/utils.py:36
 msgid "pro"
-msgstr ""
+msgstr "pro"
 
 #: tournaments/utils.py:37
 msgid "con"
-msgstr ""
+msgstr "kon"
 
 #: tournaments/utils.py:38
 msgid "pro team"
-msgstr ""
+msgstr "tim pro"
 
 #: tournaments/utils.py:39
 msgid "con team"
-msgstr ""
+msgstr "tim kon"
 
 #: tournaments/utils.py:40
 msgid "Pro"
-msgstr ""
+msgstr "Pro"
 
 #: tournaments/utils.py:41
 msgid "Con"
-msgstr ""
+msgstr "Kon"
 
 #: tournaments/utils.py:44
 msgid "appellant"
-msgstr ""
+msgstr "pemohon"
 
 #: tournaments/utils.py:45
 msgid "respondent"
-msgstr ""
+msgstr "terdakwa"
 
 #: tournaments/utils.py:46
 msgid "appellant team"
