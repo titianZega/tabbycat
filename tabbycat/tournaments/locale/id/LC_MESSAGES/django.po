@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-05-25 09:50\n"
+"PO-Revision-Date: 2021-05-25 09:58\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -1009,12 +1009,12 @@ msgstr "%(round)s sudah ditandai selesai. Sekarang semua ronde telah selesai, ja
 #: tournaments/views.py:159
 #, python-format
 msgid "%(round)s has been marked as completed. That's the last round in that sequence! Going back to the first round that hasn't been marked as completed."
-msgstr ""
+msgstr "%(round)s telah ditandai selesai. Ronde tersebut ialah ronde terakhir dari rentetan ronde tersebut! Pindah kembali ke ronde pertama yang belum ditandai selesai."
 
 #: tournaments/views.py:172
 #, python-format
 msgid "%(round)s has been marked as completed. You've made it to the end of the preliminary rounds! Congratulations! The next step is to generate the break."
-msgstr ""
+msgstr "%(round)s telah ditandai selesai. Anda berhasil tiba di akhir ronde penyisihan! Selamat! Langkah selanjutnya ialah membuat break."
 
 #: tournaments/views.py:178
 #, python-format
