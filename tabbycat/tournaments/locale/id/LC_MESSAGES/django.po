@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-05-25 10:10\n"
+"PO-Revision-Date: 2021-05-25 10:18\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -100,12 +100,12 @@ msgstr "Jika semua ronde penyisihan sudah selesai, bidang ini diperlukan."
 #: tournaments/mixins.py:109
 #, python-format
 msgid "You've been redirected to this page because tournament %(tournament)s has no rounds. Please create some before returning to the admin site."
-msgstr "Anda dialihkan ke halaman ini karena turnamen %(tournament)s tidak memiliki ronde. Buatlah beberapa ronde sebelum kembali ke situs admin."
+msgstr "Anda dialihkan ke halaman ini karena turnamen %(tournament)s tidak memiliki ronde. Silahkan membuat beberapa ronde sebelum kembali ke situs admin."
 
 #: tournaments/mixins.py:117
 #, python-format
 msgid "There's a problem with the data for the tournament %(tournament)s. Please contact a tab director and ask them to investigate."
-msgstr "Ada masalah dengan data untuk turnamen %(tournament)s. Hubungi direktur tabulasi dan mintalah mereka untuk menginvestigasi."
+msgstr "Ada masalah dengan data untuk turnamen %(tournament)s. Silahkan hubungi direktur tabulasi dan mintalah mereka untuk menginvestigasi."
 
 #: tournaments/mixins.py:130
 msgid "You've been redirected to this page because of a problem with how teams are assigned to sides in a debate."
@@ -126,7 +126,7 @@ msgstr "Kembali ke Undian"
 
 #: tournaments/models.py:26
 msgid "You can't use this as a tournament slug, because it's reserved for a Tabbycat system URL. Please try another one."
-msgstr "Anda tidak dapat menggunakan slug ini sebagai slug turnamen, karena slug ini sudah dialokasikan untuk URL sistem Tabbycat. Coba yang lain."
+msgstr "Anda tidak dapat menggunakan slug ini sebagai slug turnamen, karena slug ini sudah dialokasikan untuk URL sistem Tabbycat. Silahkan coba yang lain."
 
 #: tournaments/models.py:33 tournaments/models.py:320
 msgid "name"
@@ -437,7 +437,7 @@ msgstr "Donasi yang kami sarankan untuk %(tournament)s, berdasarkan ukuran turna
 
 #: tournaments/templates/donations.html:46
 msgid "The easiest way to donate is <a href=\"http://PayPal.Me/tabbycatproject/0aud\">via Paypal</a>. Please <a href=\"http://tabbycat.readthedocs.io/en/stable/about/support.html\">contact us</a> if you require other options."
-msgstr "Cara mudah untuk menyumbang adalah <a href=\"http://PayPal.Me/tabbycatproject/0aud\">melalui Paypal</a>. Silakan <a href=\"http://tabbycat.readthedocs.io/en/stable/about/support.html\">hubungi kami</a> jika Anda memerlukan pilihan lain."
+msgstr "Cara mudah untuk menyumbang adalah <a href=\"http://PayPal.Me/tabbycatproject/0aud\">melalui Paypal</a>. Silahkan <a href=\"http://tabbycat.readthedocs.io/en/stable/about/support.html\">hubungi kami</a> jika Anda memerlukan pilihan lain."
 
 #: tournaments/templates/fix_debate_teams.html:6
 msgid "Debate Team Missing"
@@ -512,7 +512,7 @@ msgstr "Tampaknya semua debat dalam kondisi yang baik!"
 
 #: tournaments/templates/fix_debate_teams.html:128
 msgid "If you keep getting redirected to this page and you're not sure why, please contact the developers of Tabbycat."
-msgstr "Jika Anda terus-menerus dialihkan ke laman ini dan Anda tidak tahu mengapa, silakan hubungi pengembang Tabbycat."
+msgstr "Jika Anda terus-menerus dialihkan ke laman ini dan Anda tidak tahu mengapa, silahkan hubungi pengembang Tabbycat."
 
 #: tournaments/templates/public_tournament_index.html:5
 #: tournaments/templates/public_tournament_index.html:9
@@ -1004,7 +1004,7 @@ msgstr "R%(number)d"
 #: tournaments/views.py:153
 #, python-format
 msgid "%(round)s has been marked as completed. All rounds are now completed, so you're done with the tournament! Congratulations!"
-msgstr "%(round)s sudah ditandai selesai. Sekarang semua ronde telah selesai, jadi turnamen Anda telah selesai! Selamat!"
+msgstr "%(round)s telah ditandai selesai. Sekarang semua ronde telah selesai, jadi turnamen Anda telah selesai! Selamat!"
 
 #: tournaments/views.py:159
 #, python-format
@@ -1037,13 +1037,13 @@ msgstr "Selamat datang! Anda telah membuat akun untuk %s."
 
 #: tournaments/views.py:238
 msgid "8-team generic dataset"
-msgstr ""
+msgstr "dataset 8-tim umum"
 
 #: tournaments/views.py:239
 msgid "24-team Australs dataset"
-msgstr ""
+msgstr "dataset 24-tim Australs"
 
 #: tournaments/views.py:240
 msgid "88-team BP dataset"
-msgstr ""
+msgstr "dataset 88-tim BP"
 
