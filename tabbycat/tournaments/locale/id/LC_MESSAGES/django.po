@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-05-25 09:09\n"
+"PO-Revision-Date: 2021-05-25 09:18\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -780,11 +780,11 @@ msgstr "Masuk sebagai Admin"
 #: tournaments/templates/tournament_index.html:8
 #, python-format
 msgid "We hope you've enjoyed using Tabbycat for your tournament. We would appreciate if you would make a donation to the project in order to support its ongoing development and maintenance. For a tournament of this size, we suggest a donation of <strong>$%(amount)s</strong>. Note that if your tournament is run for profit, or for fundraising, making this payment is a mandatory condition of Tabbycat's software license. <a href=\"%(url)s\">Learn more about donating.</a>"
-msgstr ""
+msgstr "Kami harap Anda senang menggunakan Tabbycat untuk turnamen Anda. Kami sangat menghargai jika Anda berminat memberi donasi untuk proyek ini demi mendukung proses pengembangan dan pengelolaannya. Untuk turnamen dengan ukuran berikut, Kami menyarankan donasi sebesar <strong>$%(amount)s</strong>. Perhatikan jika turnamen Anda dibuat untuk profit, atau untuk fundraising, memenuhi pembayaran ini merupakan syarat yang wajib dari lisensi perangkat lunak Tabbycat. <a href=\"%(url)s\"> Pelajari lebih lanjut tentang donasi.</a>"
 
 #: tournaments/templates/tournament_index.html:24
 msgid "Welcome to your new tournament!"
-msgstr ""
+msgstr "Selamat Datang di Turnamen baru Anda!"
 
 #: tournaments/templates/tournament_index.html:26
 msgid "The next step is to import your initial tournament data: the institutions, teams, adjudicators and rooms that are in your tournament. There are a number of ways to do this. For small-to-medium tournaments, the simple importer is your best bet."
