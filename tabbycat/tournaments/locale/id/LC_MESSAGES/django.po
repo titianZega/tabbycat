@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-05-25 09:58\n"
+"PO-Revision-Date: 2021-05-25 10:10\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -1019,21 +1019,21 @@ msgstr "%(round)s telah ditandai selesai. Anda berhasil tiba di akhir ronde peny
 #: tournaments/views.py:178
 #, python-format
 msgid "%(round)s has been marked as completed. That was the last preliminary round, but one or more preliminary rounds are still not completed. Going back to the first incomplete preliminary round."
-msgstr ""
+msgstr "%(round)s telah ditandai selesai. Ronde tersebut merupakan ronde penyisihan terakhir, tetapi satu atau lebih ronde penyisihan masih belum selesai. Pindah kembali ke ronde penyisihan pertama yang belum selesai."
 
 #: tournaments/views.py:186
 #, python-format
 msgid "%(this_round)s has been marked as completed. Moving on to %(next_round)s! Woohoo! Keep it up!"
-msgstr ""
+msgstr "%(this_round)s telah ditandai selesai. Lanjut ke %(next_round)s! Woohoo! Lanjut terus!"
 
 #: tournaments/views.py:215
 msgid "Whoops! It looks like someone's already created the first user account. Please log in."
-msgstr ""
+msgstr "Ups! Sepertinya seseorang telah membuat akun pengguna pertama. Silahkan masuk."
 
 #: tournaments/views.py:223
 #, python-format
 msgid "Welcome! You've created an account for %s."
-msgstr ""
+msgstr "Selamat datang! Anda telah membuat akun untuk %s."
 
 #: tournaments/views.py:238
 msgid "8-team generic dataset"
