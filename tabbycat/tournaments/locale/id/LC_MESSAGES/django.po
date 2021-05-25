@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-05-25 08:33\n"
+"PO-Revision-Date: 2021-05-25 08:44\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -698,13 +698,13 @@ msgstr "<p>Ronde ini merupakan ronde diam.</p> <p> Meskipun tampilan publik untu
 #: tournaments/templates/round_complete_check.html:113
 #, python-format
 msgid "<p><strong> Results for %(round)s will be published online once you mark this round as complete! </strong></p> <p> This round is <em>not</em> a silent round, and public view of results is enabled. </p> <p> If you want to keep the results for just this round hidden, you can mark this round as silent in the <a href=\"%(round_changelist_url)s\">Edit Database area</a>. </p> <p> If you want to disable the public view of results, you can do so in the <a href=\"%(public_features_url)s\">tournament configuration</a>. </p>"
-msgstr ""
+msgstr "<p><strong> Hasil untuk %(round)s akan dipublikasi secara online ketika Anda menandai ronde ini telah selesai! </strong></p> <p> Ronde ini <em>bukan</em> ronde diam, dan tampilan publik untuk hasil telah diaktifkan. </p> <p> Jika Anda ingin hasil untuk ronde ini tetap tersembunyi, Anda dapat menandai ronde ini sebagai diam di <a href=\"%(round_changelist_url)s\"> Area Sunting Basisdata</a>. </p> <p> Jika Anda ingin menonaktifkan tampilan publik untuk hasil, Anda dapat melakukannya di<a href=\"%(public_features_url)s\"> konfigurasi turnamen</a>.</p>"
 
 #: tournaments/templates/set_current_round.html:5
 #: tournaments/templates/set_current_round.html:7
 #: tournaments/templates/set_current_round.html:72
 msgid "Set Current Round"
-msgstr ""
+msgstr "Tetapkan Ronde Saat Ini"
 
 #: tournaments/templates/set_current_round.html:14
 msgid "Back to Configuration"
@@ -713,12 +713,12 @@ msgstr "Kembali ke konfigurasi"
 #: tournaments/templates/set_current_round.html:33
 #, python-format
 msgid "No round is currently set. In order for Tabbycat to work, please set the <strong>current round</strong> of the tournament <strong>%(tournament)s</strong>."
-msgstr ""
+msgstr "Tidak ada ronde yang ditetapkan saat ini. Agar Tabbycat dapat berjalan, silahkan tetapkan<strong>ronda saat ini</strong> dari turnamen <strong>%(tournament)s</strong>."
 
 #: tournaments/templates/set_current_round.html:42
 #, python-format
 msgid "On this page, you can set the <strong>current round</strong> of the tournament <strong>%(tournament)s</strong>."
-msgstr ""
+msgstr "Pada laman ini, Anda dapat menetapkan <strong>ronde saat ini</strong> dari turnamen <strong>%(tournament)s</strong>."
 
 #: tournaments/templates/set_current_round.html:53
 #, python-format
