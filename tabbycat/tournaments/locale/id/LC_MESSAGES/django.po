@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-05-25 08:44\n"
+"PO-Revision-Date: 2021-05-25 08:55\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -723,50 +723,50 @@ msgstr "Pada laman ini, Anda dapat menetapkan <strong>ronde saat ini</strong> da
 #: tournaments/templates/set_current_round.html:53
 #, python-format
 msgid "The tournament <strong>%(tournament)s</strong> has no rounds. You'll need to <a href=\"%(round_changelist_url)s\">add rounds and associate them with this tournament</a> before you can set the current round."
-msgstr ""
+msgstr "Turnamen <strong>%(tournament)s</strong> tidak memiliki ronde. Anda perlu untuk <a href=\"%(round_changelist_url)s\"> menambahkan ronde dan asosiasikan ronde tersebut dengan turnamen ini</a> sebelum Anda dapat menetapkan ronde saat ini."
 
 #: tournaments/templates/site_inactive_tournaments.html:4
 #: tournaments/templates/site_inactive_tournaments.html:5
 #: tournaments/templates/site_index.html:46
 msgid "Inactive Tournaments"
-msgstr ""
+msgstr "Turnamen Tidak Aktif"
 
 #: tournaments/templates/site_index.html:4
 msgid "Welcome!"
-msgstr ""
+msgstr "Selamat Datang!"
 
 #: tournaments/templates/site_index.html:20
 msgid "It looks like there aren't any tournaments on this site. Would you like to create one?"
-msgstr ""
+msgstr "Sepertinya tidak ada turnamen pada situs ini. Apakah ingin membuat sebuah turnamen baru?"
 
 #: tournaments/templates/site_index.html:29
 msgid "There are currently no active tournaments set up on this site."
-msgstr ""
+msgstr "Tidak ada turnamen yang aktif pada situs ini."
 
 #: tournaments/templates/site_index.html:33
 msgid "There are currently no tournaments set up on this site."
-msgstr ""
+msgstr "Tidak ada turnamen pada situs ini."
 
 #: tournaments/templates/site_index.html:54
 msgid "New Tournament"
-msgstr ""
+msgstr "Turnamen Baru"
 
 #: tournaments/templates/site_index.html:57
 msgid "Edit Database Area"
-msgstr ""
+msgstr "Sunting Area Basisdata"
 
 #: tournaments/templates/site_index.html:60
 msgid "Send a Test Email"
-msgstr ""
+msgstr "Kirim sebuah Email Uji Coba"
 
 #: tournaments/templates/site_index.html:63
 msgid "Import DebateXML"
-msgstr ""
+msgstr "Impor DebateXML"
 
 #: tournaments/templates/site_index.html:72
 #, python-format
 msgid "Get API Token / Change Password (%(user)s)"
-msgstr ""
+msgstr "Dapatkan Token API/Ubah Kata Sandi (%(user)s)"
 
 #: tournaments/templates/site_index.html:76
 #, python-format
