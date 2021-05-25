@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-05-25 09:38\n"
+"PO-Revision-Date: 2021-05-25 09:50\n"
 "Last-Translator: philip_tc\n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -924,87 +924,87 @@ msgstr "terdakwa"
 
 #: tournaments/utils.py:46
 msgid "appellant team"
-msgstr ""
+msgstr "tim pemohon"
 
 #: tournaments/utils.py:47
 msgid "respondent team"
-msgstr ""
+msgstr "tim terdakwa"
 
 #: tournaments/utils.py:48
 msgid "App"
-msgstr ""
+msgstr "Pmh"
 
 #: tournaments/utils.py:49
 msgid "Res"
-msgstr ""
+msgstr "Tdw"
 
 #: tournaments/utils.py:54
 msgid "opening government"
-msgstr "pemerintah pembuka"
+msgstr "pembuka dari pemerintah"
 
 #: tournaments/utils.py:55
 msgid "opening opposition"
-msgstr "oposisi pembuka"
+msgstr "pembuka dari oposisi"
 
 #: tournaments/utils.py:56
 msgid "closing government"
-msgstr "pemerintah penutup"
+msgstr "penutup dari pemerintah"
 
 #: tournaments/utils.py:57
 msgid "closing opposition"
-msgstr "oposisi penutup"
+msgstr "penutup dari oposisi"
 
 #: tournaments/utils.py:58
 msgid "opening government team"
-msgstr ""
+msgstr "pembuka dari tim pemerintah"
 
 #: tournaments/utils.py:59
 msgid "opening opposition team"
-msgstr ""
+msgstr "pembuka dari tim oposisi"
 
 #: tournaments/utils.py:60
 msgid "closing government team"
-msgstr ""
+msgstr "penutup dari tim pemerintah"
 
 #: tournaments/utils.py:61
 msgid "closing opposition team"
-msgstr ""
+msgstr "penutup dari tim oposisi"
 
 #: tournaments/utils.py:62
 msgctxt "BP position"
 msgid "OG"
-msgstr ""
+msgstr "PbkP"
 
 #: tournaments/utils.py:63
 msgctxt "BP position"
 msgid "OO"
-msgstr ""
+msgstr "PbkO"
 
 #: tournaments/utils.py:64
 msgctxt "BP position"
 msgid "CG"
-msgstr ""
+msgstr "PtpP"
 
 #: tournaments/utils.py:65
 msgctxt "BP position"
 msgid "CO"
-msgstr ""
+msgstr "PtpO"
 
 #: tournaments/utils.py:78
 #, python-format
 msgid "Round %(number)d"
-msgstr ""
+msgstr "Ronde %(number)d"
 
 #. Translators: This stands for "Round %(number)d".
 #: tournaments/utils.py:80
 #, python-format
 msgid "R%(number)d"
-msgstr ""
+msgstr "R%(number)d"
 
 #: tournaments/views.py:153
 #, python-format
 msgid "%(round)s has been marked as completed. All rounds are now completed, so you're done with the tournament! Congratulations!"
-msgstr ""
+msgstr "%(round)s sudah ditandai selesai. Sekarang semua ronde telah selesai, jadi turnamen Anda telah selesai! Selamat!"
 
 #: tournaments/views.py:159
 #, python-format
