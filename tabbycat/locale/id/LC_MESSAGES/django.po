@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-02 01:40-0300\n"
-"PO-Revision-Date: 2021-05-23 18:55\n"
+"PO-Revision-Date: 2021-06-20 05:29\n"
 "Last-Translator: \n"
 "Language-Team: Indonesian\n"
 "Language: id_ID\n"
@@ -363,17 +363,16 @@ msgstr "Tabbycat adalah proyek kode-terbuka yang dibangun oleh relawan, dan grat
 
 #: templates/footer.html:24
 #, python-format
-msgid "For a tournament of this size, we suggest a donation of <strong>$%(amount)s</strong>."
-msgstr "Untuk turnamen seukuran ini, kami menyarankan donasi sebesar <strong>$%(amount)s</strong>."
+msgid "For a tournament of this size, we suggest <a href=\"https://opencollective.com/tabbycat/contribute/licensing-29466/checkout?amount=%(amount)s\">a donation of <strong>$%(amount)s</strong></a>."
+msgstr ""
 
 #: templates/footer.html:28
 msgid "Learn more about donating."
 msgstr "Pelajari lebih lanjut tentang berdonasi."
 
-#: templates/footer.html:32
-#, python-format
-msgid "<a href=\"%(donations_link)s\">Donations to Tabbycat from individuals or organisations</a> are much appreciated."
-msgstr "<a href=\"%(donations_link)s\">Donasi untuk Tabbycat dari individu atau organisasi</a> sangat dihargai."
+#: templates/footer.html:31
+msgid "<a href=\"https://opencollective.com/tabbycat\">Donations to Tabbycat from individuals or organisations</a> are much appreciated."
+msgstr ""
 
 #: templates/footer.html:40
 msgid "Still timing debates with the stopwatch app?"
@@ -384,11 +383,11 @@ msgstr "Masih mengukur waktu debat dengan aplikasi stopwatch?"
 msgid "Using an app designed for debate timekeeping makes speaking and adjudicating easier! Check out <a href=\"https://itunes.apple.com/app/apple-store/id1156065589?pt=814172&ct=Tabbycat%%20Installs&mt=8\">Timekept</a> (iPhone/iPad) or <a href=\"https://play.google.com/store/apps/details?id=net.czlee.debatekeeper&referrer=utm_source%%3Dtabbycat%%26utm_medium%%3Dfooter\">Debatekeeper</a> (Android)."
 msgstr "Menggunakan aplikasi yang didesain untuk mengukur waktu debat membuat berbicara dan menjurikan lebih mudah! Cek <a href=\"https://itunes.apple.com/app/apple-store/id1156065589?pt=814172&ct=Tabbycat%%20Installs&mt=8\">Timekept</a> (iPhone/iPad) or <a href=\"https://play.google.com/store/apps/details?id=net.czlee.debatekeeper&referrer=utm_source%%3Dtabbycat%%26utm_medium%%3Dfooter\">Debatekeeper</a> (Android)."
 
-#: templates/footer.html:51
+#: templates/footer.html:50
 msgid "Our Organisation"
 msgstr "Organisasi Kami"
 
-#: templates/footer.html:53
+#: templates/footer.html:52
 msgid "Tabbycat is supported by the <a href=\"http://tabbycat-debate.org/\">Tabbycat Debate Association</a>, a non-profit for advancing open debate technology."
 msgstr "Tabbycat didukung oleh <a href=\"http://tabbycat-debate.org/\">Tabbycat Debate Association</a>, sebuah organisasi non-profit untuk memajukan teknologi debat terbuka."
 
